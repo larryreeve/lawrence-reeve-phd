@@ -1,0 +1,348 @@
+---------------------------------------------
+Baseline-Lead ROUGE-1 Average_R: 0.39084 (95%-conf.int. 0.39084 - 0.39084)
+Baseline-Lead ROUGE-1 Average_P: 0.34063 (95%-conf.int. 0.34063 - 0.34063)
+Baseline-Lead ROUGE-1 Average_F: 0.36401 (95%-conf.int. 0.36401 - 0.36401)
+---------------------------------------------
+Baseline-Lead ROUGE-2 Average_R: 0.07076 (95%-conf.int. 0.07076 - 0.07076)
+Baseline-Lead ROUGE-2 Average_P: 0.06166 (95%-conf.int. 0.06166 - 0.06166)
+Baseline-Lead ROUGE-2 Average_F: 0.06590 (95%-conf.int. 0.06590 - 0.06590)
+---------------------------------------------
+Baseline-Lead ROUGE-SU4 Average_R: 0.13953 (95%-conf.int. 0.13953 - 0.13953)
+Baseline-Lead ROUGE-SU4 Average_P: 0.12154 (95%-conf.int. 0.12154 - 0.12154)
+Baseline-Lead ROUGE-SU4 Average_F: 0.12992 (95%-conf.int. 0.12992 - 0.12992)
+---------------------------------------------
+Baseline-Random ROUGE-1 Average_R: 0.42908 (95%-conf.int. 0.42908 - 0.42908)
+Baseline-Random ROUGE-1 Average_P: 0.37443 (95%-conf.int. 0.37443 - 0.37443)
+Baseline-Random ROUGE-1 Average_F: 0.39990 (95%-conf.int. 0.39990 - 0.39990)
+---------------------------------------------
+Baseline-Random ROUGE-2 Average_R: 0.08001 (95%-conf.int. 0.08001 - 0.08001)
+Baseline-Random ROUGE-2 Average_P: 0.06981 (95%-conf.int. 0.06981 - 0.06981)
+Baseline-Random ROUGE-2 Average_F: 0.07456 (95%-conf.int. 0.07456 - 0.07456)
+---------------------------------------------
+Baseline-Random ROUGE-SU4 Average_R: 0.16396 (95%-conf.int. 0.16396 - 0.16396)
+Baseline-Random ROUGE-SU4 Average_P: 0.14301 (95%-conf.int. 0.14301 - 0.14301)
+Baseline-Random ROUGE-SU4 Average_F: 0.15277 (95%-conf.int. 0.15277 - 0.15277)
+---------------------------------------------
+Biochain-Concept ROUGE-1 Average_R: 0.47145 (95%-conf.int. 0.47145 - 0.47145)
+Biochain-Concept ROUGE-1 Average_P: 0.26321 (95%-conf.int. 0.26321 - 0.26321)
+Biochain-Concept ROUGE-1 Average_F: 0.33782 (95%-conf.int. 0.33782 - 0.33782)
+---------------------------------------------
+Biochain-Concept ROUGE-2 Average_R: 0.10419 (95%-conf.int. 0.10419 - 0.10419)
+Biochain-Concept ROUGE-2 Average_P: 0.05813 (95%-conf.int. 0.05813 - 0.05813)
+Biochain-Concept ROUGE-2 Average_F: 0.07462 (95%-conf.int. 0.07462 - 0.07462)
+---------------------------------------------
+Biochain-Concept ROUGE-SU4 Average_R: 0.19173 (95%-conf.int. 0.19173 - 0.19173)
+Biochain-Concept ROUGE-SU4 Average_P: 0.10685 (95%-conf.int. 0.10685 - 0.10685)
+Biochain-Concept ROUGE-SU4 Average_F: 0.13723 (95%-conf.int. 0.13723 - 0.13723)
+---------------------------------------------
+Biochain-Concept-Filtered ROUGE-1 Average_R: 0.44567 (95%-conf.int. 0.44567 - 0.44567)
+Biochain-Concept-Filtered ROUGE-1 Average_P: 0.28840 (95%-conf.int. 0.28840 - 0.28840)
+Biochain-Concept-Filtered ROUGE-1 Average_F: 0.35019 (95%-conf.int. 0.35019 - 0.35019)
+---------------------------------------------
+Biochain-Concept-Filtered ROUGE-2 Average_R: 0.09868 (95%-conf.int. 0.09868 - 0.09868)
+Biochain-Concept-Filtered ROUGE-2 Average_P: 0.06383 (95%-conf.int. 0.06383 - 0.06383)
+Biochain-Concept-Filtered ROUGE-2 Average_F: 0.07752 (95%-conf.int. 0.07752 - 0.07752)
+---------------------------------------------
+Biochain-Concept-Filtered ROUGE-SU4 Average_R: 0.18179 (95%-conf.int. 0.18179 - 0.18179)
+Biochain-Concept-Filtered ROUGE-SU4 Average_P: 0.11747 (95%-conf.int. 0.11747 - 0.11747)
+Biochain-Concept-Filtered ROUGE-SU4 Average_F: 0.14272 (95%-conf.int. 0.14272 - 0.14272)
+---------------------------------------------
+Biochain-Concept-FreqDist-Cosine ROUGE-1 Average_R: 0.42569 (95%-conf.int. 0.42569 - 0.42569)
+Biochain-Concept-FreqDist-Cosine ROUGE-1 Average_P: 0.26648 (95%-conf.int. 0.26648 - 0.26648)
+Biochain-Concept-FreqDist-Cosine ROUGE-1 Average_F: 0.32777 (95%-conf.int. 0.32777 - 0.32777)
+---------------------------------------------
+Biochain-Concept-FreqDist-Cosine ROUGE-2 Average_R: 0.09175 (95%-conf.int. 0.09175 - 0.09175)
+Biochain-Concept-FreqDist-Cosine ROUGE-2 Average_P: 0.05740 (95%-conf.int. 0.05740 - 0.05740)
+Biochain-Concept-FreqDist-Cosine ROUGE-2 Average_F: 0.07062 (95%-conf.int. 0.07062 - 0.07062)
+---------------------------------------------
+Biochain-Concept-FreqDist-Cosine ROUGE-SU4 Average_R: 0.17361 (95%-conf.int. 0.17361 - 0.17361)
+Biochain-Concept-FreqDist-Cosine ROUGE-SU4 Average_P: 0.10852 (95%-conf.int. 0.10852 - 0.10852)
+Biochain-Concept-FreqDist-Cosine ROUGE-SU4 Average_F: 0.13356 (95%-conf.int. 0.13356 - 0.13356)
+---------------------------------------------
+Biochain-Concept-FreqDist-Dice ROUGE-1 Average_R: 0.45874 (95%-conf.int. 0.45874 - 0.45874)
+Biochain-Concept-FreqDist-Dice ROUGE-1 Average_P: 0.26746 (95%-conf.int. 0.26746 - 0.26746)
+Biochain-Concept-FreqDist-Dice ROUGE-1 Average_F: 0.33791 (95%-conf.int. 0.33791 - 0.33791)
+---------------------------------------------
+Biochain-Concept-FreqDist-Dice ROUGE-2 Average_R: 0.09523 (95%-conf.int. 0.09523 - 0.09523)
+Biochain-Concept-FreqDist-Dice ROUGE-2 Average_P: 0.05549 (95%-conf.int. 0.05549 - 0.05549)
+Biochain-Concept-FreqDist-Dice ROUGE-2 Average_F: 0.07012 (95%-conf.int. 0.07012 - 0.07012)
+---------------------------------------------
+Biochain-Concept-FreqDist-Dice ROUGE-SU4 Average_R: 0.18215 (95%-conf.int. 0.18215 - 0.18215)
+Biochain-Concept-FreqDist-Dice ROUGE-SU4 Average_P: 0.10602 (95%-conf.int. 0.10602 - 0.10602)
+Biochain-Concept-FreqDist-Dice ROUGE-SU4 Average_F: 0.13403 (95%-conf.int. 0.13403 - 0.13403)
+---------------------------------------------
+Biochain-Concept-FreqDist-Euclidean ROUGE-1 Average_R: 0.35645 (95%-conf.int. 0.35645 - 0.35645)
+Biochain-Concept-FreqDist-Euclidean ROUGE-1 Average_P: 0.42411 (95%-conf.int. 0.42411 - 0.42411)
+Biochain-Concept-FreqDist-Euclidean ROUGE-1 Average_F: 0.38735 (95%-conf.int. 0.38735 - 0.38735)
+---------------------------------------------
+Biochain-Concept-FreqDist-Euclidean ROUGE-2 Average_R: 0.06315 (95%-conf.int. 0.06315 - 0.06315)
+Biochain-Concept-FreqDist-Euclidean ROUGE-2 Average_P: 0.07516 (95%-conf.int. 0.07516 - 0.07516)
+Biochain-Concept-FreqDist-Euclidean ROUGE-2 Average_F: 0.06863 (95%-conf.int. 0.06863 - 0.06863)
+---------------------------------------------
+Biochain-Concept-FreqDist-Euclidean ROUGE-SU4 Average_R: 0.12933 (95%-conf.int. 0.12933 - 0.12933)
+Biochain-Concept-FreqDist-Euclidean ROUGE-SU4 Average_P: 0.15400 (95%-conf.int. 0.15400 - 0.15400)
+Biochain-Concept-FreqDist-Euclidean ROUGE-SU4 Average_F: 0.14059 (95%-conf.int. 0.14059 - 0.14059)
+---------------------------------------------
+Biochain-Concept-FreqDist-NewItems ROUGE-1 Average_R: 0.45874 (95%-conf.int. 0.45874 - 0.45874)
+Biochain-Concept-FreqDist-NewItems ROUGE-1 Average_P: 0.26746 (95%-conf.int. 0.26746 - 0.26746)
+Biochain-Concept-FreqDist-NewItems ROUGE-1 Average_F: 0.33791 (95%-conf.int. 0.33791 - 0.33791)
+---------------------------------------------
+Biochain-Concept-FreqDist-NewItems ROUGE-2 Average_R: 0.09523 (95%-conf.int. 0.09523 - 0.09523)
+Biochain-Concept-FreqDist-NewItems ROUGE-2 Average_P: 0.05549 (95%-conf.int. 0.05549 - 0.05549)
+Biochain-Concept-FreqDist-NewItems ROUGE-2 Average_F: 0.07012 (95%-conf.int. 0.07012 - 0.07012)
+---------------------------------------------
+Biochain-Concept-FreqDist-NewItems ROUGE-SU4 Average_R: 0.18215 (95%-conf.int. 0.18215 - 0.18215)
+Biochain-Concept-FreqDist-NewItems ROUGE-SU4 Average_P: 0.10602 (95%-conf.int. 0.10602 - 0.10602)
+Biochain-Concept-FreqDist-NewItems ROUGE-SU4 Average_F: 0.13403 (95%-conf.int. 0.13403 - 0.13403)
+---------------------------------------------
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-1 Average_R: 0.46771 (95%-conf.int. 0.46771 - 0.46771)
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-1 Average_P: 0.24387 (95%-conf.int. 0.24387 - 0.24387)
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-1 Average_F: 0.32058 (95%-conf.int. 0.32058 - 0.32058)
+---------------------------------------------
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-2 Average_R: 0.10209 (95%-conf.int. 0.10209 - 0.10209)
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-2 Average_P: 0.05319 (95%-conf.int. 0.05319 - 0.05319)
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-2 Average_F: 0.06994 (95%-conf.int. 0.06994 - 0.06994)
+---------------------------------------------
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-SU4 Average_R: 0.19084 (95%-conf.int. 0.19084 - 0.19084)
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-SU4 Average_P: 0.09932 (95%-conf.int. 0.09932 - 0.09932)
+Biochain-Concept-FreqDist-UnitFrequency ROUGE-SU4 Average_F: 0.13065 (95%-conf.int. 0.13065 - 0.13065)
+---------------------------------------------
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-1 Average_R: 0.35645 (95%-conf.int. 0.35645 - 0.35645)
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-1 Average_P: 0.42411 (95%-conf.int. 0.42411 - 0.42411)
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-1 Average_F: 0.38735 (95%-conf.int. 0.38735 - 0.38735)
+---------------------------------------------
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-2 Average_R: 0.06315 (95%-conf.int. 0.06315 - 0.06315)
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-2 Average_P: 0.07516 (95%-conf.int. 0.07516 - 0.07516)
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-2 Average_F: 0.06863 (95%-conf.int. 0.06863 - 0.06863)
+---------------------------------------------
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-SU4 Average_R: 0.12933 (95%-conf.int. 0.12933 - 0.12933)
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-SU4 Average_P: 0.15400 (95%-conf.int. 0.15400 - 0.15400)
+Biochain-Concept-FreqDist-VectorSubtraction ROUGE-SU4 Average_F: 0.14059 (95%-conf.int. 0.14059 - 0.14059)
+---------------------------------------------
+Biochain-Concept-Position ROUGE-1 Average_R: 0.46759 (95%-conf.int. 0.46759 - 0.46759)
+Biochain-Concept-Position ROUGE-1 Average_P: 0.26750 (95%-conf.int. 0.26750 - 0.26750)
+Biochain-Concept-Position ROUGE-1 Average_F: 0.34031 (95%-conf.int. 0.34031 - 0.34031)
+---------------------------------------------
+Biochain-Concept-Position ROUGE-2 Average_R: 0.10175 (95%-conf.int. 0.10175 - 0.10175)
+Biochain-Concept-Position ROUGE-2 Average_P: 0.05817 (95%-conf.int. 0.05817 - 0.05817)
+Biochain-Concept-Position ROUGE-2 Average_F: 0.07402 (95%-conf.int. 0.07402 - 0.07402)
+---------------------------------------------
+Biochain-Concept-Position ROUGE-SU4 Average_R: 0.18832 (95%-conf.int. 0.18832 - 0.18832)
+Biochain-Concept-Position ROUGE-SU4 Average_P: 0.10755 (95%-conf.int. 0.10755 - 0.10755)
+Biochain-Concept-Position ROUGE-SU4 Average_F: 0.13691 (95%-conf.int. 0.13691 - 0.13691)
+---------------------------------------------
+Biochain-Concept-Position-Filtered ROUGE-1 Average_R: 0.44261 (95%-conf.int. 0.44261 - 0.44261)
+Biochain-Concept-Position-Filtered ROUGE-1 Average_P: 0.29437 (95%-conf.int. 0.29437 - 0.29437)
+Biochain-Concept-Position-Filtered ROUGE-1 Average_F: 0.35358 (95%-conf.int. 0.35358 - 0.35358)
+---------------------------------------------
+Biochain-Concept-Position-Filtered ROUGE-2 Average_R: 0.09660 (95%-conf.int. 0.09660 - 0.09660)
+Biochain-Concept-Position-Filtered ROUGE-2 Average_P: 0.06422 (95%-conf.int. 0.06422 - 0.06422)
+Biochain-Concept-Position-Filtered ROUGE-2 Average_F: 0.07715 (95%-conf.int. 0.07715 - 0.07715)
+---------------------------------------------
+Biochain-Concept-Position-Filtered ROUGE-SU4 Average_R: 0.17946 (95%-conf.int. 0.17946 - 0.17946)
+Biochain-Concept-Position-Filtered ROUGE-SU4 Average_P: 0.11920 (95%-conf.int. 0.11920 - 0.11920)
+Biochain-Concept-Position-Filtered ROUGE-SU4 Average_F: 0.14325 (95%-conf.int. 0.14325 - 0.14325)
+---------------------------------------------
+FreqDist-Concept-Cosine ROUGE-1 Average_R: 0.48381 (95%-conf.int. 0.48381 - 0.48381)
+FreqDist-Concept-Cosine ROUGE-1 Average_P: 0.24211 (95%-conf.int. 0.24211 - 0.24211)
+FreqDist-Concept-Cosine ROUGE-1 Average_F: 0.32272 (95%-conf.int. 0.32272 - 0.32272)
+---------------------------------------------
+FreqDist-Concept-Cosine ROUGE-2 Average_R: 0.10781 (95%-conf.int. 0.10781 - 0.10781)
+FreqDist-Concept-Cosine ROUGE-2 Average_P: 0.05391 (95%-conf.int. 0.05391 - 0.05391)
+FreqDist-Concept-Cosine ROUGE-2 Average_F: 0.07188 (95%-conf.int. 0.07188 - 0.07188)
+---------------------------------------------
+FreqDist-Concept-Cosine ROUGE-SU4 Average_R: 0.19932 (95%-conf.int. 0.19932 - 0.19932)
+FreqDist-Concept-Cosine ROUGE-SU4 Average_P: 0.09955 (95%-conf.int. 0.09955 - 0.09955)
+FreqDist-Concept-Cosine ROUGE-SU4 Average_F: 0.13278 (95%-conf.int. 0.13278 - 0.13278)
+---------------------------------------------
+FreqDist-Concept-Dice ROUGE-1 Average_R: 0.53668 (95%-conf.int. 0.53668 - 0.53668)
+FreqDist-Concept-Dice ROUGE-1 Average_P: 0.26579 (95%-conf.int. 0.26579 - 0.26579)
+FreqDist-Concept-Dice ROUGE-1 Average_F: 0.35551 (95%-conf.int. 0.35551 - 0.35551)
+---------------------------------------------
+FreqDist-Concept-Dice ROUGE-2 Average_R: 0.12070 (95%-conf.int. 0.12070 - 0.12070)
+FreqDist-Concept-Dice ROUGE-2 Average_P: 0.05973 (95%-conf.int. 0.05973 - 0.05973)
+FreqDist-Concept-Dice ROUGE-2 Average_F: 0.07991 (95%-conf.int. 0.07991 - 0.07991)
+---------------------------------------------
+FreqDist-Concept-Dice ROUGE-SU4 Average_R: 0.21997 (95%-conf.int. 0.21997 - 0.21997)
+FreqDist-Concept-Dice ROUGE-SU4 Average_P: 0.10872 (95%-conf.int. 0.10872 - 0.10872)
+FreqDist-Concept-Dice ROUGE-SU4 Average_F: 0.14552 (95%-conf.int. 0.14552 - 0.14552)
+---------------------------------------------
+FreqDist-Concept-Euclidean ROUGE-1 Average_R: 0.26696 (95%-conf.int. 0.26696 - 0.26696)
+FreqDist-Concept-Euclidean ROUGE-1 Average_P: 0.42351 (95%-conf.int. 0.42351 - 0.42351)
+FreqDist-Concept-Euclidean ROUGE-1 Average_F: 0.32749 (95%-conf.int. 0.32749 - 0.32749)
+---------------------------------------------
+FreqDist-Concept-Euclidean ROUGE-2 Average_R: 0.04356 (95%-conf.int. 0.04356 - 0.04356)
+FreqDist-Concept-Euclidean ROUGE-2 Average_P: 0.06916 (95%-conf.int. 0.06916 - 0.06916)
+FreqDist-Concept-Euclidean ROUGE-2 Average_F: 0.05345 (95%-conf.int. 0.05345 - 0.05345)
+---------------------------------------------
+FreqDist-Concept-Euclidean ROUGE-SU4 Average_R: 0.09236 (95%-conf.int. 0.09236 - 0.09236)
+FreqDist-Concept-Euclidean ROUGE-SU4 Average_P: 0.14687 (95%-conf.int. 0.14687 - 0.14687)
+FreqDist-Concept-Euclidean ROUGE-SU4 Average_F: 0.11340 (95%-conf.int. 0.11340 - 0.11340)
+---------------------------------------------
+FreqDist-Concept-UnitFrequency ROUGE-1 Average_R: 0.48381 (95%-conf.int. 0.48381 - 0.48381)
+FreqDist-Concept-UnitFrequency ROUGE-1 Average_P: 0.24211 (95%-conf.int. 0.24211 - 0.24211)
+FreqDist-Concept-UnitFrequency ROUGE-1 Average_F: 0.32272 (95%-conf.int. 0.32272 - 0.32272)
+---------------------------------------------
+FreqDist-Concept-UnitFrequency ROUGE-2 Average_R: 0.10781 (95%-conf.int. 0.10781 - 0.10781)
+FreqDist-Concept-UnitFrequency ROUGE-2 Average_P: 0.05391 (95%-conf.int. 0.05391 - 0.05391)
+FreqDist-Concept-UnitFrequency ROUGE-2 Average_F: 0.07188 (95%-conf.int. 0.07188 - 0.07188)
+---------------------------------------------
+FreqDist-Concept-UnitFrequency ROUGE-SU4 Average_R: 0.19932 (95%-conf.int. 0.19932 - 0.19932)
+FreqDist-Concept-UnitFrequency ROUGE-SU4 Average_P: 0.09955 (95%-conf.int. 0.09955 - 0.09955)
+FreqDist-Concept-UnitFrequency ROUGE-SU4 Average_F: 0.13278 (95%-conf.int. 0.13278 - 0.13278)
+---------------------------------------------
+FreqDist-Concept-VectorSubtraction ROUGE-1 Average_R: 0.30617 (95%-conf.int. 0.30617 - 0.30617)
+FreqDist-Concept-VectorSubtraction ROUGE-1 Average_P: 0.42983 (95%-conf.int. 0.42983 - 0.42983)
+FreqDist-Concept-VectorSubtraction ROUGE-1 Average_F: 0.35761 (95%-conf.int. 0.35761 - 0.35761)
+---------------------------------------------
+FreqDist-Concept-VectorSubtraction ROUGE-2 Average_R: 0.05607 (95%-conf.int. 0.05607 - 0.05607)
+FreqDist-Concept-VectorSubtraction ROUGE-2 Average_P: 0.07877 (95%-conf.int. 0.07877 - 0.07877)
+FreqDist-Concept-VectorSubtraction ROUGE-2 Average_F: 0.06551 (95%-conf.int. 0.06551 - 0.06551)
+---------------------------------------------
+FreqDist-Concept-VectorSubtraction ROUGE-SU4 Average_R: 0.11435 (95%-conf.int. 0.11435 - 0.11435)
+FreqDist-Concept-VectorSubtraction ROUGE-SU4 Average_P: 0.16080 (95%-conf.int. 0.16080 - 0.16080)
+FreqDist-Concept-VectorSubtraction ROUGE-SU4 Average_F: 0.13365 (95%-conf.int. 0.13365 - 0.13365)
+---------------------------------------------
+FreqDist-Term-Cosine ROUGE-1 Average_R: 0.42046 (95%-conf.int. 0.42046 - 0.42046)
+FreqDist-Term-Cosine ROUGE-1 Average_P: 0.25465 (95%-conf.int. 0.25465 - 0.25465)
+FreqDist-Term-Cosine ROUGE-1 Average_F: 0.31719 (95%-conf.int. 0.31719 - 0.31719)
+---------------------------------------------
+FreqDist-Term-Cosine ROUGE-2 Average_R: 0.09310 (95%-conf.int. 0.09310 - 0.09310)
+FreqDist-Term-Cosine ROUGE-2 Average_P: 0.05636 (95%-conf.int. 0.05636 - 0.05636)
+FreqDist-Term-Cosine ROUGE-2 Average_F: 0.07021 (95%-conf.int. 0.07021 - 0.07021)
+---------------------------------------------
+FreqDist-Term-Cosine ROUGE-SU4 Average_R: 0.17358 (95%-conf.int. 0.17358 - 0.17358)
+FreqDist-Term-Cosine ROUGE-SU4 Average_P: 0.10496 (95%-conf.int. 0.10496 - 0.10496)
+FreqDist-Term-Cosine ROUGE-SU4 Average_F: 0.13082 (95%-conf.int. 0.13082 - 0.13082)
+---------------------------------------------
+FreqDist-Term-Dice ROUGE-1 Average_R: 0.54932 (95%-conf.int. 0.54932 - 0.54932)
+FreqDist-Term-Dice ROUGE-1 Average_P: 0.24220 (95%-conf.int. 0.24220 - 0.24220)
+FreqDist-Term-Dice ROUGE-1 Average_F: 0.33618 (95%-conf.int. 0.33618 - 0.33618)
+---------------------------------------------
+FreqDist-Term-Dice ROUGE-2 Average_R: 0.12653 (95%-conf.int. 0.12653 - 0.12653)
+FreqDist-Term-Dice ROUGE-2 Average_P: 0.05574 (95%-conf.int. 0.05574 - 0.05574)
+FreqDist-Term-Dice ROUGE-2 Average_F: 0.07739 (95%-conf.int. 0.07739 - 0.07739)
+---------------------------------------------
+FreqDist-Term-Dice ROUGE-SU4 Average_R: 0.22176 (95%-conf.int. 0.22176 - 0.22176)
+FreqDist-Term-Dice ROUGE-SU4 Average_P: 0.09756 (95%-conf.int. 0.09756 - 0.09756)
+FreqDist-Term-Dice ROUGE-SU4 Average_F: 0.13551 (95%-conf.int. 0.13551 - 0.13551)
+---------------------------------------------
+FreqDist-Term-Euclidean ROUGE-1 Average_R: 0.21005 (95%-conf.int. 0.21005 - 0.21005)
+FreqDist-Term-Euclidean ROUGE-1 Average_P: 0.43912 (95%-conf.int. 0.43912 - 0.43912)
+FreqDist-Term-Euclidean ROUGE-1 Average_F: 0.28417 (95%-conf.int. 0.28417 - 0.28417)
+---------------------------------------------
+FreqDist-Term-Euclidean ROUGE-2 Average_R: 0.03429 (95%-conf.int. 0.03429 - 0.03429)
+FreqDist-Term-Euclidean ROUGE-2 Average_P: 0.07181 (95%-conf.int. 0.07181 - 0.07181)
+FreqDist-Term-Euclidean ROUGE-2 Average_F: 0.04642 (95%-conf.int. 0.04642 - 0.04642)
+---------------------------------------------
+FreqDist-Term-Euclidean ROUGE-SU4 Average_R: 0.07516 (95%-conf.int. 0.07516 - 0.07516)
+FreqDist-Term-Euclidean ROUGE-SU4 Average_P: 0.15782 (95%-conf.int. 0.15782 - 0.15782)
+FreqDist-Term-Euclidean ROUGE-SU4 Average_F: 0.10183 (95%-conf.int. 0.10183 - 0.10183)
+---------------------------------------------
+FreqDist-Term-UnitFrequency ROUGE-1 Average_R: 0.50354 (95%-conf.int. 0.50354 - 0.50354)
+FreqDist-Term-UnitFrequency ROUGE-1 Average_P: 0.23813 (95%-conf.int. 0.23813 - 0.23813)
+FreqDist-Term-UnitFrequency ROUGE-1 Average_F: 0.32335 (95%-conf.int. 0.32335 - 0.32335)
+---------------------------------------------
+FreqDist-Term-UnitFrequency ROUGE-2 Average_R: 0.11664 (95%-conf.int. 0.11664 - 0.11664)
+FreqDist-Term-UnitFrequency ROUGE-2 Average_P: 0.05512 (95%-conf.int. 0.05512 - 0.05512)
+FreqDist-Term-UnitFrequency ROUGE-2 Average_F: 0.07486 (95%-conf.int. 0.07486 - 0.07486)
+---------------------------------------------
+FreqDist-Term-UnitFrequency ROUGE-SU4 Average_R: 0.20707 (95%-conf.int. 0.20707 - 0.20707)
+FreqDist-Term-UnitFrequency ROUGE-SU4 Average_P: 0.09772 (95%-conf.int. 0.09772 - 0.09772)
+FreqDist-Term-UnitFrequency ROUGE-SU4 Average_F: 0.13278 (95%-conf.int. 0.13278 - 0.13278)
+---------------------------------------------
+FreqDist-Term-VectorSubtraction ROUGE-1 Average_R: 0.17101 (95%-conf.int. 0.17101 - 0.17101)
+FreqDist-Term-VectorSubtraction ROUGE-1 Average_P: 0.46274 (95%-conf.int. 0.46274 - 0.46274)
+FreqDist-Term-VectorSubtraction ROUGE-1 Average_F: 0.24973 (95%-conf.int. 0.24973 - 0.24973)
+---------------------------------------------
+FreqDist-Term-VectorSubtraction ROUGE-2 Average_R: 0.02862 (95%-conf.int. 0.02862 - 0.02862)
+FreqDist-Term-VectorSubtraction ROUGE-2 Average_P: 0.07764 (95%-conf.int. 0.07764 - 0.07764)
+FreqDist-Term-VectorSubtraction ROUGE-2 Average_F: 0.04182 (95%-conf.int. 0.04182 - 0.04182)
+---------------------------------------------
+FreqDist-Term-VectorSubtraction ROUGE-SU4 Average_R: 0.05716 (95%-conf.int. 0.05716 - 0.05716)
+FreqDist-Term-VectorSubtraction ROUGE-SU4 Average_P: 0.15572 (95%-conf.int. 0.15572 - 0.15572)
+FreqDist-Term-VectorSubtraction ROUGE-SU4 Average_F: 0.08362 (95%-conf.int. 0.08362 - 0.08362)
+---------------------------------------------
+Lemur-MMR ROUGE-1 Average_R: 0.50160 (95%-conf.int. 0.50160 - 0.50160)
+Lemur-MMR ROUGE-1 Average_P: 0.29449 (95%-conf.int. 0.29449 - 0.29449)
+Lemur-MMR ROUGE-1 Average_F: 0.37110 (95%-conf.int. 0.37110 - 0.37110)
+---------------------------------------------
+Lemur-MMR ROUGE-2 Average_R: 0.10708 (95%-conf.int. 0.10708 - 0.10708)
+Lemur-MMR ROUGE-2 Average_P: 0.06283 (95%-conf.int. 0.06283 - 0.06283)
+Lemur-MMR ROUGE-2 Average_F: 0.07919 (95%-conf.int. 0.07919 - 0.07919)
+---------------------------------------------
+Lemur-MMR ROUGE-SU4 Average_R: 0.19874 (95%-conf.int. 0.19874 - 0.19874)
+Lemur-MMR ROUGE-SU4 Average_P: 0.11649 (95%-conf.int. 0.11649 - 0.11649)
+Lemur-MMR ROUGE-SU4 Average_F: 0.14688 (95%-conf.int. 0.14688 - 0.14688)
+---------------------------------------------
+MSWord ROUGE-1 Average_R: 0.37638 (95%-conf.int. 0.37638 - 0.37638)
+MSWord ROUGE-1 Average_P: 0.31532 (95%-conf.int. 0.31532 - 0.31532)
+MSWord ROUGE-1 Average_F: 0.34315 (95%-conf.int. 0.34315 - 0.34315)
+---------------------------------------------
+MSWord ROUGE-2 Average_R: 0.07977 (95%-conf.int. 0.07977 - 0.07977)
+MSWord ROUGE-2 Average_P: 0.06681 (95%-conf.int. 0.06681 - 0.06681)
+MSWord ROUGE-2 Average_F: 0.07272 (95%-conf.int. 0.07272 - 0.07272)
+---------------------------------------------
+MSWord ROUGE-SU4 Average_R: 0.15171 (95%-conf.int. 0.15171 - 0.15171)
+MSWord ROUGE-SU4 Average_P: 0.12701 (95%-conf.int. 0.12701 - 0.12701)
+MSWord ROUGE-SU4 Average_F: 0.13827 (95%-conf.int. 0.13827 - 0.13827)
+---------------------------------------------
+Mead ROUGE-1 Average_R: 0.45365 (95%-conf.int. 0.45365 - 0.45365)
+Mead ROUGE-1 Average_P: 0.30321 (95%-conf.int. 0.30321 - 0.30321)
+Mead ROUGE-1 Average_F: 0.36348 (95%-conf.int. 0.36348 - 0.36348)
+---------------------------------------------
+Mead ROUGE-2 Average_R: 0.09254 (95%-conf.int. 0.09254 - 0.09254)
+Mead ROUGE-2 Average_P: 0.06182 (95%-conf.int. 0.06182 - 0.06182)
+Mead ROUGE-2 Average_F: 0.07412 (95%-conf.int. 0.07412 - 0.07412)
+---------------------------------------------
+Mead ROUGE-SU4 Average_R: 0.17629 (95%-conf.int. 0.17629 - 0.17629)
+Mead ROUGE-SU4 Average_P: 0.11767 (95%-conf.int. 0.11767 - 0.11767)
+Mead ROUGE-SU4 Average_F: 0.14114 (95%-conf.int. 0.14114 - 0.14114)
+---------------------------------------------
+OTS ROUGE-1 Average_R: 0.37771 (95%-conf.int. 0.37771 - 0.37771)
+OTS ROUGE-1 Average_P: 0.31923 (95%-conf.int. 0.31923 - 0.31923)
+OTS ROUGE-1 Average_F: 0.34602 (95%-conf.int. 0.34602 - 0.34602)
+---------------------------------------------
+OTS ROUGE-2 Average_R: 0.07474 (95%-conf.int. 0.07474 - 0.07474)
+OTS ROUGE-2 Average_P: 0.06316 (95%-conf.int. 0.06316 - 0.06316)
+OTS ROUGE-2 Average_F: 0.06846 (95%-conf.int. 0.06846 - 0.06846)
+---------------------------------------------
+OTS ROUGE-SU4 Average_R: 0.14919 (95%-conf.int. 0.14919 - 0.14919)
+OTS ROUGE-SU4 Average_P: 0.12601 (95%-conf.int. 0.12601 - 0.12601)
+OTS ROUGE-SU4 Average_F: 0.13662 (95%-conf.int. 0.13662 - 0.13662)
+---------------------------------------------
+SumBasic-Concept ROUGE-1 Average_R: 0.51597 (95%-conf.int. 0.51597 - 0.51597)
+SumBasic-Concept ROUGE-1 Average_P: 0.29927 (95%-conf.int. 0.29927 - 0.29927)
+SumBasic-Concept ROUGE-1 Average_F: 0.37882 (95%-conf.int. 0.37882 - 0.37882)
+---------------------------------------------
+SumBasic-Concept ROUGE-2 Average_R: 0.10940 (95%-conf.int. 0.10940 - 0.10940)
+SumBasic-Concept ROUGE-2 Average_P: 0.06341 (95%-conf.int. 0.06341 - 0.06341)
+SumBasic-Concept ROUGE-2 Average_F: 0.08029 (95%-conf.int. 0.08029 - 0.08029)
+---------------------------------------------
+SumBasic-Concept ROUGE-SU4 Average_R: 0.20034 (95%-conf.int. 0.20034 - 0.20034)
+SumBasic-Concept ROUGE-SU4 Average_P: 0.11600 (95%-conf.int. 0.11600 - 0.11600)
+SumBasic-Concept ROUGE-SU4 Average_F: 0.14693 (95%-conf.int. 0.14693 - 0.14693)
+---------------------------------------------
+SumBasic-Term ROUGE-1 Average_R: 0.53631 (95%-conf.int. 0.53631 - 0.53631)
+SumBasic-Term ROUGE-1 Average_P: 0.26858 (95%-conf.int. 0.26858 - 0.26858)
+SumBasic-Term ROUGE-1 Average_F: 0.35792 (95%-conf.int. 0.35792 - 0.35792)
+---------------------------------------------
+SumBasic-Term ROUGE-2 Average_R: 0.11673 (95%-conf.int. 0.11673 - 0.11673)
+SumBasic-Term ROUGE-2 Average_P: 0.05842 (95%-conf.int. 0.05842 - 0.05842)
+SumBasic-Term ROUGE-2 Average_F: 0.07787 (95%-conf.int. 0.07787 - 0.07787)
+---------------------------------------------
+SumBasic-Term ROUGE-SU4 Average_R: 0.21112 (95%-conf.int. 0.21112 - 0.21112)
+SumBasic-Term ROUGE-SU4 Average_P: 0.10552 (95%-conf.int. 0.10552 - 0.10552)
+SumBasic-Term ROUGE-SU4 Average_F: 0.14071 (95%-conf.int. 0.14071 - 0.14071)
+---------------------------------------------
+SweSum ROUGE-1 Average_R: 0.38192 (95%-conf.int. 0.38192 - 0.38192)
+SweSum ROUGE-1 Average_P: 0.34494 (95%-conf.int. 0.34494 - 0.34494)
+SweSum ROUGE-1 Average_F: 0.36249 (95%-conf.int. 0.36249 - 0.36249)
+---------------------------------------------
+SweSum ROUGE-2 Average_R: 0.07513 (95%-conf.int. 0.07513 - 0.07513)
+SweSum ROUGE-2 Average_P: 0.06785 (95%-conf.int. 0.06785 - 0.06785)
+SweSum ROUGE-2 Average_F: 0.07130 (95%-conf.int. 0.07130 - 0.07130)
+---------------------------------------------
+SweSum ROUGE-SU4 Average_R: 0.15115 (95%-conf.int. 0.15115 - 0.15115)
+SweSum ROUGE-SU4 Average_P: 0.13646 (95%-conf.int. 0.13646 - 0.13646)
+SweSum ROUGE-SU4 Average_F: 0.14343 (95%-conf.int. 0.14343 - 0.14343)

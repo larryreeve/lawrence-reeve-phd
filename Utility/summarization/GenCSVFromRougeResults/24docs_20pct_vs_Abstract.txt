@@ -1,0 +1,132 @@
+---------------------------------------------
+baseline-lead ROUGE-1 Average_R: 0.50045 (95%-conf.int. 0.50045 - 0.50045)
+baseline-lead ROUGE-1 Average_P: 0.18079 (95%-conf.int. 0.18079 - 0.18079)
+baseline-lead ROUGE-1 Average_F: 0.26562 (95%-conf.int. 0.26562 - 0.26562)
+---------------------------------------------
+baseline-lead ROUGE-2 Average_R: 0.06765 (95%-conf.int. 0.06765 - 0.06765)
+baseline-lead ROUGE-2 Average_P: 0.02438 (95%-conf.int. 0.02438 - 0.02438)
+baseline-lead ROUGE-2 Average_F: 0.03584 (95%-conf.int. 0.03584 - 0.03584)
+---------------------------------------------
+baseline-lead ROUGE-SU4 Average_R: 0.16110 (95%-conf.int. 0.16110 - 0.16110)
+baseline-lead ROUGE-SU4 Average_P: 0.05784 (95%-conf.int. 0.05784 - 0.05784)
+baseline-lead ROUGE-SU4 Average_F: 0.08512 (95%-conf.int. 0.08512 - 0.08512)
+---------------------------------------------
+baseline-random ROUGE-1 Average_R: 0.52337 (95%-conf.int. 0.52337 - 0.52337)
+baseline-random ROUGE-1 Average_P: 0.18834 (95%-conf.int. 0.18834 - 0.18834)
+baseline-random ROUGE-1 Average_F: 0.27700 (95%-conf.int. 0.27700 - 0.27700)
+---------------------------------------------
+baseline-random ROUGE-2 Average_R: 0.09005 (95%-conf.int. 0.09005 - 0.09005)
+baseline-random ROUGE-2 Average_P: 0.03233 (95%-conf.int. 0.03233 - 0.03233)
+baseline-random ROUGE-2 Average_F: 0.04758 (95%-conf.int. 0.04758 - 0.04758)
+---------------------------------------------
+baseline-random ROUGE-SU4 Average_R: 0.19069 (95%-conf.int. 0.19069 - 0.19069)
+baseline-random ROUGE-SU4 Average_P: 0.06820 (95%-conf.int. 0.06820 - 0.06820)
+baseline-random ROUGE-SU4 Average_F: 0.10047 (95%-conf.int. 0.10047 - 0.10047)
+---------------------------------------------
+biochain ROUGE-1 Average_R: 0.53460 (95%-conf.int. 0.53460 - 0.53460)
+biochain ROUGE-1 Average_P: 0.12678 (95%-conf.int. 0.12678 - 0.12678)
+biochain ROUGE-1 Average_F: 0.20496 (95%-conf.int. 0.20496 - 0.20496)
+---------------------------------------------
+biochain ROUGE-2 Average_R: 0.10238 (95%-conf.int. 0.10238 - 0.10238)
+biochain ROUGE-2 Average_P: 0.02421 (95%-conf.int. 0.02421 - 0.02421)
+biochain ROUGE-2 Average_F: 0.03916 (95%-conf.int. 0.03916 - 0.03916)
+---------------------------------------------
+biochain ROUGE-SU4 Average_R: 0.20314 (95%-conf.int. 0.20314 - 0.20314)
+biochain ROUGE-SU4 Average_P: 0.04782 (95%-conf.int. 0.04782 - 0.04782)
+biochain ROUGE-SU4 Average_F: 0.07742 (95%-conf.int. 0.07742 - 0.07742)
+---------------------------------------------
+biochain-filtered ROUGE-1 Average_R: 0.51573 (95%-conf.int. 0.51573 - 0.51573)
+biochain-filtered ROUGE-1 Average_P: 0.14218 (95%-conf.int. 0.14218 - 0.14218)
+biochain-filtered ROUGE-1 Average_F: 0.22291 (95%-conf.int. 0.22291 - 0.22291)
+---------------------------------------------
+biochain-filtered ROUGE-2 Average_R: 0.10132 (95%-conf.int. 0.10132 - 0.10132)
+biochain-filtered ROUGE-2 Average_P: 0.02786 (95%-conf.int. 0.02786 - 0.02786)
+biochain-filtered ROUGE-2 Average_F: 0.04370 (95%-conf.int. 0.04370 - 0.04370)
+---------------------------------------------
+biochain-filtered ROUGE-SU4 Average_R: 0.19807 (95%-conf.int. 0.19807 - 0.19807)
+biochain-filtered ROUGE-SU4 Average_P: 0.05423 (95%-conf.int. 0.05423 - 0.05423)
+biochain-filtered ROUGE-SU4 Average_F: 0.08515 (95%-conf.int. 0.08515 - 0.08515)
+---------------------------------------------
+freqdist-concept ROUGE-1 Average_R: 0.59017 (95%-conf.int. 0.59017 - 0.59017)
+freqdist-concept ROUGE-1 Average_P: 0.12116 (95%-conf.int. 0.12116 - 0.12116)
+freqdist-concept ROUGE-1 Average_F: 0.20105 (95%-conf.int. 0.20105 - 0.20105)
+---------------------------------------------
+freqdist-concept ROUGE-2 Average_R: 0.11981 (95%-conf.int. 0.11981 - 0.11981)
+freqdist-concept ROUGE-2 Average_P: 0.02453 (95%-conf.int. 0.02453 - 0.02453)
+freqdist-concept ROUGE-2 Average_F: 0.04072 (95%-conf.int. 0.04072 - 0.04072)
+---------------------------------------------
+freqdist-concept ROUGE-SU4 Average_R: 0.23162 (95%-conf.int. 0.23162 - 0.23162)
+freqdist-concept ROUGE-SU4 Average_P: 0.04719 (95%-conf.int. 0.04719 - 0.04719)
+freqdist-concept ROUGE-SU4 Average_F: 0.07841 (95%-conf.int. 0.07841 - 0.07841)
+---------------------------------------------
+freqdist-term ROUGE-1 Average_R: 0.60680 (95%-conf.int. 0.60680 - 0.60680)
+freqdist-term ROUGE-1 Average_P: 0.11090 (95%-conf.int. 0.11090 - 0.11090)
+freqdist-term ROUGE-1 Average_F: 0.18753 (95%-conf.int. 0.18753 - 0.18753)
+---------------------------------------------
+freqdist-term ROUGE-2 Average_R: 0.12508 (95%-conf.int. 0.12508 - 0.12508)
+freqdist-term ROUGE-2 Average_P: 0.02279 (95%-conf.int. 0.02279 - 0.02279)
+freqdist-term ROUGE-2 Average_F: 0.03856 (95%-conf.int. 0.03856 - 0.03856)
+---------------------------------------------
+freqdist-term ROUGE-SU4 Average_R: 0.23500 (95%-conf.int. 0.23500 - 0.23500)
+freqdist-term ROUGE-SU4 Average_P: 0.04261 (95%-conf.int. 0.04261 - 0.04261)
+freqdist-term ROUGE-SU4 Average_F: 0.07214 (95%-conf.int. 0.07214 - 0.07214)
+---------------------------------------------
+mead ROUGE-1 Average_R: 0.53071 (95%-conf.int. 0.53071 - 0.53071)
+mead ROUGE-1 Average_P: 0.14704 (95%-conf.int. 0.14704 - 0.14704)
+mead ROUGE-1 Average_F: 0.23028 (95%-conf.int. 0.23028 - 0.23028)
+---------------------------------------------
+mead ROUGE-2 Average_R: 0.10072 (95%-conf.int. 0.10072 - 0.10072)
+mead ROUGE-2 Average_P: 0.02783 (95%-conf.int. 0.02783 - 0.02783)
+mead ROUGE-2 Average_F: 0.04361 (95%-conf.int. 0.04361 - 0.04361)
+---------------------------------------------
+mead ROUGE-SU4 Average_R: 0.19898 (95%-conf.int. 0.19898 - 0.19898)
+mead ROUGE-SU4 Average_P: 0.05475 (95%-conf.int. 0.05475 - 0.05475)
+mead ROUGE-SU4 Average_F: 0.08587 (95%-conf.int. 0.08587 - 0.08587)
+---------------------------------------------
+msword ROUGE-1 Average_R: 0.46570 (95%-conf.int. 0.46570 - 0.46570)
+msword ROUGE-1 Average_P: 0.16172 (95%-conf.int. 0.16172 - 0.16172)
+msword ROUGE-1 Average_F: 0.24007 (95%-conf.int. 0.24007 - 0.24007)
+---------------------------------------------
+msword ROUGE-2 Average_R: 0.09080 (95%-conf.int. 0.09080 - 0.09080)
+msword ROUGE-2 Average_P: 0.03146 (95%-conf.int. 0.03146 - 0.03146)
+msword ROUGE-2 Average_F: 0.04673 (95%-conf.int. 0.04673 - 0.04673)
+---------------------------------------------
+msword ROUGE-SU4 Average_R: 0.17647 (95%-conf.int. 0.17647 - 0.17647)
+msword ROUGE-SU4 Average_P: 0.06090 (95%-conf.int. 0.06090 - 0.06090)
+msword ROUGE-SU4 Average_F: 0.09055 (95%-conf.int. 0.09055 - 0.09055)
+---------------------------------------------
+summbasic-concept ROUGE-1 Average_R: 0.58883 (95%-conf.int. 0.58883 - 0.58883)
+summbasic-concept ROUGE-1 Average_P: 0.14157 (95%-conf.int. 0.14157 - 0.14157)
+summbasic-concept ROUGE-1 Average_F: 0.22826 (95%-conf.int. 0.22826 - 0.22826)
+---------------------------------------------
+summbasic-concept ROUGE-2 Average_R: 0.11109 (95%-conf.int. 0.11109 - 0.11109)
+summbasic-concept ROUGE-2 Average_P: 0.02664 (95%-conf.int. 0.02664 - 0.02664)
+summbasic-concept ROUGE-2 Average_F: 0.04297 (95%-conf.int. 0.04297 - 0.04297)
+---------------------------------------------
+summbasic-concept ROUGE-SU4 Average_R: 0.21481 (95%-conf.int. 0.21481 - 0.21481)
+summbasic-concept ROUGE-SU4 Average_P: 0.05127 (95%-conf.int. 0.05127 - 0.05127)
+summbasic-concept ROUGE-SU4 Average_F: 0.08278 (95%-conf.int. 0.08278 - 0.08278)
+---------------------------------------------
+summbasic-term ROUGE-1 Average_R: 0.59976 (95%-conf.int. 0.59976 - 0.59976)
+summbasic-term ROUGE-1 Average_P: 0.12450 (95%-conf.int. 0.12450 - 0.12450)
+summbasic-term ROUGE-1 Average_F: 0.20620 (95%-conf.int. 0.20620 - 0.20620)
+---------------------------------------------
+summbasic-term ROUGE-2 Average_R: 0.11470 (95%-conf.int. 0.11470 - 0.11470)
+summbasic-term ROUGE-2 Average_P: 0.02374 (95%-conf.int. 0.02374 - 0.02374)
+summbasic-term ROUGE-2 Average_F: 0.03934 (95%-conf.int. 0.03934 - 0.03934)
+---------------------------------------------
+summbasic-term ROUGE-SU4 Average_R: 0.22457 (95%-conf.int. 0.22457 - 0.22457)
+summbasic-term ROUGE-SU4 Average_P: 0.04626 (95%-conf.int. 0.04626 - 0.04626)
+summbasic-term ROUGE-SU4 Average_F: 0.07672 (95%-conf.int. 0.07672 - 0.07672)
+---------------------------------------------
+swesum ROUGE-1 Average_R: 0.46884 (95%-conf.int. 0.46884 - 0.46884)
+swesum ROUGE-1 Average_P: 0.17553 (95%-conf.int. 0.17553 - 0.17553)
+swesum ROUGE-1 Average_F: 0.25543 (95%-conf.int. 0.25543 - 0.25543)
+---------------------------------------------
+swesum ROUGE-2 Average_R: 0.08238 (95%-conf.int. 0.08238 - 0.08238)
+swesum ROUGE-2 Average_P: 0.03077 (95%-conf.int. 0.03077 - 0.03077)
+swesum ROUGE-2 Average_F: 0.04480 (95%-conf.int. 0.04480 - 0.04480)
+---------------------------------------------
+swesum ROUGE-SU4 Average_R: 0.17435 (95%-conf.int. 0.17435 - 0.17435)
+swesum ROUGE-SU4 Average_P: 0.06488 (95%-conf.int. 0.06488 - 0.06488)
+swesum ROUGE-SU4 Average_F: 0.09457 (95%-conf.int. 0.09457 - 0.09457)

@@ -1,0 +1,12 @@
+Author-Abstract,ROUGE-2,Average_R:,0.03393
+Author-Abstract,ROUGE-SU4,Average_R:,0.07362
+Expert-Summary,ROUGE-2,Average_R:,0.01609
+Expert-Summary,ROUGE-SU4,Average_R:,0.03257
+FreqDist-ConceptMMTX-Dice,ROUGE-2,Average_R:,0.10540
+FreqDist-ConceptMMTX-Dice,ROUGE-SU4,Average_R:,0.20260
+FreqDist-Term-Dice,ROUGE-2,Average_R:,0.11944
+FreqDist-Term-Dice,ROUGE-SU4,Average_R:,0.21382
+SumBasic-ConceptMMTX,ROUGE-2,Average_R:,0.10303
+SumBasic-ConceptMMTX,ROUGE-SU4,Average_R:,0.19106
+SumBasic-Term,ROUGE-2,Average_R:,0.11800
+SumBasic-Term,ROUGE-SU4,Average_R:,0.21173

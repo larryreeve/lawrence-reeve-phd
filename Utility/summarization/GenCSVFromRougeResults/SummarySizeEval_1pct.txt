@@ -1,0 +1,72 @@
+---------------------------------------------
+Author-Abstract ROUGE-1 Average_R: 0.45416 (95%-conf.int. 0.45416 - 0.45416)
+Author-Abstract ROUGE-1 Average_P: 0.09823 (95%-conf.int. 0.09823 - 0.09823)
+Author-Abstract ROUGE-1 Average_F: 0.16152 (95%-conf.int. 0.16152 - 0.16152)
+---------------------------------------------
+Author-Abstract ROUGE-2 Average_R: 0.05554 (95%-conf.int. 0.05554 - 0.05554)
+Author-Abstract ROUGE-2 Average_P: 0.01185 (95%-conf.int. 0.01185 - 0.01185)
+Author-Abstract ROUGE-2 Average_F: 0.01953 (95%-conf.int. 0.01953 - 0.01953)
+---------------------------------------------
+Author-Abstract ROUGE-SU4 Average_R: 0.14536 (95%-conf.int. 0.14536 - 0.14536)
+Author-Abstract ROUGE-SU4 Average_P: 0.03030 (95%-conf.int. 0.03030 - 0.03030)
+Author-Abstract ROUGE-SU4 Average_F: 0.05015 (95%-conf.int. 0.05015 - 0.05015)
+---------------------------------------------
+Expert-Summary ROUGE-1 Average_R: 0.32893 (95%-conf.int. 0.32893 - 0.32893)
+Expert-Summary ROUGE-1 Average_P: 0.17622 (95%-conf.int. 0.17622 - 0.17622)
+Expert-Summary ROUGE-1 Average_F: 0.22949 (95%-conf.int. 0.22949 - 0.22949)
+---------------------------------------------
+Expert-Summary ROUGE-2 Average_R: 0.03013 (95%-conf.int. 0.03013 - 0.03013)
+Expert-Summary ROUGE-2 Average_P: 0.01601 (95%-conf.int. 0.01601 - 0.01601)
+Expert-Summary ROUGE-2 Average_F: 0.02091 (95%-conf.int. 0.02091 - 0.02091)
+---------------------------------------------
+Expert-Summary ROUGE-SU4 Average_R: 0.09502 (95%-conf.int. 0.09502 - 0.09502)
+Expert-Summary ROUGE-SU4 Average_P: 0.04980 (95%-conf.int. 0.04980 - 0.04980)
+Expert-Summary ROUGE-SU4 Average_F: 0.06535 (95%-conf.int. 0.06535 - 0.06535)
+---------------------------------------------
+FreqDist-ConceptMMTX-Dice ROUGE-1 Average_R: 0.27720 (95%-conf.int. 0.27720 - 0.27720)
+FreqDist-ConceptMMTX-Dice ROUGE-1 Average_P: 0.07564 (95%-conf.int. 0.07564 - 0.07564)
+FreqDist-ConceptMMTX-Dice ROUGE-1 Average_F: 0.11885 (95%-conf.int. 0.11885 - 0.11885)
+---------------------------------------------
+FreqDist-ConceptMMTX-Dice ROUGE-2 Average_R: 0.01561 (95%-conf.int. 0.01561 - 0.01561)
+FreqDist-ConceptMMTX-Dice ROUGE-2 Average_P: 0.00421 (95%-conf.int. 0.00421 - 0.00421)
+FreqDist-ConceptMMTX-Dice ROUGE-2 Average_F: 0.00663 (95%-conf.int. 0.00663 - 0.00663)
+---------------------------------------------
+FreqDist-ConceptMMTX-Dice ROUGE-SU4 Average_R: 0.06766 (95%-conf.int. 0.06766 - 0.06766)
+FreqDist-ConceptMMTX-Dice ROUGE-SU4 Average_P: 0.01784 (95%-conf.int. 0.01784 - 0.01784)
+FreqDist-ConceptMMTX-Dice ROUGE-SU4 Average_F: 0.02824 (95%-conf.int. 0.02824 - 0.02824)
+---------------------------------------------
+FreqDist-Term-Dice ROUGE-1 Average_R: 0.27720 (95%-conf.int. 0.27720 - 0.27720)
+FreqDist-Term-Dice ROUGE-1 Average_P: 0.07564 (95%-conf.int. 0.07564 - 0.07564)
+FreqDist-Term-Dice ROUGE-1 Average_F: 0.11885 (95%-conf.int. 0.11885 - 0.11885)
+---------------------------------------------
+FreqDist-Term-Dice ROUGE-2 Average_R: 0.01561 (95%-conf.int. 0.01561 - 0.01561)
+FreqDist-Term-Dice ROUGE-2 Average_P: 0.00421 (95%-conf.int. 0.00421 - 0.00421)
+FreqDist-Term-Dice ROUGE-2 Average_F: 0.00663 (95%-conf.int. 0.00663 - 0.00663)
+---------------------------------------------
+FreqDist-Term-Dice ROUGE-SU4 Average_R: 0.06766 (95%-conf.int. 0.06766 - 0.06766)
+FreqDist-Term-Dice ROUGE-SU4 Average_P: 0.01784 (95%-conf.int. 0.01784 - 0.01784)
+FreqDist-Term-Dice ROUGE-SU4 Average_F: 0.02824 (95%-conf.int. 0.02824 - 0.02824)
+---------------------------------------------
+SumBasic-ConceptMMTX ROUGE-1 Average_R: 0.28362 (95%-conf.int. 0.28362 - 0.28362)
+SumBasic-ConceptMMTX ROUGE-1 Average_P: 0.23661 (95%-conf.int. 0.23661 - 0.23661)
+SumBasic-ConceptMMTX ROUGE-1 Average_F: 0.25799 (95%-conf.int. 0.25799 - 0.25799)
+---------------------------------------------
+SumBasic-ConceptMMTX ROUGE-2 Average_R: 0.02432 (95%-conf.int. 0.02432 - 0.02432)
+SumBasic-ConceptMMTX ROUGE-2 Average_P: 0.02023 (95%-conf.int. 0.02023 - 0.02023)
+SumBasic-ConceptMMTX ROUGE-2 Average_F: 0.02209 (95%-conf.int. 0.02209 - 0.02209)
+---------------------------------------------
+SumBasic-ConceptMMTX ROUGE-SU4 Average_R: 0.07277 (95%-conf.int. 0.07277 - 0.07277)
+SumBasic-ConceptMMTX ROUGE-SU4 Average_P: 0.06023 (95%-conf.int. 0.06023 - 0.06023)
+SumBasic-ConceptMMTX ROUGE-SU4 Average_F: 0.06591 (95%-conf.int. 0.06591 - 0.06591)
+---------------------------------------------
+SumBasic-Term ROUGE-1 Average_R: 0.34963 (95%-conf.int. 0.34963 - 0.34963)
+SumBasic-Term ROUGE-1 Average_P: 0.20623 (95%-conf.int. 0.20623 - 0.20623)
+SumBasic-Term ROUGE-1 Average_F: 0.25943 (95%-conf.int. 0.25943 - 0.25943)
+---------------------------------------------
+SumBasic-Term ROUGE-2 Average_R: 0.06098 (95%-conf.int. 0.06098 - 0.06098)
+SumBasic-Term ROUGE-2 Average_P: 0.03571 (95%-conf.int. 0.03571 - 0.03571)
+SumBasic-Term ROUGE-2 Average_F: 0.04504 (95%-conf.int. 0.04504 - 0.04504)
+---------------------------------------------
+SumBasic-Term ROUGE-SU4 Average_R: 0.12280 (95%-conf.int. 0.12280 - 0.12280)
+SumBasic-Term ROUGE-SU4 Average_P: 0.07104 (95%-conf.int. 0.07104 - 0.07104)
+SumBasic-Term ROUGE-SU4 Average_F: 0.09001 (95%-conf.int. 0.09001 - 0.09001)

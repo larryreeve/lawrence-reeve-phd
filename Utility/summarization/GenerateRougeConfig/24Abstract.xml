@@ -1,0 +1,506 @@
+<ROUGE-EVAL version="1.0">
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0002-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0002-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0002-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0002-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0002-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0002-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0002-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0002-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0002-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0002-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0002-A">0002-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0013-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0013-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0013-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0013-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0013-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0013-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0013-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0013-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0013-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0013-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0013-A">0013-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0162-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0162-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0162-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0162-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0162-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0162-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0162-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0162-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0162-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0162-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0162-A">0162-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0234-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0234-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0234-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0234-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0234-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0234-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0234-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0234-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0234-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0234-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0234-A">0234-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0782-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0782-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0782-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0782-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0782-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0782-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0782-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0782-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0782-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0782-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0782-A">0782-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0786-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0786-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0786-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0786-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0786-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0786-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0786-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0786-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0786-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0786-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0786-A">0786-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0787-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0787-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0787-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0787-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0787-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0787-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0787-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0787-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0787-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0787-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0787-A">0787-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0811-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0811-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0811-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0811-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0811-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0811-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0811-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0811-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0811-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0811-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0811-A">0811-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0814-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0814-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0814-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0814-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0814-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0814-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0814-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0814-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0814-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0814-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0814-A">0814-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0821-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0821-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0821-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0821-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0821-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0821-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0821-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0821-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0821-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0821-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0821-A">0821-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">0954-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">0954-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">0954-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">0954-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">0954-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">0954-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">0954-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">0954-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">0954-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">0954-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0954-A">0954-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1001-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1001-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1001-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1001-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1001-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1001-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1001-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1001-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1001-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1001-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1001-A">1001-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1108-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1108-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1108-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1108-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1108-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1108-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1108-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1108-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1108-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1108-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1108-A">1108-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1110-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1110-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1110-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1110-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1110-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1110-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1110-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1110-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1110-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1110-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1110-A">1110-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1111-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1111-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1111-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1111-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1111-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1111-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1111-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1111-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1111-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1111-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1111-A">1111-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1115-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1115-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1115-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1115-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1115-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1115-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1115-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1115-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1115-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1115-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1115-A">1115-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1117-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1117-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1117-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1117-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1117-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1117-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1117-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1117-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1117-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1117-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1117-A">1117-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1118-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1118-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1118-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1118-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1118-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1118-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1118-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1118-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1118-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1118-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1118-A">1118-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1122-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1122-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1122-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1122-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1122-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1122-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1122-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1122-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1122-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1122-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1122-A">1122-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1132-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1132-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1132-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1132-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1132-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1132-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1132-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1132-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1132-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1132-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1132-A">1132-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">1197-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">1197-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">1197-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">1197-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">1197-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">1197-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">1197-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">1197-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">1197-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">1197-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1197-A">1197-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">3563-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">3563-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">3563-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">3563-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">3563-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">3563-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">3563-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">3563-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">3563-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">3563-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="3563-A">3563-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">4016-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">4016-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">4016-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">4016-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">4016-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">4016-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">4016-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">4016-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">4016-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">4016-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="4016-A">4016-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="base-lead">4017-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="base-random">4017-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="bio-chain">4017-ArticleSummary_20pct_BioChain_UnfilteredPosition.spl</P>
+			<P ID="bio-chainfilt">4017-ArticleSummary_20pct_BioChain_FilteredPosition.spl</P>
+			<P ID="bio-freqdist">4017-ArticleSummary_20pct_BioChain_FreqDist.spl</P>
+			<P ID="bio-summbasic-concept">4017-ArticleSummary_20pct_BioChain_SummBasic-Concept.spl</P>
+			<P ID="bio-summbasic-term">4017-ArticleSummary_20pct_BioChain_SummBasic-Term.spl</P>
+			<P ID="mead">4017-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="msword">4017-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="swesum">4017-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="4017-A">4017-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+</ROUGE-EVAL>

@@ -1,0 +1,410 @@
+<ROUGE-EVAL version="1.0">
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0002-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0002-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0002-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0002-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0002-A">0002-Model_20pct_Jonathan.spl</M>
+			<M ID="0002-B">0002-Model_20pct_Saya.spl</M>
+			<M ID="0002-C">0002-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0013-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0013-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0013-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0013-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0013-A">0013-Model_20pct_Jonathan.spl</M>
+			<M ID="0013-B">0013-Model_20pct_Saya.spl</M>
+			<M ID="0013-C">0013-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0162-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0162-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0162-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0162-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0162-A">0162-Model_20pct_Jonathan.spl</M>
+			<M ID="0162-B">0162-Model_20pct_Saya.spl</M>
+			<M ID="0162-C">0162-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0234-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0234-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0234-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0234-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0234-A">0234-Model_20pct_Jonathan.spl</M>
+			<M ID="0234-B">0234-Model_20pct_Saya.spl</M>
+			<M ID="0234-C">0234-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0782-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0782-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0782-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0782-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0782-A">0782-Model_20pct_Jonathan.spl</M>
+			<M ID="0782-B">0782-Model_20pct_Saya.spl</M>
+			<M ID="0782-C">0782-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0786-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0786-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0786-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0786-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0786-A">0786-Model_20pct_Jonathan.spl</M>
+			<M ID="0786-B">0786-Model_20pct_Saya.spl</M>
+			<M ID="0786-C">0786-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0787-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0787-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0787-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0787-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0787-A">0787-Model_20pct_Jonathan.spl</M>
+			<M ID="0787-B">0787-Model_20pct_Saya.spl</M>
+			<M ID="0787-C">0787-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0811-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0811-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0811-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0811-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0811-A">0811-Model_20pct_Jonathan.spl</M>
+			<M ID="0811-B">0811-Model_20pct_Saya.spl</M>
+			<M ID="0811-C">0811-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0814-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0814-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0814-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0814-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0814-A">0814-Model_20pct_Jonathan.spl</M>
+			<M ID="0814-B">0814-Model_20pct_Saya.spl</M>
+			<M ID="0814-C">0814-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0821-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0821-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0821-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0821-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0821-A">0821-Model_20pct_Jonathan.spl</M>
+			<M ID="0821-B">0821-Model_20pct_Saya.spl</M>
+			<M ID="0821-C">0821-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">0954-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">0954-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">0954-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">0954-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0954-A">0954-Model_20pct_Jonathan.spl</M>
+			<M ID="0954-B">0954-Model_20pct_Saya.spl</M>
+			<M ID="0954-C">0954-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1001-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1001-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1001-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1001-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1001-A">1001-Model_20pct_Jonathan.spl</M>
+			<M ID="1001-B">1001-Model_20pct_Saya.spl</M>
+			<M ID="1001-C">1001-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1108-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1108-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1108-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1108-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1108-A">1108-Model_20pct_Jonathan.spl</M>
+			<M ID="1108-B">1108-Model_20pct_Saya.spl</M>
+			<M ID="1108-C">1108-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1110-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1110-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1110-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1110-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1110-A">1110-Model_20pct_Jonathan.spl</M>
+			<M ID="1110-B">1110-Model_20pct_Saya.spl</M>
+			<M ID="1110-C">1110-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1111-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1111-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1111-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1111-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1111-A">1111-Model_20pct_Jonathan.spl</M>
+			<M ID="1111-B">1111-Model_20pct_Saya.spl</M>
+			<M ID="1111-C">1111-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1115-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1115-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1115-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1115-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1115-A">1115-Model_20pct_Jonathan.spl</M>
+			<M ID="1115-B">1115-Model_20pct_Saya.spl</M>
+			<M ID="1115-C">1115-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1117-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1117-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1117-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1117-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1117-A">1117-Model_20pct_Jonathan.spl</M>
+			<M ID="1117-B">1117-Model_20pct_Saya.spl</M>
+			<M ID="1117-C">1117-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1118-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1118-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1118-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1118-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1118-A">1118-Model_20pct_Jonathan.spl</M>
+			<M ID="1118-B">1118-Model_20pct_Saya.spl</M>
+			<M ID="1118-C">1118-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1122-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1122-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1122-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1122-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1122-A">1122-Model_20pct_Jonathan.spl</M>
+			<M ID="1122-B">1122-Model_20pct_Saya.spl</M>
+			<M ID="1122-C">1122-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1132-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1132-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1132-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1132-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1132-A">1132-Model_20pct_Jonathan.spl</M>
+			<M ID="1132-B">1132-Model_20pct_Saya.spl</M>
+			<M ID="1132-C">1132-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">1197-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">1197-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">1197-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">1197-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1197-A">1197-Model_20pct_Jonathan.spl</M>
+			<M ID="1197-B">1197-Model_20pct_Saya.spl</M>
+			<M ID="1197-C">1197-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">3563-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">3563-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">3563-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">3563-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="3563-A">3563-Model_20pct_Jonathan.spl</M>
+			<M ID="3563-B">3563-Model_20pct_Saya.spl</M>
+			<M ID="3563-C">3563-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">4016-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">4016-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">4016-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">4016-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="4016-A">4016-Model_20pct_Jonathan.spl</M>
+			<M ID="4016-B">4016-Model_20pct_Saya.spl</M>
+			<M ID="4016-C">4016-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="FreqDist-ConceptMMTX-Dice">4017-ArticleSummary_20pct_BioSumm_FreqDist-ConceptMMTX_Dice.spl</P>
+			<P ID="FreqDist-ConceptDUIST-Dice">4017-ArticleSummary_20pct_BioSumm_FreqDist-ConceptDUIST_Dice.spl</P>
+			<P ID="SumBasic-ConceptMMTX">4017-ArticleSummary_20pct_BioSumm_SumBasic-ConceptMMTX.spl</P>
+			<P ID="SumBasic-ConceptDUIST">4017-ArticleSummary_20pct_BioSumm_SumBasic-ConceptDUIST.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="4017-A">4017-Model_20pct_Jonathan.spl</M>
+			<M ID="4017-B">4017-Model_20pct_Saya.spl</M>
+			<M ID="4017-C">4017-Model_20pct_Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+</ROUGE-EVAL>
