@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<session version="1.0">
-<refactoring comment="Rename Java project 'Common' to 'BioCommon'&#13;&#10;- Original element: 'Common'&#13;&#10;- Update references to refactored element" description="Rename Java project 'Common'" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Common" name="BioCommon" references="true" stamp="1166565258390" version="1.0"/>
-</session>

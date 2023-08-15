@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<session version="1.0">
-<refactoring comment="Rename package 'edu.drexelist.summarizer' to 'edu.drexelist.duc2007UpdateTask'&#13;&#10;- Original element: 'DUC2007/JavaSource/edu.drexelist.summarizer'&#13;&#10;- Renamed element: 'DUC2007/JavaSource/edu.drexelist.duc2007UpdateTask'&#13;&#10;- Update references to refactored element&#13;&#10;- Update textual occurrences in comments and strings" description="Rename package 'edu.drexelist.summarizer'" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/JavaSource&lt;edu.drexelist.summarizer" name="edu.drexelist.duc2007UpdateTask" qualified="false" references="true" stamp="1170781937812" textual="false" version="1.0"/>
-</session>

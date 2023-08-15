@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<session version="1.0">
-<refactoring comment="Rename Java project 'WebSumm' to 'tfdsSummarizer'&#13;&#10;- Original element: 'WebSumm'&#13;&#10;- Update references to refactored element" description="Rename Java project 'WebSumm'" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=WebSumm" name="tfdsSummarizer" references="true" stamp="1188763930375" version="1.0"/>
-<refactoring comment="Rename Java project 'tfdsSummarizer' to 'tfdsSummarizer2'&#13;&#10;- Original element: 'tfdsSummarizer'&#13;&#10;- Update references to refactored element" description="Rename Java project 'tfdsSummarizer'" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=tfdsSummarizer" name="tfdsSummarizer2" references="true" stamp="1188788516343" version="1.0"/>
-<refactoring comment="Rename Java project 'tfdsSummarizer2' to 'TFDSSummarizer'&#13;&#10;- Original element: 'tfdsSummarizer2'&#13;&#10;- Update references to refactored element" description="Rename Java project 'tfdsSummarizer2'" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=tfdsSummarizer2" name="TFDSSummarizer" references="true" stamp="1188788524484" version="1.0"/>
-</session>

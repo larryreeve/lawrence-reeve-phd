@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable 'candidatePhraseLanguageModel' in 'bioannotator.duist.ConceptMapperUnigramLM.map(...)' to 'conceptLanguageModel'&#13;&#10;- Original element: 'bioannotator.duist.ConceptMapperUnigramLM.map(List&lt;SourcePhraseWord&gt;, List&lt;CandidatePhrase&gt;).candidatePhraseLanguageModel'&#13;&#10;- Renamed element: 'bioannotator.duist.ConceptMapperUnigramLM.map(List&lt;SourcePhraseWord&gt;, List&lt;CandidatePhrase&gt;).conceptLanguageModel'&#13;&#10;- Update references to refactored element" description="Rename local variable 'candidatePhraseLanguageModel'" id="org.eclipse.jdt.ui.rename.local.variable" input="/JavaSource&lt;bioannotator.duist{ConceptMapperUnigramLM.java" name="conceptLanguageModel" references="true" selection="3826 28" stamp="1169404913859" version="1.0"/>
-</session>

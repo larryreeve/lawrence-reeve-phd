@@ -1,5 +1,0 @@
-#Thu Dec 21 11:55:01 EST 2006
-org.eclipse.hyades.ui.filters.internal.defaultFilters.org.eclipse.hyades.trace.views=true
-eclipse.preferences.version=1
-org.eclipse.hyades.ui.filters.internal.defaultFilters.org.eclipse.tptp.platform.log.views=true
-filters.filterSelection=ProfilingAgentScope;New_filter\n\norg.eclipse.hyades.trace.views.adapter.internal.ExecutionStatisticViewer2;ProfilingAgentScope\norg.eclipse.hyades.uml2sd.trace.loaders.TraceInteractions;ProfilingAgentScope\norg.eclipse.hyades.trace.views.adapter.internal.ReferenceTableViewer;ProfilingAgentScope\n

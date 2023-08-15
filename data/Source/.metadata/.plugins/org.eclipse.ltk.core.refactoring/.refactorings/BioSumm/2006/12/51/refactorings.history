@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<session version="1.0">
-<refactoring comment="Rename package 'biosumm.util' to 'biosumm.filefilter'&#13;&#10;- Original element: 'BioSumm/JavaSource/biosumm.util'&#13;&#10;- Renamed element: 'BioSumm/JavaSource/biosumm.filefilter'&#13;&#10;- Update references to refactored element&#13;&#10;- Update textual occurrences in comments and strings" description="Rename package 'biosumm.util'" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/JavaSource&lt;biosumm.util" name="biosumm.filefilter" qualified="false" references="true" stamp="1166585483531" textual="false" version="1.0"/>
-</session>

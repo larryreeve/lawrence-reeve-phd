@@ -1,6 +1,0 @@
-client.Sentence, true
-com.google.gwt.user.client.rpc.IncompatibleRemoteServiceException, true
-java.lang.Integer, true
-java.lang.String, true
-java.util.ArrayList, true
-java.util.Vector, true

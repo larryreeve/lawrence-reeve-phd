@@ -1,8 +1,0 @@
-C:\Data\BioAnnotator\.metadata\.plugins\org.eclipse.jdt.core\989563514.index
-C:\Data\BioAnnotator\.metadata\.plugins\org.eclipse.jdt.core\241174357.index
-C:\Data\BioAnnotator\.metadata\.plugins\org.eclipse.jdt.core\3446014357.index
-C:\Data\BioAnnotator\.metadata\.plugins\org.eclipse.jdt.core\3530734587.index
-C:\Data\BioAnnotator\.metadata\.plugins\org.eclipse.jdt.core\826128741.index
-C:\Data\BioAnnotator\.metadata\.plugins\org.eclipse.jdt.core\3236852990.index
-C:\Data\BioAnnotator\.metadata\.plugins\org.eclipse.jdt.core\2703338050.index
-C:\Data\BioAnnotator\.metadata\.plugins\org.eclipse.jdt.core\3418296825.index

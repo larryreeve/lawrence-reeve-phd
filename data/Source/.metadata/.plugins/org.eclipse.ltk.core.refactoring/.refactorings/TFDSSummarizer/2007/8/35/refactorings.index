@@ -1,8 +1,0 @@
-1188570452609	Rename type 'SentenceBreaker'
-1188573769500	Rename type 'SentenceSpliiter'
-1188577003265	Rename type 'SentenceSplitter'
-1188577024843	Rename package 'client.spliiters'
-1188577029156	Move compilation unit
-1188577042640	Rename type 'Splitter'
-1188577109031	Rename compilation unit 'Wordsplitter.java'
-1188581439484	Rename package 'client.summarizer'
