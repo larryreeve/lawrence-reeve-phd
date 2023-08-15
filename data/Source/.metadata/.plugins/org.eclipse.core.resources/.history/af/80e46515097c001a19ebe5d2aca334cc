@@ -1,0 +1,11 @@
+package edu.drexelist.biochain.nlp;
+
+import java.util.*;
+
+public class Test 
+{
+	public static void main (String[] arguments)
+	{
+		List<String> sentences = SentenceSplitter.splitTextIntoSentences(""); 
+	}
+}

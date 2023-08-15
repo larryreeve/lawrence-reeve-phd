@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="findExpressionList">
+		<item value="ConfigurationSettings"/>
+	</list>
+	<section name="filtersListsCriteria">
+		<item key="filtersListSize" value="9"/>
+		<section name="filtersListsCriteria9">
+			<item key="active" value="true"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="true"/>
+			<item key="isSyncMessageSelected" value="false"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="BioAnnotatorMain"/>
+		</section>
+		<section name="filtersListsCriteria5">
+			<item key="active" value="false"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="false"/>
+			<item key="isSyncMessageSelected" value="true"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="getDataPath"/>
+		</section>
+		<section name="filtersListsCriteria6">
+			<item key="active" value="false"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="false"/>
+			<item key="isSyncMessageSelected" value="true"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="main"/>
+		</section>
+		<section name="filtersListsCriteria3">
+			<item key="active" value="false"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="false"/>
+			<item key="isSyncMessageSelected" value="true"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="getFiles"/>
+		</section>
+		<section name="filtersListsCriteria0">
+			<item key="active" value="true"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="false"/>
+			<item key="isSyncMessageSelected" value="true"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="-clinit-"/>
+		</section>
+		<section name="filtersListsCriteria4">
+			<item key="active" value="false"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="false"/>
+			<item key="isSyncMessageSelected" value="true"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="getDataAnnotationPath"/>
+		</section>
+		<section name="filtersListsCriteria7">
+			<item key="active" value="false"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="false"/>
+			<item key="isSyncMessageSelected" value="true"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="generate"/>
+		</section>
+		<section name="filtersListsCriteria8">
+			<item key="active" value="false"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="true"/>
+			<item key="isSyncMessageSelected" value="false"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="BioAnnotatorMain"/>
+		</section>
+		<section name="filtersListsCriteria2">
+			<item key="active" value="false"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="false"/>
+			<item key="isSyncMessageSelected" value="true"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="isNumeric"/>
+		</section>
+		<section name="filtersListsCriteria10">
+			<item key="active" value="true"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="true"/>
+			<item key="isSyncMessageSelected" value="false"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="BioAnnotatorMain"/>
+		</section>
+		<section name="filtersListsCriteria1">
+			<item key="active" value="true"/>
+			<item key="loaderClassName" value=""/>
+			<item key="isAsyncMessageReturnSelected" value="false"/>
+			<item key="isAsyncMessageSelected" value="false"/>
+			<item key="isSyncMessageReturnSelected" value="false"/>
+			<item key="positive" value="false"/>
+			<item key="isLifeLineSelected" value="false"/>
+			<item key="isSyncMessageSelected" value="true"/>
+			<item key="isStopSelected" value="false"/>
+			<item key="isCaseSenstiveSelected" value="true"/>
+			<item key="expression" value="getDataSummarizationPath"/>
+		</section>
+	</section>
+	<section name="findCriteria">
+		<item key="isAsyncMessageReturnSelected" value="false"/>
+		<item key="isAsyncMessageSelected" value="false"/>
+		<item key="isSyncMessageReturnSelected" value="false"/>
+		<item key="isLifeLineSelected" value="true"/>
+		<item key="isSyncMessageSelected" value="false"/>
+		<item key="isStopSelected" value="false"/>
+		<item key="isCaseSenstiveSelected" value="true"/>
+		<item key="expression" value="ConfigurationSettings"/>
+	</section>
+	<section name="HyadesReportWizard">
+		<item key="SelectionPage.STORE_SELECTED_WIZARD_ID" value="org.eclipse.hyades.uml2sd.internal.reports.PrintSDViewReportWizard"/>
+	</section>
+</section>

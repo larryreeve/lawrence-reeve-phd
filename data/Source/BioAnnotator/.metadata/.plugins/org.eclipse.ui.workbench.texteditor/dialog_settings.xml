@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="y" value="255"/>
+		<item key="selection" value="getConceptPhrasesForCandidatePhrase"/>
+		<item key="wrap" value="false"/>
+		<item key="casesensitive" value="false"/>
+		<item key="x" value="554"/>
+		<list key="findhistory">
+			<item value="getConceptPhrasesForCandidatePhrase"/>
+			<item value="initializeFromMMTX"/>
+			<item value="stopWordList"/>
+			<item value="initializeStopWords"/>
+			<item value="sui2pid"/>
+			<item value="preProcessMMTX"/>
+			<item value="testAnnotator.preProcessMMTX"/>
+			<item value="&apos; &apos;"/>
+		</list>
+		<list key="replacehistory" value="&apos; &apos;">
+		</list>
+	</section>
+</section>
