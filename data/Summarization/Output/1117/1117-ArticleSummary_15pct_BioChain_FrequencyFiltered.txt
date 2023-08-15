@@ -1,0 +1,83 @@
+
+
+We conducted a prospective, randomised study to compare external and internal radiotherapy with
+radical hysterectomy and node dissection. 
+
+
+Methods.All patients received standard pretreatment evaluation, which included complete blood
+analysis, intravenous pyelogram, lymphangiography, cystoscopy, chest radiography, and other tests
+when indicated. 
+
+
+We used the International Federation of Gynaecology and Obstetrics (FIGO) clinical staging system to
+classify the stage of cancer.7 If there was disagreement about the stage, the case was assigned to
+the earlier stage. 468 patients had FIGO stage Ib or IIa disease. 343 of these patients were
+enrolled after they had given their informed consent to take part. 
+
+
+Radiotherapy included, external pelvic irradiation with 18 MV photon beam by the multiportal
+technique, one dose of 1·8–2·0Gy at the isocentre, and two or more portals treated daily. A complete
+computerised plane was made, according to the International Commission on Radiation Units and
+Measurements report no 38.8 The total dose at point A (external beam plus brachyradiotherapy) ranged
+from 70 Gy to 90 Gy (median 76 Gy). When lymphangiography showed common iliac or paraortic
+metastases, paraortic lymph nodes were treated with a dose of 45 Gy over 5 weeks and two shaped
+opposed fields (AP-PA). 
+
+
+The pathologist provided us with histological subtypes, grade, depth of invasion, tumour size,
+presence of capillary-like-space involvement, paracervical-tissue involvement, and number, site, and
+type of lymph-node metastases. 
+
+
+The primary outcome measures were 5-year overall survival and the rate of complications. The
+secondary outcome measure was recurrence of the disease. 
+
+
+We used multivariate Cox regression analysis to assess the effect of cervical size, age, FIGO state,
+histological type, grade of differentiation, radiological lymph-node status, and treatment group on
+overall survival. 
+
+
+Of the 468 patients with FIGO stage Ib or IIa cervical cancer, 125 were excluded because of age (<30
+years, >70 years, n=43), medical illness (n=54), previous or concurrent malignant disease (n=21), or
+the referring physician’s or patient’s preference for surgery, radiotherapy, or chemoradiotherapy
+(n=7). After randomisation, there were six protocol violations, two in the surgery group (one
+progression before operation and one refusal of any therapy after randomisation) and four in the
+radiotherapy group (two patients whose cancer was incorrectly staged and two with synchronous
+neoplasia). 
+
+
+Adjuvant radiotherapy was done in 62 (54%) of the 114 surgery-group patients who had a cervical
+diameter of 4 cm or smaller and in 46 (84%) of 55 surgery-group patients who had a cervical diameter
+larger than 4 cm. 19 patients whose cervical diameter was 4 cm or less and three patients whose
+cervical diameter was greater than 4 cm had lymph-vascular-space involvement as the only
+pathological risk factor, these patients did not receive postoperative irradiation.
+
+
+The two groups did not differ significantly as regards squamous histotype, overall 5-year survival
+rates were 84% in surgery-group patients and 88% in radiotherapy-group patients, overall
+disease-free survival was 76% and 78%, respectively. For rates of adenocarcinoma there was a
+significant advantage for patients who had surgery compared with those who had radiotherapy in both
+overall survival (70% vs 59%, p=0·05) and disease-free survival (66% vs 47%, p=0·02). Results of
+univariate and multivariate analysis are shown in table 4. 
+
+
+The median time to recurrence did not differ significantly between the surgery and radiotherapy
+groups (20 vs 18 months, p=0·24). 82% of pelvic recurrences and 61% of the distant ones became
+evident within 2 years of the primary treatment. 
+
+
+Surgery also offers other advantages, pelvic relapses can be successfully cured by radiotherapy,
+whereas salvage surgery after primary irradiation carries a high rate of failures and severe
+morbidity. Radiotherapy also avoids the risks of anaesthesia and the laparotomy scar, and iatrogenic
+mortality is rare. 
+
+
+Morbidity is associated with both treatment strategies, though the most severe complications, such
+as operative mortality, urological complications, and tissue damage from irradiation, have been
+reduced during the past 20 years. 
+
+
+In Italy, a prospective randomised trial has been under way since 1993 to assess the best adjuvant
+treatment (chemotherapy or radiotherapy) for high-risk patients after radical surgery for FIGO stage
+Ib–IIa cancer. 

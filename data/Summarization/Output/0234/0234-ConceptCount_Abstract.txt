@@ -1,0 +1,34 @@
+Anthracyclines	1	T109-Organic Chemical
+Dosages (qualifier value)	1	T081-Quantitative Concept
+DOS	1	T109-Organic Chemical
+Vomiting	1	T184-Sign or Symptom
+Anthracycline Antibiotics	1	T195-Antibiotic
+Heart Failure, Congestive	1	T047-Disease or Syndrome
+Median Statistical Measurement	3	T081-Quantitative Concept
+Therapeutic response, function (observable entity)	1	T033-Finding
+Failed	1	T169-Functional Concept
+New (qualifier value)	1	T079-Temporal Concept
+week (qualifier value)	1	T079-Temporal Concept
+preserved	1	T057-Occupational Activity
+Vomiting NOS (disorder)	1	T047-Disease or Syndrome
+Few (qualifier value)	1	T081-Quantitative Concept
+Symptomatic (qualifier value)	1	T169-Functional Concept
+Episodes (qualifier value)	1	T079-Temporal Concept
+Laboratories	1	T073-Manufactured Object
+Major (qualifier value)	1	T080-Qualitative Concept
+Three (qualifier value)	1	T081-Quantitative Concept
+Cardiotoxicity	1	T047-Disease or Syndrome
+Magnesium	5	T123-Biologically Active Substance
+Duration	1	T079-Temporal Concept
+month (qualifier value)	1	T079-Temporal Concept
+Epirubicin	3	T109-Organic Chemical
+Doxorubicin	1	T195-Antibiotic
+Median (qualifier value)	3	T082-Spatial Concept
+Decrease (qualifier value)	1	T081-Quantitative Concept
+Intravenous	1	T082-Spatial Concept
+Methods	1	T170-Intellectual Product
+Drug Therapy, Combination	1	T061-Therapeutic or Preventive Procedure
+Four (qualifier value)	2	T081-Quantitative Concept
+Methodology	1	T170-Intellectual Product
+milligram	5	T081-Quantitative Concept
+Patients	4	T101-Patient or Disabled Group

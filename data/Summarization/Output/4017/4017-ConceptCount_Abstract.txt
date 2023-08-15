@@ -1,0 +1,34 @@
+Analysis of substances	1	T059-Laboratory Procedure
+Groups (qualifier value)	5	T170-Intellectual Product
+Infusion (procedure)	1	T061-Therapeutic or Preventive Procedure
+irinotecan	8	T109-Organic Chemical
+Interpretation (attribute)	1	T170-Intellectual Product
+Labels	1	T073-Manufactured Object
+Analysis	1	T062-Research Activity
+Frequency of Responses	3	T079-Temporal Concept
+Leucovorin Calcium	2	T109-Organic Chemical
+Cancer treatment response rate	3	T079-Temporal Concept
+week (qualifier value)	1	T079-Temporal Concept
+Disease	1	T047-Disease or Syndrome
+Combined (qualifier value)	1	T080-Qualitative Concept
+findings	1	T169-Functional Concept
+Overall [Publication Type]	1	T170-Intellectual Product
+With quality (attribute)	1	T080-Qualitative Concept
+Population	1	T081-Quantitative Concept
+Effect (qualifier value)	1	T080-Qualitative Concept
+month (qualifier value)	2	T079-Temporal Concept
+Fluorouracil	2	T114-Nucleic Acid, Nucleoside, or Nucleotide
+Labeling	1	T041-Mental Process
+Group (social concept)	5	T096-Group
+survival aspects	3	T081-Quantitative Concept
+Schedules	1	T170-Intellectual Product
+Methods	1	T170-Intellectual Product
+Response Duration	1	T079-Temporal Concept
+Time	3	T079-Temporal Concept
+Methodology	1	T170-Intellectual Product
+Increased (qualifier value)	1	T169-Functional Concept
+Previous (qualifier value)	1	T082-Spatial Concept
+Continuance of life	3	T052-Activity
+Open	1	T082-Spatial Concept
+Toxic effect	1	T037-Injury or Poisoning
+Patients	1	T101-Patient or Disabled Group

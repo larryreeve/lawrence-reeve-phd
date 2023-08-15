@@ -1,0 +1,26 @@
+Cancer treatment response rate	1
+Alopecia	1
+Clinical (qualifier value)	1
+Toxicity aspects	1
+5'-deoxy-5-fluorouridine	1
+Hematologic (qualifier value)	1
+Frequency of Responses	1
+Immature (qualifier value)	1
+Patients	2
+Doxycycline	1
+progesterone receptor negative	2
+month (qualifier value)	1
+Therapeutic procedure	2
+Doxorubicin	1
+Rating	1
+Laboratories	1
+Result (navigational concept)	1
+Cardiotoxicity	1
+Arm	1
+Nausea	1
+Reduced (qualifier value)	1
+Toxic effect	1
+Discontinuation (procedure)	1
+therapeutic aspects	2
+Duration	1
+Effective (qualifier value)	1

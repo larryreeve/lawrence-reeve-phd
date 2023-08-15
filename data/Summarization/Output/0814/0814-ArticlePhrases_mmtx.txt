@@ -1,0 +1,459 @@
+Introduction
+  1
+  C1293116|Introduction (procedure)|T058
+distant relapses
+  2
+  C0443203|Distant (qualifier value)|T082
+  C0035020|Relapse|T067
+pre
+  1
+  C0740175|Before values (qualifier value)|T079
+post-operative radiation therapy
+  3
+  C0032790|Postoperative Period|T079
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+loco regional recurrence
+  3
+  C0275191|Astragalus species poisoning (disorder)|T037
+  C0034897|Recurrence|T067
+  C0205147|Regional (qualifier value)|T082
+post-operative chemotherapy
+  4
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C0241311|SURGERY, PAST|T033
+CT
+  1
+  C0040405|X-Ray Computed Tomography|T060
+disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+drawbacks still
+  1
+  C0424228|Stillness (finding)|T033
+method
+  1
+  C0025663|Methods|T170
+toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+Purpose
+  1
+  C0449256|Purpose (attribute)|T033
+effectiveness
+  2
+  C0205414|Effective (qualifier value)|T080
+  C1280519|Effectiveness (qualifier value)|T170
+toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+combined RT
+  1
+  C0205195|Combined (qualifier value)|T080
+CT
+  1
+  C0040405|X-Ray Computed Tomography|T060
+levamisole
+  1
+  C0023556|Levamisole|T109
+primary endpoint
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0150100|ENDPOINT|T062
+  C0205225|Primary|T080
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+secondary endpoints
+  3
+  C0036525|Metastatic to|T169
+  C0150100|ENDPOINT|T062
+  C0175668|Secondary to|T079
+disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+treatment-related toxicity
+  5
+  C0445223|Related (finding)|T033
+  C0087111|Therapeutic procedure|T061
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C0039798|therapeutic aspects|T169
+morbidity
+  2
+  C0220880|morbidity aspects|T170
+  C0026538|Morbidity - disease rate|T102
+Materials
+  1
+  C0520510|Materials|T167
+methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+patients
+  1
+  C0030705|Patients|T101
+males
+  1
+  C0086582|Males|T098
+females
+  1
+  C0086287|Females|T098
+median 64.7 years
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0439234|year (qualifier value)|T079
+ECOG
+  1
+  C0430797|Electrocorticogram (procedure)|T060
+performance status
+  1
+  C0935728|performance status|T033
+PS
+  1
+  C0036421|Systemic Scleroderma|T047
+Cooperative Study Group
+  6
+  C0596382|cooperative study|T062
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0677877|cooperative group|T093
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+Protocol entry criteria
+  2
+  C1273873|Protocol entry (qualifier value)|T170
+  C0243161|criteria|T170
+en bloc resection
+  6
+  C0014245|Endoscopy|T060
+  C0014268|Administration of enema|T061
+  C0028778|Obstruction|T046
+  C0993595|Enema Solution|T122
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+surgical specimen
+  2
+  C0370003|Specimen (specimen)|T167
+  C0038895|Surgical aspects|T169
+M0 primary rectal adenocarcinoma
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0149978|Adenocarcinoma of rectum (disorder)|T191
+  C0205225|Primary|T080
+microscopically negative resection margins
+  6
+  C1269830|Tumor margin status|T033
+  C0205160|Negative (qualifier value)|T080
+  C0205288|Microscopic (qualifier value)|T080
+  C0205284|Marginal (qualifier value)|T082
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+Patients
+  1
+  C0030705|Patients|T101
+recurrent cancer
+  1
+  C0549379|Recurrent cancer|T191
+active infection
+  2
+  C0205177|Active|T169
+  C0021311|Infection|T047
+nursing women
+  4
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0028677|Discipline of Nursing|T091
+  C0028678|nursing therapy|T061
+endocrine therapy
+  1
+  C0279025|Endocrine therapy (procedure)|T061
+patients
+  1
+  C0030705|Patients|T101
+WBC
+  1
+  C0023516|Leukocytes|T025
+PLT
+  1
+  C0201617|Primed lymphocyte test (procedure)|T059
+bilirubin 1.5 x N
+  2
+  C0078606|xanthosine|T114
+  C0858307|Bilirubin normal|T033
+ALT
+  2
+  C0001899|Alanine Transaminase|T116
+  C1140170|Alternative Billing Concepts|T170
+AST 2.5 x N
+  2
+  C0439225|ns (qualifier value)|T081
+  C0004002|Aspartate Transaminase|T116
+creatinine 1.25 x N
+  2
+  C0860945|Creatinine normal|T033
+  C0078606|xanthosine|T114
+Eligible patients
+  1
+  C0030705|Patients|T101
+Arm I post-operative RT
+  3
+  C0241311|SURGERY, PAST|T033
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+Arm II post-operative RT
+  3
+  C0241311|SURGERY, PAST|T033
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+CT
+  1
+  C0040405|X-Ray Computed Tomography|T060
+levamisole
+  1
+  C0023556|Levamisole|T109
+Dosage schedule
+  2
+  C0086960|Schedules|T170
+  C0178602|Dosages (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+days
+  1
+  C0439228|day (qualifier value)|T079
+wk
+  1
+  C0439230|week (qualifier value)|T079
+loco regional lymph nodes
+  4
+  C0275191|Astragalus species poisoning (disorder)|T037
+  C1269047|Entire lymph node|T023
+  C0024204|lymph nodes|T023
+  C0205147|Regional (qualifier value)|T082
+presacral nodes
+  1
+  C0746922|NODE|T023
+External iliac nodes
+  1
+  C0229815|External iliac lymph node group|T023
+tumour invaded bladder
+  3
+  C1269955|Status of invasion by tumor (observable entity)|T201
+  C0005682|Bladder|T023
+  C1281573|Entire bladder|T023
+prostate
+  2
+  C1278980|Entire prostate|T023
+  C0033572|Prostate|T023
+cervix
+  1
+  C0007874|Uterine cervix-Anatomy|T023
+vagina
+  2
+  C1278985|Entire vagina|T023
+  C0042232|Vagina|T023
+Patients
+  1
+  C0030705|Patients|T101
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+d iv bolus
+  9
+  C0439228|day (qualifier value)|T079
+  C0332517|Diameter (qualifier value)|T032
+  C0677863|bolus|T061
+  C0442123|Intravascular (qualifier value)|T082
+  C0442122|Intravaginal (qualifier value)|T082
+  C0011530|Deoxyribose|T123
+  C0348016|Intravenous|T082
+  C0442106|Intervertebral (qualifier value)|T029
+  C0205281|Invasive (qualifier value)|T080
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+d orally
+  4
+  C0439228|day (qualifier value)|T079
+  C0332517|Diameter (qualifier value)|T032
+  C0011530|Deoxyribose|T123
+  C0442027|Oral (qualifier value)|T082
+Post-operative RT
+  2
+  C0032790|Postoperative Period|T079
+  C0241311|SURGERY, PAST|T033
+schedule
+  1
+  C0086960|Schedules|T170
+other five cycles
+  3
+  C0205394|Other|T080
+  C0205451|Five (qualifier value)|T081
+  C0439596|Cyclic (qualifier value)|T079
+days
+  1
+  C0439228|day (qualifier value)|T079
+days
+  1
+  C0439228|day (qualifier value)|T079
+haemato biochemical parameters
+  2
+  C0205474|Biochemical (qualifier value)|T169
+  C0449381|Observation parameter (observable entity)|T033
+ethical considerations
+  2
+  C0086267|Ethicists|T097
+  C0518609|CONSIDERATION|T033
+primary end-point
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0150100|ENDPOINT|T062
+  C0205225|Primary|T080
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+expected 5-year survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0679138|Expectations (qualifier value)|T041
+patients
+  1
+  C0030705|Patients|T101
+80% power
+  1
+  C0032863|Power (Psychology)|T068
+patients
+  1
+  C0030705|Patients|T101
+patient
+  1
+  C0030705|Patients|T101
+written consensus
+  3
+  C0043266|Writing|T090
+  C0376298|Consensus|T054
+  C0341628|Writer (occupation)|T097
+Preliminary results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0439611|Preliminary (qualifier value)|T079
+significant differences
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+age
+  1
+  C0001779|Age (qualifier value)|T079
+performance states
+  2
+  C0597198|Performance|T055
+  C1301808|State (environment)|T083
+type
+  1
+  C0332307|With type (attribute)|T169
+resection
+  2
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+abdominoperineal excision
+  3
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+  C0442411|Abdominoperineal approach (qualifier value)|T082
+pT
+  6
+  C0452253|Port - alcoholic beverage|T168
+  C0449719|Part (attribute)|T082
+  C0475311|Harbor|T073
+  C0935727|port-a-cath|T074
+  C0560012|pint|T081
+  C0680264|payment|T081
+pN
+  1
+  C0206417|Peripheral Nervous System|T022
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+grading
+  2
+  C0441800|Grade|T185
+  C0796573|Cancer cells grading system|T185
+patients
+  1
+  C0030705|Patients|T101
+median randomization time
+  4
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0034656|Random Allocation|T062
+  C0040223|Time|T079
+6 24 days
+  2
+  C0439228|day (qualifier value)|T079
+  C1271041|Other regular care provider|T097
+patients
+  1
+  C0030705|Patients|T101
+RT days
+  1
+  C0439228|day (qualifier value)|T079
+27 98 days
+  1
+  C0439228|day (qualifier value)|T079
+two
+  1
+  C0205448|Two (qualifier value)|T081
+seven relapses
+  2
+  C0035020|Relapse|T067
+  C0205453|Seven (qualifier value)|T081
+two
+  1
+  C0205448|Two (qualifier value)|T081
+three patients
+  2
+  C0030705|Patients|T101
+  C0205449|Three (qualifier value)|T081
+radiodermatitis
+  1
+  C0034561|Radiodermatitis|T037
+diarrhoea
+  1
+  C0011991|Diarrhea|T184
+radiodermatitis
+  1
+  C0034561|Radiodermatitis|T037
+diarrhoea
+  1
+  C0011991|Diarrhea|T184
+Grade IV
+  1
+  C0547054|Grade four rank|T081
+preliminary findings
+  2
+  C0243095|findings|T169
+  C0439611|Preliminary (qualifier value)|T079
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170

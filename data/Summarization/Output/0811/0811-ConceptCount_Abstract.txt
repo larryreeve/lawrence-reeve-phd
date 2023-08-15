@@ -1,0 +1,36 @@
+Natures	1	T169-Functional Concept
+Dosages (qualifier value)	1	T081-Quantitative Concept
+Vomiting	1	T184-Sign or Symptom
+Nature	1	T078-Idea or Concept
+Leukopenia	3	T047-Disease or Syndrome
+Modulated (qualifier value)	1	T082-Spatial Concept
+Frequency of Responses	1	T079-Temporal Concept
+Cancer treatment response rate	1	T079-Temporal Concept
+PALA	1	T116-Amino Acid, Peptide, or Protein
+regimen	1	T061-Therapeutic or Preventive Procedure
+Vomiting NOS (disorder)	1	T047-Disease or Syndrome
+Combined (qualifier value)	1	T080-Qualitative Concept
+Diarrhea	2	T184-Sign or Symptom
+Semustine	1	T109-Organic Chemical
+Interval (qualifier value)	1	T079-Temporal Concept
+Definite (qualifier value)	2	T080-Qualitative Concept
+Levamisole	2	T109-Organic Chemical
+Nausea	1	T033-Finding
+Primary operation (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Reaction (qualifier value)	2	T169-Functional Concept
+Thymidine	1	T123-Biologically Active Substance
+survival aspects	1	T081-Quantitative Concept
+Streptozocin	1	T195-Antibiotic
+Toxicity aspects	1	T081-Quantitative Concept
+Vincristine	1	T109-Organic Chemical
+Primary	1	T080-Qualitative Concept
+None (qualifier value)	2	T081-Quantitative Concept
+Goals	1	T170-Intellectual Product
+Previous (qualifier value)	1	T082-Spatial Concept
+Continuance of life	1	T052-Activity
+Hypotension	1	T033-Finding
+Combinations (physical object)	1	T073-Manufactured Object
+Thrombocytopenia	1	T047-Disease or Syndrome
+Toxic effect	1	T037-Injury or Poisoning
+ns (qualifier value)	1	T081-Quantitative Concept
+Patients	1	T101-Patient or Disabled Group

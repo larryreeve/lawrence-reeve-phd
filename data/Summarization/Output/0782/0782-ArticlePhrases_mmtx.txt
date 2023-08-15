@@ -1,0 +1,1046 @@
+Introduction
+  1
+  C1293116|Introduction (procedure)|T058
+Adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+significant treatment effects
+  4
+  C1280500|Effect (qualifier value)|T080
+  C0087111|Therapeutic procedure|T061
+  C0750502|Significant (qualifier value)|T078
+  C0039798|therapeutic aspects|T169
+meta-analysis to
+  1
+  C0920317|Meta-Analysis|T170
+More evidence
+  1
+  C0205172|More (qualifier value)|T081
+adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+route
+  1
+  C0449444|Route (attribute)|T082
+treatment duration
+  1
+  C0444921|Duration of treatment (qualifier value)|T079
+drugs to
+  1
+  C0013227|Pharmaceutical Preparations|T121
+Liver metastases
+  1
+  C0494165|Secondary malignant neoplasm of liver (disorder)|T191
+Overt liver metastases
+  1
+  C0494165|Secondary malignant neoplasm of liver (disorder)|T191
+first site
+  2
+  C0205145|Associated topography (attribute)|T082
+  C0205435|First (qualifier value)|T081
+liver
+  3
+  C0023899|Liver Extract|T123
+  C0023884|Liver|T023
+  C1278929|Entire liver|T023
+metastases
+  2
+  C1290850|Secondary malignant neoplastic disease (disorder)|T191
+  C0027627|Neoplasm Metastasis|T191
+adjuvant therapy
+  1
+  C0677850|adjuvant therapy|T061
+tumour burden
+  1
+  C0027651|Neoplasms|T191
+Surgical stress
+  3
+  C0723460|Stress bismuth subsalicylate|T109
+  C0038895|Surgical aspects|T169
+  C0038435|Stress|T033
+anaesthetics
+  2
+  C0002932|Anesthetics|T121
+  C0002930|Anesthesiology|T091
+other drugs
+  2
+  C0205394|Other|T080
+  C0013227|Pharmaceutical Preparations|T121
+hypercoagulability
+  1
+  C0398623|Thrombophilia|T047
+blood transfusions
+  1
+  C0005841|Blood Transfusion|T061
+surgery induced impairment
+  6
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0684336|Impaired health|T033
+  C0231171|Physical impairment|T046
+  C0205263|Induced (qualifier value)|T169
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+perioperative period
+  3
+  C0332182|Periodic (qualifier value)|T079
+  C0231379|At risk for joint contractures (finding)|T033
+  C0231393|At risk for cognitive impairment (finding)|T033
+vulnerable phase
+  4
+  C0205390|Phase (qualifier value)|T079
+  C0021501|injuries|T037
+  C0332797|Wounded|T169
+  C0043250|Injury wounds|T037
+Intraportal injection
+  2
+  C0021485|Injections|T061
+  C1272883|Injection (product)|T073
+liver metastases
+  1
+  C0494165|Secondary malignant neoplasm of liver (disorder)|T191
+Interest
+  1
+  C0543488|Interested (finding)|T041
+several prospective randomised comparisons
+  2
+  C0443302|Several (qualifier value)|T081
+  C0034656|Random Allocation|T062
+Swiss Group
+  3
+  C0241315|Swiss (ethnic group)|T098
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+started one
+  2
+  C1272689|Started (qualifier value)|T080
+  C0205447|One (qualifier value)|T081
+effectiveness
+  2
+  C0205414|Effective (qualifier value)|T080
+  C1280519|Effectiveness (qualifier value)|T170
+mitomycin
+  2
+  C0026254|Mitomycins|T109
+  C0002475|Mitomycin|T195
+initial response rate
+  3
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+  C0205265|Initial (qualifier value)|T079
+Patients
+  1
+  C0030705|Patients|T101
+methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+patients
+  1
+  C0030705|Patients|T101
+rectum
+  2
+  C0034896|Rectum|T023
+  C1278926|Entire rectum|T023
+curative resection
+  2
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+Patients
+  1
+  C0030705|Patients|T101
+adjuvant treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0001551|Adjuvants, Immunologic|T129
+  C0039798|therapeutic aspects|T169
+control group
+  1
+  C0009932|Control Groups|T096
+immediate postoperative intraportal infusion
+  2
+  C0574032|Infusion (procedure)|T061
+  C0205253|Immediate (qualifier value)|T079
+m fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+units heparin
+  2
+  C0439148|Unit|T081
+  C0019134|Heparin|T123
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+m mitomycin
+  2
+  C0026254|Mitomycins|T109
+  C0002475|Mitomycin|T195
+Access
+  1
+  C0444454|Access (attribute)|T082
+Portal phlebography
+  2
+  C0031545|Phlebography|T060
+  C0205054|Hepatic|T029
+next day to
+  2
+  C0439228|day (qualifier value)|T079
+  C0205117|Juxta-posed (qualifier value)|T082
+correct position
+  2
+  C0733755|Positioning Attribute|T082
+  C0719517|Correct|T109
+Preoperative investigations
+  2
+  C0445204|Preoperative (qualifier value)|T032
+  C0430007|Clinical investigation|T058
+colonoscopy
+  1
+  C0009378|Colonoscopy|T060
+abdominal ultrasound
+  1
+  C0203464|Ultrasonography of abdomen (procedure)|T060
+chest radiography
+  1
+  C0202783|Radiographic procedure on chest (procedure)|T060
+haematology
+  2
+  C0018943|Hematology|T091
+  C0200627|Hematology procedure|T059
+liver function tests
+  1
+  C0023901|Liver Function Tests|T059
+serum carcinoembryonic antigen measurement
+  2
+  C0201933|Carcinoembryonic antigen measurement|T059
+  C0229671|Serum|T024
+blood counts
+  3
+  C0005767|Blood|T024
+  C0005768|In Blood|T031
+  C0439157|counts (qualifier value)|T081
+liver function tests
+  1
+  C0023901|Liver Function Tests|T059
+42.Resected tissue
+  2
+  C0040300|Tissues|T024
+  C0015252|Excision|T061
+Dukes classification
+  3
+  C0008903|Taxonomic|T185
+  C0008902|Classification|T185
+  C0678229|Classification of information|T057
+Astler Coller modification
+  1
+  C0205349|Altered (qualifier value)|T169
+surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+pathology documents
+  4
+  C0677042|Pathology processes|T046
+  C0205469|Pathological aspects|T169
+  C1301746|Documents (qualifier value)|T170
+  C0030664|Pathology|T091
+pathologists
+  1
+  C0334866|Medical pathologist (occupation)|T097
+end
+  1
+  C0444930|End (qualifier value)|T082
+Patients
+  1
+  C0030705|Patients|T101
+tumour
+  1
+  C0027651|Neoplasms|T191
+ascending
+  1
+  C0205385|Ascending (qualifier value)|T080
+descending
+  1
+  C0205386|Descending (qualifier value)|T080
+sigmoid colon
+  1
+  C0227391|Sigmoid colon|T023
+rectum
+  2
+  C0034896|Rectum|T023
+  C1278926|Entire rectum|T023
+participating clinic
+  3
+  C0679646|participant|T098
+  C0442592|Clinic (environment)|T093
+  C0679823|participation|T055
+eligible patients
+  1
+  C0030705|Patients|T101
+patients
+  1
+  C0030705|Patients|T101
+liver metastases
+  1
+  C0494165|Secondary malignant neoplasm of liver (disorder)|T191
+incomplete resection
+  4
+  C0205257|Incomplete|T081
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+  C0728938|Partial (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+adenocarcinoma
+  1
+  C0001418|Adenocarcinoma|T191
+lymphoma
+  1
+  C0024299|Lymphoma|T191
+ovarian cancer
+  2
+  C0029925|Ovarian Carcinoma|T191
+  C1140680|Malignant neoplasm of ovary|T191
+urothelial cancer
+  4
+  C0998265|Cancer Genus|T009
+  C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+  C0006826|Malignant Neoplasms|T191
+  C0227598|Urothelium|T024
+others
+  1
+  C0205394|Other|T080
+protocol
+  1
+  C0442711|Protocols documentation|T170
+radiation therapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+randomised patients
+  2
+  C0030705|Patients|T101
+  C0034656|Random Allocation|T062
+survival months
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0439231|month (qualifier value)|T079
+Examinations
+  1
+  C0579007|Examination - action (qualifier value)|T169
+blood counts
+  3
+  C0005767|Blood|T024
+  C0005768|In Blood|T031
+  C0439157|counts (qualifier value)|T081
+serum carcinoembryonic antigen measurement
+  2
+  C0201933|Carcinoembryonic antigen measurement|T059
+  C0229671|Serum|T024
+renal function tests
+  1
+  C0022662|Kidney Function Tests|T059
+Hepatic ultrasonography
+  4
+  C0412555|Ultrasound scan - obstetric|T060
+  C0175676|use of ultrasonography|T060
+  C0205054|Hepatic|T029
+  C0041618|Ultrasonography|T060
+chest radiography
+  1
+  C0202783|Radiographic procedure on chest (procedure)|T060
+colonoscopy
+  1
+  C0009378|Colonoscopy|T060
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+events
+  1
+  C0441471|Events (event)|T051
+Time
+  1
+  C0040223|Time|T079
+recurrent disease
+  1
+  C0277556|Recurrent disease (finding)|T047
+Disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+appearance
+  2
+  C0700364|Appearance|T080
+  C0233426|Personal appearance|T032
+death
+  1
+  C0011065|Cessation of life|T040
+first
+  1
+  C0205435|First (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+metastases
+  2
+  C1290850|Secondary malignant neoplastic disease (disorder)|T191
+  C0027627|Neoplasm Metastasis|T191
+incomplete resection
+  4
+  C0205257|Incomplete|T081
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+  C0728938|Partial (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+to follow-up
+  1
+  C0589120|Follow-up status (finding)|T169
+others
+  1
+  C0205394|Other|T080
+observation times
+  5
+  C0700325|Patient observation|T061
+  C0392761|Timed (qualifier value)|T169
+  C0302523|Observation in research|T062
+  C0040223|Time|T079
+  C0449243|Timing (attribute)|T079
+5-year disease-free survival
+  2
+  C0439234|year (qualifier value)|T079
+  C0242793|Disease-Free Survival|T081
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+standard errors
+  3
+  C0038137|standards characteristics|T170
+  C0743559|ERROR|T080
+  C0175675|Standards of Weights and Measures|T080
+estimation
+  1
+  C0680844|estimation|T041
+ratio
+  1
+  C0456603|Ratio (property) (qualifier value)|T170
+events
+  1
+  C0441471|Events (event)|T051
+Hazard ratios
+  2
+  C0598697|hazard|T080
+  C0456603|Ratio (property) (qualifier value)|T170
+colon
+  2
+  C0009368|Colon|T023
+  C1281569|Entire colon|T023
+rectum
+  2
+  C0034896|Rectum|T023
+  C1278926|Entire rectum|T023
+positive
+  1
+  C0205159|Positive (qualifier value)|T080
+negative
+  1
+  C0205160|Negative (qualifier value)|T080
+age
+  1
+  C0001779|Age (qualifier value)|T079
+four groups
+  2
+  C0205450|Four (qualifier value)|T081
+  C0441833|Groups (qualifier value)|T170
+75th percentiles
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+63,and years
+  1
+  C0439234|year (qualifier value)|T079
+probability values
+  2
+  C0042295|VALUING|T080
+  C0033204|Probability|T081
+distribution
+  2
+  C0520511|Distributing|T078
+  C0037775|Spatial Distribution|T082
+two treatment groups
+  2
+  C0036669|Sensitivity Training Groups|T065
+  C0205448|Two (qualifier value)|T081
+equal lengths
+  2
+  C0439537|Lengths (qualifier value)|T081
+  C0205163|Equal (qualifier value)|T080
+Subgroup analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+node status
+  2
+  C0449438|Status (attribute)|T080
+  C0746922|NODE|T023
+localisation
+  1
+  C0475264|Localization - action (qualifier value)|T169
+colon
+  2
+  C0009368|Colon|T023
+  C1281569|Entire colon|T023
+rectum
+  2
+  C0034896|Rectum|T023
+  C1278926|Entire rectum|T023
+multivariate methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+reported p values
+  2
+  C0700287|Reporting|T058
+  C0879541|p-value|T081
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Mitomycin
+  2
+  C0026254|Mitomycins|T109
+  C0002475|Mitomycin|T195
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+difficulties
+  1
+  C1299586|Has difficulty doing (qualifier value)|T033
+other technical problems
+  4
+  C0205394|Other|T080
+  C0025664|Methodology|T170
+  C0449851|Techniques|T170
+  C0033213|Problem (finding)|T033
+patient refusal
+  1
+  C0030705|Patients|T101
+various other reasons
+  3
+  C0205394|Other|T080
+  C0684328|Reasoning|T041
+  C0440102|Various (substance)|T130
+analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+Results
+  1
+  C1274040|Result (navigational concept)|T169
+group
+  2
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+perioperative portal chemotherapy
+  6
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0231379|At risk for joint contractures (finding)|T033
+  C0013216|Pharmacotherapy|T061
+  C0205054|Hepatic|T029
+  C0231393|At risk for cognitive impairment (finding)|T033
+significantly higher 5-year disease-free survival
+  2
+  C0750502|Significant (qualifier value)|T078
+  C0242793|Disease-Free Survival|T081
+hazard ratio
+  2
+  C0598697|hazard|T080
+  C0456603|Ratio (property) (qualifier value)|T170
+events
+  1
+  C0441471|Events (event)|T051
+patients
+  1
+  C0030705|Patients|T101
+5-year overall survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0439234|year (qualifier value)|T079
+significant advantage
+  2
+  C0308269|ADVANTAGE|T131
+  C0750502|Significant (qualifier value)|T078
+disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+advantage
+  1
+  C0308269|ADVANTAGE|T131
+Later curves
+  2
+  C0205087|Late (qualifier value)|T079
+  C0205134|Curved (qualifier value)|T082
+time deaths
+  2
+  C0040223|Time|T079
+  C0011065|Cessation of life|T040
+median age
+  3
+  C0001779|Age (qualifier value)|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+Subgroup analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+nodal status
+  2
+  C0443268|Nodal (qualifier value)|T082
+  C0449438|Status (attribute)|T080
+Treatment outcome
+  2
+  C0085415|Treatment outcome|T080
+  C0599860|Non-human treatment outcome|T080
+infusion group
+  3
+  C0574032|Infusion (procedure)|T061
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+fewer local recurrences
+  3
+  C0205276|Local (qualifier value)|T082
+  C0034897|Recurrence|T067
+  C0205388|Few (qualifier value)|T081
+liver metastases
+  1
+  C0494165|Secondary malignant neoplasm of liver (disorder)|T191
+local relapses
+  2
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+infusion treatment
+  3
+  C0574032|Infusion (procedure)|T061
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+liver recurrences
+  4
+  C0023899|Liver Extract|T123
+  C0023884|Liver|T023
+  C1278929|Entire liver|T023
+  C0034897|Recurrence|T067
+colon cancer subgroups
+  1
+  C0007102|Malignant tumor of colon|T191
+30-day postoperative mortality rate
+  2
+  C0439228|day (qualifier value)|T079
+  C0026565|Mortality Vital Statistics|T081
+10/533 patients
+  1
+  C0030705|Patients|T101
+patient
+  1
+  C0030705|Patients|T101
+patients
+  1
+  C0030705|Patients|T101
+patients
+  1
+  C0030705|Patients|T101
+cytotoxic infusion
+  3
+  C0574032|Infusion (procedure)|T061
+  C0010868|Cytotoxin|T123
+  C0596402|Cytotoxicity|T049
+infusion group
+  3
+  C0574032|Infusion (procedure)|T061
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+higher rate
+  3
+  C0235146|Euphoric mood|T041
+  C0871208|Rating|T062
+  C0205250|High|T080
+haemorrhage
+  1
+  C0019080|Hemorrhage|T046
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+significant effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+peritonitis
+  1
+  C0031154|Peritonitis|T047
+Transient leucopenia
+  3
+  C0205374|Transitory|T079
+  C0040704|Transient Population Group|T098
+  C0023530|Leukopenia|T047
+X10 white blood cells
+  1
+  C0023516|Leukocytes|T025
+white blood cell count
+  1
+  C0023508|White Blood Cell Count procedure|T059
+control group
+  1
+  C0009932|Control Groups|T096
+White blood cell counts
+  2
+  C0023508|White Blood Cell Count procedure|T059
+  C0427512|White blood cell count laboratory result|T034
+patient
+  1
+  C0030705|Patients|T101
+only cases
+  1
+  C0868928|Case (qualifier value)|T169
+X L
+  12
+  C0442022|Lumbar (qualifier value)|T082
+  C0392223|Lights, manufactured|T074
+  C0078606|xanthosine|T114
+  C0023870|Lithium|T196
+  C0336769|Lighter, device (physical object)|T073
+  C0023693|Light|T070
+  C0302908|Liquid substance|T167
+  C0023700|Lighting|T068
+  C1304698|Liquid (finding)|T033
+  C0205091|Left (qualifier value)|T082
+  C1306462|Light color|T169
+  C0475211|L (qualifier value)|T081
+mean platelet count
+  3
+  C0444504|Mean (qualifier value)|T081
+  C0032181|Platelet Count|T059
+  C1287267|Finding of platelet count (finding)|T034
+abnormalities
+  2
+  C0000769|teratologic|T169
+  C0000768|Congenital Abnormality|T019
+Discussion
+  1
+  C0557061|Discussion (procedure)|T061
+adjuvant portal chemotherapy
+  2
+  C0205054|Hepatic|T029
+  C0085533|Chemotherapy, Adjuvant|T061
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+increase survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0442805|Increase (qualifier value)|T169
+portal catheter
+  2
+  C0205054|Hepatic|T029
+  C0085590|Catheter|T074
+Adjuvant portal chemotherapy
+  2
+  C0205054|Hepatic|T029
+  C0085533|Chemotherapy, Adjuvant|T061
+overall reduction
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+al
+  1
+  C0002367|Aluminum|T196
+consistent reduction
+  3
+  C0332290|Consistent with (qualifier value)|T078
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+previous findings
+  2
+  C0243095|findings|T169
+  C0205156|Previous (qualifier value)|T082
+Adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+risk
+  1
+  C0035647|Risk|T080
+risk
+  1
+  C0035647|Risk|T080
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+multicentre trials
+  1
+  C0206012|Multicenter Trials|T062
+excluded patients
+  2
+  C0030705|Patients|T101
+  C0332196|Exclude (qualifier value)|T169
+adjuvant treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0001551|Adjuvants, Immunologic|T129
+  C0039798|therapeutic aspects|T169
+Three controlled trials
+  2
+  C0702113|Controlled (qualifier value)|T169
+  C0205449|Three (qualifier value)|T081
+effects
+  1
+  C1280500|Effect (qualifier value)|T080
+heparin
+  1
+  C0019134|Heparin|T123
+Previous investigations
+  2
+  C0205156|Previous (qualifier value)|T082
+  C0430007|Clinical investigation|T058
+improvements
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+reduction
+  2
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+Dukes C
+  1
+  C0007886|Cesium|T196
+portal adjuvant chemotherapy
+  2
+  C0205054|Hepatic|T029
+  C0085533|Chemotherapy, Adjuvant|T061
+treatment control group
+  3
+  C0087111|Therapeutic procedure|T061
+  C0009932|Control Groups|T096
+  C0039798|therapeutic aspects|T169
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+Oxford Colorectal Cancer Cooperative Group
+  2
+  C0677877|cooperative group|T093
+  C0009402|Colorectal Cancer|T191
+analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+results
+  1
+  C1274040|Result (navigational concept)|T169
+disease-free survival advantage
+  2
+  C0308269|ADVANTAGE|T131
+  C0242793|Disease-Free Survival|T081
+portal adjuvant therapy
+  2
+  C0677850|adjuvant therapy|T061
+  C0205054|Hepatic|T029
+none
+  1
+  C0549184|None (qualifier value)|T081
+statistically significant overall effect
+  3
+  C0282416|Overall [Publication Type]|T170
+  C1280500|Effect (qualifier value)|T080
+  C0237881|Statistical Significance|T081
+al
+  1
+  C0002367|Aluminum|T196
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+local recurrences
+  2
+  C0205276|Local (qualifier value)|T082
+  C0034897|Recurrence|T067
+liver metastases
+  1
+  C0494165|Secondary malignant neoplasm of liver (disorder)|T191
+other distant metastases
+  2
+  C0205394|Other|T080
+  C1269798|pM category (observable entity)|T201
+randomised three arm study
+  6
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0034656|Random Allocation|T062
+  C0003792|Arm|T029
+  C0205449|Three (qualifier value)|T081
+  C0446516|Upper arm|T029
+control
+  1
+  C0243148|control|T169
+portal
+  1
+  C0205054|Hepatic|T029
+systemic adjuvant therapy
+  4
+  C0205373|Systemic (qualifier value)|T169
+  C0677850|adjuvant therapy|T061
+  C0677959|systemic therapy|T061
+  C0001551|Adjuvants, Immunologic|T129
+Analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+postoperative complications
+  1
+  C0032787|Postoperative Complications|T046
+more side-effects
+  2
+  C0205172|More (qualifier value)|T081
+  C0001688|adverse effects|T037
+portal
+  1
+  C0205054|Hepatic|T029
+control groups
+  1
+  C0009932|Control Groups|T096
+median observation time
+  5
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0040223|Time|T079
+years
+  1
+  C0439234|year (qualifier value)|T079
+first survival analysis
+  2
+  C0038953|Survival Analysis|T081
+  C0205435|First (qualifier value)|T081
+al’s study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+colleagues study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+patient years old
+  4
+  C0677546|Old episode|T079
+  C0030705|Patients|T101
+  C0580836|Old|T079
+  C0439234|year (qualifier value)|T079
+insulin-dependent diabetic man
+  4
+  C0011854|Diabetes Mellitus, Insulin-Dependent|T047
+  C0086418|Homo sapiens|T016
+  C0025266|Male population group|T098
+  C0024554|Male gender|T032
+gram-negative septicaemia
+  1
+  C0036685|Gram-negative septicemia NOS (disorder)|T047
+leucopenia
+  1
+  C0023530|Leukopenia|T047
+patients
+  1
+  C0030705|Patients|T101
+high risk
+  3
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+  C0035647|Risk|T080
+obesity
+  1
+  C0028754|Obesity|T047
+pulmonary disease
+  1
+  C0024115|Lung diseases|T047
+overall operative mortality
+  5
+  C0282416|Overall [Publication Type]|T170
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0026565|Mortality Vital Statistics|T081
+  C0026566|Aspects of mortality statistics|T170
+  C0038895|Surgical aspects|T169
+low incidence
+  3
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+  C0205251|Low (qualifier value)|T080
+advances
+  1
+  C0725066|Advance|T074
+safe use
+  2
+  C0036043|Safety|T068
+  C0042153|utilization|T081
+own findings
+  1
+  C0243095|findings|T169
+Swiss Group
+  3
+  C0241315|Swiss (ethnic group)|T098
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+perioperative adjuvant chemotherapy
+  3
+  C0231379|At risk for joint contractures (finding)|T033
+  C0085533|Chemotherapy, Adjuvant|T061
+  C0231393|At risk for cognitive impairment (finding)|T033
+question
+  1
+  C0750481|QUESTIONABLE|T078
+systemic chemotherapy
+  4
+  C0205373|Systemic (qualifier value)|T169
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+greater survival advantage
+  4
+  C0443228|Greater (qualifier value)|T081
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0308269|ADVANTAGE|T131
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+question soon
+  1
+  C0876928|Questioning|T041

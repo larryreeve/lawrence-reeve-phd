@@ -1,0 +1,116 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1197\1197-Abstract-A.txt data\input\1197\1197-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...118047 ms
+
+Chaining summary file data\input\1197\1197-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  21719 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\1197\1197-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  354031 ms
+	Chain processing time: 31 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.07
+	Std Dev:      3.23
+	Strong Score: 7.54
+
+	T081-Quantitative Concept: 14.00
+	T169-Functional Concept: 9.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    19.17
+	Std Dev:      77.44
+	Strong Score: 174.05
+
+	T061-Therapeutic or Preventive Procedure: 266.00
+	T081-Quantitative Concept: 432.00
+	T169-Functional Concept: 420.00
+	T170-Intellectual Product: 198.00
+	Recall: Chain with no concepts from Summary: T170-Intellectual Product
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 4
+	Number of concepts in Summary: 12
+
+	Number of strong chains in Full-text with concepts from Summary: 3
+	  Recall: 0.75
+
+	Number of summary concepts having strong chains in full-text: 12
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 11)
+-------------
+
+0) Adjuvant Chemotherapy for Adult Soft Tissue Sarcomas of the Extremities and Girdles, Results of the Italian Randomized Cooperative Trial.
+1) Adjuvant chemotherapy for soft tissue sarcoma is controversial because previous trials reported conflicting results. 
+2) Results, After a median follow-up of 59 months, 60 patients had relapsed and 48 died (28 and 20 in the treatment arm and 32 and 28 in the control arm, respectively). 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,47 of 187)
+-------------
+
+0) Their natural history is partially known and clinical decisions rely on a few simple and well-recognized prognostic factors such as size, grading, and location.
+1) The treatment of limb sarcomas mainly relies on a combined-modality approach, after the demonstration that pre-or postoperative radiation and conservative surgery led to local control in a high proportion of patients.4 In fact, limb-sparing procedures allow an 85% to 90% local dis-ease-free survival (DFS) rate and demolitive surgery now represents only 5% to 10% of the operations in comparison with the 50% survival rate of the 1960s to 1970s.
+2) Nevertheless, a great proportion of high-risk soft tissue sarcoma patients develop distant metastases during their lives. 
+3) In the early 1960s, this clinical behaviour prompted the introduction of adjuvant chemotherapy trials with the aim of increasing DFS and possibly overall survival (OS). 
+4) The first generation of randomized adjuvant trials have recently been reviewed and a meta-analysis performed on the basis of updated patient records. 
+5) The main findings were statistical evidence in favor of chemotherapy for local, metastasis, and overall DFS (P = .016, .0003, and .0001, respectively) and a trend towards increased OS (P = .12). 
+6) A second generation of randomized, control-based, adjuvant trials started in the early 1990s. 
+7) This time of analysis was chosen because it is generally agreed to be the period in which the great majority of events appear in a patient population with high-risk extremity sarcomas. 
+8) PATIENTS AND METHODS 
+9) Study Design and Staging 
+10) After a positive biopsy for sarcoma, all patients underwent complete staging and programmed local treatment. 
+11) The patients who satisfied all the selection criteria were then stratified and subsequently randomized to a control or chemotherapy group. 
+12) All the patients gave their informed written consent before the randomization. 
+13) The staging consisted of a computed tomography (CT) scan and/or magnetic resonance imaging of the primary lesion, and a CT scan of the thorax, other specific tests (angiography, bone scan, CT scan of the brain, and so on) were performed only in the case of clinical suspicion. 
+14) Selection Criteria 
+15) Local Treatment 
+16) Wide resection followed by postoperative radiation therapy (64 to 66 Gy in 32 to 33 fractions, 5 fractions per week) was used for patients amenable to conservative surgery with negative margins. 
+17) Preoperative radiation therapy (44.8 Gy in 28 fractions in 2.5 weeks, 160 cGy/ fraction, 2 fractions per day) followed by resection with or without a post-or intraoperative boost (16 to 18 Gy for positive or close surgical margins) was used for tumors extending to critical structures for which conservative surgical resection was expected to be inadequate and amputation would usually have to be performed to obtain negative margins. 
+18) A dose reduction scheme was defined to avoid excessive toxicity. 
+19) In the case of incomplete hematologic recovery (defined as WBC < 4,000/mL and platelets [PLTS] < 100.000/mL), treatment was postponed by one or more weeks, furthermore, on complete hematologic recovery, a dose reduction of EPI was applied depending on the observed nadirs (WBC > 1,000/mL and PLTS > 75.000/mL, IFO and EPI doses both 100%, WBC > 500/mL and PLTS < 50.000/mL, IFO dose 100% and EPI dose 75%, WBC < 500/mL and PLTS < 50.000/mL, IFO dose 100% and EPI dose 50%). 
+20) Toxicity and Follow-Up 
+21) The same procedures were repeated every 3 months during the third year and every 6 months during the fourth and fifth year of follow-up, with a CT scan of the thorax and/or primary site performed at every other visit. 
+22) Statistical Considerations 
+23) On the basis of the estimated proportions of patients free from metastatic disease 2 years after diagnosis (60% in the treated group v 40% in the control group), it was estimated that 95 patients were required per arm (beta = 0.80, alpha = 0.05). 
+24) An interim analysis was planned when half of the patients had been enrolled. 
+25) All centers faxed protocol-specific eligibility checklists to the statistics office in Aviano, patients were stratified using a four-block stratification by primary tumor (diameter < 10 cm v >= 10 cm) and recurrent tumor (diameter < 10 cm v >= 10 cm) and randomized to treatment or control groups. 
+26) The checklist with the allocated groups was sent back to the responsible physician. 
+27) The study period was calculated from randomization to the first occurrence of the considered events (local recurrence alone, metastasis with or without local recurrence, death due to disease, toxic death). 
+28) Univariate analyses to study the association between these end points and pathologic factors were based on the same estimator, whereas the Cox’s proportional hazard model13 was used for multivariate analyses. 
+29) The present article deals with a minimum observation time of 36 months calculated from the date of randomization of the last patient (11 of 96). 
+30) However, the median diameter is the same in the two groups, and the difference in range is caused by a small number (three patients) of large tumors in the control group. 
+31) A total of 223 cycles were administered, 62 (28%) at a reduced EPI dose (12% of the total cycles had doses reduced to 75% and 16% were reduced to 50%), contrary to the protocol, IFO was also reduced to 75% and 50% of the planned dose in 3% and 1% of the total cycles, respectively. 
+32) In 8% of these cases, the delay was between 7 and 14 days, thus representing the real recovery time from previous toxicity. 
+33) The average median relative dose-intensity (DI) of the program was 83.3% (Table 2), 63% of the cycles were given at a DI of >= 80% and 48% at a DI of >= 90%. 
+34) The data from the first cycle clearly indicate the aggressiveness of the program, 35% of the patients experienced grade 4 leukopenia, and 4% experienced grade 4 thrombocytopenia. 
+35) From the third cycle, grade 4 leukopenia and thrombocytopenia were less frequent because of the applied dose reductions, and anemia became the most important hematologic side effect, requiring repeated packed red cell transfusions in 24% of the patients. 
+36) Neutropenic fever was also mostly observed after cycles 1, 2, and 3 (15 of 16 episodes), with 9%, 13%, and 11%, respectively, of the patients being admitted to hospital for IV antibiotics. 
+37) The ranges for the observation time (ie, the time between randomization and date of last visit) among censored patients who did not die were 28 to 84 months, 39 to 84 months, and 28 to 81 months, respectively. 
+38) Furthermore, nine patients developed metachronous relapse at a different site (three were local relapse after a metastasis and six were distant relapses after a previous local relapse). 
+39) Local DFS 
+40) The cumulative incidence function estimates at 2 years were 0% and 10% for the treatment and the control arms, respectively (P = .02), and at 4 years, they were 6% and 17%, respectively (P = .09) (Table 5). 
+41) Metastasis-Free Survival 
+42) One patient in the control group died without evidence of disease at 28 months and was considered as censored for overall survival. 
+43) The regimen used in the present study represents the highest dose-intensity ever tried in an adjuvant setting for soft tissue sarcomas. 
+44) It is directly derived from consecutive phase I-II dose-intensification trials carried out at the Centro di Riferimento Oncologico of Aviano.27,31 The epirubicin dose level of 60 mg/m2 X 2 days represents the step before the maximum-tolerated dose established in those trials (70 mg/m2 epirubicin X 2 days) when given in combination with fixed full doses of ifosfamide (1.8 g/m2/d X 5 days) in advanced cases of soft tissue sarcoma. 
+45) However, because our study was designed in 1991 and activated in June 1992 and included only 104 patients, it is possible that an imbalance of other prognostic factors not included in Table 1 could have led to the difference in outcome between the two groups. 
+46) Therefore, the observation time of a given study population could be misleading, as reported for some of the first-generation trials.20,21 

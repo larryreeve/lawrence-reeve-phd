@@ -1,0 +1,34 @@
+Ratio (property) (qualifier value)	1	T170-Intellectual Product
+Interpretation (attribute)	1	T170-Intellectual Product
+GENERAL OPERATIVE PROCEDURES	1	T061-Therapeutic or Preventive Procedure
+Out (qualifier value)	1	T082-Spatial Concept
+Definitive (qualifier value)	1	T079-Temporal Concept
+Surgery specialty	1	T091-Biomedical Occupation or Discipline
+Survival Rate	1	T081-Quantitative Concept
+Recurrence	2	T067-Phenomenon or Process
+Preoperative (qualifier value)	1	T032-Organism Attribute
+findings	1	T169-Functional Concept
+MST	1	T109-Organic Chemical
+Late (qualifier value)	1	T079-Temporal Concept
+radiotherapeutic	2	T170-Intellectual Product
+Increase (qualifier value)	1	T169-Functional Concept
+Random Allocation	1	T062-Research Activity
+month (qualifier value)	2	T079-Temporal Concept
+Complication Aspects	1	T046-Pathologic Function
+Complication	1	T046-Pathologic Function
+survival aspects	2	T081-Quantitative Concept
+Result (navigational concept)	4	T169-Functional Concept
+Methods	1	T170-Intellectual Product
+Operable (qualifier value)	1	T080-Qualitative Concept
+hazard	1	T080-Qualitative Concept
+Radiation therapy	2	T061-Therapeutic or Preventive Procedure
+Significant (qualifier value)	1	T078-Idea or Concept
+Surgical aspects	1	T169-Functional Concept
+Methodology	1	T170-Intellectual Product
+benefits	1	T081-Quantitative Concept
+Carcinoma	1	T191-Neoplastic Process
+Numbers (qualifier value)	1	T170-Intellectual Product
+Continuance of life	2	T052-Activity
+Local (qualifier value)	2	T082-Spatial Concept
+Rating	1	T062-Research Activity
+Patients	2	T101-Patient or Disabled Group

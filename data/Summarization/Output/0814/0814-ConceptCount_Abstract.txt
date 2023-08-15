@@ -1,0 +1,36 @@
+Pharmacotherapy	1	T061-Therapeutic or Preventive Procedure
+Related (finding)	1	T033-Finding
+X-Ray Computed Tomography	2	T060-Diagnostic Procedure
+Morbidity - disease rate	1	T102-Group Attribute
+Chemotherapy-Oncologic Procedure	1	T061-Therapeutic or Preventive Procedure
+Combined (qualifier value)	1	T080-Qualitative Concept
+SURGERY, PAST	1	T033-Finding
+pharmacotherapeutic	1	T169-Functional Concept
+Recurrence	1	T067-Phenomenon or Process
+Overall [Publication Type]	1	T170-Intellectual Product
+Disease-Free Survival	2	T081-Quantitative Concept
+radiotherapeutic	1	T170-Intellectual Product
+Levamisole	1	T109-Organic Chemical
+Therapeutic procedure	1	T061-Therapeutic or Preventive Procedure
+Primary operation (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Effective (qualifier value)	1	T080-Qualitative Concept
+Distant (qualifier value)	1	T082-Spatial Concept
+survival aspects	2	T081-Quantitative Concept
+Stillness (finding)	1	T033-Finding
+Toxicity aspects	3	T081-Quantitative Concept
+therapeutic aspects	1	T169-Functional Concept
+Relapse	1	T067-Phenomenon or Process
+Methods	1	T170-Intellectual Product
+Metastatic to	1	T169-Functional Concept
+ENDPOINT	2	T062-Research Activity
+Radiation therapy	1	T061-Therapeutic or Preventive Procedure
+Secondary to	1	T079-Temporal Concept
+Before values (qualifier value)	1	T079-Temporal Concept
+Primary	1	T080-Qualitative Concept
+morbidity aspects	1	T170-Intellectual Product
+Astragalus species poisoning (disorder)	1	T037-Injury or Poisoning
+Postoperative Period	1	T079-Temporal Concept
+Continuance of life	2	T052-Activity
+Effectiveness (qualifier value)	1	T170-Intellectual Product
+Regional (qualifier value)	1	T082-Spatial Concept
+Toxic effect	3	T037-Injury or Poisoning

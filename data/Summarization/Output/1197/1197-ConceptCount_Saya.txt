@@ -1,0 +1,131 @@
+Proportional (qualifier value)	1
+Risk	1
+survival aspects	1
+Clinical (qualifier value)	1
+Second (qualifier value)	2
+findings	1
+Radicals (chemistry)	1
+Entire limb	1
+Limb structure	1
+Dosages (qualifier value)	1
+Median Statistical Measurement	2
+Large	1
+APC Gene	2
+Set of compartments	1
+Before values (qualifier value)	1
+Cessation of life	2
+Continuance of life	1
+cooperative study	1
+Introduction (procedure)	2
+New (qualifier value)	1
+control	2
+Epithelium	1
+Overall [Publication Type]	3
+Result (navigational concept)	2
+Surgery specialty	3
+Conflict (Psychology)	1
+Previous (qualifier value)	1
+week (qualifier value)	1
+GOLD STANDARD	1
+Excessive (qualifier value)	1
+Single event (qualifier value)	1
+Few (qualifier value)	1
+Absolute (qualifier value)	2
+Italian language (qualifier value)	1
+Follow-up status (finding)	1
+Time	1
+Reduction (chemical)	2
+Hour	2
+Total (qualifier value)	1
+Toxicity aspects	1
+Demonstrator (occupation)	1
+Improving (qualifier value)	3
+Infusion (procedure)	1
+Dates	1
+Improved (qualifier value)	3
+Room of building - Study	3
+month (qualifier value)	5
+Radiation therapy	1
+Therapeutic procedure	3
+Excision	3
+Recurrence	1
+Compleat	1
+Function Axis	1
+Conservatism	1
+Analysis of substances	2
+Indications	1
+Arm	3
+Significant (qualifier value)	1
+radiotherapeutic	1
+pharmacotherapeutic	2
+Fractions of (qualifier value)	1
+Surgical aspects	3
+Widened structure (morphologic abnormality)	2
+Started (qualifier value)	1
+Demonstrable (qualifier value)	1
+Deferred (qualifier value)	1
+Commonwealth of Independent States	1
+Excision - action (qualifier value)	3
+Radical (qualifier value)	1
+Procedures	1
+Restricted (qualifier value)	1
+Behavior	1
+Local (qualifier value)	2
+Radiation	1
+Analysis	2
+First (qualifier value)	2
+Possible	1
+milligram	2
+Closed approach	1
+Methodology	1
+Long (qualifier value)	1
+Minute of time	1
+With staging (attribute)	1
+Primary	2
+Scientific Study	3
+physiological aspects	1
+Distant (qualifier value)	1
+Meta-Analysis	1
+Programs [Publication Type]	1
+therapeutic aspects	3
+Short (qualifier value)	1
+Chemotherapy, Adjuvant	1
+Count of entities (property) (qualifier value)	2
+Adjuvants, Immunologic	1
+Role	1
+benefits	1
+Skeletal bone	6
+One (qualifier value)	1
+GENERAL OPERATIVE PROCEDURES	3
+Attenuated by (contextual qualifier) (qualifier value)	3
+Reduction - action	2
+tyramine-deoxysorbitol	2
+pM category (observable entity)	1
+Events (event)	1
+Median (qualifier value)	2
+Closed	1
+Patients	8
+adjuvant study	1
+Generations	3
+Pharmacotherapy	2
+Realism	1
+Function	1
+Present	1
+Magnesium	2
+Preoperative (qualifier value)	1
+More (qualifier value)	1
+Selection Criteria	1
+Impact	2
+Absences (finding)	1
+Institutes	1
+ENDPOINT	1
+Differential (qualifier value)	1
+Postoperative Period	1
+Complete (qualifier value)	1
+Deferoxamine	4
+Toxic effect	2
+Sarcoma, Soft Tissue	1
+Chemotherapy-Oncologic Procedure	2
+Epilepsy	1
+ESTIMATED	1
+Positive (qualifier value)	2

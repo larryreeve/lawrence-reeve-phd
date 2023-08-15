@@ -1,0 +1,73 @@
+trends	1
+Malignant disease	1
+Risk	1
+survival aspects	4
+Medical Research	1
+Surgical aspects	2
+ADVANTAGE	1
+Late (qualifier value)	1
+Neoplasms	5
+Partial (qualifier value)	2
+Upper arm	1
+Grade	1
+Excision - action (qualifier value)	2
+Increased (qualifier value)	1
+Median Statistical Measurement	1
+Cessation of life	1
+Seizures	1
+First (qualifier value)	1
+Continuance of life	4
+Fixed (qualifier value)	5
+Random Allocation	1
+Fit and well	1
+control	1
+Result (navigational concept)	1
+proven venom	1
+With frequency	1
+Surgery specialty	1
+Disease-Free Survival	1
+Previous (qualifier value)	1
+Groups (qualifier value)	2
+Distant (qualifier value)	2
+Group (social concept)	2
+Male population group	1
+Surgeon (occupation)	1
+Anterior	1
+Diagnostic radiologic examination	1
+Effect (qualifier value)	2
+Role	1
+Curved (qualifier value)	1
+Follow-up status (finding)	1
+Sufficient (qualifier value)	1
+Complication	1
+Time	2
+Reduction (chemical)	1
+Suggestion	1
+Several (qualifier value)	1
+Combined (qualifier value)	1
+Histologic	1
+GENERAL OPERATIVE PROCEDURES	1
+Attenuated by (contextual qualifier) (qualifier value)	1
+Adenocarcinoma	1
+Improving (qualifier value)	1
+Reduction - action	1
+pM category (observable entity)	1
+Median (qualifier value)	1
+Patients	3
+Cancer of Rectum	1
+Improved (qualifier value)	1
+Complication Aspects	1
+Type of restoration (attribute)	1
+Radiation therapy	5
+Excision	2
+year (qualifier value)	1
+Recurrence	2
+Three (qualifier value)	1
+Proven findings	1
+APPARENTLY	1
+Numbers (qualifier value)	1
+Arm	1
+Residual Tumor	1
+Questioning	1
+Significant (qualifier value)	1
+radiotherapeutic	5

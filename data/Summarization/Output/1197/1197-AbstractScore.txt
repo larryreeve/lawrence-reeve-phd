@@ -1,0 +1,39 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1197\1197-Abstract-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...138360 ms
+
+Chaining file data\input\1197\1197-Abstract-A.txt...
+Chaining completed...
+	MMTx processing time:  40500 ms
+	Chain processing time: 0 ms
+
+
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.63
+	Std Dev:      3.26
+	Strong Score: 8.14
+
+	T081-Quantitative Concept: 14.00
+	T169-Functional Concept: 9.00
+
+
+Strong chains: (1 StdDev)
+-------------
+	Avg score:    1.63
+	Std Dev:      3.26
+	Strong Score: 4.89
+
+	T081-Quantitative Concept: 14.00
+	T169-Functional Concept: 9.00
+	T061-Therapeutic or Preventive Procedure: 6.00
+
+
+Summary:
+Summary (2 StdDev, Compression=0.25,3 of 11)
+-------------
+
+0) Adjuvant Chemotherapy for Adult Soft Tissue Sarcomas of the Extremities and Girdles, Results of the Italian Randomized Cooperative Trial.
+1) Adjuvant chemotherapy for soft tissue sarcoma is controversial because previous trials reported conflicting results. 
+2) Results, After a median follow-up of 59 months, 60 patients had relapsed and 48 died (28 and 20 in the treatment arm and 32 and 28 in the control arm, respectively). 

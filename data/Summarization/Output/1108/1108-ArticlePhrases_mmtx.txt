@@ -1,0 +1,1404 @@
+American Joint Committee on Cancer
+  1
+  C0441915|AJCC (tumor staging)|T170
+International Federation of Gynecology and Obstetrics
+  3
+  C1138414|Internationality|T078
+  C0700061|Obstetric Patient|T101
+  C0028773|Discipline of obstetrics|T091
+stage IB cervical cancer
+  1
+  C0278582|Cervical carcinoma stage IB|T191
+width
+  1
+  C0487742|Width (qualifier value)|T081
+local control
+  2
+  C0243148|control|T169
+  C0205276|Local (qualifier value)|T082
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+irradiation
+  3
+  C1282930|Irradiation (physical force)|T070
+  C0851346|Radiation|T070
+  C0034618|Radiation therapy|T061
+optimal treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+source
+  1
+  C0449416|Source (attribute)|T033
+Gynecologic Oncology Group
+  3
+  C0278596|gynecologic oncology|T091
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+hysterectomy
+  1
+  C0020699|Hysterectomy|T061
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+Several phase studies
+  4
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0205390|Phase (qualifier value)|T079
+  C0443302|Several (qualifier value)|T081
+concomitant treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+more complete responses
+  2
+  C0205172|More (qualifier value)|T081
+  C0677874|In complete remission (qualifier value)|T033
+better survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0332272|Better (qualifier value)|T080
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+concurrent weekly treatment
+  4
+  C0087111|Therapeutic procedure|T061
+  C0205420|Concurrent (qualifier value)|T079
+  C0332174|Weekly (qualifier value)|T079
+  C0039798|therapeutic aspects|T169
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+stage IB cervical cancers
+  1
+  C0278582|Cervical carcinoma stage IB|T191
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Patients
+  1
+  C0030705|Patients|T101
+Women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+adenocarcinoma
+  1
+  C0001418|Adenocarcinoma|T191
+adenosquamous carcinoma
+  1
+  C0206623|Carcinoma, Adenosquamous|T191
+expansile barrel shaped tumors
+  2
+  C0205229|Expanding (qualifier value)|T082
+  C0027651|Neoplasms|T191
+patients
+  1
+  C0030705|Patients|T101
+radiographic evidence
+  1
+  C0444708|Radiographic (qualifier value)|T070
+lymphangiography
+  1
+  C0024219|Lymphangiography|T060
+suspicious appearing lymph nodes
+  4
+  C0750493|SUSPICIOUS|T078
+  C0700364|Appearance|T080
+  C0233426|Personal appearance|T032
+  C0024204|lymph nodes|T023
+histologic evaluation
+  3
+  C0205462|Histologic|T169
+  C1261322|Assessment procedure (procedure)|T058
+  C0220825|Evaluation|T169
+Extraperitoneal surgical staging
+  3
+  C0332305|With staging (attribute)|T169
+  C0442090|Extraperitoneal (qualifier value)|T082
+  C0038895|Surgical aspects|T169
+Patients
+  1
+  C0030705|Patients|T101
+previously received radiotherapy
+  4
+  C0544683|Reception|T042
+  C0034618|Radiation therapy|T061
+  C0205156|Previous (qualifier value)|T082
+  C0034619|radiotherapeutic|T170
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+history
+  5
+  C0019664|Recording of previous events|T090
+  C0019665|history|T170
+  C0262926|Medical History|T033
+  C1321503|History of (contextual qualifier) (qualifier value)|T033
+  C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+patients
+  1
+  C0030705|Patients|T101
+Gynecologic Oncology Group performance status
+  6
+  C0278596|gynecologic oncology|T091
+  C0449438|Status (attribute)|T080
+  C0870623|Group Performance|T102
+  C0441833|Groups (qualifier value)|T170
+  C0935728|performance status|T033
+  C1300322|Group (social concept)|T096
+equivalent
+  1
+  C0439185|Eq (qualifier value)|T081
+adequate bone marrow
+  2
+  C0005953|Bone Marrow|T024
+  C0205411|Adequate (qualifier value)|T080
+renal function
+  2
+  C0232804|Renal function, NOS|T042
+  C0042031|Urinary Tract Physiology|T042
+hepatic function
+  1
+  C0232741|Liver function (observable entity)|T042
+Patients
+  1
+  C0030705|Patients|T101
+planned course
+  2
+  C0449922|Course (attribute)|T079
+  C1301732|Planned (qualifier value)|T169
+follow-up evaluations
+  2
+  C0220825|Evaluation|T169
+  C0589120|Follow-up status (finding)|T169
+patients
+  1
+  C0030705|Patients|T101
+institutions
+  1
+  C1272753|Institution (social concept)|T078
+Written informed consent
+  3
+  C0043266|Writing|T090
+  C0021430|Informed Consent|T058
+  C0341628|Writer (occupation)|T097
+institutional state
+  2
+  C1272753|Institution (social concept)|T078
+  C1301808|State (environment)|T083
+federal regulations
+  2
+  C0851285|Regulation|T064
+  C0220905|regulatory|T089
+Radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+patients
+  1
+  C0030705|Patients|T101
+external irradiation
+  4
+  C1282930|Irradiation (physical force)|T070
+  C0205101|External (qualifier value)|T082
+  C0851346|Radiation|T070
+  C0034618|Radiation therapy|T061
+intracavitary brachytherapy
+  1
+  C0021864|Radiotherapy, Intracavity|T061
+extrafascial hysterectomy
+  1
+  C0020699|Hysterectomy|T061
+weekly intravenous infusions
+  2
+  C0332174|Weekly (qualifier value)|T079
+  C0021440|Infusions, Intravenous|T061
+prescribed regimen
+  2
+  C0278329|Prescribed|T169
+  C0677937|regimen|T061
+groups
+  1
+  C0441833|Groups (qualifier value)|T170
+Pelvic radiation
+  1
+  C0747411|PELVIS RADIATION|T061
+treatment field
+  3
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0440042|Field's stain|T130
+cm
+  1
+  C0475210|cm (qualifier value)|T081
+common iliac lymph nodes
+  1
+  C0229807|Structure of iliac lymph node (body structure)|T023
+Fractions
+  1
+  C0457426|Fractions of (qualifier value)|T081
+days week
+  2
+  C0439228|day (qualifier value)|T079
+  C0439230|week (qualifier value)|T079
+External irradiation
+  4
+  C1282930|Irradiation (physical force)|T070
+  C0205101|External (qualifier value)|T082
+  C0851346|Radiation|T070
+  C0034618|Radiation therapy|T061
+white cell count
+  5
+  C0007584|Cell Count|T059
+  C0007457|Caucasoid Race|T098
+  C1306888|White color (finding)|T033
+  C0220938|White color|T080
+  C0043157|Caucasians|T098
+level
+  1
+  C0456079|Disease classification level|T185
+Low-dose brachytherapy
+  2
+  C0006098|Brachytherapy|T061
+  C0445550|Low dose (qualifier value)|T081
+two intracavitary applications
+  3
+  C0185125|Application (procedure)|T058
+  C0205448|Two (qualifier value)|T081
+  C1298613|Intracavitary (qualifier value)|T082
+Henschke applicators
+  1
+  C0179108|Applicator (physical object)|T074
+dose to
+  1
+  C0178602|Dosages (qualifier value)|T081
+Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+cumulative dose to
+  1
+  C0178602|Dosages (qualifier value)|T081
+B
+  7
+  C0337527|Brothers|T099
+  C0004927|Behavior|T055
+  C0004587|Bacillus <bacterium>|T007
+  C0677505|Behaviors and observations relating to behavior|T033
+  C1040746|Bacilli|T007
+  C0150141|Bathing|T061
+  C0175640|Baths (medical device)|T074
+pelvic wall
+  1
+  C0230284|Pelvic wall structure (body structure)|T023
+Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+Chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Cisplatin
+  1
+  C0008838|Cisplatin|T197
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+maximum
+  1
+  C0806909|Maximum|T033
+final dose
+  2
+  C0205088|End-stage (qualifier value)|T079
+  C0178602|Dosages (qualifier value)|T081
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+total white cell count
+  2
+  C0427547|Total white cell count NOS (procedure)|T059
+  C1318024|Total white cell count NOS|T034
+creatinine clearance
+  1
+  C0812399|Creatinine clearance|T033
+Hysterectomy
+  1
+  C0020699|Hysterectomy|T061
+Extrafascial hysterectomy
+  1
+  C0020699|Hysterectomy|T061
+corpus
+  1
+  C0227813|Body of uterus|T023
+cervix
+  1
+  C0007874|Uterine cervix-Anatomy|T023
+not contiguous parametrial tissue
+  2
+  C0040300|Tissues|T024
+  C0205283|Contiguous (qualifier value)|T082
+uterine vessels
+  2
+  C0005847|Blood Vessels|T023
+  C0042149|Uterus|T023
+vaginal cuff
+  2
+  C0180207|Cuffs|T074
+  C0042232|Vagina|T023
+Quality Control
+  1
+  C0034378|Quality Control|T057
+Follow-up
+  1
+  C0589120|Follow-up status (finding)|T169
+Patients’ medical records
+  1
+  C0025102|Medical Records|T170
+films
+  1
+  C0086296|Films|T073
+pathology slides
+  5
+  C0332246|Sliding|T169
+  C0677042|Pathology processes|T046
+  C0205469|Pathological aspects|T169
+  C0444330|Slide (specimen)|T075
+  C0030664|Pathology|T091
+Radiological Physics
+  1
+  C0018725|Health Physics|T091
+reviews
+  1
+  C0282443|Review [Publication Type]|T170
+Patients
+  1
+  C0030705|Patients|T101
+three months
+  2
+  C0439231|month (qualifier value)|T079
+  C0205449|Three (qualifier value)|T081
+Adverse effects
+  1
+  C0001688|adverse effects|T037
+primary end points
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0150100|ENDPOINT|T062
+  C0205225|Primary|T080
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+Progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+death
+  1
+  C0011065|Cessation of life|T040
+follow-up visit
+  1
+  C0589121|Follow-up visit (procedure)|T058
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+follow-up visit
+  1
+  C0589121|Follow-up visit (procedure)|T058
+Recurrences
+  1
+  C0034897|Recurrence|T067
+cervix
+  1
+  C0007874|Uterine cervix-Anatomy|T023
+vagina
+  2
+  C1278985|Entire vagina|T023
+  C0042232|Vagina|T023
+hysterectomy specimens
+  2
+  C0020699|Hysterectomy|T061
+  C0370003|Specimen (specimen)|T167
+Statistical Analysis
+  1
+  C0871424|Statistical Analysis|T062
+patients
+  1
+  C0030705|Patients|T101
+percent decrease
+  2
+  C0547047|Decrease (qualifier value)|T081
+  C0439165|Percent (qualifier value)|T081
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+events
+  1
+  C0441471|Events (event)|T051
+recurrences
+  1
+  C0034897|Recurrence|T067
+deaths
+  1
+  C0011065|Cessation of life|T040
+control regimen
+  2
+  C0243148|control|T169
+  C0677937|regimen|T061
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+one-sided significance level
+  2
+  C0814896|significance level|T062
+  C0205092|Unilateral (qualifier value)|T082
+patients
+  1
+  C0030705|Patients|T101
+control regimen
+  2
+  C0243148|control|T169
+  C0677937|regimen|T061
+recurrence
+  1
+  C0034897|Recurrence|T067
+— percent
+  1
+  C0439165|Percent (qualifier value)|T081
+similarity
+  1
+  C0871364|Simile|T170
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+final analysis
+  3
+  C0205088|End-stage (qualifier value)|T079
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+Randomization
+  1
+  C0034656|Random Allocation|T062
+treatment assignments
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+para-aortic lymph nodes
+  1
+  C0229789|Aortic lymph node (body structure)|T023
+Life table estimates
+  1
+  C0023680|Life Table Estimates|T170
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+Cox model
+  1
+  C0010234|Cox Models|T170
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+adjust
+  4
+  C0001537|Clinical Adjustment|T058
+  C0683269|Psychological adjustment|T055
+  C0376209|Individual Adjustment|T055
+  C0456081|Adjustment Action|T058
+relative likelihood
+  3
+  C0080103|Relative (related person)|T099
+  C0205345|Relative|T080
+  C0750504|Likely|T078
+and percent confidence intervals
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+Differences
+  1
+  C0443199|Differential (qualifier value)|T080
+frequency
+  1
+  C0376249|With frequency|T081
+reported P values
+  2
+  C0700287|Reporting|T058
+  C0879541|p-value|T081
+two tailed
+  2
+  C0039259|Tail|T023
+  C0205448|Two (qualifier value)|T081
+Two scheduled interim analyses
+  3
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+  C0205448|Two (qualifier value)|T081
+first
+  1
+  C0205435|First (qualifier value)|T081
+second
+  1
+  C0205436|Second (qualifier value)|T081
+first stopping rule
+  4
+  C0450446|Stops (attribute)|T073
+  C0870077|Rules|T170
+  C0723457|Stop|T109
+  C0205435|First (qualifier value)|T081
+null hypothesis
+  1
+  C0456148|Null (qualifier value)|T033
+second
+  1
+  C0205436|Second (qualifier value)|T081
+level
+  1
+  C0456079|Disease classification level|T185
+interim tests
+  1
+  C0392366|Tests (qualifier value)|T170
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+interim testing
+  1
+  C0039593|Testing|T062
+value
+  1
+  C0042295|VALUING|T080
+presentation
+  1
+  C0449450|Presentation (attribute)|T078
+P values
+  1
+  C0879541|p-value|T081
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+total
+  1
+  C0439810|Total (qualifier value)|T080
+specimen
+  1
+  C0370003|Specimen (specimen)|T167
+primary lesion
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0205225|Primary|T080
+  C0221198|Lesion|T033
+cell type
+  1
+  C0449475|Type of cell (qualifier value)|T170
+stage
+  2
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+additional patient
+  2
+  C0030705|Patients|T101
+  C0442796|Additive (qualifier value)|T080
+received radiotherapy
+  3
+  C0544683|Reception|T042
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+two
+  1
+  C0205448|Two (qualifier value)|T081
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+concomitant treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+total
+  1
+  C0439810|Total (qualifier value)|T080
+Pretreatment surgical evaluation
+  3
+  C1261322|Assessment procedure (procedure)|T058
+  C0038895|Surgical aspects|T169
+  C0220825|Evaluation|T169
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+significant differences
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+tumor characteristics
+  1
+  C0027651|Neoplasms|T191
+patients
+  1
+  C0030705|Patients|T101
+primary cervical cancers
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0007847|Malignant neoplasm of cervix uteri|T191
+  C0205225|Primary|T080
+distribution
+  2
+  C0520511|Distributing|T078
+  C0037775|Spatial Distribution|T082
+slightly higher percentage
+  3
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+  C0750482|SLIGHTLY|T078
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+Four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+total
+  1
+  C0439810|Total (qualifier value)|T080
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+more courses
+  2
+  C0205172|More (qualifier value)|T081
+  C0750729|Courses (qualifier value)|T079
+median weekly dose
+  4
+  C0332174|Weekly (qualifier value)|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0178602|Dosages (qualifier value)|T081
+39.0 mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+90th percentiles
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+two patients
+  2
+  C0030705|Patients|T101
+  C0205448|Two (qualifier value)|T081
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+compliance
+  2
+  C0009563|Biomechanical compliance|T081
+  C0030680|Patient Compliance|T055
+volume
+  1
+  C0449468|Volume (property) (qualifier value)|T081
+total treatment
+  3
+  C0439810|Total (qualifier value)|T080
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+median total treatment time
+  6
+  C0439810|Total (qualifier value)|T080
+  C0087111|Therapeutic procedure|T061
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0039798|therapeutic aspects|T169
+  C0040223|Time|T079
+days
+  1
+  C0439228|day (qualifier value)|T079
+groups
+  1
+  C0441833|Groups (qualifier value)|T170
+Extrafascial hysterectomy
+  1
+  C0020699|Hysterectomy|T061
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+More patients
+  2
+  C0205172|More (qualifier value)|T081
+  C0030705|Patients|T101
+operation
+  1
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+nine
+  1
+  C0205455|Nine (qualifier value)|T081
+more patients
+  2
+  C0205172|More (qualifier value)|T081
+  C0030705|Patients|T101
+early recurrence
+  2
+  C0205085|Early (qualifier value)|T079
+  C0034897|Recurrence|T067
+two
+  1
+  C0205448|Two (qualifier value)|T081
+significantly more hysterectomy specimens
+  4
+  C0205172|More (qualifier value)|T081
+  C0020699|Hysterectomy|T061
+  C0370003|Specimen (specimen)|T167
+  C0750502|Significant (qualifier value)|T078
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+Adverse Effects
+  1
+  C0001688|adverse effects|T037
+treatment-related deaths
+  4
+  C0445223|Related (finding)|T033
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0011065|Cessation of life|T040
+patients
+  1
+  C0030705|Patients|T101
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+adverse effects
+  1
+  C0001688|adverse effects|T037
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+reactions
+  1
+  C0443286|Reaction (qualifier value)|T169
+patients
+  1
+  C0030705|Patients|T101
+gastrointestinal effects
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0521362|Gastrointestinal|T023
+patients
+  1
+  C0030705|Patients|T101
+Grade hematologic toxicity
+  4
+  C0441800|Grade|T185
+  C0205488|Hematologic (qualifier value)|T169
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+Grade gastrointestinal toxicity
+  2
+  C0441800|Grade|T185
+  C1142499|Gastrointestinal toxicity|T033
+ultimately required hospitalization
+  1
+  C0019993|Hospitalization|T058
+gastrointestinal bleeding
+  1
+  C0017181|Gastrointestinal Hemorrhage|T033
+Very few patients
+  3
+  C0442824|Very (qualifier value)|T080
+  C0030705|Patients|T101
+  C0205388|Few (qualifier value)|T081
+surgical intervention
+  1
+  C0549433|Surgical intervention|T033
+formation
+  1
+  C0439634|Formations (qualifier value)|T082
+patients
+  1
+  C0030705|Patients|T101
+frequency
+  1
+  C0376249|With frequency|T081
+neurologic adverse effects
+  1
+  C0027852|Neurological Effects|T039
+Progression free Survival
+  1
+  C0242792|Progression-Free Survival|T081
+disease
+  1
+  C0012634|Disease|T047
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+difference predominantly
+  2
+  C0332251|Predominate (qualifier value)|T080
+  C0443199|Differential (qualifier value)|T080
+fewer local recurrences
+  3
+  C0205276|Local (qualifier value)|T082
+  C0034897|Recurrence|T067
+  C0205388|Few (qualifier value)|T081
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+Forty nine
+  1
+  C0205455|Nine (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+threeyear survival rates
+  1
+  C0038954|Survival Rate|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+numbers
+  1
+  C0237753|Numbers (qualifier value)|T170
+Prognostic Factors
+  1
+  C0220901|prognostic|T170
+Cox multiple regression analysis
+  5
+  C0002778|Analysis of substances|T059
+  C0033551|Prostaglandin-Endoperoxide Synthase|T116
+  C0936012|Analysis|T062
+  C0681923|multiple regression|T080
+  C0442996|Cox microbiology subtype|T170
+size
+  1
+  C0702146|Size (attribute)|T081
+histologic grade
+  1
+  C0919553|Histopathologic Grade|T185
+significant prognostic factors
+  2
+  C0220901|prognostic|T170
+  C0750502|Significant (qualifier value)|T078
+Adjustment
+  4
+  C0001537|Clinical Adjustment|T058
+  C0683269|Psychological adjustment|T055
+  C0376209|Individual Adjustment|T055
+  C0456081|Adjustment Action|T058
+significant effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+recognition
+  1
+  C0524637|Recognition (Psychology)|T041
+patients
+  1
+  C0030705|Patients|T101
+higher rates
+  3
+  C0235146|Euphoric mood|T041
+  C0871208|Rating|T062
+  C0205250|High|T080
+approach
+  1
+  C0449445|Approach (attribute)|T082
+use
+  1
+  C0042153|utilization|T081
+disagreement
+  1
+  C0680238|Discord|T054
+controversy
+  1
+  C0680243|controversy|T054
+earlier Gynecologic Oncology Group trial
+  4
+  C0278596|gynecologic oncology|T091
+  C0205085|Early (qualifier value)|T079
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+hysterectomy
+  1
+  C0020699|Hysterectomy|T061
+current study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0521116|Current (qualifier value)|T079
+complete data
+  2
+  C0205197|Complete (qualifier value)|T080
+  C0725685|Compleat|T168
+early analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0205085|Early (qualifier value)|T079
+  C0936012|Analysis|T062
+significantly lower rate
+  3
+  C0441994|Lower (qualifier value)|T169
+  C0750502|Significant (qualifier value)|T078
+  C0871208|Rating|T062
+hysterectomy
+  1
+  C0020699|Hysterectomy|T061
+value
+  1
+  C0042295|VALUING|T080
+size
+  1
+  C0702146|Size (attribute)|T081
+important prognostic factor
+  1
+  C0220901|prognostic|T170
+patients
+  1
+  C0030705|Patients|T101
+cervical cancers
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+distribution
+  2
+  C0520511|Distributing|T078
+  C0037775|Spatial Distribution|T082
+role
+  1
+  C0035820|Role|T054
+cervical cancers
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+Various drugs
+  2
+  C0013227|Pharmaceutical Preparations|T121
+  C0440102|Various (substance)|T130
+drugs
+  1
+  C0013227|Pharmaceutical Preparations|T121
+additive effects
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0442796|Additive (qualifier value)|T080
+Cisplatin
+  1
+  C0008838|Cisplatin|T197
+sublethal damage
+  1
+  C0010957|Damage (morphologic abnormality)|T169
+repair
+  3
+  C0374711|Repair - action|T169
+  C0184985|Surgical repair (procedure)|T061
+  C0043240|Wound Healing|T040
+Weekly treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0332174|Weekly (qualifier value)|T079
+  C0039798|therapeutic aspects|T169
+promising results
+  1
+  C1274040|Result (navigational concept)|T169
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+patients
+  1
+  C0030705|Patients|T101
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+cisplatin containing chemotherapy
+  5
+  C0008838|Cisplatin|T197
+  C0332256|Containing (qualifier value)|T169
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+results
+  1
+  C1274040|Result (navigational concept)|T169
+similar patients
+  2
+  C0871364|Simile|T170
+  C0030705|Patients|T101
+al
+  1
+  C0002367|Aluminum|T196
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+weekly cisplatin
+  2
+  C0008838|Cisplatin|T197
+  C0332174|Weekly (qualifier value)|T079
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+regimens
+  1
+  C0677937|regimen|T061
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+two other randomized trials
+  3
+  C0205394|Other|T080
+  C0034656|Random Allocation|T062
+  C0205448|Two (qualifier value)|T081
+combining radiotherapy
+  1
+  C0436241|Combined radiotherapy NOS (procedure)|T061
+cisplatin containing chemotherapy
+  5
+  C0008838|Cisplatin|T197
+  C0332256|Containing (qualifier value)|T169
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+Radiation Therapy Oncology Group study
+  4
+  C0033971|Psychotherapy, Group|T061
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0243005|Radiation Oncology|T091
+para-aortic radiotherapy
+  3
+  C0442134|Para-aortic (qualifier value)|T082
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+Southwest Oncology Group study
+  5
+  C0278627|oncology|T091
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+surgical margins
+  1
+  C0229985|Surgical margins (body structure)|T023
+undergone radical hysterectomy
+  1
+  C0677962|Total hysterectomy (procedure)|T061
+IB
+  1
+  C0444976|Ib (qualifier value)|T170
+studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+use
+  1
+  C0042153|utilization|T081
+risk
+  1
+  C0035647|Risk|T080
+death
+  1
+  C0011065|Cessation of life|T040
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+regimen
+  1
+  C0677937|regimen|T061
+effects
+  1
+  C1280500|Effect (qualifier value)|T080
+gastrointestinal effects
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0521362|Gastrointestinal|T023
+hysterectomy
+  1
+  C0020699|Hysterectomy|T061
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+value
+  1
+  C0042295|VALUING|T080
+value
+  1
+  C0042295|VALUING|T080
+surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+overall risk
+  2
+  C0282416|Overall [Publication Type]|T170
+  C0035647|Risk|T080
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+relative risk
+  1
+  C0242492|Relative Risk|T080
+elimination
+  2
+  C0518891|Elimination outcomes|T170
+  C0221102|Excretory function|T039
+regimens
+  1
+  C0677937|regimen|T061
+increase
+  1
+  C0442805|Increase (qualifier value)|T169
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+five randomized trials
+  2
+  C0205451|Five (qualifier value)|T081
+  C0034656|Random Allocation|T062
+different stages
+  2
+  C1306673|Stages (qualifier value)|T169
+  C0443199|Differential (qualifier value)|T080
+combinations
+  1
+  C0453882|Combinations (physical object)|T073
+common result
+  2
+  C1274040|Result (navigational concept)|T169
+  C0205214|Common (qualifier value)|T081
+five studies
+  3
+  C0205451|Five (qualifier value)|T081
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+concomitant treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+to better outcomes
+  1
+  C0332272|Better (qualifier value)|T080
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+remarkable consistency
+  1
+  C0332529|Consistency finding (finding)|T080
+compelling reason to
+  2
+  C0600104|Obsessive compulsive behavior|T048
+  C0684328|Reasoning|T041
+cisplatin therapy
+  3
+  C0008838|Cisplatin|T197
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+high-risk cervical cancers
+  2
+  C1134717|high-risk cancer|T191
+  C0205064|Cervical (qualifier value)|T082

@@ -1,0 +1,15 @@
+MTX has been widely used as a single agent for treatment of head and neck cancer, while 5-FU is a major drug for treatment of advanced colorectal and gastric cancer. Sequential administration of moderate doses of MTX followed by 5-FU has been reported effective in advanced head and neck cancer and colorectal cancer, as well as breast cancer, but the importance of the sequence remains uncertain. SEQUENTIAL MTX/5-FU.
+
+Variables included in the Cox models for all patients with head and neck cancer were treatment group, prior radiotherapy, performance status, sex, and prior surgery. For previously untreated patients with head and neck cancer, stage was included either as stage group or as TNM stage separately.
+
+RESULTS.
+Four patients, two on each treatment sequence, died of treatment-related complications (sepsis in two patients, diarrhea in one, and aspiration pneumonia in one patient), and a further patient developed prolonged neurologic toxicity with coma but recovered fully. Two patients on each treatment sequence were withdrawn from treatment because of severe but nonlethal toxicity. No significant differences in toxicity according to the treatment sequence were observed (Table 2).
+
+Both treatment sequences were effective in head and neck cancer, producing an overall major response rate (complete and partial) of 46% of all entered patients, including 52% (95% confidence limits, 39%-65%) of evaluable patients. Responses were seen in 53% of all entered previously untreated patients with head and neck cancer, including 58% (95% confidence limits, 40%-70%) of those evaluable for response. Patients with head and neck cancer had significantly longer survival than those with other primary sites (P < .001), reflecting the relatively earlier stage at which chemotherapy was used in head and neck cancer.
+
+Survival duration was not significantly different by treatment sequence in univariate analyses, though the trend favored the sequence of 5-FU before MTX, in which the median survival had not been reached at 23 months, compared to a median survival of 13.3 months in the group receiving MTX before 5-FU.
+
+Among patients with colorectal cancer, responses were seen in 33% of all entered patients, including 40% (95% confidence limit, 19%- 64%) of those evaluable for response. The median survival of colorectal cancer patients from start of treatment was only 4.6 months. No significant sequence-dependent differences in response rate or survival duration were observed among the patients with colorectal cancer. Responses were seen among the small number of patients with other cancers (Table 3).
+
+
+This observation cast doubt on the clinical relevance of the sequence of administration of MTX and 5-FU. Both treatments were effective in head and neck cancer (Table 3). 

@@ -1,0 +1,314 @@
+ADVANCED colorectal carcinoma is one of the most common oncologic challenges encountered in the Western world. 
+
+Nevertheless, there is little evidence of effective therapy for such patients other than symptomatic and supportive care. 5-Fluorouracil (5-FU) is considered by many as the standard of chemotherapy, but in larger experiences with this agent, response rates have only been in the 15% to 20% range. 
+
+These responses are usually partial, sometimes questionable, and generally very transient. 
+
+To date there has been no convincing evidence that any chemotherapy of colorectal cancer contributes to either the duration or the quality of life.
+
+Although a large number of alternative drugs have been studied in colorectal cancer, none has exceeded the meager effectiveness of 5-FU. 
+
+A hope frequently pursued in clinical research has been that the activity of 5-FU can be enhanced either by adding the activity of other cytotoxic drugs or, more recently, by favorably modulating the effects of 5-FU itself. 
+
+Although enhanced activity by such methods has occasionally been suggested in pilot studies or in phase 2 trials, these claims have seldom been substantiated by the essential definitive study-a randomized comparison with 5-FU used alone. 
+
+The purpose of the study reported here is to evaluate, by such a randomized and controlled comparison, a number of recent approaches that have either been shown in animal models to enhance 5-FU activity or have been claimed to produce favorable results on the basis of early human trials. 
+
+We chose for our evaluation the combinations of 5- FU with thymidine, with N-(phosphonacetyl)-Laspartic acid (PALA), with levamisole, and with methyl CCNU, vincristine, and streptozotocin (MOF-Strept).
+
+Thymidine given at high doses in animal model systems has been shown to increase both therapeutic activity and toxicity of 5-FU and to improve the therapeutic index of this agent. 
+
+These effects presumably occur through the action of thymidine in blocking oxidative metabolism of 5-FU and increasing 5-FU incorporation into RNA. 
+
+Rustum demonstrated in colon 26 tumor and in a transplanted colon tumor in rats that thymidine plus 5-FU produced a significant prolongation of survival time when compared with 5-FU alone. 
+
+Studies by Woodcock et al, by Kirkwood and Frei, and by Vogel et a1 demonstrated that in humans, pretreatment with thymidine increased the biologic activity of 5-FU up to eight-fold as measured by hematologic toxicity. 
+
+In the study of Woodcock et al, the single colorectal cancer patient treated who was not a prior 5-FU failure had a response of 8 months duration. 
+
+They also observed one additional response among patients who had failed 5-FU. 
+
+In the study of Vogel et al, two of five previously untreated colorectal cancer patients responded for 4 + and 7 months.
+
+PALA is a potent inhibitor of aspartate transcarbamylase and has a broad spectrum of activity in animal model tumor screens. 
+
+In human trials the dose-limiting toxicities were mucocutaneous reactions with minimal hematologic effects. 
+
+Overall therapeutic results were discouraging, specifically in colorectal cancer, a Mayo Clinic study demonstrated only one response among 30 patients, a study of the Baltimore Cancer Research Program showed no responses among 21 patients, and a New York Memorial study demonstrated only two minor responses among 19 evaluated patients. 
+
+Continued interest in PALA, however, was stimulated by animal model evidence that this agent inhibits pyrimidine synthesis and thereby enhances 5-FU activity by increasing its conversion to fluorouridine monophosphate (FUMP). 
+
+Synergistic activity with the PALA-5-FU combination was demonstrated in murine tumor systems. 
+
+Pilot and phase 2 trials of this combination in humans showed the dose-limiting toxicity to be mucocutaneous effects. 
+
+In the phase 2 trial of Bedikian et al, a relatively discouraging 14% response rate was recorded among 50 patients, but an additional 54% were stated to have achieved "disease stabilization."
+
+Levamisole is an agent that has been used extensively to treat parasitic infections in man and domestic animals. 
+
+It has also been shown to have immunomodulatory effects. 
+
+Two randomized, controlled studies have raised the possibility that it may have some role in the treatment of colorectal carcinoma. 
+
+The first was a small surgical adjuvant study reported by Verhaegen et al in which levamisole-treated patients had a significantly improved survival when compared with untreated controls. 
+
+The second study, conducted at the University of Wisconsin (Madison), showed that advanced-disease patients treated with combined 5-FU and levamisole lived significantly longer than patients treated with 5-FU alone. 
+
+If this result could be confirmed it would be the first time that any regimen has demonstrated such significant survival improvement for advanced colorectal cancer in randomized trials.
+
+In 1981, a New York Memorial study reported a 32% objective response rate among 77 patients treated with MOF-Strept. 
+
+In a randomized trial, this group showed that this combination produced superior response rates and survival when compared with their own variant of the 5-FU, methyl CCNU, vincristine combination. 
+
+In contrast, however, the Gastrointestinal Tumor Study Group reported only a 4% response rate among 41 patients treated with MOF-Strept and they discouraged further use of this combination. 
+
+Again it would seem appropriate that the activity and toxicity of the MOF-Strept combination be placed in perspective by a randomized comparison with 5-FU alone.
+
+With this background we initiated a randomized controlled comparison of 5-FU alone with 5-FU plus high-dose thymidine, 5-FU plus PALA, 5-FU plus levamisole, and MOF-Strept. 
+
+We elected to use survival as our primary endpoint in patients with both measurable and nonmeasurable disease and also to evaluate objective response rates among those patients with measurable disease.
+
+METHODS.
+
+Patient Selection.
+
+All patients were required to have histologic or cytologic confirmation of unresectable or metastatic colorectal cancer. 
+
+An exception to the requirement for histologic confirmation of metastasis was made in the patient with a previous histologically confirmed primary colorectal carcinoma and who presented with multiple pulmonary metastasis that had shown progression on two chest x-rays taken at least 1 month apart. 
+
+Patients could be entered with either measurable or nonmeasurable disease. 
+
+Measurable disease was defined as a tumor mass that could be clearly measured in two dimensions on either physical examination or chest x-ray. 
+
+Malignant hepatomegaly was used as a measurable lesion if a clearly defined liver edge extended at least 5 cm below the xyphoid process or costal margins on quiet respiration. 
+
+A radioactive liver scan could be used to document a measurable lesion if there was a clearly defined perfusion defect measuring at least 5 cm in greatest diameter. 
+
+It was also required that the patient be ambulatory and maintaining a reasonable state of nutrition. 
+
+Contraindications to selection included a WBC count < 4.000/mm or a platelet count < 130.000/mm. a serum creatinine > 1.5 mg/dL. complete disability (Eastern Cooperative Oncology Group IECOG] performance score 4). recent major surgery (exploration and biopsy only. < 14 days, resection or bypass surgery, < 21 days), an uncontrolled infectious process. frequent vomiting or severe anorexia, any previous chemotherapy, and intensive radiation to the axial skeleton within the preceding 4 weeks. 
+
+Tissue from each patient was submitted to a pathology review committee to ensure eligibility and proper histopathologic classification.
+
+Randomization Procedures.
+
+After determining eligibility and obtaining written informed consent, patients were stratified according to performance score and the presence and location of measurable disease. 
+
+Patients were then randomized to treatment with 5-FU alone, 5-FU plus PALA. 5-FU plus thymidine. 5-FU plus levamisole, or MOFStrept.
+
+Treatment Methodology.
+
+5-FU alone. 5-FU was administered in undiluted form by rapid intravenous (IV) injection at a dose of 500 mg/m2 daily for 5 consecutive days. 
+
+Courses were repeated every 5 weeks. 5-FU plus thymidine. 
+
+Thymidine was administered by a single IV infusion over 90 minutes at a total dose of 45 g. 
+
+Two hours following initiation of the thymidine infusion. 5-FU was administered by rapid IV injection in a single dose of 300 mg/m'. 
+
+The single doses of thymidine and 5-FU were repeated at 4-week intervals. 5-FUplus PALA. 5-FU was administered by rapid IV injection at a dosage of 300 mg/m2 for 5 consecutive days. 
+
+PALA was administered by rapid IV injection at a dose of 625 mg/m2/d for 5 consecutive days. 
+
+On day I. 5-FU was administered 4 hours after PALA. 
+
+On days 2 through 5, 5-FU was administered after PALA. but no delay was required. 
+
+Courses of therapy were repeated every 5 weeks. 5-FU plus levamisole. 5-FU was administered in undiluted form by rapid IV injection at a dose of 500 mg/m 2/d for 5 consecutive days. 
+
+These courses were repeated every 5 weeks. 
+
+Levamisole was administered orally at a dose of 50 mg every 8 hours on days 14, 15. and 16, and days 21. 22. and 23 of each 5- FU cycle. 
+
+This corresponded to the regimen used by Davis et al. 
+
+MOF-Strept. 5-FU was administered in undiluted form by rapid IV injection at a dose of 300 mg/m 2/d on days I through 5 and 36 through 40. 
+
+Methyl CCNU was administered orally at a dosage of 30 mg/m 2/d on days 2 through 6. 
+
+Vincristine was administered by rapid IV injection at a dose of I mg/m 2 on days I and 36. 
+
+Streptozotocin was administered by rapid IV injection at a dose of 500 mg/m2 on day I and every 7 days thereafter. 
+
+This cycle of treatment was repeated every 10 weeks. 
+
+This corresponded to the method used by the New York Memorial group.
+
+For all regimens. 
+
+WBC count and platelet counts were obtained weekly. 
+
+For the 5-FU plus thymidine regimen, patients were evaluated every 4 weeks, while for all other regimens, this evaluation occurred every 5 weeks. 
+
+The evaluation consisted of a history and physical examination, measurement of indicator lesions. hematology and chemistry panel (including serum creatinine), urinalysis, and a chest x-ray. 
+
+If the chest x-ray was negative pretreatment. this was repeated only with every other evaluation. 
+
+If severe toxicity had been obtained with a previous treatment course, drug dosages were appropriately reduced with subsequent therapy. 
+
+Treatment was continued until disease progression was documented.
+
+Evaluation of Results.
+
+The primary endpoint of our overall study was patient survival. 
+
+It was planned to enter a minimum of 300 eligible and evaluable patients. 
+
+For the comparison of any one of our drug combinations with 5-FU. this would permit our test for treatment effect to have .90 probability of detecting a true doubling in survival time (eg. from 6 to 12 months). while having only a .05 probability of obtaining a false-positive result when there were no true differences in survival.
+
+A secondary objective was to assess objective response rates among those patients who had measurable disease. 
+
+Standard criteria for declaring objective response were used. ie. a 5017 or greater reduction in the product of longest perpendicular diameters of bidimensionally measurable lesions or a 30% or greater decrease in the sum of liver measurements below the xyphoid process at costal margin. 
+
+It was required that this result be observed at least 4 weeks after the onset of therapy, but there was no requirement for duration of response.
+
+Statistical Methods.
+
+Each combination regimen was compared to treatment with 5- FU alone with respect to duration of survival following randomization, time to disease progression. objective regression rates among measurable patients, and toxic reactions. 
+
+Survival curves were constructed using the Kaplan-Meier method. 
+
+The log rank statistic was used to assess consistency of the data with equality of survival curves, while the Cox partial likelihood score statistic was used to assess consistency of the data with the hypothesis that any one of the combinations would yield at least a 50% improvement in survival over 5-FU alone. 
+
+More generally, the Cox proportional hazards model was used to inspect the association of treatment with survival when adjusting for covariates. 
+
+P values were two-sided. 
+
+Interim analyses of the survival data were performed using the O'Brien-Fleming group sequential boundary as a guideline. 
+
+Early termination did not occur. 
+
+Thus, essentially no adjustment of the P values given below is required.
+
+RESULTS.
+
+A total of 347 patients were randomized on this study. 
+
+The entries of two patients were cancelled after randomization, and ten patients were found to be ineligible. 
+
+The primary reason for ineligibility (seven patients) was failure to confirm metastatic disease according to protocol criteria. 
+
+Four patients were lost to analysis due to ineligibility or cancellation on the 5-FU alone arm, four patients on 5-FU plus PALA, two patients on 5-FU plus thymidine, two patients on MOF-Strept, and none on 5-FU plus levamisole. 
+
+A total of 335 eligible patients were properly started on therapy and are included in the analysis below. 
+
+These represent 97% of all patients randomized. 
+
+At the time of this writing the study is very mature with 318 patients (95%) having shown progressive disease and 278 patients (83%) having been followed to the time of death.  
+
+The pretreatment characteristics of our patients are displayed according to the treatment arm in Table 1. 
+
+It is noteworthy that most of these patients were in excellent general condition. 
+
+Seventy-six percent had an ECOG performance score of 0 or 1. 
+
+Fifty-five percent had measurable disease, primarily in liver or lung. 
+
+There are imbalances between treatment arms in sex ratio, grade of anaplasia, and patients admitted to study with progressive pulmonary lesions but no histologic proof of metastasis.
+
+Toxicity.
+
+The toxic reactions experienced according to treatment arm and severity are documented in Table 2. 
+
+MOF-Strept was characterized by substantially more frequent and more severe nausea and vomiting, and this was the only regimen characterized by a substantive incidence of thrombocytopenia. 5-FU plus PALA had substantially more frequent mucocutaneous reactions and somewhat more frequent diarrhea, but less hematologic toxicity than 5-FU alone or any of the other regimens. 
+
+On the other hand, 5-FU plus thymidine had a reduced incidence of mucocutaneous reactions and of diarrhea with comparable hematologic toxicity when compared with 5-FU alone. 
+
+The most unique toxicity of this regimen was a substantially increased incidence of neurologic effects. 
+
+These reactions were primarily headache (seven patients), lethargy (four patients), dizziness with ataxia (four patients), and occasional confusion (two patients). 
+
+One patient died in irreversible coma. 
+
+There were also nine patients who experienced transient hypotension following drug administration. 
+
+The addition of levamisole to 5-FU had no discernable impact upon toxicity except for a slight increase in leukopenia. 
+
+Eight patients on this combination complained of altered taste, primarily a metallic taste in the mouth. 
+
+There were three treatment-related deaths, one each on 5-FU alone, 5-FU plus thymidine, and MOF-Strept.
+
+Therapeutic Results.
+
+Objective response rates are shown according to regimen in Table 3. 
+
+None of the combination regimens showed a significant advantage to 5-FU used alone. 
+
+It is noteworthy that while the MOF-Strept regimen had the highest regression rate, it was also the regimen with the lowest proportion of patients whose disease remained stable and the highest proportion of patients in whom the best response observed was tumor regression. 
+
+Whereas 5-FU plus PALA was associated with the lowest regression rate, these regressions were of the longest median duration. 
+
+The intervals to disease progression are shown in Fig 1. 
+
+The median interval to progression for all patients was 3/V2 months. 
+
+There was no suggestion that any of the combination regimens performed in a superior fashion to 5-FU used alone, and it is unlikely that any could produce as much as a 50% increase in time to progression (P < .05) for each regimen v 5-FU alone. 
+
+(These are two-sided P values obtained from a multivariate Cox analysis assessing consistency of the data with a hazard ratio of 1.5.)  
+
+Table 4 shows the association of a number of patient characteristics with survival. 
+
+As would be expected, both performance status and the presence of measurable disease are highly predictive. 
+
+Grade of anaplasia also proved to be a powerful prognostic predictor. 
+
+This factor was imbalanced among our treatment regimens, but this imbalance clearly weighed against the 5-FU arm that had the lowest proportion of low-grade lesions and the highest proportion of highly anaplastic tumors. 
+
+Sex ratios and patients with metastatic disease confirmed only by chest x-ray were also imbalanced in our study, but neither were important prognostic variables.
+
+Figure 2 displays the patient survival according to treatment regimen. 
+
+The median survival for all patients was 81/4 months. 
+
+None of the combination regimens showed a significant superiority to 5-FU used alone. 
+
+There is no reasonable possibility that a 50% (4 month) increase in survival could be obtained for any regimen in comparison with 5-FU alone. 
+
+This was confirmed by a stratified Cox analysis, adjusting for key prognostic covariates, which indicated that the data were inconsistent with any combination regimen yielding a 50% increase in survival relative to 5-FU (ie, a hazard ratio of 1 .5), wherefore 5-FU plus PALA, P < .01, 5-FU plus thymidine, P < .0001, 5-FU plus levamisole, P < .01, and MOF-Strept, P < .05.
+
+DISCUSSION.
+
+The results of this study were singularly discouraging. 
+
+In spite of the fact that the patients tested were in very good overall general condition with no previous chemotherapy exposure, none of our experimental regimens produced any meaningful advantage over therapy with simple 5-FU alone and none can be recommended for standard practice.  
+
+In each of the regimens we tested, drug dosages and scheduling were admittedly largely arbitrary. 
+
+It is entirely possible that different proportionate representation of drug dosages or different scheduling could produce more favorable or less favorable results than we observed. 
+
+Unfortunately, there is little in the way of reliably predictable animal model experimentation to serve as a foundation for rational dosage regimens in humans.
+
+In designing the 5-FU-PALA regimen, we arbitrarily elected that both agents would be given at approximately equal proportions of the tolerable dose if each drug was used alone. 
+
+This allowed for 60% of the full dose of both 5-FU and PALA to be administered. 
+
+The dose-limiting mucocutaneous toxicity that we observed undoubtedly represented the additive effects of both agents. 
+
+Our results were disappointing. 
+
+Martin has pointed out that it might be possible to obtain the full biochemical modulating effect of PALA by using a considerably lower dose of this agent, thereby allowing the 5-FU dose to be increased to near full therapeutic levels. 
+
+Further exploration of the 5-FU-PALA theme might be justified on this basis.
+
+With the 5-FU-thymidine combination, we observed a marked modulation of 5-FU effect with regard to both dose and toxicity. 
+
+The total dose of 5-FU in this combination was only 12% of the dosage of 5-FU used alone that would produce a comparable degree of hematologic toxicity. 
+
+Unfortunately, this modulation did not translate into the therapeutic gain predicted by animal models, and the neurotoxicity only rarely observed with 5-FU alone was made much more prominent.
+
+Our experience with the 5-FU-levamisole combination was particularly discouraging in view of the early study of the University of Wisconsin, indicating that this combination could produce substantial survival improvement.
+
+In agreement with the New York Memorial Group, and in contrast with the Gastrointestinal Tumor Study Group results, we did record a moderately high response rate with the MOFStrept combination. 
+
+This, however, was purchased at the price of disagreeable nausea and vomiting and the additional toxic problems of thrombocytopenia. 
+
+One cannot conclude that this regimen added to the quality of patient life, and since it did not add to duration of life, we must conclude that this regimen has little to recommend it.
+
+An interesting sidelight of this study is the fact that grade of tumor anaplasia was found to be a powerful prognostic determinant, matching the more well-established performance status and presence or absence of measurable disease. 
+
+The fact that all tissue was subjected to a common pathology review process may have produced sufficient uniformity of grading to allow this characteristic to be a useful predictor of survival.
+
+Whereas the results of this study were negative, these should not discourage continued efforts to exploit the biochemical modulation approaches. 
+
+We would hope this could be done more successfully with increasing knowledge of how best to apply the results of experimental models in the clinical settings.
+

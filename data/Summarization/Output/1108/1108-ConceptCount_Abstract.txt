@@ -1,0 +1,55 @@
+Behaviors and observations relating to behavior	1	T033-Finding
+Analysis of substances	1	T059-Laboratory Procedure
+Infusion (procedure)	2	T061-Therapeutic or Preventive Procedure
+Analysis	1	T062-Research Activity
+Adjuvants, Immunologic	1	T129-Immunologic Factor
+Bacilli	1	T007-Bacterium
+pharmacotherapeutic	1	T169-Functional Concept
+Entire parametrium	1	T023-Body Part, Organ, or Organ Component
+Brothers	1	T099-Family Group
+Parametrium	1	T023-Body Part, Organ, or Organ Component
+Cervical carcinoma stage IB	1	T191-Neoplastic Process
+Maximal (qualifier value)	1	T080-Qualitative Concept
+Radiation	1	T070-Natural Phenomenon or Process
+High frequency (qualifier value)	1	T079-Temporal Concept
+Cervical (qualifier value)	1	T082-Spatial Concept
+Prognosis bad (finding)	1	T033-Finding
+Cessation of life	2	T040-Organism Function
+Progression-Free Survival	1	T081-Quantitative Concept
+Pelvic wall structure (body structure)	1	T023-Body Part, Organ, or Organ Component
+Methods	1	T170-Intellectual Product
+Baths (medical device)	1	T074-Medical Device
+LYMPH NODE INVOLVEMENT	1	T032-Organism Attribute
+Behavior	1	T055-Individual Behavior
+Bathing	1	T061-Therapeutic or Preventive Procedure
+Human Females	2	T098-Population Group
+Gy (qualifier value)	2	T081-Quantitative Concept
+Methodology	1	T170-Intellectual Product
+Hysterectomy	1	T061-Therapeutic or Preventive Procedure
+Neoplasms	1	T191-Neoplastic Process
+cm (qualifier value)	1	T081-Quantitative Concept
+Cisplatin	1	T197-Inorganic Chemical
+Weekly (qualifier value)	3	T079-Temporal Concept
+Dosages (qualifier value)	2	T081-Quantitative Concept
+Histologic	1	T169-Functional Concept
+Gastrointestinal	1	T023-Body Part, Organ, or Organ Component
+Pharmacotherapy	1	T061-Therapeutic or Preventive Procedure
+Bacillus <bacterium>	1	T007-Bacterium
+Percent (qualifier value)	6	T081-Quantitative Concept
+Chemotherapy-Oncologic Procedure	1	T061-Therapeutic or Preventive Procedure
+Human adult females	2	T098-Population Group
+Overall [Publication Type]	2	T170-Intellectual Product
+radiotherapeutic	1	T170-Intellectual Product
+Risk	1	T080-Qualitative Concept
+Lymphangiography	1	T060-Diagnostic Procedure
+Magnesium	2	T123-Biologically Active Substance
+Relative Risk	1	T080-Qualitative Concept
+Confidence Intervals	2	T081-Quantitative Concept
+survival aspects	2	T081-Quantitative Concept
+Hematologic (qualifier value)	1	T169-Functional Concept
+adverse effects	2	T037-Injury or Poisoning
+Radiation therapy	1	T061-Therapeutic or Preventive Procedure
+Conclude	1	T122-Biomedical or Dental Material
+Continuance of life	2	T052-Activity
+milligram	2	T081-Quantitative Concept
+Intracavitary (qualifier value)	1	T082-Spatial Concept

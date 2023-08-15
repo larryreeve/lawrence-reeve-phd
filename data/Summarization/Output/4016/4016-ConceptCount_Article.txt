@@ -1,0 +1,265 @@
+guiding characteristics	1	T170-Intellectual Product
+Step (qualifier value)	1	T169-Functional Concept
+Gender	1	T022-Body System
+Infusion (procedure)	1	T061-Therapeutic or Preventive Procedure
+Research Personnel	1	T097-Professional or Occupational Group
+Adjuvants, Immunologic	2	T129-Immunologic Factor
+Cancer treatment response rate	1	T079-Temporal Concept
+Six (qualifier value)	1	T081-Quantitative Concept
+Prostaglandin-Endoperoxide Synthase	1	T116-Amino Acid, Peptide, or Protein
+Antibiotics	1	T195-Antibiotic
+Disease regression	2	T046-Pathologic Function
+Pain	3	T184-Sign or Symptom
+Introduction (procedure)	1	T058-Health Care Activity
+Cox microbiology subtype	1	T170-Intellectual Product
+Same (qualifier value)	1	T080-Qualitative Concept
+Cell Division	1	T043-Cell Function
+progressive disease	1	T191-Neoplastic Process
+Lactate Dehydrogenase	1	T116-Amino Acid, Peptide, or Protein
+Tests (qualifier value)	1	T170-Intellectual Product
+Hemoglobin	1	T116-Amino Acid, Peptide, or Protein
+month (qualifier value)	12	T079-Temporal Concept
+Fluorouracil	3	T114-Nucleic Acid, Nucleoside, or Nucleotide
+Light	4	T070-Natural Phenomenon or Process
+Result (navigational concept)	5	T169-Functional Concept
+Neutrophils	1	T025-Cell
+Patient Compliance	2	T055-Individual Behavior
+Selection (Genetics)	1	T045-Genetic Function
+Clinical (qualifier value)	3	T080-Qualitative Concept
+Liquid substance	4	T167-Substance
+Significant (qualifier value)	3	T078-Idea or Concept
+Mental association	2	T041-Mental Process
+Generalized (qualifier value)	2	T082-Spatial Concept
+Differential (qualifier value)	2	T080-Qualitative Concept
+Count of entities (property) (qualifier value)	1	T081-Quantitative Concept
+Standards of Weights and Measures	1	T080-Qualitative Concept
+Exhaustion (finding)	1	T184-Sign or Symptom
+Providing presence (regime/therapy)	1	T061-Therapeutic or Preventive Procedure
+Transaminase Assay	1	T059-Laboratory Procedure
+[D]Abdominal mass (context-dependent category)	1	T184-Sign or Symptom
+Activities	1	T052-Activity
+Pharmacotherapy	5	T061-Therapeutic or Preventive Procedure
+Transfusion - action (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Median Statistical Measurement	9	T081-Quantitative Concept
+Manufactured form	1	T073-Manufactured Object
+Sensitivity Training Groups	1	T065-Educational Activity
+Reference Values	1	T081-Quantitative Concept
+Patient Selection	1	T058-Health Care Activity
+Left (qualifier value)	4	T082-Spatial Concept
+ADVANTAGE	3	T131-Hazardous or Poisonous Substance
+Pharmaceutical Preparations	5	T121-Pharmacologic Substance
+Pain score (observable entity)	1	T033-Finding
+Common (qualifier value)	2	T081-Quantitative Concept
+More (qualifier value)	3	T081-Quantitative Concept
+Colorectal Cancer	1	T191-Neoplastic Process
+performance status	6	T033-Finding
+Leukocytes	1	T025-Cell
+Two (qualifier value)	1	T081-Quantitative Concept
+therapeutic aspects	6	T169-Functional Concept
+Adverse event	2	T033-Finding
+First (qualifier value)	1	T081-Quantitative Concept
+Better (qualifier value)	2	T080-Qualitative Concept
+High	2	T080-Qualitative Concept
+ENDPOINT	4	T062-Research Activity
+Endurance of activity	1	T033-Finding
+Transaminases	1	T116-Amino Acid, Peptide, or Protein
+Time	1	T079-Temporal Concept
+Goals	2	T170-Intellectual Product
+Neutropenia	4	T047-Disease or Syndrome
+Febrile neutropenia	1	T047-Disease or Syndrome
+Analysis of substances	4	T059-Laboratory Procedure
+Follow-up status (finding)	2	T169-Functional Concept
+Normal limits (qualifier value)	1	T081-Quantitative Concept
+Frequency of Responses	1	T079-Temporal Concept
+year (qualifier value)	3	T079-Temporal Concept
+Curved (qualifier value)	1	T082-Spatial Concept
+pharmacotherapeutic	4	T169-Functional Concept
+Proportional (qualifier value)	1	T080-Qualitative Concept
+proven venom	1	T123-Biologically Active Substance
+incidence of cases	3	T169-Functional Concept
+criteria	4	T170-Intellectual Product
+Numerous (qualifier value)	1	T081-Quantitative Concept
+CHOOSING	1	T041-Mental Process
+Discussion (procedure)	1	T061-Therapeutic or Preventive Procedure
+Progression (attribute)	1	T169-Functional Concept
+Effect (qualifier value)	2	T080-Qualitative Concept
+BaseLine	2	T122-Biomedical or Dental Material
+Biomechanical compliance	2	T081-Quantitative Concept
+Toxicity aspects	1	T081-Quantitative Concept
+symptoms	6	T169-Functional Concept
+Methods	1	T170-Intellectual Product
+Statistical Analysis	1	T062-Research Activity
+Scores (qualifier value)	4	T081-Quantitative Concept
+Anorexia	1	T184-Sign or Symptom
+Lumbar (qualifier value)	1	T082-Spatial Concept
+Dyssomnias	1	T047-Disease or Syndrome
+Five (qualifier value)	1	T081-Quantitative Concept
+Carcinomatosis	1	T191-Neoplastic Process
+Lighter, device (physical object)	4	T073-Manufactured Object
+Localized (qualifier value)	1	T082-Spatial Concept
+Registers (PT)	1	T170-Intellectual Product
+Other therapy NOS (regime/therapy)	1	T061-Therapeutic or Preventive Procedure
+regimen	2	T061-Therapeutic or Preventive Procedure
+Disease	1	T047-Disease or Syndrome
+week (qualifier value)	6	T079-Temporal Concept
+Diarrhea	8	T184-Sign or Symptom
+Cox Models	1	T170-Intellectual Product
+Impact	2	T168-Food
+Special (qualifier value)	2	T080-Qualitative Concept
+Overall [Publication Type]	2	T170-Intellectual Product
+Symptomatic (qualifier value)	1	T169-Functional Concept
+One (qualifier value)	4	T081-Quantitative Concept
+Nausea	2	T033-Finding
+Secondary malignant neoplastic disease (disorder)	1	T191-Neoplastic Process
+Events (event)	9	T051-Event
+With quality (attribute)	10	T080-Qualitative Concept
+Models	1	T170-Intellectual Product
+Magnesium	2	T123-Biologically Active Substance
+Adrenal Cortex Hormones	1	T125-Hormone
+Helping Behavior	1	T054-Social Behavior
+survival aspects	22	T081-Quantitative Concept
+Including (qualifier value)	2	T169-Functional Concept
+ADMISSION	1	T058-Health Care Activity
+Radiation therapy	1	T061-Therapeutic or Preventive Procedure
+Supportive care	11	T058-Health Care Activity
+Regression - mental defense mechanism	2	T055-Individual Behavior
+Function Axis	1	T185-Classification
+Bilirubin	1	T123-Biologically Active Substance
+Continuance of life	22	T052-Activity
+DNA Topoisomerase	1	T116-Amino Acid, Peptide, or Protein
+Worsening (qualifier value)	1	T080-Qualitative Concept
+Elderly	1	T100-Age Group
+Pelvis	1	T029-Body Location or Region
+Upper (qualifier value)	1	T082-Spatial Concept
+SUBSEQUENT	1	T078-Idea or Concept
+Physical activity	1	T056-Daily or Recreational Activity
+Analysis	4	T062-Research Activity
+Vomiting NOS (disorder)	2	T047-Disease or Syndrome
+Recurrence	1	T067-Phenomenon or Process
+L (qualifier value)	4	T081-Quantitative Concept
+Onset of (contextual qualifier) (qualifier value)	2	T080-Qualitative Concept
+Alopecia	1	T184-Sign or Symptom
+Therapeutic procedure	7	T061-Therapeutic or Preventive Procedure
+Increase (qualifier value)	2	T169-Functional Concept
+Lithium	4	T196-Element, Ion, or Isotope
+Nine (qualifier value)	2	T081-Quantitative Concept
+Stabilization (procedure)	1	T061-Therapeutic or Preventive Procedure
+Forecast of outcome	1	T058-Health Care Activity
+Proven findings	1	T080-Qualitative Concept
+Prognosis bad (finding)	1	T033-Finding
+Age (qualifier value)	2	T079-Temporal Concept
+Responses	1	T054-Social Behavior
+Threshold (property) (qualifier value)	1	T169-Functional Concept
+Sleep disturbances	1	T047-Disease or Syndrome
+Alkaline phosphatase stain	1	T130-Indicator, Reagent, or Diagnostic Aid
+Cytotoxic agent (substance)	1	T121-Pharmacologic Substance
+Metastatic to	3	T169-Functional Concept
+Analysis of Variance	2	T081-Quantitative Concept
+Deterioration	1	T067-Phenomenon or Process
+Good (qualifier value)	3	T080-Qualitative Concept
+Weight measurement scales	3	T073-Manufactured Object
+ORALIT	2	T197-Inorganic Chemical
+Health Status	1	T080-Qualitative Concept
+Deferred (qualifier value)	2	T079-Temporal Concept
+Poisoning by parasympathomimetic drug (disorder)	1	T037-Injury or Poisoning
+day (qualifier value)	2	T079-Temporal Concept
+Toxic effect	2	T037-Injury or Poisoning
+Intestinal Obstruction	1	T047-Disease or Syndrome
+participant	1	T098-Population Group
+Room of building - Study	4	T073-Manufactured Object
+Histologic	1	T169-Functional Concept
+Incidence	3	T081-Quantitative Concept
+Pain-Free	3	T109-Organic Chemical
+Protein measurement	1	T059-Laboratory Procedure
+financial	2	T081-Quantitative Concept
+Relationship by association	2	T054-Social Behavior
+Financially poor	2	T080-Qualitative Concept
+Coitus	1	T055-Individual Behavior
+Progressive (qualifier value)	1	T169-Functional Concept
+standards characteristics	1	T170-Intellectual Product
+prognostic	2	T170-Intellectual Product
+Liquid (finding)	4	T033-Finding
+Lighting	4	T068-Human-caused Phenomenon or Process
+Duration	7	T079-Temporal Concept
+Early (qualifier value)	1	T079-Temporal Concept
+physiological aspects	1	T039-Physiologic Function
+adverse effects	3	T037-Injury or Poisoning
+Other	5	T080-Qualitative Concept
+Alkaline Phosphatase	1	T116-Amino Acid, Peptide, or Protein
+Median (qualifier value)	9	T082-Spatial Concept
+Dyspnea	1	T184-Sign or Symptom
+Variable (qualifier value)	2	T080-Qualitative Concept
+Carcinoembryonic Antigen	1	T116-Amino Acid, Peptide, or Protein
+Dates	1	T079-Temporal Concept
+Poor - grade value	2	T080-Qualitative Concept
+Analgesics	2	T121-Pharmacologic Substance
+benefits	5	T081-Quantitative Concept
+Low (qualifier value)	1	T080-Qualitative Concept
+Previous (qualifier value)	1	T082-Spatial Concept
+Probability	5	T081-Quantitative Concept
+Guidelines	1	T170-Intellectual Product
+DNA Replication	1	T045-Genetic Function
+tyramine-deoxysorbitol	1	T109-Organic Chemical
+patient characteristics	1	T201-Clinical Attribute
+Safety	2	T068-Human-caused Phenomenon or Process
+Vomiting	2	T184-Sign or Symptom
+Scientific Study	4	T059-Laboratory Procedure
+Related (finding)	1	T033-Finding
+Function	1	T169-Functional Concept
+Questionnaires	2	T170-Intellectual Product
+Asthenia	3	T184-Sign or Symptom
+ESTIMATED	1	T078-Idea or Concept
+Intellectual scale	1	T170-Intellectual Product
+Peritoneal (qualifier value)	1	T023-Body Part, Organ, or Organ Component
+Stratified (qualifier value)	1	T080-Qualitative Concept
+Informed Consent	1	T058-Health Care Activity
+Lights, manufactured	4	T074-Medical Device
+Blood Platelets	1	T025-Cell
+Random Allocation	4	T062-Research Activity
+Primary operation (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Has intent (attribute)	1	T041-Mental Process
+Life	1	T078-Idea or Concept
+alone	1	T102-Group Attribute
+VALUING	3	T080-Qualitative Concept
+Group (social concept)	2	T096-Group
+Topoisomerase inhibitor (substance)	1	T121-Pharmacologic Substance
+Weight Loss	3	T184-Sign or Symptom
+Cessation of life	1	T040-Organism Function
+Pain control (procedure)	1	T061-Therapeutic or Preventive Procedure
+Euphoric mood	2	T041-Mental Process
+France	1	T083-Geographic Area
+Neoplasm Metastasis	3	T191-Neoplastic Process
+Retrospective Studies	1	T081-Quantitative Concept
+Light color	4	T169-Functional Concept
+Tumor status (attribute)	1	T080-Qualitative Concept
+Methodology	1	T170-Intellectual Product
+Neoplasms	2	T191-Neoplastic Process
+Glucose	1	T123-Biologically Active Substance
+cm (qualifier value)	1	T081-Quantitative Concept
+Groups (qualifier value)	5	T170-Intellectual Product
+Dosages (qualifier value)	1	T081-Quantitative Concept
+Institution (social concept)	1	T078-Idea or Concept
+Neoplasm progression	2	T191-Neoplastic Process
+irinotecan	11	T109-Organic Chemical
+Integumentary scale	3	T023-Body Part, Organ, or Organ Component
+Following (attribute)	1	T079-Temporal Concept
+Opioids	1	T131-Hazardous or Poisonous Substance
+Persons	1	T098-Population Group
+Chemotherapy-Oncologic Procedure	5	T061-Therapeutic or Preventive Procedure
+Associated topography (attribute)	1	T082-Spatial Concept
+Neurologic Symptoms	1	T184-Sign or Symptom
+Writing	1	T090-Occupation or Discipline
+radiotherapeutic	1	T170-Intellectual Product
+Proteins	1	T116-Amino Acid, Peptide, or Protein
+p-value	1	T081-Quantitative Concept
+Power (Psychology)	1	T068-Human-caused Phenomenon or Process
+Grade	2	T185-Classification
+End (qualifier value)	1	T082-Spatial Concept
+Writer (occupation)	1	T097-Professional or Occupational Group
+Colorectal cancer metastatic	1	T191-Neoplastic Process
+Severe (severity modifier) (qualifier value)	3	T080-Qualitative Concept
+Secondary to	2	T079-Temporal Concept
+Primary	1	T080-Qualitative Concept
+milligram	2	T081-Quantitative Concept
+inhibitors	1	T120-Chemical Viewed Functionally
+Patients	27	T101-Patient or Disabled Group

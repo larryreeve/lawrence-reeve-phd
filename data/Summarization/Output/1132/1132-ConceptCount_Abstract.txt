@@ -1,0 +1,54 @@
+Nodal (qualifier value)	1	T082-Spatial Concept
+Upper arm	1	T029-Body Location or Region
+In complete remission (qualifier value)	1	T033-Finding
+Follow-up status (finding)	1	T169-Functional Concept
+Frequency of Responses	1	T079-Temporal Concept
+Cancer treatment response rate	1	T079-Temporal Concept
+Not free of (attribute)	1	T169-Functional Concept
+year (qualifier value)	1	T079-Temporal Concept
+pharmacotherapeutic	1	T169-Functional Concept
+Survival Rate	1	T081-Quantitative Concept
+Stratified (qualifier value)	1	T080-Qualitative Concept
+findings	1	T169-Functional Concept
+Administration (procedure)	1	T061-Therapeutic or Preventive Procedure
+Three (qualifier value)	1	T081-Quantitative Concept
+Random Allocation	1	T062-Research Activity
+Velocity (property) (qualifier value)	2	T169-Functional Concept
+Mitomycin	1	T195-Antibiotic
+month (qualifier value)	1	T079-Temporal Concept
+Toxicity aspects	1	T081-Quantitative Concept
+Cyclic (qualifier value)	1	T079-Temporal Concept
+V - volt (qualifier value)	2	T081-Quantitative Concept
+Local (qualifier value)	1	T082-Spatial Concept
+Volume (property) (qualifier value)	2	T081-Quantitative Concept
+Extents (qualifier value)	2	T080-Qualitative Concept
+Toxic effect	1	T037-Injury or Poisoning
+Negative (qualifier value)	1	T080-Qualitative Concept
+Fatal (qualifier value)	1	T080-Qualitative Concept
+Groups (qualifier value)	2	T170-Intellectual Product
+Baths, Arm	1	T074-Medical Device
+Providing presence (regime/therapy)	1	T061-Therapeutic or Preventive Procedure
+Pharmacotherapy	1	T061-Therapeutic or Preventive Procedure
+Pulmonary toxicity	1	T046-Pathologic Function
+X-Ray Computed Tomography	2	T060-Diagnostic Procedure
+Chemotherapy-Oncologic Procedure	1	T061-Therapeutic or Preventive Procedure
+Overall [Publication Type]	1	T170-Intellectual Product
+Bleomycin	1	T116-Amino Acid, Peptide, or Protein
+Lymphangiography	1	T060-Diagnostic Procedure
+performance status	1	T033-Finding
+Administration	1	T057-Occupational Activity
+Distant (qualifier value)	1	T082-Spatial Concept
+survival aspects	2	T081-Quantitative Concept
+Minimal (qualifier value)	1	T080-Qualitative Concept
+Including (qualifier value)	1	T169-Functional Concept
+Positive (qualifier value)	1	T080-Qualitative Concept
+Arm	1	T029-Body Location or Region
+Failure (biologic function)	1	T169-Functional Concept
+V (voltage)	2	T081-Quantitative Concept
+Vincristine	1	T109-Organic Chemical
+Vanadium	2	T123-Biologically Active Substance
+Personal failure	1	T055-Individual Behavior
+Continuance of life	2	T052-Activity
+BOMP protocol	1	T061-Therapeutic or Preventive Procedure
+Mitomycins	1	T109-Organic Chemical
+Patients	1	T101-Patient or Disabled Group

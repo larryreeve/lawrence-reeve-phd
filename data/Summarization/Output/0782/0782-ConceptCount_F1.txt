@@ -1,0 +1,8 @@
+Risk	1
+Excision - action (qualifier value)	1
+Distant (qualifier value)	1
+APPARENTLY	1
+Treatment Failure	1
+Differential (qualifier value)	2
+Cessation of life	1
+Excision	1

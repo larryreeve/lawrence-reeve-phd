@@ -1,0 +1,8 @@
+survival aspects	1
+Significant (qualifier value)	1
+Overall [Publication Type]	1
+Risk Factors	1
+Disease-Free Survival	2
+Differential (qualifier value)	1
+More (qualifier value)	1
+Continuance of life	1

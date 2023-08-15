@@ -1,0 +1,352 @@
+Pouch Urinary	1	T074-Medical Device
+Clinical Research	1	T062-Research Activity
+Six (qualifier value)	2	T081-Quantitative Concept
+Sufficient (qualifier value)	2	T080-Qualitative Concept
+Fielding	1	T093-Health Care Related Organization
+Mechanisms (qualifier value)	1	T067-Phenomenon or Process
+Interval (qualifier value)	1	T079-Temporal Concept
+statistical	1	T170-Intellectual Product
+Ultrasonography	2	T060-Diagnostic Procedure
+Disease regression	1	T046-Pathologic Function
+Fistula	1	T190-Anatomical Abnormality
+Pelvic lymphadenectomy (procedure)	3	T061-Therapeutic or Preventive Procedure
+Introduction (procedure)	1	T058-Health Care Activity
+Intravenous pyelogram	2	T060-Diagnostic Procedure
+Tests (qualifier value)	6	T170-Intellectual Product
+Patient observation	1	T061-Therapeutic or Preventive Procedure
+month (qualifier value)	3	T079-Temporal Concept
+PELVIS RADIATION	2	T061-Therapeutic or Preventive Procedure
+Mathematical formula	2	T170-Intellectual Product
+Result (navigational concept)	6	T169-Functional Concept
+Dissection - action (qualifier value)	1	T169-Functional Concept
+Decrease (qualifier value)	2	T081-Quantitative Concept
+Roche	1	T093-Health Care Related Organization
+Clinical (qualifier value)	1	T080-Qualitative Concept
+Author (occupation)	1	T097-Professional or Occupational Group
+Significant (qualifier value)	6	T078-Idea or Concept
+Entire liver	1	T023-Body Part, Organ, or Organ Component
+Surgical aspects	1	T169-Functional Concept
+Report (document)	1	T170-Intellectual Product
+Increased (qualifier value)	1	T169-Functional Concept
+Differential (qualifier value)	5	T080-Qualitative Concept
+Count of entities (property) (qualifier value)	6	T081-Quantitative Concept
+Providing presence (regime/therapy)	3	T061-Therapeutic or Preventive Procedure
+Distal (qualifier value)	1	T082-Spatial Concept
+Kidney	2	T023-Body Part, Organ, or Organ Component
+significance level	1	T062-Research Activity
+Entire bladder	1	T023-Body Part, Organ, or Organ Component
+Spacer (physical object)	1	T074-Medical Device
+cancer recurrence	2	T191-Neoplastic Process
+X-Ray Computed Tomography	4	T060-Diagnostic Procedure
+Determination Aspects	1	T059-Laboratory Procedure
+Indexes	1	T170-Intellectual Product
+Median Statistical Measurement	2	T081-Quantitative Concept
+Transfusion - action (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Manufactured form	1	T073-Manufactured Object
+Relative	1	T080-Qualitative Concept
+regulatory	1	T089-Regulation or Law
+Sensitivity Training Groups	1	T065-Educational Activity
+Morbidity - disease rate	2	T102-Group Attribute
+Percent (qualifier value)	1	T081-Quantitative Concept
+Cervix carcinoma stage I	1	T191-Neoplastic Process
+Reduction - action	1	T061-Therapeutic or Preventive Procedure
+Third (qualifier value)	2	T081-Quantitative Concept
+targeting	1	T043-Cell Function
+Common (qualifier value)	1	T081-Quantitative Concept
+More (qualifier value)	1	T081-Quantitative Concept
+Excision	2	T061-Therapeutic or Preventive Procedure
+Paraplegia	1	T047-Disease or Syndrome
+Liver	1	T023-Body Part, Organ, or Organ Component
+Rank	1	T170-Intellectual Product
+With frequency	1	T081-Quantitative Concept
+Chance	1	T080-Qualitative Concept
+Serious (qualifier value)	1	T080-Qualitative Concept
+Stage 1 upper case bee	2	T185-Classification
+Cycloleucine	10	T116-Amino Acid, Peptide, or Protein
+Diameter (qualifier value)	5	T032-Organism Attribute
+Two (qualifier value)	4	T081-Quantitative Concept
+Revisions (qualifier value)	1	T079-Temporal Concept
+therapeutic aspects	5	T169-Functional Concept
+Singular	1	T081-Quantitative Concept
+First (qualifier value)	1	T081-Quantitative Concept
+Better (qualifier value)	1	T080-Qualitative Concept
+High	1	T080-Qualitative Concept
+Conclude	1	T122-Biomedical or Dental Material
+Pathological aspects	3	T169-Functional Concept
+Goals	3	T170-Intellectual Product
+Radiation Dosage	2	T081-Quantitative Concept
+Performance	1	T055-Individual Behavior
+Slide (specimen)	1	T075-Research Device
+Assessment procedure (procedure)	2	T058-Health Care Activity
+Blood Chemical Analysis	1	T059-Laboratory Procedure
+Analysis of substances	5	T059-Laboratory Procedure
+Vagina	3	T023-Body Part, Organ, or Organ Component
+Transitory	1	T079-Temporal Concept
+Veins	1	T023-Body Part, Organ, or Organ Component
+Follow-up status (finding)	5	T169-Functional Concept
+Distributing	2	T078-Idea or Concept
+Evaluation	2	T169-Functional Concept
+Division (procedure)	1	T061-Therapeutic or Preventive Procedure
+SSD	1	T109-Organic Chemical
+Reduction (chemical)	1	T070-Natural Phenomenon or Process
+statistical power	1	T062-Research Activity
+Curved (qualifier value)	1	T082-Spatial Concept
+Full (qualifier value)	1	T080-Qualitative Concept
+year (qualifier value)	2	T079-Temporal Concept
+bilateral breast cancer	1	T191-Neoplastic Process
+Few (qualifier value)	1	T081-Quantitative Concept
+Life Tables	1	T170-Intellectual Product
+Proportional (qualifier value)	1	T080-Qualitative Concept
+Entire parametrium	1	T023-Body Part, Organ, or Organ Component
+criteria	1	T170-Intellectual Product
+Aspects of mortality statistics	5	T170-Intellectual Product
+Three (qualifier value)	3	T081-Quantitative Concept
+Numerous (qualifier value)	1	T081-Quantitative Concept
+local therapy	1	T061-Therapeutic or Preventive Procedure
+Entire vagina	3	T023-Body Part, Organ, or Organ Component
+Information	1	T078-Idea or Concept
+Mortality Vital Statistics	6	T081-Quantitative Concept
+Discussion (procedure)	1	T061-Therapeutic or Preventive Procedure
+Daily (qualifier value)	1	T079-Temporal Concept
+Progression (attribute)	1	T169-Functional Concept
+Research Design	1	T062-Research Activity
+primary tumor	1	T191-Neoplastic Process
+Several (qualifier value)	1	T081-Quantitative Concept
+Patient Noncompliance	1	T055-Individual Behavior
+Absences (finding)	4	T033-Finding
+Contiguous (qualifier value)	1	T082-Spatial Concept
+Additive (qualifier value)	2	T080-Qualitative Concept
+Toxicity aspects	1	T081-Quantitative Concept
+Dissection	1	T059-Laboratory Procedure
+Methods	3	T170-Intellectual Product
+External (qualifier value)	1	T082-Spatial Concept
+Conduit implant	1	T074-Medical Device
+Radiographic (qualifier value)	1	T070-Natural Phenomenon or Process
+Depth (qualifier value)	12	T082-Spatial Concept
+Pelvic lymph node group	1	T023-Body Part, Organ, or Organ Component
+Secondary malignant neoplasm of lymph node (disorder)	1	T191-Neoplastic Process
+Five (qualifier value)	1	T081-Quantitative Concept
+Permanent (qualifier value)	1	T079-Temporal Concept
+Negative (qualifier value)	3	T080-Qualitative Concept
+Intestines, Small	1	T023-Body Part, Organ, or Organ Component
+End-stage (qualifier value)	2	T079-Temporal Concept
+Histology	1	T091-Biomedical Occupation or Discipline
+Entire ureter	1	T023-Body Part, Organ, or Organ Component
+Equal (qualifier value)	1	T080-Qualitative Concept
+Radiographic procedure on chest (procedure)	1	T060-Diagnostic Procedure
+Freedom	1	T078-Idea or Concept
+Surgery specialty	1	T091-Biomedical Occupation or Discipline
+regimen	2	T061-Therapeutic or Preventive Procedure
+Disseminated Intravascular Coagulation	1	T047-Disease or Syndrome
+Diarrhea	1	T184-Sign or Symptom
+Cox Models	4	T170-Intellectual Product
+Surgical Removal - Action	2	T169-Functional Concept
+Impact	2	T168-Food
+Overall [Publication Type]	2	T170-Intellectual Product
+Total hysterectomy (procedure)	2	T061-Therapeutic or Preventive Procedure
+disease characteristic	1	T046-Pathologic Function
+Disproportionate (qualifier value)	1	T080-Qualitative Concept
+One (qualifier value)	13	T081-Quantitative Concept
+lymph nodes	2	T023-Body Part, Organ, or Organ Component
+Major (qualifier value)	1	T080-Qualitative Concept
+Secondary malignant neoplastic disease (disorder)	1	T191-Neoplastic Process
+Models	1	T170-Intellectual Product
+Nephrostomy, Percutaneous	1	T061-Therapeutic or Preventive Procedure
+Stage 1 lower case bee	2	T185-Classification
+Renal function, NOS	1	T042-Organ or Tissue Function
+LYMPHATIC INVOLVEMENT	1	T033-Finding
+Conditioning (Psychology)	1	T041-Mental Process
+survival aspects	5	T081-Quantitative Concept
+Liver Failure	1	T047-Disease or Syndrome
+Field's stain	1	T130-Indicator, Reagent, or Diagnostic Aid
+High dose (qualifier value)	1	T081-Quantitative Concept
+Exclude (qualifier value)	1	T169-Functional Concept
+node-negative	1	T033-Finding
+Accepted (qualifier value)	2	T080-Qualitative Concept
+Intestines	1	T023-Body Part, Organ, or Organ Component
+Most significant (qualifier value)	1	T080-Qualitative Concept
+Positive (qualifier value)	2	T080-Qualitative Concept
+Radiation therapy	17	T061-Therapeutic or Preventive Procedure
+Failure (biologic function)	2	T169-Functional Concept
+Regression - mental defense mechanism	1	T055-Individual Behavior
+Logger (occupation)	1	T097-Professional or Occupational Group
+Personal failure	2	T055-Individual Behavior
+morbidity aspects	2	T170-Intellectual Product
+Continuance of life	5	T052-Activity
+Transient Population Group	1	T098-Population Group
+Adenocarcinoma	2	T191-Neoplastic Process
+Entire vaginal vault	1	T023-Body Part, Organ, or Organ Component
+Upper (qualifier value)	1	T082-Spatial Concept
+Pelvis	7	T029-Body Location or Region
+Detected (qualifier value)	1	T033-Finding
+GENERAL OPERATIVE PROCEDURES	1	T061-Therapeutic or Preventive Procedure
+Size (attribute)	2	T081-Quantitative Concept
+Analysis	5	T062-Research Activity
+Structure of vaginal vault	1	T023-Body Part, Organ, or Organ Component
+Revision - value (qualifier value)	1	T079-Temporal Concept
+Ureter	2	T023-Body Part, Organ, or Organ Component
+Revision (procedure)	1	T061-Therapeutic or Preventive Procedure
+Vomiting NOS (disorder)	1	T047-Disease or Syndrome
+Combined (qualifier value)	2	T080-Qualitative Concept
+Set (Psychology)	1	T041-Mental Process
+Detective (occupation)	1	T097-Professional or Occupational Group
+Middle third (qualifier value)	1	T082-Spatial Concept
+Recurrence	7	T067-Phenomenon or Process
+Irradiation (physical force)	2	T070-Natural Phenomenon or Process
+Review [Publication Type]	1	T170-Intellectual Product
+Unmarried	1	T098-Population Group
+Vein	1	T023-Body Part, Organ, or Organ Component
+Episodes (qualifier value)	1	T079-Temporal Concept
+Therapeutic procedure	5	T061-Therapeutic or Preventive Procedure
+Adjudication	1	T064-Governmental or Regulatory Activity
+Parametrium	1	T023-Body Part, Organ, or Organ Component
+Regulation	1	T064-Governmental or Regulatory Activity
+Increase (qualifier value)	1	T169-Functional Concept
+utilization	2	T081-Quantitative Concept
+PROTRACTOR	1	T074-Medical Device
+data set	1	T170-Intellectual Product
+Present	2	T169-Functional Concept
+Nine (qualifier value)	2	T081-Quantitative Concept
+Radiation	2	T070-Natural Phenomenon or Process
+Role	1	T054-Social Behavior
+Condition (attribute)	1	T080-Qualitative Concept
+Forecast of outcome	1	T058-Health Care Activity
+Tumor size (observable entity)	4	T082-Spatial Concept
+Prognosis bad (finding)	1	T033-Finding
+Age (qualifier value)	2	T079-Temporal Concept
+Metastatic to	1	T169-Functional Concept
+Dissection procedure (procedure)	1	T061-Therapeutic or Preventive Procedure
+Human Females	7	T098-Population Group
+Indiana	1	T083-Geographic Area
+Risk Factors	8	T081-Quantitative Concept
+Gy (qualifier value)	2	T081-Quantitative Concept
+Weight measurement scales	1	T073-Manufactured Object
+Numbers (qualifier value)	1	T170-Intellectual Product
+Toxic effect	1	T037-Injury or Poisoning
+With type (attribute)	2	T169-Functional Concept
+Room of building - Study	7	T073-Manufactured Object
+Histologic	2	T169-Functional Concept
+Normal (qualifier value)	2	T033-Finding
+Observation in research	1	T062-Research Activity
+FAVOR (product)	2	T121-Pharmacologic Substance
+Tissues	1	T024-Tissue
+counts (qualifier value)	2	T081-Quantitative Concept
+Financially poor	1	T080-Qualitative Concept
+Blood	2	T024-Tissue
+vaginal fornix	1	T029-Body Location or Region
+Risk	3	T080-Qualitative Concept
+Unmarried person	1	T098-Population Group
+Measurement	1	T081-Quantitative Concept
+Psychotherapy, Group	1	T061-Therapeutic or Preventive Procedure
+Depth (attribute)	4	T082-Spatial Concept
+Reporting	3	T058-Health Care Activity
+prognostic	2	T170-Intellectual Product
+[M]Unspecified tumor cell NOS (morphologic abnormality)	2	T191-Neoplastic Process
+Bilateral	1	T082-Spatial Concept
+NODE	2	T023-Body Part, Organ, or Organ Component
+Chloride measurement	10	T059-Laboratory Procedure
+Entire pelvic lymph node	1	T023-Body Part, Organ, or Organ Component
+Brachytherapy	1	T061-Therapeutic or Preventive Procedure
+Carcinoma, Adenosquamous	1	T191-Neoplastic Process
+adverse effects	5	T037-Injury or Poisoning
+LOST	1	T033-Finding
+Other	5	T080-Qualitative Concept
+Large	1	T080-Qualitative Concept
+Median (qualifier value)	3	T082-Spatial Concept
+Sample Size	4	T081-Quantitative Concept
+Spreading (qualifier value)	1	T169-Functional Concept
+Urogenital structure	2	T023-Body Part, Organ, or Organ Component
+Variable (qualifier value)	1	T080-Qualitative Concept
+Needs	1	T080-Qualitative Concept
+Dates	2	T079-Temporal Concept
+Poor - grade value	1	T080-Qualitative Concept
+Certainty (attribute)	1	T080-Qualitative Concept
+Radicals (chemistry)	1	T104-Chemical Viewed Structurally
+Entire pelvis	2	T023-Body Part, Organ, or Organ Component
+benefits	2	T081-Quantitative Concept
+Previous (qualifier value)	1	T082-Spatial Concept
+Low (qualifier value)	1	T080-Qualitative Concept
+Postoperative Period	2	T079-Temporal Concept
+Status of invasion by tumor (observable entity)	1	T201-Clinical Attribute
+Probability	1	T081-Quantitative Concept
+Discord	1	T054-Social Behavior
+acceptability	1	T080-Qualitative Concept
+Motility (finding)	1	T040-Organism Function
+diagram	1	T170-Intellectual Product
+Liver Extract	1	T123-Biologically Active Substance
+Radical (qualifier value)	1	T080-Qualitative Concept
+Vomiting	1	T184-Sign or Symptom
+Scientific Study	7	T059-Laboratory Procedure
+Course (attribute)	1	T079-Temporal Concept
+Revision procedure (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Related (finding)	1	T033-Finding
+dosimetry	1	T081-Quantitative Concept
+ESTIMATED	3	T078-Idea or Concept
+Intellectual scale	1	T170-Intellectual Product
+In Blood	2	T031-Body Substance
+Quality Control	1	T057-Occupational Activity
+Preoperative (qualifier value)	1	T032-Organism Attribute
+prediction	2	T170-Intellectual Product
+Informed Consent	1	T058-Health Care Activity
+Bladder	1	T023-Body Part, Organ, or Organ Component
+Capillary, Unspecified	1	T023-Body Part, Organ, or Organ Component
+Random Allocation	3	T062-Research Activity
+Primary operation (qualifier value)	2	T061-Therapeutic or Preventive Procedure
+Blood Vessels	2	T023-Body Part, Organ, or Organ Component
+Greater (qualifier value)	1	T081-Quantitative Concept
+Neurofibrillary Tangles	1	T020-Acquired Abnormality
+Structure of internal iliac artery	1	T023-Body Part, Organ, or Organ Component
+Tail	3	T023-Body Part, Organ, or Organ Component
+Group (social concept)	2	T096-Group
+Spatial Distribution	2	T082-Spatial Concept
+Fractions of (qualifier value)	2	T081-Quantitative Concept
+Cessation of life	3	T040-Organism Function
+Euphoric mood	1	T041-Mental Process
+Entire vein	1	T023-Body Part, Organ, or Organ Component
+Neoplasm Metastasis	1	T191-Neoplastic Process
+Medical pathologist (occupation)	1	T097-Professional or Occupational Group
+Superficial (qualifier value)	1	T082-Spatial Concept
+Excessive (qualifier value)	1	T080-Qualitative Concept
+Methodology	2	T170-Intellectual Product
+Local (qualifier value)	1	T082-Spatial Concept
+Neoplasms	5	T191-Neoplastic Process
+cm (qualifier value)	3	T081-Quantitative Concept
+Groups (qualifier value)	2	T170-Intellectual Product
+Eight (qualifier value)	1	T170-Intellectual Product
+Institution (social concept)	1	T078-Idea or Concept
+Neoplasm progression	1	T191-Neoplastic Process
+Radiotherapy, Adjuvant	1	T061-Therapeutic or Preventive Procedure
+Aluminum	3	T196-Element, Ion, or Isotope
+Integumentary scale	1	T023-Body Part, Organ, or Organ Component
+Completeness (qualifier value)	1	T080-Qualitative Concept
+Interobserver Variation	1	T081-Quantitative Concept
+Aftercare	1	T058-Health Care Activity
+Case (qualifier value)	1	T169-Functional Concept
+Human adult females	7	T098-Population Group
+Associated topography (attribute)	2	T082-Spatial Concept
+Stroma	8	T023-Body Part, Organ, or Organ Component
+Writing	1	T090-Occupation or Discipline
+Isolated (qualifier value)	1	T169-Functional Concept
+Reduced (qualifier value)	1	T080-Qualitative Concept
+Hepatic	1	T029-Body Location or Region
+radiotherapeutic	15	T170-Intellectual Product
+Blood capillaries	1	T023-Body Part, Organ, or Organ Component
+Tract	1	T023-Body Part, Organ, or Organ Component
+Histology Procedure	1	T059-Laboratory Procedure
+Accurate (qualifier value)	1	T080-Qualitative Concept
+Complication	1	T046-Pathologic Function
+Squamous	1	T080-Qualitative Concept
+Writer (occupation)	1	T097-Professional or Occupational Group
+Entire capillary blood vessel (organ)	1	T023-Body Part, Organ, or Organ Component
+Folded structure (morphologic abnormality)	1	T082-Spatial Concept
+Percentile (property) (qualifier value)	1	T081-Quantitative Concept
+Complete (qualifier value)	1	T080-Qualitative Concept
+Relative (related person)	1	T099-Family Group
+Sliding	1	T169-Functional Concept
+Repeated Measures	1	T062-Research Activity
+Prospective Studies	3	T081-Quantitative Concept
+Primary	2	T080-Qualitative Concept
+Large tumor (finding)	3	T080-Qualitative Concept
+Rating	2	T062-Research Activity
+EXCESSIVELY	1	T078-Idea or Concept
+Patients	30	T101-Patient or Disabled Group

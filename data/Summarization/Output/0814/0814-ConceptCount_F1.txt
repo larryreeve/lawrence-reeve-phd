@@ -1,0 +1,8 @@
+Patients	1
+Meaning	1
+Reporting	1
+Preliminary (qualifier value)	1
+Report (document)	1
+Room of building - Study	1
+Scientific Study	1
+Meaningfulness	1

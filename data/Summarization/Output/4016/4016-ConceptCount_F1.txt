@@ -1,0 +1,21 @@
+phase III study	1
+survival aspects	2
+Supportive care	1
+Lassitude	1
+Critic (occupation)	1
+Asthenia	1
+Scientific Study	1
+With quality (attribute)	1
+Pharmacotherapy	1
+Chemotherapy-Oncologic Procedure	1
+therapeutic aspects	1
+Room of building - Study	1
+Crisis (finding)	1
+Good (qualifier value)	1
+benefits	2
+Therapeutic procedure	1
+Better (qualifier value)	1
+pharmacotherapeutic	1
+First (qualifier value)	1
+Paresis	1
+Continuance of life	2

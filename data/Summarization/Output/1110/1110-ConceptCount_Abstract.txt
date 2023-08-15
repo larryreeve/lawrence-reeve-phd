@@ -1,0 +1,42 @@
+Cisplatin	3	T197-Inorganic Chemical
+Application (procedure)	1	T058-Health Care Activity
+Pharmacotherapy	2	T061-Therapeutic or Preventive Procedure
+Seriousness	1	T055-Individual Behavior
+Median Statistical Measurement	1	T081-Quantitative Concept
+Para-aortic (qualifier value)	1	T082-Spatial Concept
+Percent (qualifier value)	4	T081-Quantitative Concept
+Not free of (attribute)	1	T169-Functional Concept
+Human adult females	1	T098-Population Group
+Chemotherapy-Oncologic Procedure	2	T061-Therapeutic or Preventive Procedure
+ESTIMATED	1	T078-Idea or Concept
+pharmacotherapeutic	2	T169-Functional Concept
+Aortic lymph node (body structure)	1	T023-Body Part, Organ, or Organ Component
+Recurrence	1	T067-Phenomenon or Process
+pM category (observable entity)	1	T201-Clinical Attribute
+One (qualifier value)	1	T081-Quantitative Concept
+Malignant neoplasm of cervix uteri	1	T191-Neoplastic Process
+Stage 1 lower case bee	1	T185-Classification
+Concurrent (qualifier value)	1	T079-Temporal Concept
+Radiation	1	T070-Natural Phenomenon or Process
+Duration	1	T079-Temporal Concept
+Effect (qualifier value)	1	T080-Qualitative Concept
+Stage 1 upper case bee	1	T185-Classification
+month (qualifier value)	1	T079-Temporal Concept
+survival aspects	1	T081-Quantitative Concept
+Field's stain	1	T130-Indicator, Reagent, or Diagnostic Aid
+Two (qualifier value)	2	T081-Quantitative Concept
+Additive (qualifier value)	1	T080-Qualitative Concept
+Result (navigational concept)	1	T169-Functional Concept
+Median (qualifier value)	1	T082-Spatial Concept
+Cyclic (qualifier value)	1	T079-Temporal Concept
+Methods	1	T170-Intellectual Product
+Significant (qualifier value)	1	T078-Idea or Concept
+Conclude	1	T122-Biomedical or Dental Material
+Human Females	1	T098-Population Group
+Gy (qualifier value)	2	T081-Quantitative Concept
+Methodology	1	T170-Intellectual Product
+Continuance of life	1	T052-Activity
+Rating	2	T062-Research Activity
+Improved (qualifier value)	1	T080-Qualitative Concept
+Patients	1	T101-Patient or Disabled Group
+Intracavitary (qualifier value)	1	T082-Spatial Concept

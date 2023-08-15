@@ -1,0 +1,1196 @@
+PATIENTS
+  1
+  C0030705|Patients|T101
+substantial minority recur
+  2
+  C0812423|recur|T079
+  C0680221|minority|T054
+present
+  1
+  C0150312|Present|T169
+potential candidates
+  1
+  C0237399|Potential|T080
+list
+  1
+  C0745732|LIST|T077
+combinations
+  1
+  C0453882|Combinations (physical object)|T073
+consistent improvement
+  4
+  C0184511|Improved (qualifier value)|T080
+  C0332290|Consistent with (qualifier value)|T078
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+Cisplatin
+  1
+  C0008838|Cisplatin|T197
+most active anticancer drug
+  2
+  C0205393|Most (qualifier value)|T081
+  C0013227|Pharmaceutical Preparations|T121
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+complete response
+  1
+  C0677874|In complete remission (qualifier value)|T033
+CR
+  1
+  C0008574|Chromium|T123
+appreciable difference
+  1
+  C0443199|Differential (qualifier value)|T080
+progression free interval
+  3
+  C0016694|Freedom|T078
+  C1272706|Interval (qualifier value)|T079
+  C0449258|Progression (attribute)|T169
+convincing reason to
+  1
+  C0684328|Reasoning|T041
+Mitolactol
+  1
+  C0026252|Mitolactol|T118
+dibromodulcitol
+  1
+  C0026252|Mitolactol|T118
+DAG
+  1
+  C0043791|1,2-diacylglycerol|T123
+DAG
+  1
+  C0043791|1,2-diacylglycerol|T123
+probably alkylating agent
+  3
+  C0750492|Probably|T078
+  C0332148|Probable diagnosis|T080
+  C0002073|Alkylating Agents|T131
+activity
+  3
+  C0600075|Endurance of activity|T033
+  C0441655|Activities|T052
+  C0221187|Physical activity|T056
+DAG
+  1
+  C0043791|1,2-diacylglycerol|T123
+mitolactol
+  1
+  C0026252|Mitolactol|T118
+phase II study
+  1
+  C0278782|phase II study|T062
+d
+  3
+  C0439228|day (qualifier value)|T079
+  C0332517|Diameter (qualifier value)|T032
+  C0011530|Deoxyribose|T123
+assessable patients
+  2
+  C1261322|Assessment procedure (procedure)|T058
+  C0030705|Patients|T101
+partial responses
+  1
+  C0677924|partial response|T080
+PRs
+  1
+  C0279766|progesterone receptor negative|T034
+29% response rate
+  2
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+principal toxicity
+  4
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C0401925|Teaching principal|T097
+  C0205225|Primary|T080
+drugs
+  1
+  C0013227|Pharmaceutical Preparations|T121
+activityin cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+only assessable patients
+  2
+  C1261322|Assessment procedure (procedure)|T058
+  C0030705|Patients|T101
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+five PRs
+  2
+  C0205451|Five (qualifier value)|T081
+  C0279766|progesterone receptor negative|T034
+39% response rate
+  2
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+improved results
+  2
+  C0184511|Improved (qualifier value)|T080
+  C1274040|Result (navigational concept)|T169
+pilot study used mitolactol
+  3
+  C0026252|Mitolactol|T118
+  C0042153|utilization|T081
+  C0031928|Pilot Projects|T062
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+tolerable dose schedule
+  4
+  C0231198|Tolerant|T169
+  C0086960|Schedules|T170
+  C0178602|Dosages (qualifier value)|T081
+  C0680282|implicit permission|T054
+intermediate dose level
+  3
+  C0456079|Disease classification level|T185
+  C0205103|Intermediate (qualifier value)|T082
+  C0178602|Dosages (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+m cisplatin
+  1
+  C0008838|Cisplatin|T197
+m mitolactol daily
+  2
+  C0026252|Mitolactol|T118
+  C0332173|Daily (qualifier value)|T079
+Ifosfamide
+  1
+  C0020823|Ifosfamide|T115
+new agent closely
+  4
+  C0450442|Agent (attribute)|T120
+  C0205314|New (qualifier value)|T079
+  C0587267|Closed|T169
+  C0677512|Closed approach|T082
+more bladder toxicity
+  5
+  C0205172|More (qualifier value)|T081
+  C0040539|Toxicity aspects|T081
+  C0005682|Bladder|T023
+  C0600688|Toxic effect|T037
+  C1281573|Entire bladder|T023
+concomitant use
+  1
+  C0042153|utilization|T081
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+bleomycin
+  1
+  C0005740|Bleomycin|T116
+69% response rate
+  2
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+patients
+  1
+  C0030705|Patients|T101
+result
+  1
+  C1274040|Result (navigational concept)|T169
+toxicity sometimes troublesome
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+regimen
+  1
+  C0677937|regimen|T061
+C M
+  1
+  C0007886|Cesium|T196
+regimen
+  1
+  C0677937|regimen|T061
+and mesna
+  1
+  C0000294|Mesna|T109
+PATIENTS
+  1
+  C0030705|Patients|T101
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Eligible patients
+  1
+  C0030705|Patients|T101
+women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+persistent squamous cell carcinoma
+  2
+  C0205322|Persistent (qualifier value)|T079
+  C0007137|Carcinoma, Squamous Cell|T191
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Written informed consent
+  3
+  C0043266|Writing|T090
+  C0021430|Informed Consent|T058
+  C0341628|Writer (occupation)|T097
+chest x-ray
+  1
+  C0202783|Radiographic procedure on chest (procedure)|T060
+Measurements
+  1
+  C0242485|Measurement|T081
+CT
+  1
+  C0040405|X-Ray Computed Tomography|T060
+scan
+  1
+  C0441633|Scanning|T060
+lesion
+  1
+  C0221198|Lesion|T033
+cm
+  1
+  C0475210|cm (qualifier value)|T081
+measurable lesion
+  3
+  C0444706|Measured (qualifier value)|T080
+  C0221198|Lesion|T033
+  C0079809|Measures|T081
+cytology
+  4
+  C1305671|Cytology procedure|T059
+  C0010820|Cellular aspects of|T033
+  C0849088|Test, cytology, digestive|T059
+  C0010819|Cytology|T091
+GOG performance score
+  2
+  C0449820|Scores (qualifier value)|T081
+  C0597198|Performance|T055
+PS
+  1
+  C0036421|Systemic Scleroderma|T047
+Patients
+  1
+  C0030705|Patients|T101
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+protocol
+  1
+  C0442711|Protocols documentation|T170
+specification
+  1
+  C0205369|Specific (qualifier value)|T080
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+serum creatinine concentration
+  5
+  C0201976|SERUM CREATININE TESTS|T059
+  C0600061|Serum creatinine level|T034
+  C0086045|Concentration|T041
+  C0683149|serum drug concentration|T081
+  C0010294|Creatinine|T123
+normal limits
+  1
+  C0442816|Normal limits (qualifier value)|T081
+serum albumin level
+  2
+  C0728877|Serum albumin level|T034
+  C0523465|Serum albumin measurement|T059
+g
+  1
+  C0162832|APC Gene|T028
+dL
+  1
+  C0439241|dL (qualifier value)|T081
+Ineligible patients
+  1
+  C0030705|Patients|T101
+cervical neoplasms
+  1
+  C0007873|Cervix Neoplasms|T191
+WBC
+  1
+  C0023516|Leukocytes|T025
+platelet count less
+  2
+  C0032181|Platelet Count|T059
+  C1287267|Finding of platelet count (finding)|T034
+abnormal liver function
+  1
+  C0232742|Abnormal liver function (finding)|T046
+bilirubin
+  1
+  C0005437|Bilirubin|T123
+AST
+  1
+  C0004002|Aspartate Transaminase|T116
+alkaline phosphatase level two
+  2
+  C0428332|Finding of alkaline phosphatase level (finding)|T034
+  C0205448|Two (qualifier value)|T081
+bilateral hydronephrosis
+  1
+  C0521622|Bilateral hydronephrosis (disorder)|T047
+concomitant malignancy
+  2
+  C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+  C0006826|Malignant Neoplasms|T191
+excluding melanoma
+  2
+  C0025202|Melanoma|T191
+  C0332196|Exclude (qualifier value)|T169
+prior therapy
+  3
+  C0087111|Therapeutic procedure|T061
+  C0750516|PRIOR|T078
+  C0039798|therapeutic aspects|T169
+pregnancy
+  1
+  C0032961|Pregnancy|T040
+lactation
+  1
+  C0022925|Lactation|T042
+Patients
+  1
+  C0030705|Patients|T101
+received prior radiation sensitizer treatment
+  5
+  C0544683|Reception|T042
+  C0087111|Therapeutic procedure|T061
+  C0750516|PRIOR|T078
+  C0034541|Radiation-Sensitizing Agents|T121
+  C0039798|therapeutic aspects|T169
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+cisplatin mg
+  3
+  C0008838|Cisplatin|T197
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+cisplatin mg
+  3
+  C0008838|Cisplatin|T197
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+mitolactol
+  1
+  C0026252|Mitolactol|T118
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+m orally
+  1
+  C0442027|Oral (qualifier value)|T082
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+ifosfamide 5.0 g
+  2
+  C0020823|Ifosfamide|T115
+  C0162832|APC Gene|T028
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+use
+  1
+  C0042153|utilization|T081
+possible neurotoxicity
+  2
+  C0332149|Possible|T080
+  C0235032|Neurotoxicity Syndromes|T037
+subsequent treatment course
+  4
+  C0449922|Course (attribute)|T079
+  C0087111|Therapeutic procedure|T061
+  C0750530|SUBSEQUENT|T078
+  C0039798|therapeutic aspects|T169
+Therapy
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+delayed week
+  2
+  C0205421|Deferred (qualifier value)|T079
+  C0439230|week (qualifier value)|T079
+Dose adjustments
+  3
+  C0001537|Clinical Adjustment|T058
+  C0376209|Individual Adjustment|T055
+  C0178602|Dosages (qualifier value)|T081
+neurologic toxicity
+  3
+  C0040539|Toxicity aspects|T081
+  C0205494|Neurologic (qualifier value)|T169
+  C0600688|Toxic effect|T037
+Toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+serum albumin level
+  2
+  C0728877|Serum albumin level|T034
+  C0523465|Serum albumin measurement|T059
+dose reduction
+  3
+  C0301630|Reduction (chemical)|T070
+  C0178602|Dosages (qualifier value)|T081
+  C0441610|Reduction - action|T061
+CR
+  1
+  C0008574|Chromium|T123
+PR
+  1
+  C0279766|progesterone receptor negative|T034
+50% reduction
+  2
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+Statistical Considerations
+  2
+  C0518609|CONSIDERATION|T033
+  C0220917|statistical|T170
+15% increase
+  1
+  C0442805|Increase (qualifier value)|T169
+mitolactolor ifosfamide
+  1
+  C0020823|Ifosfamide|T115
+primary objective
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0018017|Goals|T170
+  C0205225|Primary|T080
+proportion
+  1
+  C0205351|Proportional (qualifier value)|T080
+null hypothesis
+  1
+  C0456148|Null (qualifier value)|T033
+probability
+  1
+  C0033204|Probability|T081
+more extreme result
+  3
+  C0205172|More (qualifier value)|T081
+  C1274040|Result (navigational concept)|T169
+  C0205403|Extreme (qualifier value)|T080
+one tail test
+  3
+  C0392366|Tests (qualifier value)|T170
+  C0039259|Tail|T023
+  C0205447|One (qualifier value)|T081
+linear logistic model
+  2
+  C0205132|Linear|T082
+  C0023965|Logistic Models|T170
+PS
+  1
+  C0036421|Systemic Scleroderma|T047
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+adjusted relative risk
+  5
+  C0001537|Clinical Adjustment|T058
+  C0683269|Psychological adjustment|T055
+  C0376209|Individual Adjustment|T055
+  C0242492|Relative Risk|T080
+  C0456081|Adjustment Action|T058
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+Ten patients
+  2
+  C0030705|Patients|T101
+  C0205456|Ten (qualifier value)|T081
+randomized study treatment
+  5
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0087111|Therapeutic procedure|T061
+  C0034656|Random Allocation|T062
+  C0039798|therapeutic aspects|T169
+women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+Toxicities
+  1
+  C0600688|Toxic effect|T037
+test
+  1
+  C0392366|Tests (qualifier value)|T170
+two tail
+  2
+  C0039259|Tail|T023
+  C0205448|Two (qualifier value)|T081
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+wrong stage
+  4
+  C0332271|Worsening (qualifier value)|T080
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+  C1279889|Deterioration of status|T080
+wrong cell type
+  3
+  C0332271|Worsening (qualifier value)|T080
+  C1279889|Deterioration of status|T080
+  C0449475|Type of cell (qualifier value)|T170
+wrong primary tumor
+  3
+  C0332271|Worsening (qualifier value)|T080
+  C0677930|primary tumor|T191
+  C1279889|Deterioration of status|T080
+prior chemotherapy
+  4
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C0750516|PRIOR|T078
+second primary tumor
+  2
+  C0677930|primary tumor|T191
+  C0205436|Second (qualifier value)|T081
+eligible patients
+  1
+  C0030705|Patients|T101
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+eligible patients
+  1
+  C0030705|Patients|T101
+onthe CIFX arm
+  2
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+Patient pretreatment characteristics
+  1
+  C0815172|patient characteristics|T201
+Toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+more granulocytopenia
+  2
+  C0205172|More (qualifier value)|T081
+  C1261272|Granulocytopenia|T046
+thrombocytopenia
+  1
+  C0040034|Thrombocytopenia|T047
+leukocytopenia
+  1
+  C0023530|Leukopenia|T047
+more granulocytopenia
+  2
+  C0205172|More (qualifier value)|T081
+  C1261272|Granulocytopenia|T046
+thrombocytopenia
+  1
+  C0040034|Thrombocytopenia|T047
+nausea
+  1
+  C0027497|Nausea|T033
+vomiting
+  2
+  C0042963|Vomiting|T184
+  C0401156|Vomiting NOS (disorder)|T047
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+blood counts
+  3
+  C0005767|Blood|T024
+  C0005768|In Blood|T031
+  C0439157|counts (qualifier value)|T081
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+renal failure afterone course
+  2
+  C0449922|Course (attribute)|T079
+  C0035078|Kidney Failure|T047
+refused dialysis
+  4
+  C0011945|Physical Dialysis|T070
+  C1059964|Genus Dialysis|T009
+  C0017095|Garbage|T072
+  C0011946|Dialysis procedure|T061
+central neurotoxicity
+  2
+  C0205099|Central|T082
+  C0235032|Neurotoxicity Syndromes|T037
+CNS toxicity
+  3
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C0927232|Neuraxis|T023
+seizures
+  1
+  C0036572|Seizures|T184
+fatigue
+  1
+  C0015672|Fatigue|T184
+weakness
+  3
+  C0030552|Paresis|T184
+  C0086525|Lassitude|T184
+  C0004093|Asthenia|T184
+CNS toxicity
+  3
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C0927232|Neuraxis|T023
+case
+  1
+  C0868928|Case (qualifier value)|T169
+patient
+  1
+  C0030705|Patients|T101
+cardiorespiratory arrest
+  1
+  C0600228|Cardiopulmonary Arrest|T046
+eligibility criteria
+  1
+  C0243161|criteria|T170
+Subsequent patients
+  2
+  C0750530|SUBSEQUENT|T078
+  C0030705|Patients|T101
+pretreatment serum albumin level 3.0 g
+  3
+  C0162832|APC Gene|T028
+  C0728877|Serum albumin level|T034
+  C0523465|Serum albumin measurement|T059
+dL
+  1
+  C0439241|dL (qualifier value)|T081
+aserum creatinine concentration
+  2
+  C0086045|Concentration|T041
+  C0010294|Creatinine|T123
+patients
+  1
+  C0030705|Patients|T101
+suggested low serum albumin level
+  4
+  C0424012|Suggestible (finding)|T033
+  C0205251|Low (qualifier value)|T080
+  C0728877|Serum albumin level|T034
+  C0523465|Serum albumin measurement|T059
+high creatinine concentration
+  2
+  C0086045|Concentration|T041
+  C0151578|Creatinine increased|T033
+presence
+  1
+  C0392148|Providing presence (regime/therapy)|T061
+fatal CNS toxicity
+  4
+  C1302234|Fatal (qualifier value)|T080
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C0927232|Neuraxis|T023
+lesser degrees
+  3
+  C0542560|Academic degree|T170
+  C0449286|Degree or extent|T080
+  C0547044|Lesser (qualifier value)|T080
+Response
+  1
+  C0871261|Responses|T054
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+significantly greater frequency
+  3
+  C0443228|Greater (qualifier value)|T081
+  C0376249|With frequency|T081
+  C0750502|Significant (qualifier value)|T078
+frequency
+  1
+  C0376249|With frequency|T081
+median durations
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+stage IVB patients
+  3
+  C0456601|Stage 4 upper case bee|T185
+  C0030705|Patients|T101
+  C0441775|Stage 4 lower case bee|T185
+prior radiotherapy
+  3
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+response
+  1
+  C0871261|Responses|T054
+Response
+  1
+  C0871261|Responses|T054
+PS
+  1
+  C0036421|Systemic Scleroderma|T047
+radiosensitizer
+  1
+  C0034541|Radiation-Sensitizing Agents|T121
+median
+  2
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+4.6 v 3.2 months
+  6
+  C0042306|Vanadium|T123
+  C0449468|Volume (property) (qualifier value)|T081
+  C0439830|Velocity (property) (qualifier value)|T169
+  C0598352|V (voltage)|T081
+  C0439502|V - volt (qualifier value)|T081
+  C0439231|month (qualifier value)|T079
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+C M
+  1
+  C0007886|Cesium|T196
+Age
+  1
+  C0001779|Age (qualifier value)|T079
+Initial PS
+  2
+  C0036421|Systemic Scleroderma|T047
+  C0205265|Initial (qualifier value)|T079
+median durations
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+7.4,and 6.8 months
+  1
+  C0439231|month (qualifier value)|T079
+Histologic grade
+  1
+  C0919553|Histopathologic Grade|T185
+prior radiotherapy
+  3
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Chemotherapy concurrently
+  4
+  C0205420|Concurrent (qualifier value)|T079
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+prior history
+  6
+  C0019664|Recording of previous events|T090
+  C0019665|history|T170
+  C0262926|Medical History|T033
+  C0750516|PRIOR|T078
+  C1321503|History of (contextual qualifier) (qualifier value)|T033
+  C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+treatment arms
+  3
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0003792|Arm|T029
+treatment comparisons
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+risk
+  1
+  C0035647|Risk|T080
+prior irradiation
+  4
+  C1282930|Irradiation (physical force)|T070
+  C0851346|Radiation|T070
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+results
+  1
+  C1274040|Result (navigational concept)|T169
+common set
+  2
+  C0205214|Common (qualifier value)|T081
+  C0036849|Set (Psychology)|T041
+higher response rate
+  4
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+not high CR rate
+  2
+  C0151578|Creatinine increased|T033
+  C0871208|Rating|T062
+survival benefit
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0814225|benefits|T081
+significant improvement
+  4
+  C0184511|Improved (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+impact
+  1
+  C0726639|Impact|T168
+overall survival improvement
+  6
+  C0184511|Improved (qualifier value)|T080
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+patients
+  1
+  C0030705|Patients|T101
+phase II trial
+  1
+  C0278782|phase II study|T062
+ifosfamide
+  1
+  C0020823|Ifosfamide|T115
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+same dose
+  2
+  C0445247|Same (qualifier value)|T080
+  C0178602|Dosages (qualifier value)|T081
+20% CR rate
+  2
+  C0008574|Chromium|T123
+  C0871208|Rating|T062
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+patients
+  1
+  C0030705|Patients|T101
+criteria
+  1
+  C0243161|criteria|T170
+pulmonary toxicity
+  1
+  C0919924|Pulmonary toxicity|T046
+role
+  1
+  C0035820|Role|T054
+restricting therapy
+  3
+  C0087111|Therapeutic procedure|T061
+  C0443288|Restricted (qualifier value)|T169
+  C0039798|therapeutic aspects|T169
+present study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0150312|Present|T169
+bleomycin
+  1
+  C0005740|Bleomycin|T116
+vincristine
+  1
+  C0042679|Vincristine|T109
+other randomized phase II trials
+  2
+  C0205394|Other|T080
+  C0205390|Phase (qualifier value)|T079
+major role
+  2
+  C0205164|Major (qualifier value)|T080
+  C0035820|Role|T054
+addition
+  1
+  C0442796|Additive (qualifier value)|T080
+C M regimen
+  2
+  C0007886|Cesium|T196
+  C0677937|regimen|T061
+disappointing
+  1
+  C0870427|Disappointment|T041
+Mitolactol
+  1
+  C0026252|Mitolactol|T118
+schedule
+  1
+  C0086960|Schedules|T170
+d
+  3
+  C0439228|day (qualifier value)|T079
+  C0332517|Diameter (qualifier value)|T032
+  C0011530|Deoxyribose|T123
+pilot study
+  1
+  C0031928|Pilot Projects|T062
+C M arm
+  3
+  C0007886|Cesium|T196
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+additional effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0442796|Additive (qualifier value)|T080
+report
+  2
+  C0700287|Reporting|T058
+  C0684224|Report (document)|T170
+indicated mitolactol therapy
+  6
+  C0026252|Mitolactol|T118
+  C1235732|Indicator|T012
+  C0237000|Indications|T078
+  C0087111|Therapeutic procedure|T061
+  C0021212|Indicators|T130
+  C0039798|therapeutic aspects|T169
+secondary leukemias
+  1
+  C0275814|Streptococcal lymphadenitis of swine|T047
+possible risk
+  2
+  C0332149|Possible|T080
+  C0035647|Risk|T080
+improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+limited future
+  2
+  C0439801|Limited (qualifier value)|T169
+  C0016884|Future|T079
+studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+doxorubicin
+  1
+  C0013089|Doxorubicin|T195
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+iproplatin
+  1
+  C0057856|iproplatin|T109
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+survival benefit
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0814225|benefits|T081
+patients
+  1
+  C0030705|Patients|T101
+methotrexate
+  1
+  C0025677|Methotrexate|T109
+PS
+  1
+  C0036421|Systemic Scleroderma|T047
+other imbalances
+  1
+  C0205394|Other|T080
+methotrexate
+  1
+  C0025677|Methotrexate|T109
+vinblastine
+  1
+  C0042670|Vinblastine|T123
+doxorubicin
+  1
+  C0013089|Doxorubicin|T195
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+regimen
+  1
+  C0677937|regimen|T061
+large randomized trial
+  2
+  C0549177|Large|T080
+  C0034656|Random Allocation|T062
+regimen
+  1
+  C0677937|regimen|T061
+select patient population
+  3
+  C0032659|Population|T081
+  C0036576|Selection (Genetics)|T045
+  C0030705|Patients|T101
+cardiac disease
+  1
+  C0018799|Heart Diseases|T047
+regimen
+  1
+  C0677937|regimen|T061
+limited value
+  2
+  C0439801|Limited (qualifier value)|T169
+  C0042295|VALUING|T080
+supportive care
+  1
+  C0344211|Supportive care|T058
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+One
+  1
+  C0205447|One (qualifier value)|T081
+improved overall response rate
+  4
+  C0184511|Improved (qualifier value)|T080
+  C0237629|Frequency of Responses|T079
+  C0282416|Overall [Publication Type]|T170
+  C0878525|Cancer treatment response rate|T079
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+present trial
+  1
+  C0150312|Present|T169
+cisplatin mg
+  3
+  C0008838|Cisplatin|T197
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+ifosfamide
+  1
+  C0020823|Ifosfamide|T115
+impact
+  1
+  C0726639|Impact|T168
+step
+  1
+  C1261552|Step (qualifier value)|T169
+first evidence
+  1
+  C0205435|First (qualifier value)|T081
+new generation
+  2
+  C0079411|Generations|T079
+  C0205314|New (qualifier value)|T079
+curative local therapy
+  1
+  C0677903|local therapy|T061
+disease
+  1
+  C0012634|Disease|T047

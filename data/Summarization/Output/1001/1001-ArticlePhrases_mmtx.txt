@@ -1,0 +1,1652 @@
+Purpose
+  1
+  C0449256|Purpose (attribute)|T033
+antibody treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0003241|Antibodies|T116
+  C0039798|therapeutic aspects|T169
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+5-year analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0439234|year (qualifier value)|T079
+  C0936012|Analysis|T062
+7-year analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0439234|year (qualifier value)|T079
+  C0936012|Analysis|T062
+Patients
+  1
+  C0030705|Patients|T101
+Methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+total
+  1
+  C0439810|Total (qualifier value)|T080
+mg postoperatively
+  3
+  C0445193|Postop|T079
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+Primary end points
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0150100|ENDPOINT|T062
+  C0205225|Primary|T080
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+disease-free interval
+  2
+  C1272706|Interval (qualifier value)|T079
+  C0012634|Disease|T047
+Patients
+  1
+  C0030705|Patients|T101
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+location
+  1
+  C0450429|Location (attribute)|T082
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+preoperative carcinoembryonic antigen concentration
+  3
+  C0007082|Carcinoembryonic Antigen|T116
+  C0086045|Concentration|T041
+  C0445204|Preoperative (qualifier value)|T032
+Results
+  1
+  C1274040|Result (navigational concept)|T169
+Randomization
+  1
+  C0034656|Random Allocation|T062
+balanced distribution
+  3
+  C0205415|Balanced - adjective|T169
+  C0520511|Distributing|T078
+  C0037775|Spatial Distribution|T082
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+reduced overall mortality
+  4
+  C0282416|Overall [Publication Type]|T170
+  C0026565|Mortality Vital Statistics|T081
+  C0026566|Aspects of mortality statistics|T170
+  C0392756|Reduced (qualifier value)|T080
+Cox proportional hazard
+  4
+  C0598697|hazard|T080
+  C0205351|Proportional (qualifier value)|T080
+  C0033551|Prostaglandin-Endoperoxide Synthase|T116
+  C0442996|Cox microbiology subtype|T170
+log rank
+  2
+  C0699794|Rank|T170
+  C0335467|Logger (occupation)|T097
+recurrence rate
+  2
+  C0034897|Recurrence|T067
+  C0871208|Rating|T062
+Cox proportional hazard
+  4
+  C0598697|hazard|T080
+  C0205351|Proportional (qualifier value)|T080
+  C0033551|Prostaglandin-Endoperoxide Synthase|T116
+  C0442996|Cox microbiology subtype|T170
+log rank
+  2
+  C0699794|Rank|T170
+  C0335467|Logger (occupation)|T097
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+significant effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+Cox proportional hazard
+  4
+  C0598697|hazard|T080
+  C0205351|Proportional (qualifier value)|T080
+  C0033551|Prostaglandin-Endoperoxide Synthase|T116
+  C0442996|Cox microbiology subtype|T170
+log rank
+  2
+  C0699794|Rank|T170
+  C0335467|Logger (occupation)|T097
+disease-free survival
+  1
+  C0242793|Disease-Free Survival|T081
+Cox proportional hazard
+  4
+  C0598697|hazard|T080
+  C0205351|Proportional (qualifier value)|T080
+  C0033551|Prostaglandin-Endoperoxide Synthase|T116
+  C0442996|Cox microbiology subtype|T170
+log rank
+  2
+  C0699794|Rank|T170
+  C0335467|Logger (occupation)|T097
+distant metastases
+  1
+  C1269798|pM category (observable entity)|T201
+Cox proportional hazard
+  4
+  C0598697|hazard|T080
+  C0205351|Proportional (qualifier value)|T080
+  C0033551|Prostaglandin-Endoperoxide Synthase|T116
+  C0442996|Cox microbiology subtype|T170
+log rank
+  2
+  C0699794|Rank|T170
+  C0335467|Logger (occupation)|T097
+local relapses
+  2
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+Cox proportional hazard
+  4
+  C0598697|hazard|T080
+  C0205351|Proportional (qualifier value)|T080
+  C0033551|Prostaglandin-Endoperoxide Synthase|T116
+  C0442996|Cox microbiology subtype|T170
+log rank
+  2
+  C0699794|Rank|T170
+  C0335467|Logger (occupation)|T097
+differential effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0443199|Differential (qualifier value)|T080
+occult local satellites
+  3
+  C0036238|Satellite Viruses|T005
+  C0205262|Occult (qualifier value)|T169
+  C0205276|Local (qualifier value)|T082
+increased significance
+  2
+  C0205217|Increased (qualifier value)|T169
+  C0750502|Significant (qualifier value)|T078
+Conclusion
+  1
+  C0917903|Conclude|T122
+now matured study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0205286|Mature (qualifier value)|T079
+17-1A antibody
+  1
+  C0003241|Antibodies|T116
+development
+  2
+  C0020119|Human Development|T039
+  C0243107|development aspects|T039
+third
+  1
+  C0205437|Third (qualifier value)|T081
+therapeutic effect
+  3
+  C1280500|Effect (qualifier value)|T080
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+CURRENT PESSIMISTIC VIEW
+  3
+  C0424134|Pessimistic (finding)|T041
+  C0449911|View (attribute)|T032
+  C0521116|Current (qualifier value)|T079
+recent reports
+  2
+  C0332185|Recent episode (qualifier value)|T079
+  C0684224|Report (document)|T170
+breast
+  2
+  C0006141|Breast|T023
+  C1268990|Entire breast|T023
+colorectal carcinoma
+  1
+  C0009403|Colorectal Carcinoma|T191
+one
+  1
+  C0205447|One (qualifier value)|T081
+two
+  1
+  C0205448|Two (qualifier value)|T081
+one
+  1
+  C0205447|One (qualifier value)|T081
+one
+  1
+  C0205447|One (qualifier value)|T081
+human
+  2
+  C0086418|Homo sapiens|T016
+  C0020114|Human|T016
+CDR
+  2
+  C0011485|Deoxycytidine|T123
+  C0055351|Chlordecone reductase|T116
+third stands out
+  3
+  C0439787|Out (qualifier value)|T082
+  C0596013|Does stand (finding)|T201
+  C0205437|Third (qualifier value)|T081
+end point
+  1
+  C0150100|ENDPOINT|T062
+regression
+  2
+  C0684320|Disease regression|T046
+  C0684321|Regression - mental defense mechanism|T055
+shrinkage
+  1
+  C0332513|Shrinkage (finding)|T169
+one
+  1
+  C0205447|One (qualifier value)|T081
+resection
+  2
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+murine 17-1A antibody
+  2
+  C0591833|Murine|T109
+  C0003241|Antibodies|T116
+34-kd glycoprotein
+  1
+  C0017968|Glycoproteins|T116
+5-year analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0439234|year (qualifier value)|T079
+  C0936012|Analysis|T062
+intensive postoperative course
+  2
+  C0449922|Course (attribute)|T079
+  C0032790|Postoperative Period|T079
+mg total dose
+  3
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+  C0172161|tyramine-deoxysorbitol|T109
+appearance
+  2
+  C0700364|Appearance|T080
+  C0233426|Personal appearance|T032
+local metastases
+  3
+  C1290850|Secondary malignant neoplastic disease (disorder)|T191
+  C0205276|Local (qualifier value)|T082
+  C0027627|Neoplasm Metastasis|T191
+occult local metastases
+  4
+  C1290850|Secondary malignant neoplastic disease (disorder)|T191
+  C0205262|Occult (qualifier value)|T169
+  C0205276|Local (qualifier value)|T082
+  C0027627|Neoplasm Metastasis|T191
+long-term survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0443252|Long-term (qualifier value)|T079
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+analysis also invalidated objections
+  3
+  C0002778|Analysis of substances|T059
+  C0347997|Physical object (physical object)|T073
+  C0936012|Analysis|T062
+median observation time
+  5
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0040223|Time|T079
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+significant benefit
+  2
+  C0814225|benefits|T081
+  C0750502|Significant (qualifier value)|T078
+PATIENTS
+  1
+  C0030705|Patients|T101
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Patient Selection
+  1
+  C0242802|Patient Selection|T058
+Surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+multicenter study
+  1
+  C0282439|Multicenter Studies|T170
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+here final status
+  2
+  C0205088|End-stage (qualifier value)|T079
+  C0449438|Status (attribute)|T080
+rectum
+  2
+  C0034896|Rectum|T023
+  C1278926|Entire rectum|T023
+Dukes C
+  1
+  C0007886|Cesium|T196
+hlstopathologic confirmation
+  1
+  C0750484|CONFIRMED|T078
+Radical tumor resection
+  5
+  C0302912|Radicals (chemistry)|T104
+  C0439807|Radical (qualifier value)|T080
+  C0027651|Neoplasms|T191
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+tumor
+  1
+  C0027651|Neoplasms|T191
+treatment assignment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+patients
+  1
+  C0030705|Patients|T101
+not received antibodies
+  3
+  C0544683|Reception|T042
+  C0813154|Antibodies, in vitro diagnostic|T130
+  C0003241|Antibodies|T116
+Stratification
+  1
+  C0205363|Stratified (qualifier value)|T080
+Randomization
+  1
+  C0034656|Random Allocation|T062
+R0 resection
+  2
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+patients
+  1
+  C0030705|Patients|T101
+one
+  1
+  C0205447|One (qualifier value)|T081
+17-lA treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0023031|Lanthanum|T196
+  C0039798|therapeutic aspects|T169
+patients
+  1
+  C0030705|Patients|T101
+center
+  1
+  C0205099|Central|T082
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+location
+  1
+  C0450429|Location (attribute)|T082
+stage
+  2
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+Dukes Cl
+  2
+  C0010575|Cycloleucine|T116
+  C0201952|Chloride measurement|T059
+C2 equivalent
+  3
+  C0439185|Eq (qualifier value)|T081
+  C0009505|Complement 2|T116
+  C1305857|C2 innervation|T029
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+carcinoembryonic antigen
+  1
+  C0007082|Carcinoembryonic Antigen|T116
+CEA
+  1
+  C0007082|Carcinoembryonic Antigen|T116
+level
+  1
+  C0456079|Disease classification level|T185
+more patients
+  2
+  C0205172|More (qualifier value)|T081
+  C0030705|Patients|T101
+pT3 tumors
+  1
+  C0027651|Neoplasms|T191
+pT4 tumors However
+  1
+  C0027651|Neoplasms|T191
+treated patients
+  2
+  C1292734|Treats (attribute)|T185
+  C0030705|Patients|T101
+higher numbers
+  3
+  C0237753|Numbers (qualifier value)|T170
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+tumors
+  1
+  C0027651|Neoplasms|T191
+Fishers exact test
+  3
+  C0059927|Exact|T122
+  C0325045|Martes pennanti (organism)|T015
+  C0392366|Tests (qualifier value)|T170
+procedure
+  1
+  C0184661|Procedures|T058
+Statistical Analysis System
+  2
+  C0449913|System (attribute)|T169
+  C0871424|Statistical Analysis|T062
+retrospective analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0035363|Retrospective Studies|T081
+  C0936012|Analysis|T062
+entry criteria
+  1
+  C0243161|criteria|T170
+survival analysis
+  1
+  C0038953|Survival Analysis|T081
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+log rank
+  2
+  C0699794|Rank|T170
+  C0335467|Logger (occupation)|T097
+historical control
+  6
+  C0243148|control|T169
+  C0019664|Recording of previous events|T090
+  C0019665|history|T170
+  C0262926|Medical History|T033
+  C1321503|History of (contextual qualifier) (qualifier value)|T033
+  C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+selection bias
+  1
+  C0036577|Selection Bias|T081
+first 5-year analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+  C0205435|First (qualifier value)|T081
+Protocol Management
+  2
+  C0442711|Protocols documentation|T170
+  C0870834|Management|T057
+Protocol management
+  2
+  C0442711|Protocols documentation|T170
+  C0870834|Management|T057
+study performance
+  3
+  C0597198|Performance|T055
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+protocol adherence
+  2
+  C0334154|Adherent|T169
+  C0442711|Protocols documentation|T170
+blometncal center
+  1
+  C0205099|Central|T082
+chest radiogram
+  1
+  C0202783|Radiographic procedure on chest (procedure)|T060
+abdominal ultrasound
+  1
+  C0203464|Ultrasonography of abdomen (procedure)|T060
+computed tomography scan
+  1
+  C0040405|X-Ray Computed Tomography|T060
+Patients
+  1
+  C0030705|Patients|T101
+groups
+  1
+  C0441833|Groups (qualifier value)|T170
+follow-up visits
+  1
+  C0589121|Follow-up visit (procedure)|T058
+objectively verifiable dates
+  2
+  C0011008|Dates|T079
+  C0018017|Goals|T170
+e
+  3
+  C0679138|Expectations (qualifier value)|T041
+  C0542479|Energy, Physics|T070
+  C0424589|Vitality|T033
+time point
+  2
+  C0324413|Pointer (organism)|T015
+  C0040223|Time|T079
+date
+  1
+  C0011008|Dates|T079
+cancer related mortality
+  6
+  C0998265|Cancer Genus|T009
+  C0445223|Related (finding)|T033
+  C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+  C0026565|Mortality Vital Statistics|T081
+  C0026566|Aspects of mortality statistics|T170
+  C0006826|Malignant Neoplasms|T191
+e
+  3
+  C0679138|Expectations (qualifier value)|T041
+  C0542479|Energy, Physics|T070
+  C0424589|Vitality|T033
+death
+  1
+  C0011065|Cessation of life|T040
+radiologic diagnosis
+  3
+  C0011900|Diagnosis|T060
+  C0205483|Radiologic (qualifier value)|T169
+  C0348026|Diagnostic|T169
+distant recurrence
+  2
+  C0443203|Distant (qualifier value)|T082
+  C0034897|Recurrence|T067
+abnormal CEA values
+  3
+  C0205161|Abnormal (qualifier value)|T169
+  C0007082|Carcinoembryonic Antigen|T116
+  C0042295|VALUING|T080
+Recurrence
+  1
+  C0034897|Recurrence|T067
+Antibody
+  1
+  C0003241|Antibodies|T116
+Antigen
+  1
+  C0003320|Antigens|T129
+17-1A antibody
+  1
+  C0003241|Antibodies|T116
+munne monoclonal mmunoglobulin IgG2a antibody
+  2
+  C0003250|Antibodies, Monoclonal|T129
+  C0020857|IgG2A|T116
+distinct antitumor effect
+  1
+  C1280500|Effect (qualifier value)|T080
+Philadelphia
+  1
+  C0031525|Philadelphia|T083
+PA
+  1
+  C0030125|p-Aminosalicylic Acid|T109
+Germany
+  1
+  C0017480|Germany|T083
+17-IA antibody
+  4
+  C0524427|Intraarterial|T082
+  C0022037|Iowa|T083
+  C0230168|Abdominal cavity structure|T029
+  C0003241|Antibodies|T116
+the Netherlands
+  1
+  C0027778|Netherlands|T083
+Recent data
+  1
+  C0332185|Recent episode (qualifier value)|T079
+antigen s
+  3
+  C0457385|seconds|T079
+  C0003320|Antigens|T129
+  C0205436|Second (qualifier value)|T081
+eplthehal cell adhesion molecule
+  1
+  C0007578|Cell Adhesion Molecules|T116
+Patients
+  1
+  C0030705|Patients|T101
+Patient characteristics
+  1
+  C0815172|patient characteristics|T201
+distribution
+  2
+  C0520511|Distributing|T078
+  C0037775|Spatial Distribution|T082
+groups
+  1
+  C0441833|Groups (qualifier value)|T170
+total
+  1
+  C0439810|Total (qualifier value)|T080
+Four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+two
+  1
+  C0205448|Two (qualifier value)|T081
+to follow-up evaluation
+  3
+  C1261322|Assessment procedure (procedure)|T058
+  C0220825|Evaluation|T169
+  C0589120|Follow-up status (finding)|T169
+antibody
+  1
+  C0003241|Antibodies|T116
+patients
+  1
+  C0030705|Patients|T101
+only five patients
+  2
+  C0205451|Five (qualifier value)|T081
+  C0030705|Patients|T101
+presented 7-year follow-up data
+  2
+  C0589120|Follow-up status (finding)|T169
+  C0150312|Present|T169
+final status
+  2
+  C0205088|End-stage (qualifier value)|T079
+  C0449438|Status (attribute)|T080
+Nineteen patients
+  1
+  C0030705|Patients|T101
+main cause
+  4
+  C0678227|Causing (attribute)|T169
+  C0015127|Causality|T169
+  C1314792|etiology|T169
+  C0205225|Primary|T080
+cases
+  1
+  C0868928|Case (qualifier value)|T169
+erroneous staging
+  1
+  C0332305|With staging (attribute)|T169
+eight patients
+  2
+  C0030705|Patients|T101
+  C0205454|Eight (qualifier value)|T170
+Dukes B
+  7
+  C0337527|Brothers|T099
+  C0004927|Behavior|T055
+  C0004587|Bacillus <bacterium>|T007
+  C0677505|Behaviors and observations relating to behavior|T033
+  C1040746|Bacilli|T007
+  C0150141|Bathing|T061
+  C0175640|Baths (medical device)|T074
+one patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+residual tumor
+  1
+  C0543478|Residual Tumor|T191
+surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+competing neoplasm
+  2
+  C0719453|Compete|T109
+  C0027651|Neoplasms|T191
+one patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+postoperative radiochemotherapy
+  2
+  C0032790|Postoperative Period|T079
+  C0436307|Radiochemotherapy NOS (procedure)|T061
+patients
+  1
+  C0030705|Patients|T101
+eleven patients
+  3
+  C0445482|Serotype eleven|T032
+  C0030705|Patients|T101
+  C0205457|Number eleven|T081
+treatment assignment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+total
+  1
+  C0439810|Total (qualifier value)|T080
+5-year follow-up evaluation
+  4
+  C1261322|Assessment procedure (procedure)|T058
+  C0439234|year (qualifier value)|T079
+  C0220825|Evaluation|T169
+  C0589120|Follow-up status (finding)|T169
+four additional deaths
+  3
+  C0205450|Four (qualifier value)|T081
+  C0442796|Additive (qualifier value)|T080
+  C0011065|Cessation of life|T040
+m treated group
+  1
+  C0036669|Sensitivity Training Groups|T065
+nine additional deaths
+  3
+  C0442796|Additive (qualifier value)|T080
+  C0205455|Nine (qualifier value)|T081
+  C0011065|Cessation of life|T040
+death rate
+  2
+  C1108678|Death rate aspects|T081
+  C0205848|Death Rate|T081
+95% CI
+  1
+  C0162854|Commonwealth of Independent States|T083
+95% CI
+  1
+  C0162854|Commonwealth of Independent States|T083
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+hazards ratio
+  2
+  C0598697|hazard|T080
+  C0456603|Ratio (property) (qualifier value)|T170
+95% confidence interval
+  1
+  C0009667|Confidence Intervals|T081
+KaplanMeier survival curves
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0205134|Curved (qualifier value)|T082
+significant benefit
+  2
+  C0814225|benefits|T081
+  C0750502|Significant (qualifier value)|T078
+antibody
+  1
+  C0003241|Antibodies|T116
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+Fig B
+  8
+  C0337527|Brothers|T099
+  C0004927|Behavior|T055
+  C0004587|Bacillus <bacterium>|T007
+  C0677505|Behaviors and observations relating to behavior|T033
+  C1040746|Bacilli|T007
+  C0150141|Bathing|T061
+  C0349966|Figs - dietary|T168
+  C0175640|Baths (medical device)|T074
+significant overall benefit
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0814225|benefits|T081
+  C0750502|Significant (qualifier value)|T078
+six patients
+  2
+  C0205452|Six (qualifier value)|T081
+  C0030705|Patients|T101
+secondary colorectal cancer
+  6
+  C1290850|Secondary malignant neoplastic disease (disorder)|T191
+  C0036525|Metastatic to|T169
+  C0555952|Colorectal (qualifier value)|T082
+  C0027627|Neoplasm Metastasis|T191
+  C0175668|Secondary to|T079
+  C0009402|Colorectal Cancer|T191
+one observed patient
+  5
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+  C0870992|Observers|T097
+cancer related mortality
+  6
+  C0998265|Cancer Genus|T009
+  C0445223|Related (finding)|T033
+  C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+  C0026565|Mortality Vital Statistics|T081
+  C0026566|Aspects of mortality statistics|T170
+  C0006826|Malignant Neoplasms|T191
+death
+  1
+  C0011065|Cessation of life|T040
+benefit
+  1
+  C0814225|benefits|T081
+median survival time
+  1
+  C0591830|MST|T109
+1.4 years
+  1
+  C0439234|year (qualifier value)|T079
+1.2 years
+  1
+  C0439234|year (qualifier value)|T079
+Recurrence
+  1
+  C0034897|Recurrence|T067
+tumor
+  1
+  C0027651|Neoplasms|T191
+more recurrences
+  2
+  C0205172|More (qualifier value)|T081
+  C0034897|Recurrence|T067
+m treatment group
+  1
+  C0036669|Sensitivity Training Groups|T065
+one more
+  2
+  C0205172|More (qualifier value)|T081
+  C0205447|One (qualifier value)|T081
+calculated recurrence rate
+  3
+  C0444686|Calculated (qualifier value)|T169
+  C0034897|Recurrence|T067
+  C0871208|Rating|T062
+95% CI
+  1
+  C0162854|Commonwealth of Independent States|T083
+m control group
+  1
+  C0009932|Control Groups|T096
+95% CI
+  1
+  C0162854|Commonwealth of Independent States|T083
+reduction
+  2
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+hazards ratio
+  2
+  C0598697|hazard|T080
+  C0456603|Ratio (property) (qualifier value)|T170
+95% confidence interval
+  1
+  C0009667|Confidence Intervals|T081
+Recurrence free intervals
+  3
+  C0016694|Freedom|T078
+  C1272706|Interval (qualifier value)|T079
+  C0034897|Recurrence|T067
+Antibody treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0003241|Antibodies|T116
+  C0039798|therapeutic aspects|T169
+time
+  1
+  C0040223|Time|T079
+death
+  1
+  C0011065|Cessation of life|T040
+event
+  1
+  C0441471|Events (event)|T051
+recurrence free survival
+  4
+  C0016694|Freedom|T078
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0034897|Recurrence|T067
+again significant treatment advantage
+  4
+  C0087111|Therapeutic procedure|T061
+  C0308269|ADVANTAGE|T131
+  C0750502|Significant (qualifier value)|T078
+  C0039798|therapeutic aspects|T169
+analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+recurrence free survival
+  4
+  C0016694|Freedom|T078
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0034897|Recurrence|T067
+randomized patients
+  2
+  C0030705|Patients|T101
+  C0034656|Random Allocation|T062
+17-1A treatment again
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+log rank
+  2
+  C0699794|Rank|T170
+  C0335467|Logger (occupation)|T097
+m observed group
+  5
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+  C0441833|Groups (qualifier value)|T170
+  C0870992|Observers|T097
+  C1300322|Group (social concept)|T096
+Pattern
+  1
+  C0449774|Patterns (qualifier value)|T082
+pattern
+  1
+  C0449774|Patterns (qualifier value)|T082
+gross changes
+  3
+  C0392747|Changing|T169
+  C0439806|Gross (qualifier value)|T081
+  C0443172|Changed status|T081
+seventh years
+  2
+  C0205441|Seventh (qualifier value)|T081
+  C0439234|year (qualifier value)|T079
+two groups
+  2
+  C0441833|Groups (qualifier value)|T170
+  C0205448|Two (qualifier value)|T081
+significantly fewer distant recurrences
+  4
+  C0443203|Distant (qualifier value)|T082
+  C0034897|Recurrence|T067
+  C0205388|Few (qualifier value)|T081
+  C0750502|Significant (qualifier value)|T078
+control arm
+  3
+  C0243148|control|T169
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+local relapses
+  2
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+excess
+  2
+  C0750570|EXCESSIVELY|T078
+  C0442802|Excessive (qualifier value)|T080
+local radiation
+  2
+  C0851346|Radiation|T070
+  C0205276|Local (qualifier value)|T082
+Toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+rather mild toxicity
+  3
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C0205080|Mild (qualifier value)|T080
+chronic adverse effects
+  2
+  C0001688|adverse effects|T037
+  C0205191|Chronic (qualifier value)|T079
+toxicity profile
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+late treatment-related fatalities
+  5
+  C0205087|Late (qualifier value)|T079
+  C1302234|Fatal (qualifier value)|T080
+  C0445223|Related (finding)|T033
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+life-threatening conditions
+  3
+  C0009647|Conditioning (Psychology)|T041
+  C0376558|Life|T078
+  C0348080|Condition (attribute)|T080
+Immune Response
+  1
+  C0301872|Immune response|T040
+distinct HAMA response
+  1
+  C0871261|Responses|T054
+Patients
+  1
+  C0030705|Patients|T101
+recurrences
+  1
+  C0034897|Recurrence|T067
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+kinetics
+  2
+  C0022702|Kinetics|T078
+  C0220865|kinetic characteristics|T169
+first two infusions
+  3
+  C0574032|Infusion (procedure)|T061
+  C0205435|First (qualifier value)|T081
+  C0205448|Two (qualifier value)|T081
+antibody titers
+  2
+  C1287242|Finding of antibody titer (finding)|T034
+  C0474643|Antibody titer measurement (procedure)|T059
+maximum only
+  1
+  C0806909|Maximum|T033
+serum levels
+  2
+  C0229671|Serum|T024
+  C0441889|Levels (qualifier value)|T170
+significant differences
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+relapse
+  3
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0035020|Relapse|T067
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+5-year findings
+  2
+  C0243095|findings|T169
+  C0439234|year (qualifier value)|T079
+conclusion
+  1
+  C0917903|Conclude|T122
+antibody treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0003241|Antibodies|T116
+  C0039798|therapeutic aspects|T169
+chances
+  1
+  C0237506|Chance|T080
+multivanate analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+P values
+  1
+  C0879541|p-value|T081
+cohort
+  1
+  C0599755|cohort|T098
+hazards ratios
+  2
+  C0598697|hazard|T080
+  C0456603|Ratio (property) (qualifier value)|T170
+5-year data
+  1
+  C0439234|year (qualifier value)|T079
+recurrence
+  1
+  C0034897|Recurrence|T067
+conclusion
+  1
+  C0917903|Conclude|T122
+Local recurrences
+  2
+  C0205276|Local (qualifier value)|T082
+  C0034897|Recurrence|T067
+overall survival curve
+  4
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0205134|Curved (qualifier value)|T082
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+less significant umvariate analyses
+  3
+  C0002778|Analysis of substances|T059
+  C0750502|Significant (qualifier value)|T078
+  C0936012|Analysis|T062
+40% relative reduction
+  4
+  C0080103|Relative (related person)|T099
+  C0205345|Relative|T080
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+observed reduction
+  5
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+  C0301630|Reduction (chemical)|T070
+  C0870992|Observers|T097
+  C0441610|Reduction - action|T061
+al
+  1
+  C0002367|Aluminum|T196
+al
+  1
+  C0002367|Aluminum|T196
+colon
+  2
+  C0009368|Colon|T023
+  C1281569|Entire colon|T023
+rectum cancer patients
+  2
+  C0030705|Patients|T101
+  C0007113|Cancer of Rectum|T191
+Radiation therapy now
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+local recurrences
+  2
+  C0205276|Local (qualifier value)|T082
+  C0034897|Recurrence|T067
+not part
+  1
+  C0449719|Part (attribute)|T082
+irradiation
+  3
+  C1282930|Irradiation (physical force)|T070
+  C0851346|Radiation|T070
+  C0034618|Radiation therapy|T061
+two
+  1
+  C0205448|Two (qualifier value)|T081
+preoperative four preoperative radiation
+  2
+  C0851346|Radiation|T070
+  C0445204|Preoperative (qualifier value)|T032
+postoperative radiochemotherapy
+  2
+  C0032790|Postoperative Period|T079
+  C0436307|Radiochemotherapy NOS (procedure)|T061
+five postoperative radiation only
+  3
+  C0205451|Five (qualifier value)|T081
+  C0032790|Postoperative Period|T079
+  C0851346|Radiation|T070
+forms
+  1
+  C0376315|Manufactured form|T073
+bias
+  1
+  C0242568|Biases|T078
+apparent difference
+  2
+  C0750489|APPARENT|T078
+  C0443199|Differential (qualifier value)|T080
+m local recurrence rate
+  3
+  C0205276|Local (qualifier value)|T082
+  C0034897|Recurrence|T067
+  C0871208|Rating|T062
+results
+  1
+  C1274040|Result (navigational concept)|T169
+patients
+  1
+  C0030705|Patients|T101
+National Surgical Adjuvant Breast
+  5
+  C0015737|Federal Government|T092
+  C0006141|Breast|T023
+  C0038895|Surgical aspects|T169
+  C1268990|Entire breast|T023
+  C0001551|Adjuvants, Immunologic|T129
+Bowel Project
+  4
+  C0348018|Spatial Projection|T082
+  C0016538|Projections and Predictions|T170
+  C0021853|Intestines|T023
+  C0033363|Projection Defense Mechanism|T041
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+combination regimen
+  2
+  C0677937|regimen|T061
+  C0205195|Combined (qualifier value)|T080
+folic acid
+  1
+  C0016410|Folic Acid|T109
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+significant increase
+  2
+  C0442805|Increase (qualifier value)|T169
+  C0750502|Significant (qualifier value)|T078
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+further years
+  1
+  C0439234|year (qualifier value)|T079
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+significance
+  1
+  C0750502|Significant (qualifier value)|T078
+findings
+  1
+  C0243095|findings|T169
+pattern
+  1
+  C0449774|Patterns (qualifier value)|T082
+patients
+  1
+  C0030705|Patients|T101
+finding
+  1
+  C0243095|findings|T169
+support
+  3
+  C0344211|Supportive care|T058
+  C1317973|SUPPORT|T032
+  C0183683|Support, device|T074
+nuclear proliferation markers
+  2
+  C0521447|Nuclear|T082
+  C0812274|Proliferation Markers|T123
+p120 nucleolar antigen
+  2
+  C0521448|Nucleolar|T029
+  C0003320|Antigens|T129
+Patients
+  1
+  C0030705|Patients|T101
+argument
+  1
+  C0680226|Disputes|T054
+antibody
+  1
+  C0003241|Antibodies|T116
+antitumor effect
+  1
+  C1280500|Effect (qualifier value)|T080
+median follow-up time
+  4
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0589120|Follow-up status (finding)|T169
+  C0040223|Time|T079
+6.5 years
+  1
+  C0439234|year (qualifier value)|T079
+adjuvant therapy
+  1
+  C0677850|adjuvant therapy|T061
+only minimal effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0547039|Minimal (qualifier value)|T080
+only colon cancer patients
+  2
+  C0007102|Malignant tumor of colon|T191
+  C0030705|Patients|T101
+fewer local relapses
+  3
+  C0205276|Local (qualifier value)|T082
+  C0205388|Few (qualifier value)|T081
+  C0035020|Relapse|T067
+chemotherapeutic effect
+  4
+  C1280500|Effect (qualifier value)|T080
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+special comment
+  3
+  C0205555|Special (qualifier value)|T080
+  C0947611|Comment|T170
+  C0282411|Published Comment|T170
+tolerance
+  2
+  C0231197|Physiologic tolerance|T039
+  C0220929|Mental tolerance|T041
+strategy
+  1
+  C0679199|strategy|T041
+originally pro1 posed
+  1
+  C0205313|Original (qualifier value)|T078
+al
+  1
+  C0002367|Aluminum|T196
+others
+  1
+  C0205394|Other|T080
+slow rise
+  3
+  C0995005|Rose extract|T121
+  C0439834|Slow (qualifier value)|T080
+  C0035853|Rosa|T002
+high dose
+  1
+  C0444956|High dose (qualifier value)|T081
+steep transvascular concentration gradient
+  2
+  C0812409|GRADIENT|T081
+  C0086045|Concentration|T041
+Similar high doses
+  2
+  C0871364|Simile|T170
+  C0444956|High dose (qualifier value)|T081
+antibody
+  1
+  C0003241|Antibodies|T116
+tumor regression
+  3
+  C0684320|Disease regression|T046
+  C0684321|Regression - mental defense mechanism|T055
+  C0027651|Neoplasms|T191
+retrospectively HAMA positive sera
+  3
+  C0035363|Retrospective Studies|T081
+  C0229671|Serum|T024
+  C0205159|Positive (qualifier value)|T080
+Antildiotype antibodies
+  2
+  C0813154|Antibodies, in vitro diagnostic|T130
+  C0003241|Antibodies|T116
+patients
+  1
+  C0030705|Patients|T101
+ab3 antibodies
+  2
+  C0813154|Antibodies, in vitro diagnostic|T130
+  C0003241|Antibodies|T116
+sensitive enzyme linked mmunoadsorbent assay
+  2
+  C0243073|assay|T059
+  C0332324|Sensitive (qualifier value)|T169
+ELISA
+  1
+  C0014441|Enzyme-Linked Immunosorbent Assay|T059
+human 17-1A autoantibody
+  4
+  C0086418|Homo sapiens|T016
+  C0004358|Autoantibodies|T116
+  C0919704|Autoantibody NOS|T034
+  C0020114|Human|T016
+assay
+  1
+  C0243073|assay|T059
+only humoral antiidiotype response
+  2
+  C0871261|Responses|T054
+  C0020168|Humor|T078
+recent data
+  1
+  C0332185|Recent episode (qualifier value)|T079
+also antiidlotype specific T cells
+  3
+  C0205369|Specific (qualifier value)|T080
+  C1263442|SPECIFIC|T121
+  C0039194|T-Lymphocytes|T025
+antibody
+  1
+  C0003241|Antibodies|T116
+third
+  1
+  C0205437|Third (qualifier value)|T081
+vulnerability
+  3
+  C0021501|injuries|T037
+  C0332797|Wounded|T169
+  C0043250|Injury wounds|T037
+antigen expression
+  2
+  C0185117|Expression - action (qualifier value)|T061
+  C0003320|Antigens|T129
+Immunohistochemical staining
+  1
+  C0038129|Staining|T059
+antigen
+  1
+  C0003320|Antigens|T129
+not cells
+  1
+  C0007634|Cells|T025
+17-lA target
+  2
+  C0599894|targeting|T043
+  C0023031|Lanthanum|T196
+antigenic heterogeneity
+  2
+  C0019409|Heterogeneity|T102
+  C0003320|Antigens|T129
+likely consequence
+  1
+  C0750504|Likely|T078
+major obstacle
+  1
+  C0205164|Major (qualifier value)|T080
+combination therapy
+  2
+  C0556895|Combination electrotherapy|T061
+  C0009429|Combined Modality Therapy|T061
+selection
+  1
+  C0036576|Selection (Genetics)|T045
+humanized antibodies
+  2
+  C0813154|Antibodies, in vitro diagnostic|T130
+  C0003241|Antibodies|T116
+entirely human antibodies
+  5
+  C0086418|Homo sapiens|T016
+  C0439751|Entire (qualifier value)|T081
+  C0813154|Antibodies, in vitro diagnostic|T130
+  C0003241|Antibodies|T116
+  C0020114|Human|T016
+extended serum half-lives
+  3
+  C0018517|Half-Life|T079
+  C0231449|Extended (qualifier value)|T082
+  C0229671|Serum|T024
+peculiar immunogenicity
+  1
+  C0872192|immunogenic|T169
+tumoricidal effects
+  1
+  C1280500|Effect (qualifier value)|T080
+good candidates
+  1
+  C0205170|Good (qualifier value)|T080
+view
+  1
+  C0449911|View (attribute)|T032
+nausea
+  1
+  C0027497|Nausea|T033
+transient diarrhea
+  3
+  C0205374|Transitory|T079
+  C0040704|Transient Population Group|T098
+  C0011991|Diarrhea|T184
+reactions
+  1
+  C0443286|Reaction (qualifier value)|T169
+17-1A antigen
+  1
+  C0003320|Antigens|T129
+normal epithelial cells
+  2
+  C0014597|Epithelial Cells|T025
+  C0205307|Normal (qualifier value)|T033
+effector mechanisms
+  2
+  C0441712|Mechanisms (qualifier value)|T067
+  C1280500|Effect (qualifier value)|T080
+antibody
+  1
+  C0003241|Antibodies|T116
+monoclonal antibody
+  1
+  C0003250|Antibodies, Monoclonal|T129
+tumor-specific antigen
+  5
+  C0041361|Tumor Antigens|T129
+  C0456981|Specific antigen (substance)|T129
+  C0027651|Neoplasms|T191
+  C0205369|Specific (qualifier value)|T080
+  C1263442|SPECIFIC|T121
+tumor-specific biologic action
+  5
+  C0205460|Biologic (qualifier value)|T169
+  C0441472|Action (qualifier value)|T169
+  C0027651|Neoplasms|T191
+  C0205369|Specific (qualifier value)|T080
+  C1263442|SPECIFIC|T121
+antibody
+  1
+  C0003241|Antibodies|T116
+proliferating
+  1
+  C0334094|Proliferation (morphologic abnormality)|T169
+metastatic tumor cells
+  4
+  C0007634|Cells|T025
+  C0431085|[M]Unspecified tumor cell NOS (morphologic abnormality)|T191
+  C0036525|Metastatic to|T169
+  C0027627|Neoplasm Metastasis|T191
+Two major trials
+  2
+  C0205164|Major (qualifier value)|T080
+  C0205448|Two (qualifier value)|T081
+17-1A antibody
+  1
+  C0003241|Antibodies|T116
+similar regimen
+  2
+  C0871364|Simile|T170
+  C0677937|regimen|T061
+question
+  1
+  C0750481|QUESTIONABLE|T078
+One
+  1
+  C0205447|One (qualifier value)|T081
+Israel
+  1
+  C0022271|Israel|T083
+confirmatory arm
+  3
+  C0750568|CONFIRMATORY|T078
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+antibody
+  1
+  C0003241|Antibodies|T116
+pilot trial
+  1
+  C0473169|Pilot - aircraft (occupation)|T097
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+overall toxicity
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+presented results still
+  3
+  C0424228|Stillness (finding)|T033
+  C1274040|Result (navigational concept)|T169
+  C0150312|Present|T169
+original hypothesis
+  1
+  C0205313|Original (qualifier value)|T078
+minimal residual disease
+  1
+  C0242596|Neoplasm, Residual|T191
+indication
+  1
+  C0237000|Indications|T078

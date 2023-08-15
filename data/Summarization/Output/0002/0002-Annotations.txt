@@ -1,0 +1,572 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sections>
+	<Section number="0">
+		<Sentences>
+			<Sentence number="0">
+			<![CDATA[ Background and Methods, On behalf of the Gynecologic Oncology Group, we performed a randomized trial of radiotherapy in combination withthree concurrent chemotherapy regimens — cisplatin alone, cisplatin, fluorouracil, and hydroxyurea, and hydroxyurea alone — in patients with locally advanced cervical cancer. ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ Methods]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0025664</id>
+								<name>Methodology</name>
+								<semantictypeid>T170</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0025663</id>
+								<name>Methods</name>
+								<semantictypeid>T170</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ randomized trial]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0034656</id>
+								<name>Random Allocation</name>
+								<semantictypeid>T062</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ fluorouracil]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0016360</id>
+								<name>Fluorouracil</name>
+								<semantictypeid>T114</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ hydroxyurea]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0020402</id>
+								<name>Hydroxyurea</name>
+								<semantictypeid>T109</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ cervical cancer]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0007847</id>
+								<name>Malignant neoplasm of cervix uteri</name>
+								<semantictypeid>T191</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ Women with primary untreated invasive squamous-cell carcinoma, adenosquamous carcinoma, or adenocarcinoma of the cervix of stage IIB, III, or IVA, without involvement of the para-aortic lymph nodes, were enrolled. ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ Women]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0043210</id>
+								<name>Human adult females</name>
+								<semantictypeid>T098</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0043209</id>
+								<name>Human Females</name>
+								<semantictypeid>T098</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ adenosquamous carcinoma]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0206623</id>
+								<name>Carcinoma, Adenosquamous</name>
+								<semantictypeid>T191</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ adenocarcinoma]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0001418</id>
+								<name>Adenocarcinoma</name>
+								<semantictypeid>T191</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ IVA]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C1054142</id>
+								<name>Iva</name>
+								<semantictypeid>T002</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ The patients had to have a leukocyte count of at least 3000 per cubic millimeter, a platelet count of at least 100,000 per cubic millimeter, a serum creatinine level no higher than 2 mg per deciliter (177 µmol per liter), and adequate hepatic function. ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ patients]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0030705</id>
+								<name>Patients</name>
+								<semantictypeid>T101</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ leukocyte count]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0023508</id>
+								<name>White Blood Cell Count procedure</name>
+								<semantictypeid>T059</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ platelet count]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0032181</id>
+								<name>Platelet Count</name>
+								<semantictypeid>T059</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C1287267</id>
+								<name>Finding of platelet count (finding)</name>
+								<semantictypeid>T034</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ adequate hepatic function]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0232741</id>
+								<name>Liver function (observable entity)</name>
+								<semantictypeid>T042</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0205411</id>
+								<name>Adequate (qualifier value)</name>
+								<semantictypeid>T080</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ All patients received external-beam radiotherapy according to a strict protocol. ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ patients]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0030705</id>
+								<name>Patients</name>
+								<semantictypeid>T101</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ external-beam radiotherapy]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0419095</id>
+								<name>Teleradiotherapy procedure (procedure)</name>
+								<semantictypeid>T061</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ Patients were randomly assigned to receive one of three chemotherapy regimens,40 mg of cisplatin per square meter of body-surface area per week for six weeks (group 1), 50 mg of cisplatin per square meter on days 1 and 29, followed by 4 g of fluorouracil per square meter given as a 96-hour infusion on days 1 and 29, and 2 g of oral hydroxyurea per square meter twice weekly for six weeks (group 2), or 3 g of oral hydroxyurea per square meter twice weekly for six weeks (group 3). ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ Patients]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0030705</id>
+								<name>Patients</name>
+								<semantictypeid>T101</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ one]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0205447</id>
+								<name>One (qualifier value)</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ mg]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0024467</id>
+								<name>Magnesium</name>
+								<semantictypeid>T123</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0439210</id>
+								<name>milligram</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ mg]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0024467</id>
+								<name>Magnesium</name>
+								<semantictypeid>T123</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0439210</id>
+								<name>milligram</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ g]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0162832</id>
+								<name>APC Gene</name>
+								<semantictypeid>T028</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ g]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0162832</id>
+								<name>APC Gene</name>
+								<semantictypeid>T028</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ Results, The analysis included 526 women. ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ Results]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C1274040</id>
+								<name>Result (navigational concept)</name>
+								<semantictypeid>T169</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ analysis]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0002778</id>
+								<name>Analysis of substances</name>
+								<semantictypeid>T059</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0936012</id>
+								<name>Analysis</name>
+								<semantictypeid>T062</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ women]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0043210</id>
+								<name>Human adult females</name>
+								<semantictypeid>T098</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0043209</id>
+								<name>Human Females</name>
+								<semantictypeid>T098</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ The median duration of follow-up was 35 months. ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ median duration]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0549183</id>
+								<name>Median (qualifier value)</name>
+								<semantictypeid>T082</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0876920</id>
+								<name>Median Statistical Measurement</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0449238</id>
+								<name>Duration</name>
+								<semantictypeid>T079</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ months]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0439231</id>
+								<name>month (qualifier value)</name>
+								<semantictypeid>T079</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ Both groups that received cisplatin had a higher rate of progression-free survival than the group that received hydroxyurea alone (P<0.001 for both comparisons). ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ received cisplatin]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0544683</id>
+								<name>Reception</name>
+								<semantictypeid>T042</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0008838</id>
+								<name>Cisplatin</name>
+								<semantictypeid>T197</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ higher rate]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0205250</id>
+								<name>High</name>
+								<semantictypeid>T080</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0871208</id>
+								<name>Rating</name>
+								<semantictypeid>T062</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0235146</id>
+								<name>Euphoric mood</name>
+								<semantictypeid>T041</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ The relative risks of progression of disease or death were 0.57 (95 percent confidence interval, 0.42 to 0.78) in group 1 and 0.55 (95 percent confidence interval, 0.40 to 0.75) in group 2, as compared with group 3. ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ relative risks]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0242492</id>
+								<name>Relative Risk</name>
+								<semantictypeid>T080</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ death]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0011065</id>
+								<name>Cessation of life</name>
+								<semantictypeid>T040</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ percent confidence interval]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0009667</id>
+								<name>Confidence Intervals</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0439165</id>
+								<name>Percent (qualifier value)</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ percent confidence interval]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0009667</id>
+								<name>Confidence Intervals</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0439165</id>
+								<name>Percent (qualifier value)</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ The overall survival rate was significantly higher in groups 1 and 2 than in group 3, with relative risks of death of 0.61 (95 percent confidence interval, 0.44 to 0.85) and 0.58 (95 percent confidence interval, 0.41 to 0.81), respectively. ]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ overall survival rate]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0282416</id>
+								<name>Overall [Publication Type]</name>
+								<semantictypeid>T170</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0038954</id>
+								<name>Survival Rate</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ percent confidence interval]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0009667</id>
+								<name>Confidence Intervals</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0439165</id>
+								<name>Percent (qualifier value)</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ percent confidence interval]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0009667</id>
+								<name>Confidence Intervals</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0439165</id>
+								<name>Percent (qualifier value)</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+			<Sentence number="0">
+			<![CDATA[ Conclusions, Regimens of radiotherapy and chemotherapy that contain cisplatin improve the rates of survival and progression-free survival among women with locally advanced cervical cancer.]]>
+				<Phrases>
+					<Phrase>
+					<![CDATA[ Conclusions]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0917903</id>
+								<name>Conclude</name>
+								<semantictypeid>T122</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ Regimens]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0677937</id>
+								<name>regimen</name>
+								<semantictypeid>T061</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ chemotherapy]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0013216</id>
+								<name>Pharmacotherapy</name>
+								<semantictypeid>T061</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0013217</id>
+								<name>pharmacotherapeutic</name>
+								<semantictypeid>T169</semantictypeid>
+							</PhraseConcept>
+							<PhraseConcept>
+								<id>C0392920</id>
+								<name>Chemotherapy-Oncologic Procedure</name>
+								<semantictypeid>T061</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ cisplatin]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0008838</id>
+								<name>Cisplatin</name>
+								<semantictypeid>T197</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ progression free survival]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0242792</id>
+								<name>Progression-Free Survival</name>
+								<semantictypeid>T081</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+					<Phrase>
+					<![CDATA[ cervical cancer]]>
+						<PhraseConcepts>
+							<PhraseConcept>
+								<id>C0007847</id>
+								<name>Malignant neoplasm of cervix uteri</name>
+								<semantictypeid>T191</semantictypeid>
+							</PhraseConcept>
+						</PhraseConcepts>
+					</Phrase>
+				</Phrases>
+			</Sentence>
+		</Sentences>
+	</Section>
+</Sections>

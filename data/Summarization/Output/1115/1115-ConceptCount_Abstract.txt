@@ -1,0 +1,62 @@
+Behaviors and observations relating to behavior	3	T033-Finding
+Analysis of substances	1	T059-Laboratory Procedure
+Upper arm	1	T029-Body Location or Region
+Possible	1	T080-Qualitative Concept
+Analysis	1	T062-Research Activity
+Medial (qualifier value)	1	T082-Spatial Concept
+year (qualifier value)	1	T079-Temporal Concept
+Bacilli	3	T007-Bacterium
+Exploration - action (qualifier value)	2	T058-Health Care Activity
+Irradiation (physical force)	1	T070-Natural Phenomenon or Process
+cGy (qualifier value)	2	T081-Quantitative Concept
+Brothers	3	T099-Family Group
+Therapeutic procedure	1	T061-Therapeutic or Preventive Procedure
+Bladder	1	T023-Body Part, Organ, or Organ Component
+utilization	1	T081-Quantitative Concept
+Radiation	1	T070-Natural Phenomenon or Process
+Ability to control pelvic posture (observable entity)	2	T033-Finding
+Complication Aspects	1	T046-Pathologic Function
+month (qualifier value)	1	T079-Temporal Concept
+Fractions of (qualifier value)	1	T081-Quantitative Concept
+Additive (qualifier value)	1	T080-Qualitative Concept
+Baths (medical device)	3	T074-Medical Device
+Cesium	4	T196-Element, Ion, or Isotope
+Partial (qualifier value)	1	T081-Quantitative Concept
+Behavior	3	T055-Individual Behavior
+Bathing	3	T061-Therapeutic or Preventive Procedure
+Gy (qualifier value)	1	T081-Quantitative Concept
+Deferoxamine	2	T123-Biologically Active Substance
+Differential (qualifier value)	1	T080-Qualitative Concept
+day (qualifier value)	5	T079-Temporal Concept
+Neoplasms	1	T191-Neoplastic Process
+Standards of Weights and Measures	1	T080-Qualitative Concept
+cm (qualifier value)	1	T081-Quantitative Concept
+Entire bladder	1	T023-Body Part, Organ, or Organ Component
+Median Statistical Measurement	1	T081-Quantitative Concept
+Bacillus <bacterium>	3	T007-Bacterium
+Disease	1	T047-Disease or Syndrome
+Disease-Free Survival	1	T081-Quantitative Concept
+Ib (qualifier value)	2	T170-Intellectual Product
+Late (qualifier value)	1	T079-Temporal Concept
+One (qualifier value)	1	T081-Quantitative Concept
+standards characteristics	1	T170-Intellectual Product
+Exploration procedure (procedure)	2	T061-Therapeutic or Preventive Procedure
+prognostic	1	T170-Intellectual Product
+Duration	1	T079-Temporal Concept
+Serious (qualifier value)	1	T080-Qualitative Concept
+Deoxyribose	3	T123-Biologically Active Substance
+Diameter (qualifier value)	3	T032-Organism Attribute
+Complication	2	T046-Pathologic Function
+survival aspects	1	T081-Quantitative Concept
+Two (qualifier value)	1	T081-Quantitative Concept
+therapeutic aspects	1	T169-Functional Concept
+Median (qualifier value)	1	T082-Spatial Concept
+Intestines	1	T023-Body Part, Organ, or Organ Component
+Radiation therapy	1	T061-Therapeutic or Preventive Procedure
+Arm	1	T029-Body Location or Region
+Multivariate Analysis	1	T081-Quantitative Concept
+hyperfractionation	1	T061-Therapeutic or Preventive Procedure
+benefits	1	T081-Quantitative Concept
+Goals	1	T170-Intellectual Product
+Continuance of life	1	T052-Activity
+Rating	1	T062-Research Activity

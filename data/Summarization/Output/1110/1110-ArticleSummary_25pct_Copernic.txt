@@ -1,0 +1,65 @@
+OF the estimated 13,700 women in the United States in whom invasive cervical cancer was diagnosed in 1998, nearly 5000 will ultimately die of the disease because of the inadequacies of current treatment.
+
+Those with a large cervical lesion at presentation or with spread to the pelvic lymph nodes or other pelvic tissues are usually treated with a combination of external-beam and intracavitary radiation.
+
+To eradicate micrometastases and sensitize tumor cells to radiation, several studies have explored the use of radiotherapy with concomitant chemotherapy.
+
+The results of these studies are inconclusive and have been criticized because they lacked a comparison group treated with radiation alone and because the radiation therapy used may have been deficient according to current standards.
+
+In 1990, the Radiation Therapy Oncology Group (RTOG) began a randomized clinical trial to compare the effects on survival of treatment with extended-field radiation and treatment with pelvic radiotherapy and concurrent chemotherapy in patients with cervical cancer.
+
+We report the first results of this study.
+
+Para-aortic lymph nodes were evaluated by bipedal lymphangiography or retroperitoneal surgical exploration.
+
+Patients who completed the pretreatment evaluation and met all eligibility criteria were randomly assigned to receive extended field radiotherapy or radiotherapy to the pelvic region with concurrent treatment with cisplatin and fluorouracil.
+
+For patients who were assigned to receive radiotherapy alone, the pelvic and paraaortic areas were treated as a continuous area, with a superiorfield border at the space between L1 and L2.
+
+The radiation dose was keyed to the central ray at the patient's midplane (for anteroposterior-- posteroanterior fields) or to the isocenter of the beams.
+
+Statistical Analysis Overall survival was the primary end point for the comparison of the two treatments and was calculated from the date of study entry until the date of death or the date of the last follow-up visit.
+
+The statistical significance of associations between treatment assignments and characteristics of the patients was assessed by chi-square analysis.
+
+Interim analyses were scheduled to occur when 50 percent of the patients had been enrolled and when the enrollment goal was met.
+
+Early reporting of results was permitted if a significant difference was observed between the two treatment groups.
+
+The 388 remaining patients (195 in the combined-therapy group and 193 in the radiotherapy group) form the basis of this analysis.
+
+Of these, 147 patients in the combined-therapy group (76 percent) and 122 patients in the radiotherapy group (63 percent) were alive at the time of the last analysis.
+
+In addition, 13 patients in the combined-therapy group and 32 patients in the radiotherapy group were alive but had recurrent cervical cancer.
+
+The estimated five-year survival rates according to various stratification variables are summarized in Table 5.
+
+Approximately 70 percent of the patients assigned to each group had stage IB, IIA, or IIB disease.
+
+For these patients, overall survival was significantly better if they were treated with radiotherapy and chemotherapy.
+
+There was no significant difference in overall survival between treatment groups among patients who had stage III or IVA disease, although the study was not designed to have a sufficient number of patients in these subgroups to test for a statistically significant difference.
+
+For patients with stage III or IVA disease, the five-year disease-free survival rates were 58 percent in the combinedtherapy group and 38 percent in the radiotherapy group (P=0.13).
+
+DISCUSSION We found that the combination of pelvic radiation and concomitant chemotherapy with cisplatin and fluorouracil was more effective for locally advanced cervical cancer than pelvic and para-aortic radiation alone.
+
+The inclusion of chemotherapy substantially reduced both local and distant recurrences of cervical cancer, leading to higher overall and disease-free survival rates.
+
+The Gynecologic Oncology Group has also studied the effect of radiotherapy in combination with either hydroxyurea or placebo in women with stage IIIB or IVA disease.
+
+Although the group reported significant improvements in overall and disease-free survival with the addition of hydroxyurea therapy, the study has been criticized for the use of a low dose of radiation and the poor survival rates in both groups and because more than half of the 190 patients who were enrolled could not be evaluated.
+
+Despite these criticisms, the results of that study and those of trials assessing concurrent chemotherapy and radiotherapy for other tumors stimulated studies of the effects of radiotherapy and various combinations of fluorouracil, cisplatin, mitomycin, carboplatin, and paclitaxel as treatments for locally advanced cervical cancer.The results of these trials have been encouraging, but mostclinicians have not found them sufficiently convincing to justify the inclusion of chemotherapy in the routine treatment of locally advanced cervical cancer.
+
+Our treatment regimen differed from previous regimens in several ways.
+
+Our protocol emphasized the importance of delivering a radiation dose of at least 85 Gy to point A within eight weeks whenever possible.
+
+The importance of this third cycle is uncertain, but because close to 25 percent of the total paracentral dose of radiation is delivered with each intracavitary procedure, the addition of concurrent chemotherapy during this time may be important.
+
+Reports by Rose et al. and Keys et al. in this issue of the Journal strengthen the body of evidence supporting the use of combined therapy in women with advanced cervical cancer.
+
+For patients who were receiving postoperative radiation for rectal cancer, a prolonged, continuous infusion of fluorouracil with pelvic radiation was found to be more effective than short infusions.
+
+Another RTOG study tested the feasibility of combining hyperfractionated extended-field radiation with the same regimen of cisplatin and fluorouracil that we used.

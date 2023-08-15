@@ -1,0 +1,5 @@
+BioChain Summary File: data\output\1001\1001-ArticleSummary_25pct_BioChain.txt
+	37 sentences
+External Summary File: data\output\1001\1001-ArticleSummary_25pct_SweSum.txt
+	39 sentences
+Total sentences matching BioChain: 4

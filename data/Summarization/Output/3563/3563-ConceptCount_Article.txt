@@ -1,0 +1,216 @@
+Gender	1	T022-Body System
+Reassuring (procedure)	1	T061-Therapeutic or Preventive Procedure
+Bacilli	1	T007-Bacterium
+Lower (qualifier value)	1	T169-Functional Concept
+Packaging	1	T068-Human-caused Phenomenon or Process
+is (tumor staging)	1	T170-Intellectual Product
+Drain, device (physical object)	1	T074-Medical Device
+Same (qualifier value)	1	T080-Qualitative Concept
+Surgeon (occupation)	2	T097-Professional or Occupational Group
+Collectors	1	T074-Medical Device
+Tests (qualifier value)	2	T170-Intellectual Product
+Guns	1	T073-Manufactured Object
+Location (attribute)	1	T082-Spatial Concept
+Result (navigational concept)	5	T169-Functional Concept
+Significant (qualifier value)	1	T078-Idea or Concept
+Author (occupation)	1	T097-Professional or Occupational Group
+Surgical aspects	1	T169-Functional Concept
+Report (document)	1	T170-Intellectual Product
+Differential (qualifier value)	4	T080-Qualitative Concept
+Count of entities (property) (qualifier value)	2	T081-Quantitative Concept
+Plastics	1	T167-Substance
+Visible (qualifier value)	1	T080-Qualitative Concept
+Journals	1	T170-Intellectual Product
+Structure of lumen of body system	1	T030-Body Space or Junction
+millimeter	1	T081-Quantitative Concept
+Actual blood loss	1	T201-Clinical Attribute
+Steroids	1	T110-Steroid
+Third (qualifier value)	2	T081-Quantitative Concept
+Disposable	1	T074-Medical Device
+Procedures	1	T058-Health Care Activity
+Anastomosis of intestine NOS (procedure)	3	T061-Therapeutic or Preventive Procedure
+Tension (finding)	1	T048-Mental or Behavioral Dysfunction
+Literature	1	T170-Intellectual Product
+Two (qualifier value)	10	T081-Quantitative Concept
+Singular	5	T081-Quantitative Concept
+First (qualifier value)	3	T081-Quantitative Concept
+Reoperation	1	T061-Therapeutic or Preventive Procedure
+Martes pennanti (organism)	1	T015-Mammal
+success	1	T054-Social Behavior
+Time	8	T079-Temporal Concept
+National origin	1	T082-Spatial Concept
+Standardization	1	T062-Research Activity
+Preparation of bowel for procedure (procedure)	1	T058-Health Care Activity
+Analysis of substances	1	T059-Laboratory Procedure
+Cost aspects	2	T081-Quantitative Concept
+Hemorrhage	1	T046-Pathologic Function
+Entire hand	1	T023-Body Part, Organ, or Organ Component
+Abdominal cavity structure	1	T029-Body Location or Region
+CONSIDER	1	T078-Idea or Concept
+Definitive (qualifier value)	1	T079-Temporal Concept
+categories	1	T170-Intellectual Product
+Exact	1	T122-Biomedical or Dental Material
+Brothers	1	T099-Family Group
+criteria	1	T170-Intellectual Product
+Three (qualifier value)	1	T081-Quantitative Concept
+Fourth (qualifier value)	1	T081-Quantitative Concept
+Numerous (qualifier value)	2	T081-Quantitative Concept
+Mean (qualifier value)	1	T081-Quantitative Concept
+device aspects	1	T073-Manufactured Object
+Closure by suture	4	T061-Therapeutic or Preventive Procedure
+Discussion (procedure)	1	T061-Therapeutic or Preventive Procedure
+Sutures, Polyglycolic Acid	1	T074-Medical Device
+Energy, Physics	1	T070-Natural Phenomenon or Process
+Savings	1	T081-Quantitative Concept
+Expectations (qualifier value)	1	T041-Mental Process
+Research Design	1	T062-Research Activity
+Abdominal (qualifier value)	1	T082-Spatial Concept
+Blocking	1	T169-Functional Concept
+Several (qualifier value)	1	T081-Quantitative Concept
+Additive (qualifier value)	1	T080-Qualitative Concept
+Adult	1	T100-Age Group
+Methods	9	T170-Intellectual Product
+Blood supply aspects	1	T042-Organ or Tissue Function
+Baths (medical device)	1	T074-Medical Device
+Vascular blood supply	1	T042-Organ or Tissue Function
+Behavior	1	T055-Individual Behavior
+Opaque (qualifier value)	1	T169-Functional Concept
+Anastomotic leak	1	T046-Pathologic Function
+Chi-Square Test	1	T081-Quantitative Concept
+Physical devices	1	T074-Medical Device
+Five (qualifier value)	1	T081-Quantitative Concept
+Traditional (qualifier value)	1	T169-Functional Concept
+Financial cost	3	T081-Quantitative Concept
+Diagnosis	1	T060-Diagnostic Procedure
+Successful (qualifier value)	1	T080-Qualitative Concept
+Carcinomatosis	1	T191-Neoplastic Process
+Eversion (morphologic abnormality)	1	T169-Functional Concept
+Venous cannula insertion	1	T061-Therapeutic or Preventive Procedure
+Calculated (qualifier value)	3	T169-Functional Concept
+Overall [Publication Type]	1	T170-Intellectual Product
+One (qualifier value)	6	T081-Quantitative Concept
+Major (qualifier value)	1	T080-Qualitative Concept
+Random (qualifier value)	1	T082-Spatial Concept
+Polypropylenes	1	T122-Biomedical or Dental Material
+Entire lumen of body system	1	T030-Body Space or Junction
+Diffuse (qualifier value)	1	T080-Qualitative Concept
+Running	2	T056-Daily or Recreational Activity
+Obstruction	1	T046-Pathologic Function
+Peritonitis	1	T047-Disease or Syndrome
+Anastomosis	25	T020-Acquired Abnormality
+Arterial catheterization	1	T061-Therapeutic or Preventive Procedure
+Intestines	2	T023-Body Part, Organ, or Organ Component
+Ability	1	T032-Organism Attribute
+Failure (biologic function)	1	T169-Functional Concept
+Personal failure	1	T055-Individual Behavior
+Clear (qualifier value)	2	T080-Qualitative Concept
+Side (qualifier value)	1	T082-Spatial Concept
+Fist, device (physical object)	1	T023-Body Part, Organ, or Organ Component
+Hand	1	T023-Body Part, Organ, or Organ Component
+Behaviors and observations relating to behavior	1	T033-Finding
+Rare (qualifier value)	1	T079-Temporal Concept
+Analysis	1	T062-Research Activity
+REFILLS	1	T033-Finding
+Charcoal	1	T196-Element, Ion, or Isotope
+superiority	1	T054-Social Behavior
+Beginning	1	T079-Temporal Concept
+Unmarried	5	T098-Population Group
+Omentum	1	T023-Body Part, Organ, or Organ Component
+Techniques	9	T170-Intellectual Product
+utilization	2	T081-Quantitative Concept
+Nine (qualifier value)	1	T081-Quantitative Concept
+Present	1	T169-Functional Concept
+Polypropylene suture (physical object)	1	T074-Medical Device
+Silk suture, device (physical object)	2	T074-Medical Device
+Ischemic	1	T169-Functional Concept
+Diagnostic	1	T169-Functional Concept
+Anastomosis - action	21	T061-Therapeutic or Preventive Procedure
+Ischemia	2	T047-Disease or Syndrome
+Surgical sutures	6	T074-Medical Device
+Abscess	2	T046-Pathologic Function
+Students T Test	1	T170-Intellectual Product
+Bathing	1	T061-Therapeutic or Preventive Procedure
+Mucous Membrane	1	T024-Tissue
+Risk Factors	1	T081-Quantitative Concept
+Small	2	T080-Qualitative Concept
+Suture Joint	4	T030-Body Space or Junction
+Anastomotic	2	T082-Spatial Concept
+gastrointestinal function	1	T042-Organ or Tissue Function
+day (qualifier value)	1	T079-Temporal Concept
+Lengths (qualifier value)	2	T081-Quantitative Concept
+Texas	1	T083-Geographic Area
+Room of building - Study	4	T073-Manufactured Object
+Devices	1	T073-Manufactured Object
+Gastrointestinal	1	T023-Body Part, Organ, or Organ Component
+Along edge (qualifier value)	1	T082-Spatial Concept
+Coiled Spring	1	T074-Medical Device
+Bacillus <bacterium>	1	T007-Bacterium
+Joule, Unit of energy	1	T081-Quantitative Concept
+Simile	2	T170-Intellectual Product
+Mesentery	1	T029-Body Location or Region
+Financially poor	1	T080-Qualitative Concept
+Coitus	1	T055-Individual Behavior
+Scarring	1	T042-Organ or Tissue Function
+Risk	3	T080-Qualitative Concept
+Unmarried person	5	T098-Population Group
+Adequate (qualifier value)	1	T080-Qualitative Concept
+State (environment)	1	T083-Geographic Area
+Planned (qualifier value)	1	T169-Functional Concept
+Data Analysis	1	T057-Occupational Activity
+Relative Risk	1	T080-Qualitative Concept
+Anatomical anastomosis	21	T030-Body Space or Junction
+Other	1	T080-Qualitative Concept
+Sample Size	1	T081-Quantitative Concept
+Interrupted (qualifier value)	4	T080-Qualitative Concept
+Needs	1	T080-Qualitative Concept
+Continuous (qualifier value)	13	T079-Temporal Concept
+Poor - grade value	1	T080-Qualitative Concept
+Needles	2	T074-Medical Device
+APPARENT	1	T078-Idea or Concept
+Series (qualifier value)	1	T081-Quantitative Concept
+Absorbable suture (physical object)	1	T074-Medical Device
+Lumen (qualifier value)	1	T080-Qualitative Concept
+Scientific Study	4	T059-Laboratory Procedure
+Duplicate	1	T040-Organism Function
+Bites	2	T037-Injury or Poisoning
+Approximate (qualifier value)	3	T169-Functional Concept
+Paresis	1	T184-Sign or Symptom
+Asthenia	1	T184-Sign or Symptom
+Contracts	1	T170-Intellectual Product
+findings	1	T169-Functional Concept
+Minute (qualifier value)	1	T080-Qualitative Concept
+Circular (qualifier value)	1	T082-Spatial Concept
+Extravasation (morphologic abnormality)	2	T046-Pathologic Function
+Random Allocation	1	T062-Research Activity
+Minute of time	1	T079-Temporal Concept
+Greater (qualifier value)	2	T081-Quantitative Concept
+Group (social concept)	1	T096-Group
+Materials	2	T167-Substance
+Surface (qualifier value)	1	T032-Organism Attribute
+Cessation of life	1	T040-Organism Function
+Nutritionals	1	T093-Health Care Related Organization
+Chicago	1	T083-Geographic Area
+Methodology	3	T170-Intellectual Product
+Decreased translucency	1	T033-Finding
+Groups (qualifier value)	2	T170-Intellectual Product
+Mental blocking	1	T048-Mental or Behavioral Dysfunction
+Disruption (morphologic abnormality)	1	T169-Functional Concept
+Aluminum	2	T196-Element, Ion, or Isotope
+Cannulation of vascular fistula, graft or prosthetic device	1	T061-Therapeutic or Preventive Procedure
+Circumferential (qualifier value)	1	T082-Spatial Concept
+Incised wound - morphology (morphologic abnormality)	1	T037-Injury or Poisoning
+Statistical Significance	2	T081-Quantitative Concept
+Power (Psychology)	1	T068-Human-caused Phenomenon or Process
+Arterial blood supply	1	T039-Physiologic Function
+End (qualifier value)	2	T082-Spatial Concept
+Complication	2	T046-Pathologic Function
+Surgical Staples	1	T074-Medical Device
+Lassitude	1	T184-Sign or Symptom
+Vitality	1	T033-Finding
+Rectal (qualifier value)	1	T082-Spatial Concept
+Layer	14	T023-Body Part, Organ, or Organ Component
+Four (qualifier value)	1	T081-Quantitative Concept
+Area (qualifier value)	1	T082-Spatial Concept
+Interested (finding)	1	T041-Mental Process
+Rating	2	T062-Research Activity
+Patients	12	T101-Patient or Disabled Group

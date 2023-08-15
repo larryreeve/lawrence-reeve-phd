@@ -1,0 +1,20 @@
+and the possibility that eliminating bulky disease with radiation may improve the effect of chemotherapy, because chemotherapy may be more effective when the overall disease burden is low.
+
+This report presents our findingsafter 15 years of follow-up.
+
+METHODS
+From 1979 through 1986, 318 premenopausal women with newly diagnosed stage I or II breast cancer were enrolled in the study after undergoing modified radical mastectomy if, after axillary-node dissection, one or more level I or II lymph nodes were found to be positive on pathological examination. Among these 68 patients, 33 were assigned to chemotherapy and 35 were assigned to chemotherapy and radiotherapy.
+
+In the survival analysis, the time to the end points associated with each event was calculated from the date of the tissuediagnosis of breast cancer. In all the analyses, the data were censored as of the date of that follow-up. During the 15 years of follow-up, breast cancer had recurred in 176 patients and 144 patients died. 
+
+Study Groups
+Table 2 and Figures 1 through 4 show the resultsin the two groups of patients. In the group treated with chemotherapy plus radiotherapy, 79 of 164 patients had recurrences — locoregional, systemic, orboth — as compared with 97 of 154 patients in the group given chemotherapy alone. Radiation also improved outcome in the 68 patients randomly assigned to ovarian ablation, in regard to disease-free survival (relative risk, 0.72), survival free of systemic disease(relative risk, 0.76), and overall survival (relative risk, 0.88).
+
+Subgroups Based on Nodal Involvement
+The reduction in the relative risk of a recurrence that was obtained by adding radiation to chemotherapy was similar in the subgroup with one to three positive nodes and the subgroup with four or morepositive nodes (Table 3). There were no statistically significant differences between these subgroups with regard to either survival free of systemic disease(P for interaction 0.9) or rates of locoregional recurrence(P 0.73).
+
+Side Effects of Radiation Arm 
+edema developed in 15 of the 154 irradiatedpatients. Interventions were required in six (an elastic sleeve in four, a pump in one, and physiotherapyin one), as compared with five patients in the chemotherapy group, one of whom required physiotherapy. Limited apical lung fibrosis developed in most of the irradiated patients, but only one had interstitial pneumonitis requiring corticosteroids, withfull resolution on chest radiography several weeks later. There was an important increase in the number of deaths not due to breast cancer among the irradiated patients(P 0.002). 
+
+Of these, only the Danish study found that radiotherapy had a benefit of a magnitude similar to that in our trial, and there was a significant survival benefit in favor of radiotherapy(P 0.001). 
+Because all our patients were uniformly treated with chest-wall and nodal radiation, our results may not apply to patients treated with breast irradiation alone after conservative surgery. Four randomized trials comparing breast irradiation with no irradiationin patients who underwent conservative surgery showed significant reductions in the rate of relapse in the breast but no effect on systemic recurrences or overall survival. Therefore, it may be necessary to add nodal radiation to breast irradiation in premenopausal node-positive patients who are treated with partial mastectomy and adjuvant chemotherapy. The routine use of radiation in all node-positive patients would represent a substantial shift in treatment for breast cancer. The elimination of locoregional cancer cells by radiotherapy added to adjuvant chemotherapy may reduce mortality in selected patients with breast cancer.

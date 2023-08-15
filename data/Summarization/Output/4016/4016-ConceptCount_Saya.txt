@@ -1,0 +1,91 @@
+Supportive care	4
+survival aspects	7
+Clinical (qualifier value)	2
+Weight measurement scales	3
+ADVANTAGE	1
+alone	1
+Disease	1
+Colorectal Cancer	1
+Pain	2
+Mental association	1
+Biomechanical compliance	1
+With quality (attribute)	4
+Euphoric mood	1
+Deferred (qualifier value)	1
+ORALIT	1
+cm (qualifier value)	1
+Median Statistical Measurement	2
+Intellectual scale	1
+Incidence	1
+Nine (qualifier value)	1
+symptoms	3
+Generalized (qualifier value)	1
+Continuance of life	7
+Severe (severity modifier) (qualifier value)	2
+Random Allocation	1
+Overall [Publication Type]	1
+Primary	1
+Scientific Study	2
+High	1
+Previous (qualifier value)	1
+Groups (qualifier value)	2
+physiological aspects	1
+week (qualifier value)	3
+Group (social concept)	1
+Patient Compliance	1
+criteria	1
+therapeutic aspects	3
+Topoisomerase inhibitor (substance)	1
+Cell Division	1
+Secondary malignant neoplastic disease (disorder)	1
+Curved (qualifier value)	1
+[D]Abdominal mass (context-dependent category)	1
+irinotecan	3
+benefits	3
+Other	2
+Follow-up status (finding)	1
+Step (qualifier value)	1
+Relationship by association	1
+One (qualifier value)	2
+Weight Loss	1
+Asthenia	1
+Pain-Free	1
+Life	1
+Neutropenia	1
+Median (qualifier value)	2
+Events (event)	1
+Patients	7
+Diarrhea	2
+Pharmacotherapy	1
+DNA Replication	1
+Probability	1
+Room of building - Study	2
+month (qualifier value)	2
+Function	1
+VALUING	1
+Therapeutic procedure	3
+Better (qualifier value)	1
+More (qualifier value)	1
+adverse effects	1
+year (qualifier value)	1
+incidence of cases	1
+Persons	1
+Special (qualifier value)	2
+Intestinal Obstruction	1
+Health Status	1
+Function Axis	1
+Fluorouracil	1
+Questionnaires	1
+Variable (qualifier value)	1
+ENDPOINT	2
+Onset of (contextual qualifier) (qualifier value)	1
+Five (qualifier value)	1
+Nausea	1
+Primary operation (qualifier value)	1
+End (qualifier value)	1
+Integumentary scale	3
+Significant (qualifier value)	2
+Chemotherapy-Oncologic Procedure	1
+Good (qualifier value)	1
+Neoplasm Metastasis	2
+pharmacotherapeutic	1

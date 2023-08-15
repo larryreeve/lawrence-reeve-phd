@@ -1,0 +1,20 @@
+Doubt	1	T041-Mental Process
+performance status	1	T033-Finding
+Methotrexate	1	T109-Organic Chemical
+Weekly (qualifier value)	1	T079-Temporal Concept
+Neck	1	T017-Anatomical Structure
+Other	1	T080-Qualitative Concept
+therapeutic aspects	1	T169-Functional Concept
+Cox Models	1	T170-Intellectual Product
+Electrocorticogram (procedure)	1	T060-Diagnostic Procedure
+Controlled Clinical Trials, Randomized	1	T170-Intellectual Product
+Multivariate Analysis	1	T081-Quantitative Concept
+Tissue Culture	1	T059-Laboratory Procedure
+trends	2	T079-Temporal Concept
+Entire neck	1	T023-Body Part, Organ, or Organ Component
+Therapeutic procedure	1	T061-Therapeutic or Preventive Procedure
+Major (qualifier value)	1	T080-Qualitative Concept
+Differential (qualifier value)	1	T080-Qualitative Concept
+prognostic	2	T170-Intellectual Product
+Patients	1	T101-Patient or Disabled Group
+Nine (qualifier value)	1	T081-Quantitative Concept

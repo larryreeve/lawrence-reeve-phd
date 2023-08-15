@@ -1,0 +1,40 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1001\1001-Abstract-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...9844 ms
+
+Chaining file data\input\1001\1001-Abstract-A.txt...
+Chaining completed...
+	MMTx processing time:  19250 ms
+	Chain processing time: 0 ms
+
+
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    2.81
+	Std Dev:      4.97
+	Strong Score: 12.76
+
+	T080-Qualitative Concept: 21.00
+	T170-Intellectual Product: 15.00
+
+
+Strong chains: (1 StdDev)
+-------------
+	Avg score:    2.81
+	Std Dev:      4.97
+	Strong Score: 7.78
+
+	T080-Qualitative Concept: 21.00
+	T170-Intellectual Product: 15.00
+	T081-Quantitative Concept: 12.00
+	T169-Functional Concept: 10.00
+
+
+Summary:
+Summary (2 StdDev, Compression=0.25,3 of 12)
+-------------
+
+0) After 7 years of follow-up evaluation, treatment had reduced overall mortality by 32% (Cox's proportional hazard, P < .01, log-rank, P=.01) and decreased the recurrence rate by 23% (Cox's proportional hazard, P < .04, log-rank, P=.07). 
+1) The intention-to-treat analysis gave a significant effect for overall survival (Cox's proportional hazard, P < .01, log-rank, P=.02) and disease-free survival (Cox's proportional hazard, P=.02, log-rank, P=.11 ). 
+2) While distant metastases were significantly reduced (Cox's proportional hazard, P=.004, log-rank, P=.004), local relapses were not (Cox's proportional hazard, P=.65, log-rank, P=.52). 

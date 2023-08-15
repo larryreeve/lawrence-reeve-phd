@@ -1,0 +1,154 @@
+Simile	1
+Goals	2
+Administration (procedure)	1
+clinical aspects	1
+Table - visual aid	1
+Risk	2
+survival aspects	6
+Aortic lymph node (body structure)	1
+Clinical (qualifier value)	1
+regimen	1
+Neoplasms	2
+Associated topography (attribute)	1
+Upper arm	3
+Interrupted (qualifier value)	1
+Megavoltage radiation therapy (procedure)	1
+Dosages (qualifier value)	1
+Depressive disorder	1
+Rating	1
+Continuance of life	6
+Myelosuppression (finding)	1
+Mortality Vital Statistics	1
+Overall [Publication Type]	1
+Result (navigational concept)	5
+Worsening (qualifier value)	1
+proven venom	1
+Previous (qualifier value)	1
+Common (qualifier value)	1
+day (qualifier value)	1
+superiority	1
+Few (qualifier value)	1
+Effectiveness (qualifier value)	1
+Report (document)	1
+Human Development	1
+Entire brain	1
+Aspects of mortality statistics	1
+White Blood Cell Count procedure	1
+Depressed mood	1
+Histologic	1
+Toxicity aspects	3
+Total (qualifier value)	1
+Reporting	1
+Deterioration of status	1
+Gastrointestinal investigation (procedure)	1
+Improving (qualifier value)	1
+Intravenous	1
+Recent episode (qualifier value)	1
+random assignment	1
+Cancer of Rectum	2
+Improved (qualifier value)	2
+Probability	1
+Room of building - Study	4
+month (qualifier value)	1
+Radiation therapy	1
+Brain	1
+Therapeutic procedure	2
+Excision	1
+Bone structure (body structure)	1
+Recurrence	4
+Initial (qualifier value)	1
+Expectations (qualifier value)	1
+Arm	5
+Primary operation (qualifier value)	1
+Slide (specimen)	1
+Liver	1
+Significant (qualifier value)	1
+Major (qualifier value)	2
+pharmacotherapeutic	5
+Protocols documentation	1
+coexistent disease	1
+Peritoneal (qualifier value)	1
+ADVANTAGE	1
+Two (qualifier value)	1
+SUBSEQUENT	1
+Disease	4
+Semustine	2
+Pelvis	2
+Biopsy	1
+Euphoric mood	1
+Excision - action (qualifier value)	1
+Radiation	3
+Same (qualifier value)	1
+Liver Extract	1
+First (qualifier value)	1
+development aspects	1
+Gastrointestinal Neoplasms	1
+milligram	1
+Act of Documentation	1
+Random Allocation	1
+Frequent (qualifier value)	1
+Methodology	1
+Primary	1
+Disease-Free Survival	5
+Scientific Study	4
+High	1
+Groups (qualifier value)	1
+Group (social concept)	1
+Distant (qualifier value)	1
+Depressive episode, unspecified	1
+Pelvic Neoplasms	1
+Effect (qualifier value)	1
+Programs [Publication Type]	1
+therapeutic aspects	2
+Duration	1
+Transitory	1
+Effective (qualifier value)	1
+Developers	1
+Complement component C1	1
+One (qualifier value)	2
+Documentation	1
+GENERAL OPERATIVE PROCEDURES	1
+C1 innervation	1
+Extension (qualifier value)	4
+Course (attribute)	1
+Adenocarcinoma	1
+pM category (observable entity)	1
+Radiographic (qualifier value)	1
+Patients	8
+Potential	1
+Negative (qualifier value)	1
+Administration	1
+Major pelvis structure (body structure)	1
+Pharmacotherapy	5
+Irradiation (physical force)	1
+Component (attribute)	2
+Residual (qualifier value)	1
+Essential (qualifier value)	2
+Table - furniture	1
+Magnesium	1
+Statistical Significance	1
+Cytologic (qualifier value)	1
+Depression motion	1
+biopsy characteristics	1
+Focal (qualifier value)	1
+Impact	1
+Providing presence (regime/therapy)	2
+Platelet Count	2
+Proven findings	1
+Escalators	1
+Cesium	2
+Entire liver	1
+Disease recurrence	2
+Differential (qualifier value)	1
+NODE	3
+Techniques	1
+Residual Tumor	1
+Leukemia	3
+Seeds	1
+Postoperative Period	1
+Toxic effect	4
+Most (qualifier value)	1
+Finding of platelet count (finding)	2
+Chemotherapy-Oncologic Procedure	5
+Positive (qualifier value)	3
+Mental Depression	1

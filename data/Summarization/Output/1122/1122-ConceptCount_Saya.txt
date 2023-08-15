@@ -1,0 +1,70 @@
+Bleomycin	2
+survival aspects	2
+ADVANTAGE	1
+Two (qualifier value)	3
+AOD use initiation	1
+Pelvis	1
+Financial cost	1
+Methods	1
+Upper arm	1
+Cognitive function: initiation	1
+Analysis	1
+First (qualifier value)	1
+Stillness (finding)	1
+Continuance of life	2
+Intravaginal (qualifier value)	1
+milligram	1
+Overall [Publication Type]	1
+Disease-Free Survival	1
+week (qualifier value)	1
+day (qualifier value)	1
+criteria	1
+therapeutic aspects	3
+Short (qualifier value)	1
+Duration	1
+Fourth (qualifier value)	1
+Curved (qualifier value)	1
+benefits	1
+Likely	1
+Longterm Effects	1
+3	1
+Toxicity aspects	1
+One (qualifier value)	1
+Attenuated by (contextual qualifier) (qualifier value)	1
+Course (attribute)	1
+Side (qualifier value)	1
+Improving (qualifier value)	1
+Cyclic (qualifier value)	2
+Patients	7
+adjuvant study	1
+Potential	2
+prediction	1
+utilization	1
+Pharmacotherapy	1
+Improved (qualifier value)	2
+Regional (qualifier value)	1
+Additive (qualifier value)	1
+Radiation therapy	1
+Magnesium	1
+Therapeutic procedure	4
+More (qualifier value)	1
+Research Personnel	1
+Recurrence	1
+recovery from disease	1
+Malignant neoplasm of cervix uteri	1
+statistical	1
+Initial (qualifier value)	1
+Uranium	1
+Risk Factors	2
+Equilibrium	1
+Total hysterectomy (procedure)	1
+Analysis of substances	1
+Differential (qualifier value)	1
+Arm	1
+Clinical Trial, Phase III [Publication Type]	1
+Third (qualifier value)	1
+Toxic effect	1
+Balanced - adjective	1
+Chemotherapy-Oncologic Procedure	1
+radiotherapeutic	1
+pharmacotherapeutic	1

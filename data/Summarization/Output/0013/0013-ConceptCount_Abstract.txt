@@ -1,0 +1,52 @@
+Improving (qualifier value)	1	T170-Intellectual Product
+Frequency of Responses	2	T079-Temporal Concept
+Systemic Scleroderma	1	T047-Disease or Syndrome
+Cancer treatment response rate	2	T079-Temporal Concept
+Ifosfamide	2	T115-Organophosphorus Compound
+Most (qualifier value)	1	T081-Quantitative Concept
+Unmarried	1	T098-Population Group
+Same (qualifier value)	1	T080-Qualitative Concept
+Attenuated by (contextual qualifier) (qualifier value)	1	T080-Qualitative Concept
+month (qualifier value)	1	T079-Temporal Concept
+Mesna	1	T109-Organic Chemical
+Active	1	T169-Functional Concept
+Cessation of life	1	T040-Organism Function
+Progression-Free Survival	1	T081-Quantitative Concept
+Toxicity aspects	1	T081-Quantitative Concept
+Result (navigational concept)	1	T169-Functional Concept
+Euphoric mood	1	T041-Mental Process
+Methods	1	T170-Intellectual Product
+Cesium	2	T196-Element, Ion, or Isotope
+Neurotoxicity Syndromes	1	T037-Injury or Poisoning
+Significant (qualifier value)	2	T078-Idea or Concept
+Methodology	1	T170-Intellectual Product
+Differential (qualifier value)	1	T080-Qualitative Concept
+Agent (attribute)	1	T120-Chemical Viewed Functionally
+Timing (attribute)	1	T079-Temporal Concept
+Toxic effect	1	T037-Injury or Poisoning
+Combinations (physical object)	1	T073-Manufactured Object
+Cisplatin	4	T197-Inorganic Chemical
+Dosages (qualifier value)	1	T081-Quantitative Concept
+Leukopenia	1	T047-Disease or Syndrome
+Median Statistical Measurement	1	T081-Quantitative Concept
+week (qualifier value)	1	T079-Temporal Concept
+Long (qualifier value)	1	T080-Qualitative Concept
+Unmarried person	1	T098-Population Group
+Peripheral (qualifier value)	1	T082-Spatial Concept
+Neuraxis	1	T023-Body Part, Organ, or Organ Component
+Magnesium	2	T123-Biologically Active Substance
+Duration	1	T079-Temporal Concept
+survival aspects	2	T081-Quantitative Concept
+Timed (qualifier value)	1	T169-Functional Concept
+Singular	1	T081-Quantitative Concept
+Median (qualifier value)	1	T082-Spatial Concept
+Mitolactol	4	T118-Carbohydrate
+High	1	T080-Qualitative Concept
+Toxic nephropathy (disorder)	1	T047-Disease or Syndrome
+Conclude	1	T122-Biomedical or Dental Material
+Time	2	T079-Temporal Concept
+Continuance of life	2	T052-Activity
+APC Gene	2	T028-Gene or Genome
+milligram	2	T081-Quantitative Concept
+Improved (qualifier value)	1	T080-Qualitative Concept
+Patients	2	T101-Patient or Disabled Group

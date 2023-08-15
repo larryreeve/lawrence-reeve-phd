@@ -1,0 +1,30 @@
+Vogl et al and Alberts et al using a combination of bleomycin, vincristine, mitomycin, and cisplatin (BOMP) in patients with metastatic and/or recurrent disease reported high response rates (> 20% of the patients with a complete response [CR]) with acceptable toxicity. 
+
+MATERIALS AND METHODS 
+
+Patient Entry Criteria and Evaluation 
+
+Between April 1984 and August 1986, 107 previously untreated patients with stage III B carcinoma of the cervix were entered on the study. Patients with lymphangiographic findings of pelvic or paraaortic nodal disease were not excluded. All patients gave written consent before entry into the trial. Thus, there were 39 assessable patients in the CT + RT arm and 52 in the RT arm. The groups were balanced for age, extension of parametrial disease, lymph node involvement, hemoglobin level, bulkiness of the cervical disease, and the presence of hydronephrosis. Patient characteristics are outlined in Table 1. Paraaortic radiation was not given, even for the patients with positive paraaortic nodes on lymphangiography. The third bleomycin cycle was either withheld or the bleomycin dose was reduced in 15% of the patients, mainly because of severe skin hyperpigmentation. 
+
+
+Response Criteria 
+
+The local response to treatment was evaluated at the time of the intracavitary therapy by a pelvic examination under anesthesia. Patients in the combined modality group were also assessed for local response at the completion of CT and before the start of RT. Following completion of irradiation, patients were assessed every 2 to 3 months for the first 2 years and every 6 months thereafter. Disease status was evaluated by pelvic examination and by appropriate radiologic and laboratory investigations. Distant disease was defined as disease occuring outside the pelvis, including paraaortic lymph nodes. Only supportive palliative treatment was given to relapsing patients, and CT was not used as a salvage treatment for the patients in the RT-only arm. 
+
+
+End Points 
+
+All patients were observed to determine the efficiency of the combined therapy by comparing overall survival, rate of local control, incidence of distant metastases, and toxicity between treatment regimens. During RT, patients were assessed weekly and were questioned about the presence of treatment-related symptoms. We planned to accrue 60 patients into each treatment arm, which would produce a power of 80% and detect an improvement of 25 % in survival with the combined modality treatment at the a = 0.05 level (two-sided test). Seven patients were not included in response assessment in the combined modality group: four patients who died of CT complications, two who died of metastatic disease, all of them before commencement of RT, and one other patient whose 
+pelvic disease progressed during CT and who received palliative irradiation only because of poor general condition. 
+
+
+Evaluation of tumor response by pelvic examination following therapy for advanced cervical cancer is a subjective and imprecise method of assessment. In Table 4, we show the number of patients still alive in spite of their disease being classified as PR at the end of treatment. Table 5 shows the sites of disease failure. Pelvic disease remains the major site of failure, with at least 50% of the patients failing within the irradiated volume. 
+
+
+Toxicity 
+
+Acute toxicity was pronounced in the combined treatment arm (Table 6). About two thirds of patients experienced moderate to severe nausea/vomiting. Skin hyperpigmentation was observed in half of the treated patients, being of severe degree in one third. Five patients (13%) developed such a complication, and four died as a direct result. In spite of this, two further patients experienced a similar complication (two of 18 treated patients). The cisplatin treatment day was then changed from day 1 to day 4 but yet another patient developed the same problem (one of 12 treated patients). One patient in the RT group who had grade 3 cystitis, characterized by frequent hematuria, presented to the emergency room 19 months following completion of pelvic RT with gross hematuria with clots. This patient developed a fulminant septicemia, and despite intensive surgical and medical treatments died soon after admission to the hospital. Vogl et al'" treated 16 patients with advanced local and/or metastatic cancer of the uterine cervix. Except for two patients, all others had received previous treatment (CT in two, pelvic RT in 11, and major surgery in three). Of 13 assessable patients, 10 achieved PRs, with three other patients (23%) obtaining a CR. All responding patients experienced major symptomatic improvement. Alberts et a119 studied the use of BOMP chemotherapy in 14 previously treated patients with advanced (stage IVB) and/or recurrent disease and reported a 29% CR rate. Furthermore, even if we exclude the patients who experienced treatment-related death, the survival in the BOMP group remains significantly inferior (39% v 25%). In this study, 27% of the patients (14 of 52) in the RT group were called partial responders at the end of irradiation. 
+
+
+
+The lung toxicity experienced by patients in the CT + RT group is unacceptable. In this study, the incidence of pulmonary toxicity was 13% (five of 39), with four patients dying from this complication. None of the patients who experienceddrug-induced pulmonary toxicity had any of the well-known risk factors for development of bleomycin lung toxicity. Recently, Chambers et al also reported a high incidence of pulmonary toxicity in patients receiving BOMP CT for gynecologic squamous cell carcinoma. These authors treated 23 patients (20 cervical cancer, two vulvar, one ovarian) and observed the development of pulmonary toxicity in eight patients (34.5%), with five of them dying a respiratory death while free of disease. 

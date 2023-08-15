@@ -1,0 +1,91 @@
+Follow-up visit (procedure)	1
+survival aspects	2
+Survival Rate	1
+regimen	2
+Fractions of (qualifier value)	1
+Progression (attribute)	1
+Ribonucleotide Reductase	1
+Asia	1
+LIM (body structure)	1
+Teaching principal	1
+Implantation procedure	1
+Not free of (attribute)	1
+Dosages (qualifier value)	1
+Progression-Free Survival	2
+Local (qualifier value)	1
+Carcinoma, Adenosquamous	1
+Malignant Neoplasms	1
+DOS	1
+Radiation	1
+Large tumor (finding)	1
+Analysis	1
+Continuance of life	2
+Random Allocation	1
+Frequent (qualifier value)	2
+Myelosuppression (finding)	1
+Long (qualifier value)	1
+Result (navigational concept)	1
+Psychotherapy, Multiple	1
+Primary	1
+South America	1
+Scientific Study	1
+Second Cancer	1
+Iva	1
+Gifts	1
+Standards of Weights and Measures	1
+Malignant neoplasm, primary (morphologic abnormality)	1
+Groups (qualifier value)	1
+[M]Unspecified tumor cell NOS (morphologic abnormality)	1
+Group (social concept)	1
+superiority	1
+standards characteristics	1
+therapeutic aspects	1
+Duration	1
+Platinum metallicum, platinum, Homeopathic preparation	1
+Percent (qualifier value)	2
+Cancer Genus	1
+Combined (qualifier value)	2
+Toxicity aspects	1
+Total (qualifier value)	1
+Gamete Intrafallopian Transfer	1
+One (qualifier value)	2
+Extension (qualifier value)	1
+Hydroxyurea	6
+Adenocarcinoma	1
+Hematologic (qualifier value)	1
+Base	1
+Patients	2
+Pharmacotherapy	2
+Improved (qualifier value)	1
+Room of building - Study	1
+Weekly (qualifier value)	1
+Relative Risk	1
+Confidence Intervals	2
+Radiation therapy	3
+adverse effect	1
+Local disease (finding)	1
+Therapeutic procedure	1
+Malignant neoplasm of cervix uteri	5
+Platinum	1
+Limited (qualifier value)	1
+Fluorouracil	6
+Human Females	2
+Analysis of substances	1
+Differential (qualifier value)	2
+Rectal mucous membrane structure (body structure)	1
+Following (attribute)	1
+Toxic effect	2
+Significant (qualifier value)	2
+Clinical act of insertion	1
+Most (qualifier value)	2
+Chemotherapy-Oncologic Procedure	2
+Ability	1
+Gy (qualifier value)	2
+Pharmaceutical Preparations	1
+Human adult females	2
+radiotherapeutic	3
+Early (qualifier value)	1
+Neoplasm Metastasis	1
+pharmacotherapeutic	2
+Cisplatin	3
+Protocols documentation	1

@@ -1,0 +1,64 @@
+Cost aspects	2	T081-Quantitative Concept
+Entire rectum	1	T023-Body Part, Organ, or Organ Component
+Scientific Study	1	T059-Laboratory Procedure
+Gender	1	T022-Body System
+Lower (qualifier value)	1	T169-Functional Concept
+Laster (occupation)	1	T097-Professional or Occupational Group
+Minute (qualifier value)	1	T080-Qualitative Concept
+Unmarried	3	T098-Population Group
+Techniques	3	T170-Intellectual Product
+Mean (qualifier value)	2	T081-Quantitative Concept
+Drain, device (physical object)	1	T074-Medical Device
+utilization	1	T081-Quantitative Concept
+Surgeon (occupation)	1	T097-Professional or Occupational Group
+Silk suture, device (physical object)	1	T074-Medical Device
+Minute of time	1	T079-Temporal Concept
+Sutures, Polyglycolic Acid	1	T074-Medical Device
+Leaking (qualifier value)	1	T169-Functional Concept
+Diagnostic	1	T169-Functional Concept
+Materials	1	T167-Substance
+Several (qualifier value)	1	T081-Quantitative Concept
+Location (attribute)	1	T082-Spatial Concept
+Adult	1	T100-Age Group
+Result (navigational concept)	1	T169-Functional Concept
+Anastomosis - action	4	T061-Therapeutic or Preventive Procedure
+Methods	1	T170-Intellectual Product
+Abscess	1	T046-Pathologic Function
+Author (occupation)	1	T097-Professional or Occupational Group
+Methodology	2	T170-Intellectual Product
+Report (document)	1	T170-Intellectual Product
+Small	1	T080-Qualitative Concept
+Differential (qualifier value)	1	T080-Qualitative Concept
+Short (qualifier value)	1	T079-Temporal Concept
+Anastomotic leak	1	T046-Pathologic Function
+day (qualifier value)	2	T079-Temporal Concept
+Lengths (qualifier value)	1	T081-Quantitative Concept
+Five (qualifier value)	1	T081-Quantitative Concept
+Groups (qualifier value)	1	T170-Intellectual Product
+Room of building - Study	1	T073-Manufactured Object
+Financial cost	2	T081-Quantitative Concept
+Disruption (morphologic abnormality)	1	T169-Functional Concept
+Diagnosis	1	T060-Diagnostic Procedure
+Visible (qualifier value)	1	T080-Qualitative Concept
+Incised wound - morphology (morphologic abnormality)	1	T037-Injury or Poisoning
+Coitus	1	T055-Individual Behavior
+ADVANTAGE	1	T131-Hazardous or Poisonous Substance
+Statistical Significance	1	T081-Quantitative Concept
+One (qualifier value)	1	T081-Quantitative Concept
+Unmarried person	3	T098-Population Group
+Duodenum	1	T023-Body Part, Organ, or Organ Component
+Rectum	1	T023-Body Part, Organ, or Organ Component
+Anastomosis of intestine NOS (procedure)	1	T061-Therapeutic or Preventive Procedure
+Anatomical anastomosis	4	T030-Body Space or Junction
+Two (qualifier value)	5	T081-Quantitative Concept
+Singular	3	T081-Quantitative Concept
+Anastomosis	7	T020-Acquired Abnormality
+Layer	6	T023-Body Part, Organ, or Organ Component
+Continuous (qualifier value)	4	T079-Temporal Concept
+Conclude	1	T122-Biomedical or Dental Material
+Time	2	T079-Temporal Concept
+Entire duodenum	1	T023-Body Part, Organ, or Organ Component
+Recent episode (qualifier value)	1	T079-Temporal Concept
+Goals	1	T170-Intellectual Product
+Rating	1	T062-Research Activity
+Patients	4	T101-Patient or Disabled Group

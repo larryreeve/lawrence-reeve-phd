@@ -1,0 +1,914 @@
+preferred treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+radical hysterectomy
+  1
+  C0677962|Total hysterectomy (procedure)|T061
+procedure
+  1
+  C0184661|Procedures|T058
+rare mortality
+  3
+  C0332184|Rare (qualifier value)|T079
+  C0026565|Mortality Vital Statistics|T081
+  C0026566|Aspects of mortality statistics|T170
+overall prognosis
+  2
+  C0282416|Overall [Publication Type]|T170
+  C0033325|Forecast of outcome|T058
+radical hysterectomy
+  1
+  C0677962|Total hysterectomy (procedure)|T061
+prognostic features
+  1
+  C0220901|prognostic|T170
+patients
+  1
+  C0030705|Patients|T101
+recurrent cervical cancer
+  1
+  C0278579|Cervix carcinoma recurrent|T191
+pelvic lymphadenectomy
+  1
+  C0193883|Pelvic lymphadenectomy (procedure)|T061
+poor prognosis
+  1
+  C0278252|Prognosis bad (finding)|T033
+poorer prognosis
+  1
+  C0278252|Prognosis bad (finding)|T033
+retrospective study
+  1
+  C0035363|Retrospective Studies|T081
+radical hysterectomy
+  1
+  C0677962|Total hysterectomy (procedure)|T061
+risk factors
+  1
+  C0035648|Risk Factors|T081
+metastatic tumor
+  1
+  C0027627|Neoplasm Metastasis|T191
+large cervical tumor
+  2
+  C0475278|Large tumor (finding)|T080
+  C0205064|Cervical (qualifier value)|T082
+parametrial extension
+  3
+  C0227822|Parametrium|T023
+  C0231448|Extension (qualifier value)|T042
+  C1281249|Entire parametrium|T023
+grade histology
+  4
+  C0441800|Grade|T185
+  C0019638|Histology|T091
+  C0205462|Histologic|T169
+  C0344441|Histology Procedure|T059
+cervical stromal invasion
+  2
+  C0927195|Stroma|T023
+  C0205064|Cervical (qualifier value)|T082
+multiple studies
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0439064|Numerous (qualifier value)|T081
+adjuvant therapy
+  1
+  C0677850|adjuvant therapy|T061
+adjuvant therapy
+  1
+  C0677850|adjuvant therapy|T061
+Whole pelvic postoperative radiation therapy
+  5
+  C0444667|Whole (qualifier value)|T081
+  C0032790|Postoperative Period|T079
+  C0030797|Pelvis|T029
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+regional recurrence
+  2
+  C0034897|Recurrence|T067
+  C0205147|Regional (qualifier value)|T082
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+Chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Preoperative neoadjuvant chemotherapy
+  4
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C0445204|Preoperative (qualifier value)|T032
+high-risk features
+  3
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+  C0035647|Risk|T080
+Few reports
+  2
+  C0205388|Few (qualifier value)|T081
+  C0684224|Report (document)|T170
+improved survival
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+Phase III clinical trial
+  1
+  C1096780|Clinical Trial, Phase III [Publication Type]|T062
+report
+  2
+  C0700287|Reporting|T058
+  C0684224|Report (document)|T170
+preliminary results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0439611|Preliminary (qualifier value)|T079
+MATERIALS
+  1
+  C0520510|Materials|T167
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Patients
+  1
+  C0030705|Patients|T101
+bilateral pelvic lymphadenectomy
+  3
+  C0281267|bilateral breast cancer|T191
+  C0193883|Pelvic lymphadenectomy (procedure)|T061
+  C0238767|Bilateral|T082
+aortic lymph node sampling
+  5
+  C0398417|Sampling of lymph nodes NOS (procedure)|T060
+  C0870078|Sampling|T078
+  C0229789|Aortic lymph node (body structure)|T023
+  C0441621|Sampling - Surgical action|T060
+  C0003483|Aorta|T023
+one
+  1
+  C0205447|One (qualifier value)|T081
+risk factors
+  1
+  C0035648|Risk Factors|T081
+metastatic disease
+  1
+  C0027627|Neoplasm Metastasis|T191
+equal
+  1
+  C0205163|Equal (qualifier value)|T080
+deeply invasive lesions
+  2
+  C0221198|Lesion|T033
+  C0205281|Invasive (qualifier value)|T080
+greater stromal invasion
+  2
+  C0443228|Greater (qualifier value)|T081
+  C0927195|Stroma|T023
+nonsquamous histology
+  3
+  C0019638|Histology|T091
+  C0205462|Histologic|T169
+  C0344441|Histology Procedure|T059
+occult parametrial involvement
+  4
+  C0392760|Not free of (attribute)|T169
+  C0205262|Occult (qualifier value)|T169
+  C0227822|Parametrium|T023
+  C1281249|Entire parametrium|T023
+positive surgical margins
+  2
+  C0229985|Surgical margins (body structure)|T023
+  C0205159|Positive (qualifier value)|T080
+Patients
+  1
+  C0030705|Patients|T101
+entry criteria
+  1
+  C0243161|criteria|T170
+initiation
+  2
+  C0678321|AOD use initiation|T079
+  C0589507|Cognitive function: initiation|T041
+Patients
+  1
+  C0030705|Patients|T101
+stage
+  2
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+Obstetricians
+  1
+  C0334897|Obstetrician (occupation)|T097
+criteria
+  1
+  C0243161|criteria|T170
+informed consent form
+  1
+  C0009797|Consent Forms|T170
+patients
+  1
+  C0030705|Patients|T101
+one
+  1
+  C0205447|One (qualifier value)|T081
+One arm
+  3
+  C0205447|One (qualifier value)|T081
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+bleomycin U
+  2
+  C0041928|Uranium|T196
+  C0005740|Bleomycin|T116
+day via continuous 24-hr infusion
+  2
+  C0439228|day (qualifier value)|T079
+  C0574032|Infusion (procedure)|T061
+recovery
+  1
+  C0237820|recovery from disease|T040
+patients
+  1
+  C0030705|Patients|T101
+course
+  1
+  C0449922|Course (attribute)|T079
+patients
+  1
+  C0030705|Patients|T101
+intravaginal therapy
+  3
+  C0442122|Intravaginal (qualifier value)|T082
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+Two additional cycles
+  3
+  C0439596|Cyclic (qualifier value)|T079
+  C0442796|Additive (qualifier value)|T080
+  C0205448|Two (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+patients
+  1
+  C0030705|Patients|T101
+first two cycles
+  3
+  C0439596|Cyclic (qualifier value)|T079
+  C0205435|First (qualifier value)|T081
+  C0205448|Two (qualifier value)|T081
+bleomycin
+  1
+  C0005740|Bleomycin|T116
+patient then
+  1
+  C0030705|Patients|T101
+third
+  1
+  C0205437|Third (qualifier value)|T081
+fourth treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0205438|Fourth (qualifier value)|T081
+  C0039798|therapeutic aspects|T169
+Four centers
+  3
+  C0205450|Four (qualifier value)|T081
+  C0205099|Central|T082
+  C0935444|Centering|T041
+protocol
+  1
+  C0442711|Protocols documentation|T170
+patients
+  1
+  C0030705|Patients|T101
+informed consent
+  1
+  C0021430|Informed Consent|T058
+Central pathology review
+  2
+  C0807322|PATHOLOGIST REVIEW|T033
+  C0205099|Central|T082
+Randomization
+  1
+  C0034656|Random Allocation|T062
+envelope system
+  1
+  C0449913|System (attribute)|T169
+Data forms
+  1
+  C0376315|Manufactured form|T073
+Additional entry criteria
+  2
+  C0442796|Additive (qualifier value)|T080
+  C0243161|criteria|T170
+histologic confirmation
+  2
+  C0205462|Histologic|T169
+  C0750484|CONFIRMED|T078
+normal renal function
+  1
+  C0232805|Normal renal function (finding)|T033
+creatinine clearance
+  1
+  C0812399|Creatinine clearance|T033
+min
+  1
+  C0439232|Minute of time|T079
+normal liver function tests
+  2
+  C0205307|Normal (qualifier value)|T033
+  C0023901|Liver Function Tests|T059
+hemoglobin
+  1
+  C0019046|Hemoglobin|T116
+dl
+  1
+  C0439241|dL (qualifier value)|T081
+normal DLCO pulmonary function test
+  2
+  C0024119|Pulmonary function tests|T060
+  C0205307|Normal (qualifier value)|T033
+patients
+  1
+  C0030705|Patients|T101
+Patients
+  1
+  C0030705|Patients|T101
+interval
+  1
+  C1272706|Interval (qualifier value)|T079
+initial accrual goal
+  2
+  C0018017|Goals|T170
+  C0205265|Initial (qualifier value)|T079
+patients
+  1
+  C0030705|Patients|T101
+null hypothesis
+  1
+  C0456148|Null (qualifier value)|T033
+two treatment arms
+  4
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0003792|Arm|T029
+  C0205448|Two (qualifier value)|T081
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+radiation
+  1
+  C0851346|Radiation|T070
+result
+  1
+  C1274040|Result (navigational concept)|T169
+alternative hypothesis
+  2
+  C0332270|Alternating (qualifier value)|T169
+  C0919661|Heart alternation|T046
+significance level
+  1
+  C0814896|significance level|T062
+power
+  1
+  C0032863|Power (Psychology)|T068
+estimated duration
+  2
+  C0750572|ESTIMATED|T078
+  C0449238|Duration|T079
+4–5 years
+  1
+  C0439234|year (qualifier value)|T079
+disease-free survival curves
+  2
+  C0205134|Curved (qualifier value)|T082
+  C0242793|Disease-Free Survival|T081
+method
+  1
+  C0025663|Methods|T170
+differences
+  1
+  C0443199|Differential (qualifier value)|T080
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+total
+  1
+  C0439810|Total (qualifier value)|T080
+patients
+  1
+  C0030705|Patients|T101
+radical hysterectomy
+  1
+  C0677962|Total hysterectomy (procedure)|T061
+bilateral pelvic lymphade Center
+  3
+  C0281267|bilateral breast cancer|T191
+  C0205099|Central|T082
+  C0238767|Bilateral|T082
+University
+  1
+  C0041740|Universities|T073
+average age
+  3
+  C0001779|Age (qualifier value)|T079
+  C0043778|nicaraven|T109
+  C0752050|Anteroventral Thalamic Nucleus|T023
+periaortic lymph node sampling
+  1
+  C0398417|Sampling of lymph nodes NOS (procedure)|T060
+years
+  1
+  C0439234|year (qualifier value)|T079
+patients
+  1
+  C0030705|Patients|T101
+Twenty five patients
+  2
+  C0205451|Five (qualifier value)|T081
+  C0030705|Patients|T101
+more high70 years
+  2
+  C0205172|More (qualifier value)|T081
+  C0439234|year (qualifier value)|T079
+Seventy five patients
+  2
+  C0205451|Five (qualifier value)|T081
+  C0030705|Patients|T101
+Stage IB cervical cancer risk factors
+  2
+  C0278582|Cervical carcinoma stage IB|T191
+  C0035648|Risk Factors|T081
+remaining patients
+  1
+  C0030705|Patients|T101
+Stage IIA cancer
+  5
+  C0998265|Cancer Genus|T009
+  C0441768|Stage 2 upper case ay|T185
+  C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+  C0006826|Malignant Neoplasms|T191
+  C0457158|Stage 2 lower case ay|T185
+risk factor
+  1
+  C0035648|Risk Factors|T081
+Additional histopathologic features
+  3
+  C0677043|Histopathology|T046
+  C0442796|Additive (qualifier value)|T080
+  C0243140|Histopathological aspects|T169
+entry criteria
+  1
+  C0243161|criteria|T170
+patients
+  1
+  C0030705|Patients|T101
+Forty five patients
+  2
+  C0205451|Five (qualifier value)|T081
+  C0030705|Patients|T101
+radiation therapy treatment arm
+  5
+  C1292734|Treats (attribute)|T185
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+patients
+  1
+  C0030705|Patients|T101
+poor medical condition
+  4
+  C0205476|Medical (qualifier value)|T169
+  C0542537|Poor - grade value|T080
+  C0348080|Condition (attribute)|T080
+  C0699761|Financially poor|T080
+major protocol viola patients
+  4
+  C0205164|Major (qualifier value)|T080
+  C0330463|Viola|T002
+  C0442711|Protocols documentation|T170
+  C0030705|Patients|T101
+patients
+  1
+  C0030705|Patients|T101
+radiation therapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+patient
+  1
+  C0030705|Patients|T101
+allergic bleomycin reaction
+  2
+  C0020517|Hypersensitivity|T046
+  C0005740|Bleomycin|T116
+refused treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0017095|Garbage|T072
+  C0039798|therapeutic aspects|T169
+infusion
+  1
+  C0574032|Infusion (procedure)|T061
+Four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+radiation
+  1
+  C0851346|Radiation|T070
+radia to follow-up
+  1
+  C0589120|Follow-up status (finding)|T169
+tion therapy
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+major violation
+  1
+  C0205164|Major (qualifier value)|T080
+patients
+  1
+  C0030705|Patients|T101
+combination therapy treatment plan
+  3
+  C0556895|Combination electrotherapy|T061
+  C0599880|PLAN OF TREATMENT|T170
+  C0009429|Combined Modality Therapy|T061
+intravaginal radiation therapy
+  3
+  C0442122|Intravaginal (qualifier value)|T082
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+pelvic radiation
+  1
+  C0747411|PELVIS RADIATION|T061
+cycles chemotherapy alone
+  5
+  C0439596|Cyclic (qualifier value)|T079
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C0679994|alone|T102
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+Overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+survival curves
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0205134|Curved (qualifier value)|T082
+range 4–81 months
+  1
+  C0439231|month (qualifier value)|T079
+patients
+  1
+  C0030705|Patients|T101
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+There skin reaction
+  1
+  C0221743|Skin reaction (observable entity)|T034
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+radiation proctitis re
+  2
+  C0400827|Radiation proctitis (disorder)|T047
+  C0035419|Rhenium|T196
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+colostomy
+  3
+  C0448971|Colostomy stoma|T020
+  C0546255|Colostomy site|T020
+  C0009410|Colostomy Procedure|T061
+patients
+  1
+  C0030705|Patients|T101
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+experienced recurrences
+  2
+  C0596545|experience|T041
+  C0034897|Recurrence|T067
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+group
+  2
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+more risk factors
+  2
+  C0205172|More (qualifier value)|T081
+  C0035648|Risk Factors|T081
+differ debate
+  1
+  C0870392|Debates|T052
+role
+  1
+  C0035820|Role|T054
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+Patterns
+  1
+  C0449774|Patterns (qualifier value)|T082
+cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+Toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+Most incidence
+  3
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+  C0205393|Most (qualifier value)|T081
+regional recurrences
+  2
+  C0034897|Recurrence|T067
+  C0205147|Regional (qualifier value)|T082
+acute toxicity
+  3
+  C0040539|Toxicity aspects|T081
+  C0205178|Acuteness (qualifier value)|T079
+  C0600688|Toxic effect|T037
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+Monk
+  1
+  C0682252|monk|T097
+colleagues pated toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+bleomycin
+  1
+  C0005740|Bleomycin|T116
+Major toxicity
+  3
+  C0205164|Major (qualifier value)|T080
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+65% 5-year survival rate
+  2
+  C0038954|Survival Rate|T081
+  C0439234|year (qualifier value)|T079
+second cycle
+  2
+  C0439596|Cyclic (qualifier value)|T079
+  C0205436|Second (qualifier value)|T081
+radical hysterectomy
+  1
+  C0677962|Total hysterectomy (procedure)|T061
+pelvic lymphadenectomy
+  1
+  C0193883|Pelvic lymphadenectomy (procedure)|T061
+postoperative pelvic radiotherapy
+  4
+  C0032790|Postoperative Period|T079
+  C0030797|Pelvis|T029
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+fourth cycle
+  2
+  C0439596|Cyclic (qualifier value)|T079
+  C0205438|Fourth (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+grade ? neutrophil count
+  2
+  C0441800|Grade|T185
+  C0200633|Neutrophil count NOS (procedure)|T059
+cells
+  1
+  C0007634|Cells|T025
+mm3
+  1
+  C1300558|mm3 (qualifier value)|T081
+Two pa dissemination
+  3
+  C0205221|Disseminated (qualifier value)|T082
+  C0030125|p-Aminosalicylic Acid|T109
+  C0205448|Two (qualifier value)|T081
+patient
+  1
+  C0030705|Patients|T101
+cGy
+  1
+  C0556645|cGy (qualifier value)|T081
+promising improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+al
+  1
+  C0002367|Aluminum|T196
+recurrences
+  1
+  C0034897|Recurrence|T067
+similar treatment regimen
+  4
+  C0871364|Simile|T170
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0677937|regimen|T061
+al
+  1
+  C0002367|Aluminum|T196
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+pelvic radiation
+  1
+  C0747411|PELVIS RADIATION|T061
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+recurrences
+  1
+  C0034897|Recurrence|T067
+patients
+  1
+  C0030705|Patients|T101
+selection
+  1
+  C0036576|Selection (Genetics)|T045
+risk factors
+  1
+  C0035648|Risk Factors|T081
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+patients
+  1
+  C0030705|Patients|T101
+risk factors
+  1
+  C0035648|Risk Factors|T081
+local recurrences only
+  2
+  C0205276|Local (qualifier value)|T082
+  C0034897|Recurrence|T067
+distant metastases
+  1
+  C1269798|pM category (observable entity)|T201
+finding
+  1
+  C0243095|findings|T169
+apparent effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0750489|APPARENT|T078
+closure
+  1
+  C0185003|Reparative closure (procedure)|T061
+disappointing
+  1
+  C0870427|Disappointment|T041
+initial statistical prediction
+  3
+  C0681842|prediction|T170
+  C0205265|Initial (qualifier value)|T079
+  C0220917|statistical|T170
+20% improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+two treatments
+  2
+  C0087111|Therapeutic procedure|T061
+  C0205448|Two (qualifier value)|T081
+likelihood
+  1
+  C0750504|Likely|T078
+investigators
+  1
+  C0035173|Research Personnel|T097
+future cooperative group trials
+  2
+  C0677877|cooperative group|T093
+  C0016884|Future|T079
+chemotherapy only treatment arm
+  5
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+role
+  1
+  C0035820|Role|T054
+advantages
+  1
+  C0308269|ADVANTAGE|T131
+duration
+  1
+  C0449238|Duration|T079
+shorter costs
+  2
+  C0010186|Financial cost|T081
+  C0205167|Short (qualifier value)|T079
+long-term side effects
+  2
+  C0441987|Side (qualifier value)|T082
+  C0023983|Longterm Effects|T067
+patient
+  1
+  C0030705|Patients|T101
+regional recurrence
+  2
+  C0034897|Recurrence|T067
+  C0205147|Regional (qualifier value)|T082
+pelvic radiation therapy still
+  4
+  C0424228|Stillness (finding)|T033
+  C0030797|Pelvis|T029
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+curative potential
+  1
+  C0237399|Potential|T080
+Investigators
+  1
+  C0035173|Research Personnel|T097
+adjuvant trials
+  1
+  C0278788|adjuvant study|T062
+balance potential benefit to
+  4
+  C0014653|Equilibrium|T040
+  C0205415|Balanced - adjective|T169
+  C0814225|benefits|T081
+  C0237399|Potential|T080

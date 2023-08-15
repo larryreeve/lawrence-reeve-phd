@@ -1,0 +1,100 @@
+Administration (procedure)	1
+Bacilli	1
+Patient observation	2
+survival aspects	5
+Clinical (qualifier value)	2
+regimen	1
+Sounds device	1
+CMF	5
+Neoplasms	1
+Adriamycin	1
+Methotrexate	1
+findings	1
+Observation in research	2
+Clinical finding (finding)	1
+Median Statistical Measurement	1
+Continuance of life	5
+RF	4
+New (qualifier value)	1
+Overall [Publication Type]	2
+Result (navigational concept)	9
+QUESTIONABLE	1
+Other	1
+Follow-up status (finding)	1
+Brothers	1
+Superior (qualifier value)	1
+Total (qualifier value)	3
+Histologic	2
+Prospective Studies	1
+Additive (qualifier value)	1
+Therapeutic procedure	2
+Age (qualifier value)	1
+Maximum	1
+The science and art of healing	3
+Human Females	2
+Reasoning	2
+Analysis of substances	1
+Significant (qualifier value)	1
+Axillary lymph node group	2
+Human adult females	2
+Pharmaceutical Preparations	1
+APPARENT	1
+pharmacotherapeutic	1
+Long-term (qualifier value)	1
+Therapeutic	3
+Two (qualifier value)	1
+Responses	1
+Behaviors and observations relating to behavior	1
+Postmenopausal state (finding)	3
+Menopausal	1
+None (qualifier value)	1
+estrogen receptor negative	3
+Behavior	1
+Quantity (attribute)	1
+Conclude	1
+Same (qualifier value)	2
+Series (qualifier value)	1
+Analysis	1
+Possible	1
+Lacking (qualifier value)	1
+Random Allocation	1
+Bathing	1
+Progress Report	1
+Primary	1
+FAVOR (product)	1
+Groups (qualifier value)	1
+Effect (qualifier value)	2
+Approach (attribute)	1
+therapeutic aspects	2
+Duration	2
+Chemotherapy, Adjuvant	1
+Adjuvants, Immunologic	2
+Role	1
+Baths (medical device)	1
+Preliminary (qualifier value)	1
+Course (attribute)	3
+Cyclic (qualifier value)	7
+Median (qualifier value)	1
+Patients	6
+Bacillus <bacterium>	1
+Molybdenum	1
+Administration	1
+utilization	1
+Pharmacotherapy	1
+premenopausal	2
+Advance	1
+Present	1
+year (qualifier value)	2
+Peak (qualifier value)	1
+Disease classification level	1
+Sound - physical agent	1
+Absences (finding)	1
+APPARENTLY	1
+Fluorouracil	2
+Cesium	1
+Differential (qualifier value)	3
+Cyclophosphamide	2
+Postoperative Period	1
+Toxicologic (qualifier value)	1
+Chemotherapy-Oncologic Procedure	1
+Positive (qualifier value)	2

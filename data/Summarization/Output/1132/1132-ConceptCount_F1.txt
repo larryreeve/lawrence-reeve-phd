@@ -1,0 +1,17 @@
+year (qualifier value)	1
+survival aspects	1
+Three (qualifier value)	1
+Toxicity aspects	1
+Upper arm	1
+Groups (qualifier value)	1
+Arm	1
+Group (social concept)	1
+Toxic effect	1
+Mitomycin	1
+Mitomycins	1
+Chemotherapy, Adjuvant	1
+Vincristine	1
+Courses (qualifier value)	1
+Cessation of life	1
+Cisplatin	1
+Continuance of life	1

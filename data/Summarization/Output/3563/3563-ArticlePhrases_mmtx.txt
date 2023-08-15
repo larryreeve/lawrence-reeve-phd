@@ -1,0 +1,868 @@
+Intestinal anastomosis
+  1
+  C0192711|Anastomosis of intestine NOS (procedure)|T061
+materials
+  1
+  C0520510|Materials|T167
+devices
+  3
+  C0699733|Devices|T073
+  C0220819|device aspects|T073
+  C0884854|Physical devices|T074
+method
+  1
+  C0025663|Methods|T170
+two layer anastomosis
+  5
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C0934502|Layer|T023
+  C0205448|Two (qualifier value)|T081
+interrupted silk sutures
+  2
+  C0183745|Silk suture, device (physical object)|T074
+  C0443239|Interrupted (qualifier value)|T080
+running absorbable suture
+  2
+  C0035953|Running|T056
+  C0461643|Absorbable suture (physical object)|T074
+several reports
+  2
+  C0443302|Several (qualifier value)|T081
+  C0684224|Report (document)|T170
+continuous anastomosis
+  4
+  C0549178|Continuous (qualifier value)|T079
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+monofilament plastic suture
+  4
+  C0038969|Surgical sutures|T074
+  C0032167|Plastics|T167
+  C0502420|Suture Joint|T030
+  C0009068|Closure by suture|T061
+anastomosis
+  3
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+less time
+  1
+  C0040223|Time|T079
+lower risk
+  2
+  C0441994|Lower (qualifier value)|T169
+  C0035647|Risk|T080
+single layer technique
+  5
+  C0205171|Singular|T081
+  C0037179|Unmarried person|T098
+  C0934502|Layer|T023
+  C0449851|Techniques|T170
+  C0087136|Unmarried|T098
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+adult patients
+  2
+  C0030705|Patients|T101
+  C0001675|Adult|T100
+intestinal anastomosis
+  1
+  C0192711|Anastomosis of intestine NOS (procedure)|T061
+Patients
+  1
+  C0030705|Patients|T101
+anastomosis
+  3
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+third
+  1
+  C0205437|Third (qualifier value)|T081
+fourth portion
+  1
+  C0205438|Fourth (qualifier value)|T081
+continuous method
+  2
+  C0549178|Continuous (qualifier value)|T079
+  C0025663|Methods|T170
+Patients
+  1
+  C0030705|Patients|T101
+gastrointestinal anastomosis
+  4
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C0521362|Gastrointestinal|T023
+Patients
+  1
+  C0030705|Patients|T101
+surgeon
+  1
+  C0582175|Surgeon (occupation)|T097
+technique
+  1
+  C0449851|Techniques|T170
+scarring
+  1
+  C0036287|Scarring|T042
+Patients
+  1
+  C0030705|Patients|T101
+one
+  1
+  C0205447|One (qualifier value)|T081
+two layer technique
+  3
+  C0934502|Layer|T023
+  C0449851|Techniques|T170
+  C0205448|Two (qualifier value)|T081
+Randomization
+  1
+  C0034656|Random Allocation|T062
+random permuted blocks
+  4
+  C0439605|Random (qualifier value)|T082
+  C0332206|Blocking|T169
+  C0028778|Obstruction|T046
+  C0233660|Mental blocking|T048
+Opaque
+  2
+  C1261286|Opaque (qualifier value)|T169
+  C0029053|Decreased translucency|T033
+technique to
+  1
+  C0449851|Techniques|T170
+need
+  1
+  C0027552|Needs|T080
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+similar results
+  2
+  C0871364|Simile|T170
+  C1274040|Result (navigational concept)|T169
+two layer anastomoses
+  3
+  C0332853|Anastomosis|T020
+  C0934502|Layer|T023
+  C0205448|Two (qualifier value)|T081
+3.0 silk Lembert sutures
+  1
+  C0183745|Silk suture, device (physical object)|T074
+running 3.0 polyglycolic acid suture
+  2
+  C0183741|Sutures, Polyglycolic Acid|T074
+  C0035953|Running|T056
+single layer anastomoses
+  5
+  C0205171|Singular|T081
+  C0037179|Unmarried person|T098
+  C0332853|Anastomosis|T020
+  C0934502|Layer|T023
+  C0087136|Unmarried|T098
+continuous 3.0 polypropylene
+  2
+  C0549178|Continuous (qualifier value)|T079
+  C0032582|Polypropylenes|T122
+double needle suture
+  5
+  C0038969|Surgical sutures|T074
+  C0205173|Duplicate|T040
+  C0502420|Suture Joint|T030
+  C0009068|Closure by suture|T061
+  C0027551|Needles|T074
+layers
+  1
+  C0934502|Layer|T023
+bite
+  1
+  C0005658|Bites|T037
+larger bites
+  2
+  C0443228|Greater (qualifier value)|T081
+  C0005658|Bites|T037
+approximately mm
+  2
+  C0332232|Approximate (qualifier value)|T169
+  C0439200|millimeter|T081
+ischemia
+  1
+  C0022116|Ischemia|T047
+surgeon
+  1
+  C0582175|Surgeon (occupation)|T097
+anastomosis watertight
+  3
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+time
+  1
+  C0040223|Time|T079
+Anastomotic failure
+  3
+  C0680095|Personal failure|T055
+  C0332854|Anastomotic|T082
+  C0231174|Failure (biologic function)|T169
+charcoal
+  1
+  C0007955|Charcoal|T196
+draining
+  1
+  C0180499|Drain, device (physical object)|T074
+visible disruption
+  2
+  C0332453|Disruption (morphologic abnormality)|T169
+  C0205379|Visible (qualifier value)|T080
+complication
+  1
+  C0009566|Complication|T046
+Calculations
+  1
+  C0444686|Calculated (qualifier value)|T169
+abscess
+  1
+  C0000833|Abscess|T046
+time
+  1
+  C0040223|Time|T079
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+Calculations
+  1
+  C0444686|Calculated (qualifier value)|T169
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+Calculations
+  1
+  C0444686|Calculated (qualifier value)|T169
+standardized utilization
+  2
+  C0038136|Standardization|T062
+  C0042153|utilization|T081
+three packets
+  1
+  C0205449|Three (qualifier value)|T081
+five needled sutures
+  6
+  C0205451|Five (qualifier value)|T081
+  C0038969|Surgical sutures|T074
+  C0398296|Cannulation of vascular fistula, graft or prosthetic device|T061
+  C0398266|Venous cannula insertion|T061
+  C0007431|Arterial catheterization|T061
+  C0027551|Needles|T074
+two packets
+  1
+  C0205448|Two (qualifier value)|T081
+one package
+  2
+  C0030176|Packaging|T068
+  C0205447|One (qualifier value)|T081
+3.0 polypropylene suture
+  1
+  C0491217|Polypropylene suture (physical object)|T074
+procedures
+  2
+  C0025664|Methodology|T170
+  C0184661|Procedures|T058
+Continuous data
+  1
+  C0549178|Continuous (qualifier value)|T079
+Student t test
+  1
+  C0871453|Students T Test|T170
+Fisher exact test
+  3
+  C0059927|Exact|T122
+  C0325045|Martes pennanti (organism)|T015
+  C0392366|Tests (qualifier value)|T170
+Pearson chi-square test
+  1
+  C0008041|Chi-Square Test|T081
+categorical data
+  1
+  C0683312|categories|T170
+statistical significance
+  1
+  C0237881|Statistical Significance|T081
+data analysis
+  1
+  C0010992|Data Analysis|T057
+Chicago
+  1
+  C0008044|Chicago|T083
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+One hundred twenty five patients
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+Fifty nine patients
+  2
+  C0030705|Patients|T101
+  C0205455|Nine (qualifier value)|T081
+same method
+  2
+  C0025663|Methods|T170
+  C0445247|Same (qualifier value)|T080
+two
+  1
+  C0205448|Two (qualifier value)|T081
+interrupted anastomoses
+  2
+  C0332853|Anastomosis|T020
+  C0443239|Interrupted (qualifier value)|T080
+groups
+  1
+  C0441833|Groups (qualifier value)|T170
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+diagnosis
+  2
+  C0011900|Diagnosis|T060
+  C0348026|Diagnostic|T169
+location
+  1
+  C0450429|Location (attribute)|T082
+Anastomotic leaks
+  1
+  C0919691|Anastomotic leak|T046
+intraabdominal abscesses
+  2
+  C0000833|Abscess|T046
+  C0230168|Abdominal cavity structure|T029
+length
+  1
+  C0439537|Lengths (qualifier value)|T081
+length
+  1
+  C0439537|Lengths (qualifier value)|T081
+material costs
+  2
+  C0010186|Financial cost|T081
+  C0520510|Materials|T167
+Four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+deaths
+  1
+  C0011065|Cessation of life|T040
+one patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+abdominal carcinomatosis
+  2
+  C0456438|Abdominal (qualifier value)|T082
+  C0205699|Carcinomatosis|T191
+one
+  1
+  C0205447|One (qualifier value)|T081
+diffuse peritonitis
+  2
+  C0205219|Diffuse (qualifier value)|T080
+  C0031154|Peritonitis|T047
+third patient
+  2
+  C0030705|Patients|T101
+  C0205437|Third (qualifier value)|T081
+planned reoperation
+  2
+  C0035110|Reoperation|T061
+  C1301732|Planned (qualifier value)|T169
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+two layer interrupted anastomosis
+  6
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C0934502|Layer|T023
+  C0443239|Interrupted (qualifier value)|T080
+  C0205448|Two (qualifier value)|T081
+origins
+  2
+  C0079946|National origin|T082
+  C0439659|Beginning|T079
+careful approximation
+  1
+  C0332232|Approximate (qualifier value)|T169
+method
+  1
+  C0025663|Methods|T170
+fist successful anastomosis
+  5
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C1272703|Successful (qualifier value)|T080
+  C0336667|Fist, device (physical object)|T023
+  C0500470|Anatomical anastomosis|T030
+Lemberts method
+  1
+  C0025663|Methods|T170
+addition
+  1
+  C0442796|Additive (qualifier value)|T080
+risk
+  1
+  C0035647|Risk|T080
+precise mucosal approximation
+  2
+  C0332232|Approximate (qualifier value)|T169
+  C0026724|Mucous Membrane|T024
+technique
+  1
+  C0449851|Techniques|T170
+interrupted anastomosis
+  4
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C0443239|Interrupted (qualifier value)|T080
+renewed interest
+  1
+  C0543488|Interested (finding)|T041
+continuous anastomosis
+  4
+  C0549178|Continuous (qualifier value)|T079
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+contemporary innovation first
+  1
+  C0205435|First (qualifier value)|T081
+first mention
+  1
+  C0205435|First (qualifier value)|T081
+results
+  1
+  C1274040|Result (navigational concept)|T169
+rectal surgical group
+  4
+  C0441833|Groups (qualifier value)|T170
+  C0038895|Surgical aspects|T169
+  C0205052|Rectal (qualifier value)|T082
+  C1300322|Group (social concept)|T096
+Texas
+  1
+  C0039711|Texas|T083
+present study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0150312|Present|T169
+continuous anastomosis
+  4
+  C0549178|Continuous (qualifier value)|T079
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+results also
+  1
+  C1274040|Result (navigational concept)|T169
+technique
+  1
+  C0449851|Techniques|T170
+ultimate test
+  1
+  C0392366|Tests (qualifier value)|T170
+ability
+  1
+  C0085732|Ability|T032
+complication
+  1
+  C0009566|Complication|T046
+cost
+  2
+  C0010186|Financial cost|T081
+  C0220812|Cost aspects|T081
+Ischemia
+  1
+  C0022116|Ischemia|T047
+tension
+  1
+  C0233494|Tension (finding)|T048
+poor technique
+  3
+  C0449851|Techniques|T170
+  C0542537|Poor - grade value|T080
+  C0699761|Financially poor|T080
+al
+  1
+  C0002367|Aluminum|T196
+leakage rates
+  2
+  C0015376|Extravasation (morphologic abnormality)|T046
+  C0871208|Rating|T062
+Other traditional risk factors
+  3
+  C0443324|Traditional (qualifier value)|T169
+  C0205394|Other|T080
+  C0035648|Risk Factors|T081
+steroids
+  1
+  C0038317|Steroids|T110
+anastomotic method
+  2
+  C0025663|Methods|T170
+  C0332854|Anastomotic|T082
+blood loss
+  2
+  C0019080|Hemorrhage|T046
+  C0553700|Actual blood loss|T201
+nutritional factors
+  1
+  C0331877|Nutritionals|T093
+Numerous studies
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0439064|Numerous (qualifier value)|T081
+one layer
+  2
+  C0934502|Layer|T023
+  C0205447|One (qualifier value)|T081
+two layer
+  2
+  C0934502|Layer|T023
+  C0205448|Two (qualifier value)|T081
+end to end
+  1
+  C0444930|End (qualifier value)|T082
+end to side
+  2
+  C0444930|End (qualifier value)|T082
+  C0441987|Side (qualifier value)|T082
+clear superiority
+  2
+  C0680218|superiority|T054
+  C0205305|Clear (qualifier value)|T080
+only technique
+  1
+  C0449851|Techniques|T170
+everted anastomosis
+  4
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0015211|Eversion (morphologic abnormality)|T169
+  C0500470|Anatomical anastomosis|T030
+collected series
+  2
+  C0205549|Series (qualifier value)|T081
+  C0180011|Collectors|T074
+continuous anastomoses
+  2
+  C0549178|Continuous (qualifier value)|T079
+  C0332853|Anastomosis|T020
+leakage rate
+  2
+  C0015376|Extravasation (morphologic abnormality)|T046
+  C0871208|Rating|T062
+criterion
+  1
+  C0243161|criteria|T170
+mean time
+  2
+  C0444504|Mean (qualifier value)|T081
+  C0040223|Time|T079
+minutes
+  3
+  C0700321|Small|T080
+  C0439232|Minute of time|T079
+  C1282918|Minute (qualifier value)|T080
+study design
+  1
+  C0035171|Research Design|T062
+time
+  1
+  C0040223|Time|T079
+bowel
+  1
+  C0021853|Intestines|T023
+two layer anastomosis
+  5
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C0934502|Layer|T023
+  C0205448|Two (qualifier value)|T081
+omentum
+  1
+  C0028977|Omentum|T023
+less circumferential clearing
+  2
+  C0205305|Clear (qualifier value)|T080
+  C0205113|Circumferential (qualifier value)|T082
+first intestinal anastomosis
+  2
+  C0192711|Anastomosis of intestine NOS (procedure)|T061
+  C0205435|First (qualifier value)|T081
+senior authors
+  1
+  C0221192|Author (occupation)|T097
+J M.B.
+  9
+  C0162443|Journals|T170
+  C0337527|Brothers|T099
+  C0004927|Behavior|T055
+  C0439256|Joule, Unit of energy|T081
+  C0004587|Bacillus <bacterium>|T007
+  C0677505|Behaviors and observations relating to behavior|T033
+  C1040746|Bacilli|T007
+  C0150141|Bathing|T061
+  C0175640|Baths (medical device)|T074
+E E M
+  3
+  C0679138|Expectations (qualifier value)|T041
+  C0542479|Energy, Physics|T070
+  C0424589|Vitality|T033
+single layer technique exclusively
+  5
+  C0205171|Singular|T081
+  C0037179|Unmarried person|T098
+  C0934502|Layer|T023
+  C0449851|Techniques|T170
+  C0087136|Unmarried|T098
+anastomosis
+  3
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+time
+  1
+  C0040223|Time|T079
+continuous method
+  2
+  C0549178|Continuous (qualifier value)|T079
+  C0025663|Methods|T170
+two layer anastomosis
+  5
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C0934502|Layer|T023
+  C0205448|Two (qualifier value)|T081
+overall time savings
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0040223|Time|T079
+  C0036245|Savings|T081
+bowel preparation
+  1
+  C0455052|Preparation of bowel for procedure (procedure)|T058
+considerable difference
+  2
+  C0750591|CONSIDER|T078
+  C0443199|Differential (qualifier value)|T080
+sutures
+  1
+  C0038969|Surgical sutures|T074
+cost
+  2
+  C0010186|Financial cost|T081
+  C0220812|Cost aspects|T081
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+disposable staple gun
+  3
+  C0524724|Surgical Staples|T074
+  C0725865|Disposable|T074
+  C0018397|Guns|T073
+two refills
+  2
+  C0807726|REFILLS|T033
+  C0205448|Two (qualifier value)|T081
+use
+  1
+  C0042153|utilization|T081
+hand-sewn anastomosis
+  5
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C1281583|Entire hand|T023
+  C0018563|Hand|T023
+finding
+  1
+  C0243095|findings|T169
+2-day difference
+  2
+  C0439228|day (qualifier value)|T079
+  C0443199|Differential (qualifier value)|T080
+statistical significance
+  1
+  C0237881|Statistical Significance|T081
+single layer anastomosis always
+  7
+  C0205171|Singular|T081
+  C0037179|Unmarried person|T098
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C0934502|Layer|T023
+  C0087136|Unmarried|T098
+larger lumen
+  4
+  C0443228|Greater (qualifier value)|T081
+  C0524461|Structure of lumen of body system|T030
+  C1282864|Entire lumen of body system|T030
+  C1301906|Lumen (qualifier value)|T080
+gastrointestinal function
+  1
+  C0516983|gastrointestinal function|T042
+further studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+apparent success
+  2
+  C0750489|APPARENT|T078
+  C0597535|success|T054
+continuous anastomosis
+  4
+  C0549178|Continuous (qualifier value)|T079
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+Because less mesentery
+  1
+  C0025474|Mesentery|T029
+cut edge
+  2
+  C0205154|Along edge (qualifier value)|T082
+  C0000925|Incised wound - morphology (morphologic abnormality)|T037
+adequate blood supply
+  4
+  C0005839|Blood supply aspects|T042
+  C0920762|Vascular blood supply|T042
+  C0205411|Adequate (qualifier value)|T080
+  C0678861|Arterial blood supply|T039
+factor is
+  1
+  C0441913|is (tumor staging)|T170
+ischemic continuous anastomosis
+  5
+  C0549178|Continuous (qualifier value)|T079
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+  C0475224|Ischemic|T169
+suture
+  3
+  C0038969|Surgical sutures|T074
+  C0502420|Suture Joint|T030
+  C0009068|Closure by suture|T061
+bowel
+  1
+  C0021853|Intestines|T023
+surface
+  1
+  C0205148|Surface (qualifier value)|T032
+areas
+  1
+  C0205146|Area (qualifier value)|T082
+al
+  1
+  C0002367|Aluminum|T196
+continuous single layer suture
+  8
+  C0205171|Singular|T081
+  C0037179|Unmarried person|T098
+  C0038969|Surgical sutures|T074
+  C0549178|Continuous (qualifier value)|T079
+  C0934502|Layer|T023
+  C0502420|Suture Joint|T030
+  C0009068|Closure by suture|T061
+  C0087136|Unmarried|T098
+circular coiled spring
+  2
+  C1282913|Circular (qualifier value)|T082
+  C0009249|Coiled Spring|T074
+contract
+  1
+  C0332522|Contracts|T170
+rarity
+  1
+  C0332184|Rare (qualifier value)|T079
+major weakness
+  4
+  C0205164|Major (qualifier value)|T080
+  C0030552|Paresis|T184
+  C0086525|Lassitude|T184
+  C0004093|Asthenia|T184
+relatively small sample size
+  2
+  C0700321|Small|T080
+  C0242618|Sample Size|T081
+definitive statements
+  2
+  C1301808|State (environment)|T083
+  C0443196|Definitive (qualifier value)|T079
+relative risk
+  1
+  C0242492|Relative Risk|T080
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+power analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0032863|Power (Psychology)|T068
+  C0936012|Analysis|T062
+patients
+  1
+  C0030705|Patients|T101
+many patients
+  2
+  C0030705|Patients|T101
+  C0439064|Numerous (qualifier value)|T081
+results
+  1
+  C1274040|Result (navigational concept)|T169
+literature
+  1
+  C0023866|Literature|T170
+reassuring
+  1
+  C0557055|Reassuring (procedure)|T061
+continuous anastomosis
+  4
+  C0549178|Continuous (qualifier value)|T079
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030
+less time to
+  1
+  C0040223|Time|T079
+similar risk
+  2
+  C0871364|Simile|T170
+  C0035647|Risk|T080
+continuous anastomosis
+  4
+  C0549178|Continuous (qualifier value)|T079
+  C0677554|Anastomosis - action|T061
+  C0332853|Anastomosis|T020
+  C0500470|Anatomical anastomosis|T030

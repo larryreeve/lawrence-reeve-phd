@@ -1,0 +1,9 @@
+Complication	1
+survival aspects	1
+Increase (qualifier value)	2
+Late (qualifier value)	1
+Complication Aspects	1
+Overall [Publication Type]	1
+Rating	1
+Lower (qualifier value)	1
+Continuance of life	1

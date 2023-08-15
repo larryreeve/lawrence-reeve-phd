@@ -1,0 +1,68 @@
+Simile	1
+Coitus	1
+Risk	2
+Entire hand	1
+Two (qualifier value)	3
+device aspects	1
+Diagnostic	1
+Unmarried person	2
+Financial cost	1
+Ischemia	1
+Lower (qualifier value)	1
+Plastics	1
+Suture Joint	2
+Small	2
+Savings	1
+Anastomosis - action	7
+Polypropylenes	1
+Adult	1
+Anastomosis of intestine NOS (procedure)	2
+Anastomosis	9
+Minute (qualifier value)	1
+Singular	2
+Financially poor	1
+Location (attribute)	1
+Gender	1
+Overall [Publication Type]	1
+Diagnosis	1
+Minute of time	1
+Hand	1
+Scientific Study	1
+Groups (qualifier value)	1
+Devices	1
+Needles	1
+Report (document)	1
+Poor - grade value	1
+Intestines	1
+Sample Size	1
+Duplicate	1
+Time	5
+Several (qualifier value)	1
+Silk suture, device (physical object)	1
+Running	1
+One (qualifier value)	1
+Lassitude	1
+Asthenia	1
+Patients	2
+Conscious	1
+Anatomical anastomosis	7
+Tension (finding)	1
+utilization	1
+Room of building - Study	1
+Preparation of bowel for procedure (procedure)	1
+Sutures, Polyglycolic Acid	1
+Closure by suture	2
+Present	1
+Mean (qualifier value)	1
+Research Design	1
+Cost aspects	1
+Techniques	3
+Unmarried	2
+Continuous (qualifier value)	5
+Physical devices	1
+Layer	5
+Materials	1
+Major (qualifier value)	1
+Environment	1
+Surgical sutures	2
+Paresis	1

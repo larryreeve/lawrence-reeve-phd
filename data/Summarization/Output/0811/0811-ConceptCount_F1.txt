@@ -1,0 +1,17 @@
+survival aspects	1
+Increase (qualifier value)	3
+Random Allocation	1
+Combined (qualifier value)	1
+Multiple Organ Failure	1
+Vomiting NOS (disorder)	1
+Attenuated by (contextual qualifier) (qualifier value)	1
+Levamisole	1
+Neurotoxicity Syndromes	1
+Improving (qualifier value)	1
+Nausea	1
+Disease Progression	1
+Thymidine	1
+Improved (qualifier value)	2
+None (qualifier value)	2
+Vomiting	1
+Continuance of life	1

@@ -1,0 +1,42 @@
+fifty four patients with advanced breast cancer who had failed prior nonanthracycline combination chemotherapy were randomized to treatment with either epirubicin 85 mg m2 or doxorubicin 60 mg m2 intravenously every three weeks 
+materials and methodspatient eligibilitythis study was conducted in patients with advanced breast cancer who had progressed after receiving combination chemotherapy 
+because all patients had been treated previously with chemotherapy the degree and incidence of alopecia is difficult to assess however hair loss was noted in 50 of patients treated with epi and 35 of those treated with dox 
+in addition the preliminary results from the fec v fac combination chemotherapy trial suggest that epi should be studied further in combination with other active agents in patients with advanced breast cancer 
+we used multigated radionuclide cineangiocardiography rnca to assess cardiac toxicity in this prospective randomized study comparing the efficacy acute and chronic toxicities of epi with dox in patients with advanced breast cancer 
+epirubicin is a new anthracycline with reduced cardiac toxicity but preserved efficacy in the treatment of patients with advanced breast cancer 
+eight patients treated with epi and nine patients treated with dox had laboratory evidence of cardiotoxicity 
+four patients treated with epi and five patients treated with dox developed clinical congestive heart failure chf 
+on the dox arm one of the patients who developed chf had prior radiation exposure to the heart one had hypertension and one had prior radiotherapy as well as hypertension 
+evaluation of responsethe criteria for evaluation of therapeutic response were based on the recommendations of the breast cancer task force of the national cancer institute bethesda md 17 these guidelines were modified to include a minor response mr category for those patients with unequivocal therapeutic responses but less than that required for a partial response pr 
+fifteen patients treated with epirubicin and 18 patients treated with doxorubicin had at least two determinations of left ventricular ejection fraction and were evaluable for laboratory cardiotoxicity 
+in addition four patients who received epi and six who received dox had a history of wellcontrolled systemic arterial hypertension 
+therapeutic responses were observed in patients with advanced breast cancer in both studies 
+our results show that epi has therapeutic activity that is similar to that of dox in patients with advanced breast cancer and that epi is a less cardiotoxic drug than dox even accounting for the difference in myelosuppressive potency 
+nausea or vomiting was documented in 58 of patients who received epi and 67 of the patients who were treated with dox 
+one of the patients who developed chf on the dox arm is the patient who had the initial resting lvef of 48 this patient also had a history of pulmonary emboli and it was unclear whether this contributed to her cardiac decompensation 
+of the 18 evaluable patients treated with dox seven had prior radiation exposure to the heart two had hypertension and two had both hypertension and prior radiotherapy 
+of the patients who developed symptomatic chf on the epi arm one had prior radiotherapy and one had hypertension 
+four patients treated with epirubicin and five treated with doxorubicin developed symptomatic congestive heart failure 
+in a prospective adjuvant chemotherapy trial for patients with soft tissue sarcomas 14 of patients who received 430 to 600 mg m2 of dox developed clinical chf 
+of the 15 evaluable patients treated with epi six had received prior radiotherapy to the chest wall internal mammary lymph nodes sternum or thoracic spine prior to entry on this study and two had a history of well controlled mild hypertension 
+of the 13 patients with prs six had tumors that were estrogen receptor positive six had estrogen receptor negative tumors and in one patient the estrogen receptor value was unknown 
+most patients in our trials received less than 550 mg m2 of epi however in 11 patients receiving cumulative epi doses from 550 to 1 465 mg m2 rnca abnormalities were observed in only four patients at 970 1 180 1 190 and 1 465 mg m2 respectively cw 
+cardiac monitoring with noninvasive techniques and endomyocardial biopsy identifypatients being treated with dox who have asymptomatic functional or morphologic cardiac abnormalities and who may be at high risk for the development of clinical congestive cardiomyopathy 
+although all patients had received prior chemotherapy which included cyclophosphamide or other alkylating agent no patient had been previously treated with mitomycin c 
+there are three prospective randomized comparison studies that address this issue in patients with breast cancer 
+although these results could have been affected by the greater incidence of cardiac irradiation inpatients treated with dox only three patients who had received such radiotherapy actually developed chf one on the epi arm and two on the dox arm 
+it was also similar to the combined experience in the literature with dox as a single agent in previously treated women with breast cancer 
+since only five patients treated with dox and four treated with epi actually developed clinical heart failure this result should not be overinterpreted 
+of 52 evaluable patients 25 six of 24 treated with epirubicin and 25 seven of 28 treated with doxorubicin experienced major therapeutic responses 
+in the other single agent study in which there was an empiric dose limitation of 600 mg m2 none of the seven epitreated patients who had rnca experienced a decline in lvef of 10 
+six 25 of the 24 evaluable patients treated with epi and seven 25 of the 28 evaluable patients on the dox arm achieved prs 
+in the case of dox at a cumulative dose of 50 mg m2 patients were offered the option to discontinue therapy or to continue with close monitoring of cardiac function with rnca 
+fifteen patients on the epi arm and 18 patients on the dox arm had at least one followup rnca and were evaluable for laboratory cardiotoxicity 
+this suggests that epi might have a better therapeutic index in patients with cancer 
+discussionin this study epi had therapeutic activity in breast cancer similar to dox but produced less cardiotoxicity than the parent compound 
+cardiac toxicityeach patient had a baseline rnca scan and in all patients the resting lvef was 50 with the exception of one patient in whom it was 48 
+response rates and durationstwenty four patients on the epi arm and 28 patients on the dox arm are evaluable for therapeutic response table 2 
+the additional patient randomized to epi died with progressive breast cancer and nadir sepsis 15 days after her first dose of epi she is excluded from analysis of therapeutic results but is included in the analysis of hematologic toxicity 
+mucositis was observed in only 4 of patients on the epi arm and in 6 of patients receiving dox 
+there was a statistically significant greater cumulative dose to chf for patients receiving epi log rank test p 008 with and without adjustment for the difference in myelosuppressive potency 
+laboratory evidence of cardiotoxicity was defined as a decrease in resting left ventricular ejection fraction of 10 from the baseline value or a decrease of 5 or greater with exercise compared with the resting study performed on the same day 

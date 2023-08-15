@@ -1,0 +1,76 @@
+Malignant neoplasm of breast	1
+survival aspects	1
+Surgical aspects	1
+Mastectomy, Modified Radical	1
+Disease	2
+Forecast of outcome	1
+Methotrexate	1
+Four (qualifier value)	1
+Source (attribute)	2
+Elimination outcomes	1
+lymph nodes	1
+Radiation	6
+Continuance of life	1
+milligram	3
+Roman numeral II	3
+Random Allocation	2
+Mortality Vital Statistics	1
+Overall [Publication Type]	1
+Nodal (qualifier value)	2
+Result (navigational concept)	2
+Dissection procedure (procedure)	1
+Surgery specialty	1
+Entire breast	1
+Scientific Study	1
+Relapse	1
+Level I (tumor staging)	1
+day (qualifier value)	1
+Biological Markers	1
+Effect (qualifier value)	1
+Chemotherapy, Adjuvant	1
+Systemic (qualifier value)	1
+Time	1
+Reduction (chemical)	2
+Aspects of mortality statistics	1
+One (qualifier value)	1
+GENERAL OPERATIVE PROCEDURES	1
+Attenuated by (contextual qualifier) (qualifier value)	1
+Improving (qualifier value)	1
+Reduction - action	2
+Chance	1
+Intravenous	1
+Patients	4
+Potential	2
+Pharmacotherapy	2
+Irradiation (physical force)	1
+Improved (qualifier value)	1
+Dissection - action (qualifier value)	1
+premenopausal	1
+Room of building - Study	1
+Additive (qualifier value)	1
+Radiation therapy	4
+Secondary to	1
+Magnesium	3
+More (qualifier value)	3
+Breast	1
+Aluminum	1
+Metastatic to	1
+protect	1
+Fluorouracil	1
+CMF regimen	1
+Conservatism	1
+Human Females	1
+Dissection	1
+NODE	2
+Modified radical mastectomy (procedure)	1
+Disseminated (qualifier value)	1
+Social Interaction	1
+Significant (qualifier value)	2
+Excretory function	1
+Chemotherapy-Oncologic Procedure	2
+Human adult females	1
+Axillary lymph node group	2
+Positive (qualifier value)	2
+radiotherapeutic	3
+pharmacotherapeutic	2
+Drug Interactions	1

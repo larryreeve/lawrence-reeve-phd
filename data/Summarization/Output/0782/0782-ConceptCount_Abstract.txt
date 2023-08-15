@@ -1,0 +1,27 @@
+Dosages (qualifier value)	1	T081-Quantitative Concept
+Course (attribute)	1	T079-Temporal Concept
+Risk Reduction	1	T061-Therapeutic or Preventive Procedure
+Adjuvants, Immunologic	1	T129-Immunologic Factor
+Lower (qualifier value)	1	T169-Functional Concept
+Disease-Free Survival	1	T081-Quantitative Concept
+Unmarried	1	T098-Population Group
+pM category (observable entity)	1	T201-Clinical Attribute
+Risk	3	T080-Qualitative Concept
+One (qualifier value)	1	T081-Quantitative Concept
+Therapeutic procedure	1	T061-Therapeutic or Preventive Procedure
+Unmarried person	1	T098-Population Group
+Magnesium	2	T123-Biologically Active Substance
+Unproven (qualifier value)	1	T080-Qualitative Concept
+Part (attribute)	1	T082-Spatial Concept
+Fluorouracil	1	T114-Nucleic Acid, Nucleoside, or Nucleotide
+Other	1	T080-Qualitative Concept
+Singular	1	T081-Quantitative Concept
+therapeutic aspects	1	T169-Functional Concept
+Relapse	1	T067-Phenomenon or Process
+Localization - action (qualifier value)	1	T169-Functional Concept
+Cesium	1	T196-Element, Ion, or Isotope
+adjuvant therapy	1	T061-Therapeutic or Preventive Procedure
+Local (qualifier value)	1	T082-Spatial Concept
+Secondary malignant neoplasm of liver (disorder)	1	T191-Neoplastic Process
+milligram	2	T081-Quantitative Concept
+Patients	1	T101-Patient or Disabled Group

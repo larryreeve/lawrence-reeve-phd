@@ -1,0 +1,24 @@
+Cancer treatment response rate	2
+survival aspects	2
+One (qualifier value)	1
+Attenuated by (contextual qualifier) (qualifier value)	1
+Address (observable entity)	1
+Primary	1
+Improving (qualifier value)	1
+Leucovorin	1
+Problem (finding)	1
+With quality (attribute)	2
+Frequency of Responses	2
+Addresses [Publication Type]	1
+Primary operation (qualifier value)	1
+Significant (qualifier value)	1
+Improved (qualifier value)	1
+Pharmacotherapy	1
+Quantity (attribute)	1
+Chemotherapy-Oncologic Procedure	1
+Major (qualifier value)	1
+Duration	1
+Additive (qualifier value)	1
+irinotecan	2
+pharmacotherapeutic	1
+Continuance of life	2

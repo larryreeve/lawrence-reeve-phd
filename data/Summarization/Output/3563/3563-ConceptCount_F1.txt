@@ -1,0 +1,23 @@
+Duplicate	1
+Abscess	1
+Time	2
+Singular	1
+Science of Statistics	1
+Running	1
+Methodology	2
+Phosphate normal	1
+Unmarried person	1
+Lengths (qualifier value)	2
+Financial cost	2
+Scientific Study	2
+Cost aspects	2
+Techniques	2
+Patients	2
+Unmarried	1
+Established (qualifier value)	1
+Layer	2
+Surgeon (occupation)	1
+Extravasation (morphologic abnormality)	2
+Room of building - Study	2
+Gastro-jejunostomy	1
+Anastomosis	1

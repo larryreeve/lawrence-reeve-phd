@@ -1,0 +1,10 @@
+Groups (qualifier value)	1
+Five (qualifier value)	2
+year (qualifier value)	2
+survival aspects	1
+Actuary (occupation)	1
+Result (navigational concept)	1
+Radiation therapy	1
+radiotherapeutic	1
+Disease-Free Survival	1
+Continuance of life	1

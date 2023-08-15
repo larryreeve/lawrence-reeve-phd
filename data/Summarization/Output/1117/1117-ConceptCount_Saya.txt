@@ -1,0 +1,105 @@
+survival aspects	3
+Clinical (qualifier value)	1
+strategy	2
+Morbidity - disease rate	3
+Radicals (chemistry)	4
+Lymph nodal status (attribute)	2
+Median Statistical Measurement	1
+radiation oncologist	1
+Rating	2
+Cluster Analysis	1
+Recurrent disease (finding)	1
+Continuance of life	3
+Damage (morphologic abnormality)	1
+control	1
+Overall [Publication Type]	2
+Stage of Surgical Procedure	1
+Radiation Oncology	1
+Dissection procedure (procedure)	1
+Surgery specialty	6
+Universities	1
+Relapse	1
+Radiology studies	1
+contraindications	1
+Clinical staging (qualifier value)	1
+Other	1
+Follow-up status (finding)	1
+Gynecology	1
+Dependent Variables	1
+Cervical (qualifier value)	3
+Urology	1
+Complication Aspects	3
+Dissection - action (qualifier value)	1
+Histological type (attribute)	1
+month (qualifier value)	1
+Room of building - Study	1
+Gynecologist (occupation)	1
+Radiation therapy	11
+Radiology Specialty	1
+Therapeutic procedure	6
+Age (qualifier value)	2
+Recurrence	1
+Review [Publication Type]	1
+Radionuclide therapy	1
+Status (attribute)	1
+Human Females	2
+Internationality	1
+Dissection	1
+Selection (Genetics)	1
+Staging system (attribute)	1
+Obstetric Patient	1
+Diameter (qualifier value)	3
+Human adult females	2
+Major (qualifier value)	1
+radiotherapeutic	11
+pharmacotherapeutic	2
+Salvage	1
+Survival Rate	1
+ADVANTAGE	2
+Surgical aspects	6
+Two (qualifier value)	1
+Stage 1 lower case bee	1
+Salvage procedure (qualifier value)	1
+Pelvis	1
+Carcinoma	1
+Grade	1
+PATHOLOGIC FINDINGS	1
+Diagnostic Neoplasm Staging	1
+Euphoric mood	1
+cm (qualifier value)	1
+Radical (qualifier value)	4
+GENERAL HEALTH	1
+Local (qualifier value)	1
+Radiation	1
+Sensitivity Training Groups	1
+Severe (severity modifier) (qualifier value)	3
+System (attribute)	1
+Primary	1
+Disease-Free Survival	2
+High	1
+Scientific Study	1
+Stage 1 upper case bee	1
+Groups (qualifier value)	4
+Regression Analysis	1
+Effect (qualifier value)	2
+Diagnostic radiologic examination	1
+Approach (attribute)	1
+therapeutic aspects	5
+Types (qualifier value)	1
+Illness (finding)	1
+Complication	3
+State (environment)	1
+GENERAL OPERATIVE PROCEDURES	7
+Median (qualifier value)	1
+Patients	6
+Pharmacotherapy	2
+Relative Risk	1
+year (qualifier value)	4
+Discipline of obstetrics	1
+morbidity aspects	3
+Total hysterectomy (procedure)	1
+Patterns (qualifier value)	1
+NODE	1
+Most (qualifier value)	2
+Chemotherapy-Oncologic Procedure	2
+gonad function	1

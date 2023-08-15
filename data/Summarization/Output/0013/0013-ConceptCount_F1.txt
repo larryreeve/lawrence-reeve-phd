@@ -1,0 +1,7 @@
+Greater (qualifier value)	1
+Toxic effect	1
+Toxicity aspects	1
+Significant (qualifier value)	2
+Progression-Free Survival	1
+With frequency	1
+Differential (qualifier value)	1

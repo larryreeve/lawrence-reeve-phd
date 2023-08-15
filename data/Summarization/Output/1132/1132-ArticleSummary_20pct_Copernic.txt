@@ -1,0 +1,61 @@
+The incidence is even more pronounced in developing countries where carcinoma of the cervix is the most frequently diagnosed malignancy in females, with the majority of the patients presenting with advanced disease.
+
+While surgery and radiotherapy (RT) are equally effective in early-stage disease, radiation therapy has been the primary treatment modality for stage III disease, with 5-year survival rates between 30% to 45% being reported.4-8 Attempts to improve these results, including the use of hypoxic cell sensitizers, hyperbaric oxygen therapy,'0 and neutron therapy" have met with limited or no success.
+
+Response rates ranging from 0% to 90% have been reported but are usually of short duration.
+
+Because of the high remission rate, these authors felt this combination should be used as a front-line treatment for locally advanced cervical cancer.
+
+The use of upfront CT as initial treatment before pelvic RT would be theoretically advantageous as the vascular supply to the tumor is not compromised, allowing a higher local tissue concentration of drugs, thereby improving the effectiveness of CT.
+
+MATERIALS AND METHODS Patient Entry Criteria and Evaluation Between April 1984 and August 1986, 107 previously untreated patients with stage III B carcinoma of the cervix were entered on the study.
+
+Clinical assessment of tumor extension was performed by two investigators, and a pretreatment gynecologic examination under anesthesia was not required.
+
+Fifty-two patients were randomized to the CT + RT arm and 55 to the RT arm.
+
+In the CT + RT group, 11 refused further therapy, including pelvic RT, after only one cycle of CT, and two others were found to have abnormal renal function after randomization and before commencement of treatment.
+
+Three in the RT arm refused further treatment after only a few fractions of irradiation were delivered.
+
+A dose of 40 Gy was routinely prescribed to point A, which was located 2 cm superior to the cervical os (applicator flange) and 2 cm lateral to the central axis of the uterus.
+
+Hydration consistedof 1L of normal saline infused IV over 3 hours before cisplatin administration.
+
+End Points All patients were observed to determine the efficiency of the combined therapy by comparing overall survival, rate of local control, incidence of distant metastases, and toxicity between treatment regimens.
+
+Late complications were graded as per the morbidity grading system suggested by Pilepich et al,2 which takes into consideration the impact of the complication on the patient performance and/or life-style and the required treatment for such complications (Table 2).
+
+Survival was calculated by the Kaplan-Meier method21 and was measured from day 1 of therapy until last follow-up or death.
+
+Median survivals were 25 months in the RT arm and 10.5 months in the CT + RT.
+
+The rationale for the use of neoadjuvant CT23 is that (1) the blood supply to the tumor is not compromised by previous radiotherapy or surgery allowing for better drug distribution into the tumor, (2) patients' tolerance to CT may be enhanced as performance status and marrow reserve are unaltered by previous treatment, (3) decreasing the bulkiness of the primary disease would improve the effectiveness of the local RT, (4) there is the possibility of eradication of subclinical metastases, and (5) theoretically a tumor may be more chemosensitive before surgery or RT.
+
+These reasons together with the initial promising results with BOMP prompted us to start our randomized study.
+
+Although 25.5% of the patients achieved a CR following three cycles of BOMP and 47% of the CT + RT group obtained a CR at the end of RT, the 5-year overall survival was significantly inferior in the CT + RT group than in the control arm (39% v 21%, P = .02).
+
+The reason for this surprising and disturbing finding is not entirely clear.
+
+It cannot be accounted for by patient selection as both groups were well balanced for the wellknown prognostic factors in stage III carcinoma of the cervix.4'24-27 More importantly, all patients in the CT + RT arm completed pelvic RT, as defined by the protocol guidelines, and therefore, inadequate irradiation dosage cannot explain the poorer results.
+
+Recently, Withers et al28 have shown that clonogen repopulation in squamous cell carcinoma of the head and neck region accelerates after about 4 + 1 weeks after initiation of radiotherapy.
+
+Since repopulation by surviving tumor clonogens is not a specific response to RT but rather results from killing of tumor cells, these authors have suggested that CT, which is effective in killing cells, could also lead to an accelerated regrowth of surviving clonogens, lessening the effect of subsequent RT.
+
+This may explain why in spite of a satisfactory rate of response following neoadjuvant CT, there was no improvement in local tumor control, and survival was adversely affected.
+
+The most likely explanation for the poorer results in these neoadjuvant trials is the enhancement of accelerated tumor cell proliferation during treatment.
+
+Withers et a1 have suggested that the accelerated repopulationlate in the treatment involves only a small number of surviving cells, and rapid repopulation would not be detectable as a change in volume of the total tumor mass.
+
+Thus, a PR or even a CR could therefore be of questionable value in determining therapeutic effectiveness, as tumor masses would be still regressing while the subclinical clonogenic cell repopulation is accelerating.
+
+The mechanisms by which this increased cell proliferation occurs are not entirely clear, although, as suggested by Tannock,34 it may result from improved nutrition of surviving cells following shrinkage of the tumor due to previous therapy.
+
+It is a subjective evaluation that frequently depends on the ability of the investigator to differentiate between residual local disease or treatment-induced parametrial fibrosis.
+
+In this study, the incidence of pulmonary toxicity was 13% (five of 39), with four patients dying from this complication.
+
+None of the patients who experienceddrug-induced pulmonary toxicity had any of the well-known risk factors for development of bleomycin lung toxicity.

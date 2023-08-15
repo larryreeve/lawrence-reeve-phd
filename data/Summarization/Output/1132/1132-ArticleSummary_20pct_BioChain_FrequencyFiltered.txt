@@ -1,0 +1,109 @@
+
+
+The incidence is even more pronounced in developing countries  where carcinoma of the cervix is the
+most frequently diagnosed malignancy in females,  with the majority of the patients  presenting with
+advanced disease. While surgery and radiotherapy (RT) are equally effective in early-stage disease,
+radiation  therapy has been the primary treatment modality for stage III disease, with 5-year
+survival rates between 30% to 45% being  reported.4-8 Attempts to improve these results, including
+the use of hypoxic cell sensitizers, hyperbaric oxygen therapy,'0  and neutron therapy" have met
+with limited or no success. 
+
+
+MATERIALS AND METHODS.Patient Entry Criteria and Evaluation.Patients also needed to have adequate
+medullary reserve (WBC Ž 4,000/IpL, platelet count >  100,000/p.L) and normal renal (BUN < 8.9
+mmol/L, creatinine < 130 Rimol/L, creatinine clearance > 1.17 mL/s) and liver  (alkaline phosphatase
+< 110 U/L, bilirubin < 21 pimol/L) function. 
+
+
+Three in the RT arm refused further  treatment after only a few fractions of irradiation were
+delivered. 
+
+
+Radiation therapy was delivered using an 18 MeV photon linear accelerator. The superior limit of the
+radiation field  was the L5-S1 junction, the lower limit wasthe caudal pole of obturator foramen,
+and the lateral boundaries were 1.5 cm  beyond the lymph nodes as demonstrated on lymphangiography. 
+Following external-beam irradiation, a single low-dose rate  intracavitary application was
+performed. This RT regimen was used for both  groups.
+
+
+Mannitol 200 mg was administered IV beginning 15 minutes before the cisplatin  infusion. Potassium
+chloride at 20 mEq/L and magnesium sulfate were added as needed. 
+
+
+Six months after activation of the study, after nine patients had been treated with CT, the
+bleomycin dose was reduced to 15  U IM every 12 hours from day 1 to day 3 (total dose, 90 U), and
+after the first year, cisplatin administration was changed  from day 1 to day 4. 
+
+
+A CR was defined as the complete resolution of all  measurable disease and symptoms, a partial
+response (PR) was defined as a 50% or more decrease in the sum of the products of  perpendicular
+diameters of measurable disease, and stable disease (SD) was defined as less than a 50% decrease in
+the sum of  the products of perpendicular diameters of the measurable lesions. 
+
+
+End Points.All patients were observed to determine the efficiency of the combined therapy by
+comparing overall survival, rate of local  control, incidence of distant metastases, and toxicity
+between treatment regimens. 
+
+
+Patients were stratified by  age (< 50 years v > 50 years), extensiveness of parametrial involvement
+(unilateral v bilateral), and lymphangiogram nodal  findings (negative v positive). We planned to
+accrue 60 patients into each treatment arm, which would produce a power of 80%  and detect an
+improvement of 25 % in survival with the combined modality treatment at the a = 0.05 level
+(two-sided test).  The study was closed earlier because an interim analysis showed that, apart from
+increased serious toxicity, survival was  significantly worse in the combined approach group, and we
+did not feel that a positive result could be obtained with a  larger sample. 
+
+
+The median follow-up time for the RT arm is 51 months (range, 34 to 67) and is 44 months  (range, 35
+to 65) for the CT + RT.
+
+
+Seven patients were not included in response assessment in the combined modality group, four
+patients who died  of CT complications, two who died of metastatic disease, all of them before
+commencement of RT, and one other patient whosepelvic disease progressed during CT and who received
+palliative irradiation only because of poor general condition. 
+
+
+In Table 4, we show the number of patients still alive in spite of their disease being classified as
+PR  at the end of treatment. 
+
+
+This study was designed with the objective of answering the question of whether neoadjuvant BOMP
+chemotherapy is effective in  stage III B carcinoma of the cervix. 
+
+
+Although 25.5% of the patients achieved a CR following three cycles of BOMP and 47% of the CT + RT
+group obtained a CR at the  end of RT, the 5-year overall survival was significantly inferior in the
+CT + RT group than in the control arm (39% v 21%, P  = .02). It cannot be accounted for by patient 
+selection as both groups were well balanced for the wellknown prognostic factors in stage III
+carcinoma of the cervix.4'24-27  More importantly, all patients in the CT + RT arm completed pelvic
+RT, as defined by the protocol guidelines, and therefore,  inadequate irradiation dosage cannot
+explain the poorer results. 
+
+
+Thus, a PR or even a CR could therefore  be of questionable value in determining therapeutic
+effectiveness, as tumor masses would be still regressing while the  subclinical clonogenic cell
+repopulation is accelerating. The mechanisms by which this increased cell proliferation occurs  are
+not entirely clear, although, as suggested by Tannock,34 it may result from improved nutrition of
+surviving cells  following shrinkage of the tumor due to previous therapy.
+
+
+Another possible explanatory mechanism for our poorer results with the combined treatment modality
+may be the development of  cross resistance between radiation and certain antineoplastic agents. The
+mechanisms responsible for such cross-resistance  remain to be determined, but recent studies have
+shown significant similarity between the cytotoxicity of irradiation and  alkylating agents and that
+tumor cells may develop mechanisms of resistance capable of decreasing the cytotoxic effects of 
+some antineoplastic drugs as well as radiation. 
+
+
+None of the patients who  experienceddrug-induced pulmonary toxicity had any of the well-known risk
+factors for development of bleomycin lung toxicity.  These authors treated 23 patients (20 cervical
+cancer, two vulvar, one ovarian) and observed the  development of pulmonary toxicity in eight
+patients (34.5%), with five of them dying a respiratory death while free of  disease. 
+
+
+The high toxicity rate of BOMP CT, in the  dose and schedule used in this study, makes this
+combination unacceptable for routine use. The  effectiveness of this approach will be evaluated in
+the near future by a prospective and randomized phase III trial sponsored  by the National Cancer
+Institute of Canada.

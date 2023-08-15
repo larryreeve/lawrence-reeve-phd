@@ -1,0 +1,45 @@
+Neoplasms	1	T191-Neoplastic Process
+cm (qualifier value)	1	T081-Quantitative Concept
+Histologic	1	T169-Functional Concept
+Superior (qualifier value)	1	T082-Spatial Concept
+Pelvis	1	T029-Body Location or Region
+Pharmacotherapy	2	T061-Therapeutic or Preventive Procedure
+X-Ray Computed Tomography	1	T060-Diagnostic Procedure
+Histology	1	T091-Biomedical Occupation or Discipline
+Not free of (attribute)	1	T169-Functional Concept
+regimen	1	T061-Therapeutic or Preventive Procedure
+Chemotherapy-Oncologic Procedure	3	T061-Therapeutic or Preventive Procedure
+pharmacotherapeutic	2	T169-Functional Concept
+Recurrence	2	T067-Phenomenon or Process
+Bleomycin	1	T116-Amino Acid, Peptide, or Protein
+Malignant Neoplasms	1	T191-Neoplastic Process
+Entire parametrium	1	T023-Body Part, Organ, or Organ Component
+Cancer Genus	1	T009-Invertebrate
+Parametrium	1	T023-Body Part, Organ, or Organ Component
+Nine (qualifier value)	2	T081-Quantitative Concept
+Stage 1 lower case bee	1	T185-Classification
+Histology Procedure	1	T059-Laboratory Procedure
+Stage 1 upper case bee	1	T185-Classification
+Entire pelvic lymph node	1	T023-Body Part, Organ, or Organ Component
+phase III study	1	T062-Research Activity
+survival aspects	2	T081-Quantitative Concept
+Cervical (qualifier value)	1	T082-Spatial Concept
+Result (navigational concept)	1	T169-Functional Concept
+Methods	1	T170-Intellectual Product
+Patterns (qualifier value)	3	T082-Spatial Concept
+Neoplasm Metastasis	1	T191-Neoplastic Process
+Clinical (qualifier value)	1	T080-Qualitative Concept
+Conclude	1	T122-Biomedical or Dental Material
+adjuvant therapy	1	T061-Therapeutic or Preventive Procedure
+Risk Factors	2	T081-Quantitative Concept
+Phosphate normal	1	T033-Finding
+Malignant neoplasm, primary (morphologic abnormality)	1	T191-Neoplastic Process
+Methodology	1	T170-Intellectual Product
+Goals	1	T170-Intellectual Product
+Depth (qualifier value)	1	T082-Spatial Concept
+Continuance of life	2	T052-Activity
+Pelvic lymph node group	1	T023-Body Part, Organ, or Organ Component
+Rating	1	T062-Research Activity
+Secondary malignant neoplasm of lymph node (disorder)	1	T191-Neoplastic Process
+Patients	11	T101-Patient or Disabled Group
+Five (qualifier value)	2	T081-Quantitative Concept

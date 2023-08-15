@@ -1,0 +1,8 @@
+survival aspects	1
+Concurrent (qualifier value)	1
+Significant (qualifier value)	1
+Improved (qualifier value)	1
+Overall [Publication Type]	1
+Attenuated by (contextual qualifier) (qualifier value)	1
+Improving (qualifier value)	1
+Continuance of life	1

@@ -1,0 +1,9 @@
+Negative (qualifier value)	1
+Depth (qualifier value)	1
+Diameter (qualifier value)	1
+Stroma	1
+Radiation therapy	1
+radiotherapeutic	1
+Pelvis	1
+Large tumor (finding)	1
+NODE	1

@@ -1,0 +1,2178 @@
+Purpose
+  1
+  C0449256|Purpose (attribute)|T033
+Adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+previous trials
+  1
+  C0205156|Previous (qualifier value)|T082
+conflicting results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0009671|Conflict (Psychology)|T055
+present study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0150312|Present|T169
+high dose intensities
+  1
+  C0444956|High dose (qualifier value)|T081
+Patients
+  1
+  C0030705|Patients|T101
+Methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Patients
+  1
+  C0030705|Patients|T101
+years
+  1
+  C0439234|year (qualifier value)|T079
+primary diameter cm
+  4
+  C0332517|Diameter (qualifier value)|T032
+  C0439631|Primary operation (qualifier value)|T061
+  C0475210|cm (qualifier value)|T081
+  C0205225|Primary|T080
+size recurrent tumor
+  2
+  C0521158|Recurrent tumor (finding)|T191
+  C0702146|Size (attribute)|T081
+girdles
+  1
+  C0453903|Girdle (physical object)|T073
+Stratification
+  1
+  C0205363|Stratified (qualifier value)|T080
+recurrent tumors
+  1
+  C0521158|Recurrent tumor (finding)|T191
+One hundred four patients
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+ifosfamide 1.8 g
+  2
+  C0020823|Ifosfamide|T115
+  C0162832|APC Gene|T028
+mesna
+  1
+  C0000294|Mesna|T109
+granulocyte colony-stimulating factor
+  1
+  C0079459|Granulocyte Colony-Stimulating Factor|T116
+Results
+  1
+  C1274040|Result (navigational concept)|T169
+patients
+  1
+  C0030705|Patients|T101
+median disease-free survival
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0242793|Disease-Free Survival|T081
+DFS
+  1
+  C0011145|Deferoxamine|T123
+months
+  1
+  C0439231|month (qualifier value)|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+median overall survival
+  5
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+OS
+  1
+  C0262950|Skeletal bone|T021
+months
+  1
+  C0439231|month (qualifier value)|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+absolute benefit
+  2
+  C0205344|Absolute (qualifier value)|T080
+  C0814225|benefits|T081
+Conclusion
+  1
+  C0917903|Conclude|T122
+Intensified adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+positive impact
+  2
+  C0726639|Impact|T168
+  C0205159|Positive (qualifier value)|T080
+OS
+  1
+  C0262950|Skeletal bone|T021
+intensified treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+significant delay
+  2
+  C0205421|Deferred (qualifier value)|T079
+  C0750502|Significant (qualifier value)|T078
+short duration
+  1
+  C0439593|Short duration (qualifier value)|T080
+absence
+  1
+  C0424530|Absences (finding)|T033
+SOFT TISSUE sarcomas
+  1
+  C0677603|Sarcoma, Soft Tissue|T191
+vast majorities
+  2
+  C0680220|majority|T054
+  C0814230|Veterans Alcoholism Screening Test|T170
+subcutaneous soft tissue
+  4
+  C0225317|Soft tissues (body structure)|T024
+  C0278403|Subcutaneous Tissue|T024
+  C0443315|Subcutaneous (qualifier value)|T082
+  C0205358|Soft (qualifier value)|T080
+natural history
+  1
+  C0175860|Natural History|T090
+clinical decisions
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0679006|decision|T170
+well recognized prognostic factors
+  2
+  C0205170|Good (qualifier value)|T080
+  C0220901|prognostic|T170
+location
+  1
+  C0450429|Location (attribute)|T082
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+demonstration
+  2
+  C0332265|Demonstrable (qualifier value)|T169
+  C0335296|Demonstrator (occupation)|T097
+pre
+  1
+  C0740175|Before values (qualifier value)|T079
+postoperative radiation
+  2
+  C0032790|Postoperative Period|T079
+  C0851346|Radiation|T070
+conservative surgery
+  4
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0009800|Conservatism|T078
+  C0038894|Surgery specialty|T091
+limb sparing procedures
+  4
+  C0015385|Limb structure|T023
+  C0025664|Methodology|T170
+  C0184661|Procedures|T058
+  C1280090|Entire limb|T023
+DFS
+  1
+  C0011145|Deferoxamine|T123
+demolitive surgery now
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+great proportion
+  2
+  C0549177|Large|T080
+  C0205351|Proportional (qualifier value)|T080
+distant metastases
+  1
+  C1269798|pM category (observable entity)|T201
+clinical behaviour
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0004927|Behavior|T055
+introduction
+  1
+  C1293116|Introduction (procedure)|T058
+possibly overall survival
+  4
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0332149|Possible|T080
+  C0038952|Continuance of life|T052
+OS
+  1
+  C0262950|Skeletal bone|T021
+first generation
+  2
+  C0079411|Generations|T079
+  C0205435|First (qualifier value)|T081
+meta-analysis
+  1
+  C0920317|Meta-Analysis|T170
+main findings
+  2
+  C0243095|findings|T169
+  C0205225|Primary|T080
+statistical evidence
+  1
+  C0220917|statistical|T170
+overall DFS
+  2
+  C0282416|Overall [Publication Type]|T170
+  C0011145|Deferoxamine|T123
+trend
+  1
+  C0040833|trends|T079
+OS
+  1
+  C0262950|Skeletal bone|T021
+second generation
+  2
+  C0079411|Generations|T079
+  C0205436|Second (qualifier value)|T081
+main differences
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0205225|Primary|T080
+introduction
+  1
+  C1293116|Introduction (procedure)|T058
+more restricted selection criteria
+  3
+  C0205172|More (qualifier value)|T081
+  C0242801|Selection Criteria|T080
+  C0443288|Restricted (qualifier value)|T169
+Not one new study
+  4
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0205314|New (qualifier value)|T079
+  C0205447|One (qualifier value)|T081
+present Italian co-operative study closed patient accrual
+  6
+  C0596382|cooperative study|T062
+  C0022275|Italian language (qualifier value)|T171
+  C0030705|Patients|T101
+  C0587267|Closed|T169
+  C0677512|Closed approach|T082
+  C0150312|Present|T169
+results
+  1
+  C1274040|Result (navigational concept)|T169
+minimum time
+  2
+  C0439232|Minute of time|T079
+  C0040223|Time|T079
+date
+  1
+  C0011008|Dates|T079
+time
+  1
+  C0040223|Time|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+time
+  1
+  C0040223|Time|T079
+period
+  1
+  C0332182|Periodic (qualifier value)|T079
+great majority
+  2
+  C0549177|Large|T080
+  C0680220|majority|T054
+PATIENTS
+  1
+  C0030705|Patients|T101
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Study Design
+  1
+  C0035171|Research Design|T062
+Staging
+  1
+  C0332305|With staging (attribute)|T169
+patients
+  1
+  C0030705|Patients|T101
+complete staging
+  3
+  C0332305|With staging (attribute)|T169
+  C0205197|Complete (qualifier value)|T080
+  C0725685|Compleat|T168
+programmed local treatment
+  4
+  C0087111|Therapeutic procedure|T061
+  C0205276|Local (qualifier value)|T082
+  C0376691|Programs [Publication Type]|T170
+  C0039798|therapeutic aspects|T169
+patients
+  1
+  C0030705|Patients|T101
+selection criteria
+  1
+  C0242801|Selection Criteria|T080
+chemotherapy group
+  5
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0441833|Groups (qualifier value)|T170
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C1300322|Group (social concept)|T096
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+patients
+  1
+  C0030705|Patients|T101
+informed written consent
+  3
+  C0043266|Writing|T090
+  C0021430|Informed Consent|T058
+  C0341628|Writer (occupation)|T097
+staging
+  1
+  C0332305|With staging (attribute)|T169
+CT
+  1
+  C0040405|X-Ray Computed Tomography|T060
+scan
+  1
+  C0441633|Scanning|T060
+magnetic resonance imaging
+  1
+  C0024485|Magnetic Resonance Imaging|T060
+CT scan
+  1
+  C0040405|X-Ray Computed Tomography|T060
+other specific tests
+  4
+  C0205394|Other|T080
+  C0392366|Tests (qualifier value)|T170
+  C0205369|Specific (qualifier value)|T080
+  C1263442|SPECIFIC|T121
+angiography
+  1
+  C0002978|Angiography|T060
+bone scan
+  1
+  C0203668|Radioisotope scan of bone (procedure)|T060
+CT scan
+  1
+  C0040405|X-Ray Computed Tomography|T060
+Selection Criteria
+  1
+  C0242801|Selection Criteria|T080
+Inclusion criteria
+  2
+  C0332257|Including (qualifier value)|T169
+  C0243161|criteria|T170
+age
+  1
+  C0001779|Age (qualifier value)|T079
+Eastern Cooperative Oncology Group
+  1
+  C0430797|Electrocorticogram (procedure)|T060
+ECOG
+  1
+  C0430797|Electrocorticogram (procedure)|T060
+performance status less
+  1
+  C0935728|performance status|T033
+high-grade spindle cell
+  4
+  C0007634|Cells|T025
+  C0205082|Severe (severity modifier) (qualifier value)|T080
+  C1166795|Spindle|T026
+  C1269647|Entire cell|T025
+polymorphous sarcomas
+  2
+  C1261473|Sarcoma|T191
+  C0027950|Neutrophils|T025
+fibrosarcoma
+  1
+  C0016057|Fibrosarcoma|T191
+malignant fibrous histiocytoma
+  1
+  C0334463|[M]Fibroxanthosarcoma (morphologic abnormality)|T191
+polymorphous liposarcoma
+  2
+  C0023827|Liposarcoma|T191
+  C0027950|Neutrophils|T025
+leiomyosarcoma
+  1
+  C0023269|Leiomyosarcoma|T191
+synovial sarcoma
+  1
+  C0039101|Sarcoma, Synovial|T191
+malignant schwannoma
+  2
+  C0751690|Malignant Peripheral Nerve Sheath Tumors|T191
+  C0701838|Malignant neurilemmoma|T191
+angiosarcoma
+  1
+  C0018923|Hemangiosarcoma|T191
+polymorphous rhabdomyosarcoma
+  2
+  C0035412|Rhabdomyosarcoma|T191
+  C0027950|Neutrophils|T025
+local relapse
+  4
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+previous radio
+  3
+  C0034546|Radio|T170
+  C1304639|Radio (physical object)|T073
+  C0205156|Previous (qualifier value)|T082
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+adequate bone marrow
+  2
+  C0005953|Bone Marrow|T024
+  C0205411|Adequate (qualifier value)|T080
+WBC count
+  1
+  C0023508|White Blood Cell Count procedure|T059
+hemoglobin g
+  1
+  C1319312|Hemoglobin G (substance)|T116
+dL
+  1
+  C0439241|dL (qualifier value)|T081
+creatinine 1.3 mg
+  3
+  C0010294|Creatinine|T123
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+dL
+  1
+  C0439241|dL (qualifier value)|T081
+SGOT 2.5 X normal value
+  2
+  C0201899|Aspartate aminotransferase assay|T059
+  C0086715|Normal Range|T081
+bilirubin 1.2 mg
+  3
+  C0005437|Bilirubin|T123
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+dL
+  1
+  C0439241|dL (qualifier value)|T081
+pulmonary functions
+  1
+  C0231921|Pulmonary function (observable entity)|T042
+Exclusion criteria
+  2
+  C0680251|exclusion|T169
+  C0243161|criteria|T170
+regional lymph node metastases
+  1
+  C0332397|pN1 category (finding)|T185
+previous malignancy
+  3
+  C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+  C0006826|Malignant Neoplasms|T191
+  C0205156|Previous (qualifier value)|T082
+psychiatric illness
+  1
+  C0004936|Mental disorders|T048
+correct written informed consent
+  4
+  C0043266|Writing|T090
+  C0021430|Informed Consent|T058
+  C0719517|Correct|T109
+  C0341628|Writer (occupation)|T097
+pregnancy
+  1
+  C0032961|Pregnancy|T040
+uncontrolled infections
+  2
+  C0205318|Uncontrolled (qualifier value)|T080
+  C0021311|Infection|T047
+risk
+  1
+  C0035647|Risk|T080
+to follow-up
+  1
+  C0589120|Follow-up status (finding)|T169
+Local Treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0205276|Local (qualifier value)|T082
+  C0039798|therapeutic aspects|T169
+Patients
+  1
+  C0030705|Patients|T101
+wide resection
+  3
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+  C0332464|Widened structure (morphologic abnormality)|T082
+pre-operative radiation therapy
+  3
+  C0034618|Radiation therapy|T061
+  C0445204|Preoperative (qualifier value)|T032
+  C0034619|radiotherapeutic|T170
+Radical surgery
+  5
+  C0302912|Radicals (chemistry)|T104
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0439807|Radical (qualifier value)|T080
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+compartmental resection
+  3
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+  C1185625|Set of compartments|T030
+Wide resection
+  3
+  C0015252|Excision|T061
+  C1306255|Excision - action (qualifier value)|T169
+  C0332464|Widened structure (morphologic abnormality)|T082
+fractions
+  1
+  C0457426|Fractions of (qualifier value)|T081
+Patients
+  1
+  C0030705|Patients|T101
+uncertain margins
+  3
+  C0205424|Uncertain (qualifier value)|T080
+  C1269830|Tumor margin status|T033
+  C0205284|Marginal (qualifier value)|T082
+Preoperative radiation therapy
+  3
+  C0034618|Radiation therapy|T061
+  C0445204|Preoperative (qualifier value)|T032
+  C0034619|radiotherapeutic|T170
+44.8 Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+cGy
+  1
+  C0556645|cGy (qualifier value)|T081
+fraction
+  1
+  C0457426|Fractions of (qualifier value)|T081
+fractions
+  1
+  C0457426|Fractions of (qualifier value)|T081
+intraoperative boost
+  2
+  C0456904|Intraoperative (qualifier value)|T079
+  C0857515|Booster|T061
+close surgical margins
+  3
+  C0229985|Surgical margins (body structure)|T023
+  C0587267|Closed|T169
+  C0677512|Closed approach|T082
+amputation
+  1
+  C0002688|Amputation|T061
+negative margins
+  3
+  C1269830|Tumor margin status|T033
+  C0205160|Negative (qualifier value)|T080
+  C0205284|Marginal (qualifier value)|T082
+Adjuvant Treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0001551|Adjuvants, Immunologic|T129
+  C0039798|therapeutic aspects|T169
+Chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+infusion
+  1
+  C0574032|Infusion (procedure)|T061
+total dose
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+IFO 1.8 g
+  1
+  C0162832|APC Gene|T028
+total dose
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+g
+  1
+  C0162832|APC Gene|T028
+hours
+  1
+  C0439227|Hour|T079
+Hydration
+  1
+  C0517526|hydration|T033
+antiemetics
+  1
+  C0003297|Antiemetics|T121
+5-hydroxytryptamine-3 antagonists
+  2
+  C0162466|Hydroxytryptamine|T124
+  C0243076|antagonists|T120
+filgrastim
+  1
+  C0210630|Filgrastim|T116
+fig
+  1
+  C0349966|Figs - dietary|T168
+d SC
+  4
+  C0439228|day (qualifier value)|T079
+  C0332517|Diameter (qualifier value)|T032
+  C0036274|Scandium|T196
+  C0011530|Deoxyribose|T123
+dose reduction scheme
+  3
+  C0301630|Reduction (chemical)|T070
+  C0178602|Dosages (qualifier value)|T081
+  C0441610|Reduction - action|T061
+excessive toxicity
+  3
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C0442802|Excessive (qualifier value)|T080
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+more weeks
+  2
+  C0205172|More (qualifier value)|T081
+  C0439230|week (qualifier value)|T079
+dose reduction
+  3
+  C0301630|Reduction (chemical)|T070
+  C0178602|Dosages (qualifier value)|T081
+  C0441610|Reduction - action|T061
+EPI doses
+  4
+  C0719635|DOS|T109
+  C0221908|Epithelial|T169
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+Toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+Follow-Up
+  1
+  C0589120|Follow-up status (finding)|T169
+Toxicities
+  1
+  C0600688|Toxic effect|T037
+Physical examinations
+  1
+  C0031809|Clinical examination|T058
+routine chemistry
+  3
+  C0079107|chemical aspects|T185
+  C0205547|Routine (qualifier value)|T080
+  C0007996|Science of Chemistry|T090
+x-ray
+  4
+  C0043299|Diagnostic radiologic examination|T060
+  C0043309|Roentgen Rays|T070
+  C0034571|roentgenographic|T169
+  C1306645|Plain film (procedure)|T060
+bones
+  2
+  C1266909|Entire bony skeleton|T022
+  C0262950|Skeletal bone|T021
+primary site
+  1
+  C0449695|Site of primary lesion (attribute)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+CT scan
+  1
+  C0040405|X-Ray Computed Tomography|T060
+months
+  1
+  C0439231|month (qualifier value)|T079
+same procedures
+  3
+  C0025664|Methodology|T170
+  C0445247|Same (qualifier value)|T080
+  C0184661|Procedures|T058
+months
+  1
+  C0439231|month (qualifier value)|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+fifth year
+  2
+  C0205439|Fifth (qualifier value)|T081
+  C0439234|year (qualifier value)|T079
+primary site
+  1
+  C0449695|Site of primary lesion (attribute)|T082
+patients
+  1
+  C0030705|Patients|T101
+yearly clinical examinations
+  2
+  C0332181|Annual (qualifier value)|T079
+  C0031809|Clinical examination|T058
+chest x-rays
+  1
+  C0202783|Radiographic procedure on chest (procedure)|T060
+Statistical Considerations
+  2
+  C0518609|CONSIDERATION|T033
+  C0220917|statistical|T170
+patients
+  1
+  C0030705|Patients|T101
+interim analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+two sided
+  3
+  C0441987|Side (qualifier value)|T082
+  C0457012|Sidedness (qualifier value)|T082
+  C0205448|Two (qualifier value)|T081
+patient accrual
+  1
+  C0030705|Patients|T101
+centers
+  1
+  C0205099|Central|T082
+protocol specific eligibility checklists
+  3
+  C0442711|Protocols documentation|T170
+  C0205369|Specific (qualifier value)|T080
+  C1263442|SPECIFIC|T121
+patients
+  1
+  C0030705|Patients|T101
+four block stratification
+  3
+  C0205450|Four (qualifier value)|T081
+  C0205363|Stratified (qualifier value)|T080
+  C0028778|Obstruction|T046
+diameter cm v cm
+  7
+  C0332517|Diameter (qualifier value)|T032
+  C0042306|Vanadium|T123
+  C0449468|Volume (property) (qualifier value)|T081
+  C0439830|Velocity (property) (qualifier value)|T169
+  C0598352|V (voltage)|T081
+  C0439502|V - volt (qualifier value)|T081
+  C0475210|cm (qualifier value)|T081
+recurrent tumor
+  1
+  C0521158|Recurrent tumor (finding)|T191
+diameter cm v cm
+  7
+  C0332517|Diameter (qualifier value)|T032
+  C0042306|Vanadium|T123
+  C0449468|Volume (property) (qualifier value)|T081
+  C0439830|Velocity (property) (qualifier value)|T169
+  C0598352|V (voltage)|T081
+  C0439502|V - volt (qualifier value)|T081
+  C0475210|cm (qualifier value)|T081
+control groups
+  1
+  C0009932|Control Groups|T096
+study period
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0332182|Periodic (qualifier value)|T079
+local recurrence alone metastasis
+  4
+  C0205276|Local (qualifier value)|T082
+  C0027627|Neoplasm Metastasis|T191
+  C0034897|Recurrence|T067
+  C0679994|alone|T102
+death
+  1
+  C0011065|Cessation of life|T040
+toxic death
+  2
+  C0600688|Toxic effect|T037
+  C0011065|Cessation of life|T040
+Overall DFS
+  2
+  C0282416|Overall [Publication Type]|T170
+  C0011145|Deferoxamine|T123
+first recurrence
+  2
+  C0034897|Recurrence|T067
+  C0205435|First (qualifier value)|T081
+OS
+  1
+  C0262950|Skeletal bone|T021
+death
+  1
+  C0011065|Cessation of life|T040
+patients
+  1
+  C0030705|Patients|T101
+analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+OS
+  1
+  C0262950|Skeletal bone|T021
+Univariate analyses to
+  1
+  C0683962|univariate analysis|T062
+association
+  2
+  C0004083|Mental association|T041
+  C0699792|Relationship by association|T054
+pathologic factors
+  1
+  C0205469|Pathological aspects|T169
+recurrences
+  1
+  C0034897|Recurrence|T067
+Wilcoxon rank sum test
+  2
+  C0242928|Rank-Sum Tests|T081
+  C0242931|Wilcoxon Rank Test|T081
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+patients
+  1
+  C0030705|Patients|T101
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+present article
+  1
+  C0150312|Present|T169
+demographic characteristics
+  1
+  C0683970|demographic characteristics|T102
+center
+  1
+  C0205099|Central|T082
+stratification
+  1
+  C0205363|Stratified (qualifier value)|T080
+statistically significant differences
+  2
+  C0237881|Statistical Significance|T081
+  C0443199|Differential (qualifier value)|T080
+median diameter
+  3
+  C0332517|Diameter (qualifier value)|T032
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+three patients
+  2
+  C0030705|Patients|T101
+  C0205449|Three (qualifier value)|T081
+distribution
+  2
+  C0520511|Distributing|T078
+  C0037775|Spatial Distribution|T082
+Wilcoxon statistical test
+  1
+  C0237913|statistical tests|T170
+Local Treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0205276|Local (qualifier value)|T082
+  C0039798|therapeutic aspects|T169
+Radical surgery
+  5
+  C0302912|Radicals (chemistry)|T104
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0439807|Radical (qualifier value)|T080
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+amputation
+  1
+  C0002688|Amputation|T061
+distal presentation
+  2
+  C0205108|Distal (qualifier value)|T082
+  C0449450|Presentation (attribute)|T078
+other nine
+  2
+  C0205394|Other|T080
+  C0205455|Nine (qualifier value)|T081
+conservative radical surgery
+  6
+  C0302912|Radicals (chemistry)|T104
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0439807|Radical (qualifier value)|T080
+  C0038895|Surgical aspects|T169
+  C0009800|Conservatism|T078
+  C0038894|Surgery specialty|T091
+remaining patients
+  1
+  C0030705|Patients|T101
+limb sparing procedure
+  3
+  C0015385|Limb structure|T023
+  C0184661|Procedures|T058
+  C1280090|Entire limb|T023
+radiation therapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+underwent surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+postoperative radiation therapy
+  3
+  C0032790|Postoperative Period|T079
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+underwent preoperative radiation therapy
+  3
+  C0034618|Radiation therapy|T061
+  C0445204|Preoperative (qualifier value)|T032
+  C0034619|radiotherapeutic|T170
+conservative surgery
+  4
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0009800|Conservatism|T078
+  C0038894|Surgery specialty|T091
+Chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+Seven patients
+  2
+  C0030705|Patients|T101
+  C0205453|Seven (qualifier value)|T081
+adjuvant treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0001551|Adjuvants, Immunologic|T129
+  C0039798|therapeutic aspects|T169
+Four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+informed consent
+  1
+  C0021430|Informed Consent|T058
+lung metastases
+  1
+  C0153676|Secondary malignant neoplasm of lung (disorder)|T191
+median time
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0040223|Time|T079
+start
+  1
+  C0452588|Start (substance)|T168
+days
+  1
+  C0439228|day (qualifier value)|T079
+time intervals
+  1
+  C0872291|time interval|T079
+relapse
+  3
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0035020|Relapse|T067
+days
+  1
+  C0439228|day (qualifier value)|T079
+started chemotherapy
+  4
+  C1272689|Started (qualifier value)|T080
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+last cycle
+  2
+  C0439596|Cyclic (qualifier value)|T079
+  C0335882|Laster (occupation)|T097
+three patients
+  2
+  C0030705|Patients|T101
+  C0205449|Three (qualifier value)|T081
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+consecutive episodes
+  1
+  C0678231|Episodes (qualifier value)|T079
+persistent leukopenia
+  2
+  C0205322|Persistent (qualifier value)|T079
+  C0023530|Leukopenia|T047
+two
+  1
+  C0205448|Two (qualifier value)|T081
+four cycles
+  2
+  C0205450|Four (qualifier value)|T081
+  C0439596|Cyclic (qualifier value)|T079
+total
+  1
+  C0439810|Total (qualifier value)|T080
+doses
+  1
+  C0719635|DOS|T109
+Twenty four percent
+  2
+  C0205450|Four (qualifier value)|T081
+  C0439165|Percent (qualifier value)|T081
+days
+  1
+  C0439228|day (qualifier value)|T079
+real recovery time
+  3
+  C0237820|recovery from disease|T040
+  C0040223|Time|T079
+  C0871222|Reality|T078
+first cycle
+  2
+  C0439596|Cyclic (qualifier value)|T079
+  C0205435|First (qualifier value)|T081
+constant decrease
+  1
+  C0547047|Decrease (qualifier value)|T081
+testifies
+  1
+  C0680706|testimony|T064
+mean administered doses
+  4
+  C0001554|Administration|T057
+  C1262471|Administration (procedure)|T061
+  C0444504|Mean (qualifier value)|T081
+  C0719635|DOS|T109
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+95.5 mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+average median relative dose intensity
+  7
+  C0080103|Relative (related person)|T099
+  C0205345|Relative|T080
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0178602|Dosages (qualifier value)|T081
+  C0043778|nicaraven|T109
+  C0752050|Anteroventral Thalamic Nucleus|T023
+DI
+  1
+  C0451119|Diagnostic interview schedule (assessment scale)|T170
+hematologic toxicity
+  3
+  C0205488|Hematologic (qualifier value)|T169
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+aggressiveness
+  1
+  C0235099|Aggression aggravated|T048
+grade leukopenia
+  2
+  C0441800|Grade|T185
+  C0023530|Leukopenia|T047
+4% experienced grade thrombocytopenia
+  3
+  C0040034|Thrombocytopenia|T047
+  C0441800|Grade|T185
+  C0596545|experience|T041
+grade leukopenia
+  2
+  C0441800|Grade|T185
+  C0023530|Leukopenia|T047
+thrombocytopenia
+  1
+  C0040034|Thrombocytopenia|T047
+anemia
+  2
+  C0002871|Anemia|T047
+  C1000483|Genus Anemia|T002
+most important hematologic side effect
+  2
+  C0205393|Most (qualifier value)|T081
+  C0001688|adverse effects|T037
+packed red cell transfusions
+  3
+  C0184967|Insertion of pack (procedure)|T061
+  C0014792|Erythrocytes|T025
+  C0199960|Transfusion - action (qualifier value)|T061
+Neutropenic fever
+  1
+  C0948631|Neutropenic fever|T047
+duration
+  1
+  C0449238|Duration|T079
+days
+  1
+  C0439228|day (qualifier value)|T079
+Prophylactic oral antibiotics
+  2
+  C0362063|Other prophylactic chemotherapy|T033
+  C0442027|Oral (qualifier value)|T082
+nonhematologic toxicities
+  1
+  C0600688|Toxic effect|T037
+reversible alopecia
+  2
+  C0205343|Reversible (qualifier value)|T169
+  C0002170|Alopecia|T184
+grade mucositis
+  2
+  C0441800|Grade|T185
+  C0236177|Inflammatory disease of mucous membrane (disorder)|T046
+grade nausea
+  2
+  C0441800|Grade|T185
+  C0027497|Nausea|T033
+vomiting
+  2
+  C0042963|Vomiting|T184
+  C0401156|Vomiting NOS (disorder)|T047
+other grade toxicities
+  3
+  C0205394|Other|T080
+  C0441800|Grade|T185
+  C0600688|Toxic effect|T037
+cardiac impairment
+  3
+  C0684336|Impaired health|T033
+  C0231171|Physical impairment|T046
+  C0205041|Cardio-|T082
+Follow-Up Data
+  1
+  C0589120|Follow-up status (finding)|T169
+median follow-up
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0589120|Follow-up status (finding)|T169
+months
+  1
+  C0439231|month (qualifier value)|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+time
+  1
+  C0040223|Time|T079
+date
+  1
+  C0011008|Dates|T079
+disease recurrences
+  1
+  C0679254|Disease recurrence|T033
+adjuvant therapy
+  1
+  C0677850|adjuvant therapy|T061
+treated patients
+  2
+  C1292734|Treats (attribute)|T185
+  C0030705|Patients|T101
+untreated patients
+  1
+  C0030705|Patients|T101
+deaths
+  1
+  C0011065|Cessation of life|T040
+disease
+  1
+  C0012634|Disease|T047
+Analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+Univariate analyses
+  1
+  C0683962|univariate analysis|T062
+statistically significant difference
+  2
+  C0237881|Statistical Significance|T081
+  C0443199|Differential (qualifier value)|T080
+OS
+  1
+  C0262950|Skeletal bone|T021
+age
+  1
+  C0001779|Age (qualifier value)|T079
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+center
+  1
+  C0205099|Central|T082
+histology
+  3
+  C0019638|Histology|T091
+  C0205462|Histologic|T169
+  C0344441|Histology Procedure|T059
+site
+  1
+  C0205145|Associated topography (attribute)|T082
+presentation
+  1
+  C0449450|Presentation (attribute)|T078
+diameter
+  1
+  C0332517|Diameter (qualifier value)|T032
+local treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0205276|Local (qualifier value)|T082
+  C0039798|therapeutic aspects|T169
+stratification
+  1
+  C0205363|Stratified (qualifier value)|T080
+none
+  1
+  C0549184|None (qualifier value)|T081
+hazard ratios
+  2
+  C0598697|hazard|T080
+  C0456603|Ratio (property) (qualifier value)|T170
+HR
+  1
+  C0439227|Hour|T079
+95% confidence intervals
+  1
+  C0009667|Confidence Intervals|T081
+CI
+  1
+  C0162854|Commonwealth of Independent States|T083
+Overall DFS
+  2
+  C0282416|Overall [Publication Type]|T170
+  C0011145|Deferoxamine|T123
+Sixty first events
+  2
+  C0441471|Events (event)|T051
+  C0205435|First (qualifier value)|T081
+events
+  1
+  C0441471|Events (event)|T051
+first event
+  2
+  C0441471|Events (event)|T051
+  C0205435|First (qualifier value)|T081
+synchronous local relapse
+  5
+  C0205336|Relapsing course|T079
+  C0439580|Synchronous (qualifier value)|T079
+  C0580802|Relapse phase|T079
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+one patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+three patients
+  2
+  C0030705|Patients|T101
+  C0205449|Three (qualifier value)|T081
+nine patients
+  2
+  C0030705|Patients|T101
+  C0205455|Nine (qualifier value)|T081
+metachronous relapse
+  3
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0035020|Relapse|T067
+local relapse
+  4
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+distant relapses
+  2
+  C0443203|Distant (qualifier value)|T082
+  C0035020|Relapse|T067
+Additional relapses
+  2
+  C0442796|Additive (qualifier value)|T080
+  C0035020|Relapse|T067
+median overall DFS
+  4
+  C0282416|Overall [Publication Type]|T170
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0011145|Deferoxamine|T123
+months
+  1
+  C0439231|month (qualifier value)|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+Patients
+  1
+  C0030705|Patients|T101
+41% reduction
+  2
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+HR
+  1
+  C0439227|Hour|T079
+95% CI
+  1
+  C0162854|Commonwealth of Independent States|T083
+absolute improvement
+  4
+  C0184511|Improved (qualifier value)|T080
+  C0205344|Absolute (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+control arms
+  2
+  C0243148|control|T169
+  C0003792|Arm|T029
+Local DFS
+  2
+  C0205276|Local (qualifier value)|T082
+  C0011145|Deferoxamine|T123
+patients
+  1
+  C0030705|Patients|T101
+local recurrence
+  2
+  C0205276|Local (qualifier value)|T082
+  C0034897|Recurrence|T067
+four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+nine patients
+  2
+  C0030705|Patients|T101
+  C0205455|Nine (qualifier value)|T081
+cumulative incidence function estimates
+  6
+  C0021149|Incidence|T081
+  C0750572|ESTIMATED|T078
+  C0542341|Function|T169
+  C0220856|incidence of cases|T169
+  C0700205|Function Axis|T185
+  C0031843|physiological aspects|T039
+control arms
+  2
+  C0243148|control|T169
+  C0003792|Arm|T029
+patients
+  1
+  C0030705|Patients|T101
+indication
+  1
+  C0237000|Indications|T078
+Four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+local relapses simultaneously
+  3
+  C0521115|Simultaneous (qualifier value)|T079
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+one patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+three patients
+  2
+  C0030705|Patients|T101
+  C0205449|Three (qualifier value)|T081
+local relapse
+  4
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+two patients
+  2
+  C0030705|Patients|T101
+  C0205448|Two (qualifier value)|T081
+one patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+overall local relapse rate
+  6
+  C0282416|Overall [Publication Type]|T170
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0205276|Local (qualifier value)|T082
+  C0871208|Rating|T062
+  C0035020|Relapse|T067
+local events
+  2
+  C0441471|Events (event)|T051
+  C0205276|Local (qualifier value)|T082
+patients
+  1
+  C0030705|Patients|T101
+nine
+  1
+  C0205455|Nine (qualifier value)|T081
+local failure
+  3
+  C0680095|Personal failure|T055
+  C0205276|Local (qualifier value)|T082
+  C0231174|Failure (biologic function)|T169
+distribution
+  2
+  C0520511|Distributing|T078
+  C0037775|Spatial Distribution|T082
+radical surgery
+  5
+  C0302912|Radicals (chemistry)|T104
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0439807|Radical (qualifier value)|T080
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+postoperative radiation therapy
+  3
+  C0032790|Postoperative Period|T079
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+preoperative radiation therapy
+  3
+  C0034618|Radiation therapy|T061
+  C0445204|Preoperative (qualifier value)|T032
+  C0034619|radiotherapeutic|T170
+surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+two
+  1
+  C0205448|Two (qualifier value)|T081
+two
+  1
+  C0205448|Two (qualifier value)|T081
+Metastasis Free Survival
+  4
+  C0016694|Freedom|T078
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0027627|Neoplasm Metastasis|T191
+total
+  1
+  C0439810|Total (qualifier value)|T080
+single distant events
+  2
+  C0585347|Single event (qualifier value)|T079
+  C0443203|Distant (qualifier value)|T082
+local event
+  2
+  C0441471|Events (event)|T051
+  C0205276|Local (qualifier value)|T082
+estimated cumulative incidence function
+  4
+  C0750572|ESTIMATED|T078
+  C0542341|Function|T169
+  C0700205|Function Axis|T185
+  C0031843|physiological aspects|T039
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+Six additional patients
+  3
+  C0205452|Six (qualifier value)|T081
+  C0030705|Patients|T101
+  C0442796|Additive (qualifier value)|T080
+two
+  1
+  C0205448|Two (qualifier value)|T081
+distant metastasis
+  1
+  C1269798|pM category (observable entity)|T201
+OS
+  1
+  C0262950|Skeletal bone|T021
+total
+  1
+  C0439810|Total (qualifier value)|T080
+forty seven deaths
+  2
+  C0205453|Seven (qualifier value)|T081
+  C0011065|Cessation of life|T040
+disease
+  1
+  C0012634|Disease|T047
+Patients
+  1
+  C0030705|Patients|T101
+One patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+median survival time
+  1
+  C0591830|MST|T109
+adjuvant therapy
+  1
+  C0677850|adjuvant therapy|T061
+months
+  1
+  C0439231|month (qualifier value)|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+reduction
+  2
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+HR
+  1
+  C0439227|Hour|T079
+95% CI
+  1
+  C0162854|Commonwealth of Independent States|T083
+absolute improvement
+  4
+  C0184511|Improved (qualifier value)|T080
+  C0205344|Absolute (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+control arms
+  2
+  C0243148|control|T169
+  C0003792|Arm|T029
+improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+Adjuvant treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0001551|Adjuvants, Immunologic|T129
+  C0039798|therapeutic aspects|T169
+preliminary data
+  1
+  C0439611|Preliminary (qualifier value)|T079
+further analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+patients
+  1
+  C0030705|Patients|T101
+statistically significant benefit
+  2
+  C0237881|Statistical Significance|T081
+  C0814225|benefits|T081
+overall DFS
+  2
+  C0282416|Overall [Publication Type]|T170
+  C0011145|Deferoxamine|T123
+median
+  2
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+untreated patients
+  1
+  C0030705|Patients|T101
+absolute benefit
+  2
+  C0205344|Absolute (qualifier value)|T080
+  C0814225|benefits|T081
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+selection criteria
+  1
+  C0242801|Selection Criteria|T080
+different times
+  4
+  C0392761|Timed (qualifier value)|T169
+  C0443199|Differential (qualifier value)|T080
+  C0040223|Time|T079
+  C0449243|Timing (attribute)|T079
+studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+disease stages
+  2
+  C0449385|Staging of disease (attribute)|T170
+  C0699749|disease stage|T060
+tumor sizes
+  1
+  C0475440|Tumor size (observable entity)|T082
+grading
+  2
+  C0441800|Grade|T185
+  C0796573|Cancer cells grading system|T185
+greatly.23 Second
+  3
+  C0443228|Greater (qualifier value)|T081
+  C0549177|Large|T080
+  C0205436|Second (qualifier value)|T081
+made use
+  2
+  C0554244|Maker NOS (occupation)|T097
+  C0042153|utilization|T081
+anthracycline
+  2
+  C0282564|Anthracyclines|T109
+  C0003234|Anthracycline Antibiotics|T195
+vincristine
+  1
+  C0042679|Vincristine|T109
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+dacarbazine
+  1
+  C0010927|Dacarbazine|T109
+only first
+  1
+  C0205435|First (qualifier value)|T081
+others probably increased toxicity
+  4
+  C0182412|Probes, Other|T074
+  C0040539|Toxicity aspects|T081
+  C0205217|Increased (qualifier value)|T169
+  C0600688|Toxic effect|T037
+used doxorubicin
+  2
+  C0042153|utilization|T081
+  C0013089|Doxorubicin|T195
+total doses
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+cycle
+  1
+  C0439596|Cyclic (qualifier value)|T079
+total doxorubicin doses
+  3
+  C0439810|Total (qualifier value)|T080
+  C0719635|DOS|T109
+  C0013089|Doxorubicin|T195
+possible underdosing
+  2
+  C0332149|Possible|T080
+  C1112363|Underdose|T037
+first generation trials
+  2
+  C0079411|Generations|T079
+  C0205435|First (qualifier value)|T081
+longer gold standards
+  2
+  C0205166|Long (qualifier value)|T080
+  C0150110|GOLD STANDARD|T080
+meta-analysis
+  1
+  C0920317|Meta-Analysis|T170
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+positive role
+  2
+  C0035820|Role|T054
+  C0205159|Positive (qualifier value)|T080
+studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+recent introduction
+  2
+  C0332185|Recent episode (qualifier value)|T079
+  C1293116|Introduction (procedure)|T058
+increase
+  1
+  C0442805|Increase (qualifier value)|T169
+dose intensity
+  1
+  C0178602|Dosages (qualifier value)|T081
+patient safety
+  1
+  C1113679|patient safety|T061
+developments
+  2
+  C0020119|Human Development|T039
+  C0243107|development aspects|T039
+new interest
+  2
+  C0543488|Interested (finding)|T041
+  C0205314|New (qualifier value)|T079
+planning
+  1
+  C0032074|Cognitive function: planning (observable entity)|T041
+activation
+  1
+  C0879526|activate|T169
+chemotherapeutic regimens
+  1
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+use
+  1
+  C0042153|utilization|T081
+regimen
+  1
+  C0677937|regimen|T061
+highest dose intensity ever
+  1
+  C0444956|High dose (qualifier value)|T081
+epirubicin dose level
+  3
+  C0014582|Epirubicin|T109
+  C0456079|Disease classification level|T185
+  C0178602|Dosages (qualifier value)|T081
+m2 X days
+  2
+  C0439228|day (qualifier value)|T079
+  C0078606|xanthosine|T114
+step
+  1
+  C1261552|Step (qualifier value)|T169
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+m2 epirubicin X days
+  2
+  C0439228|day (qualifier value)|T079
+  C0014582|Epirubicin|T109
+1.8 g
+  1
+  C0162832|APC Gene|T028
+d X days
+  2
+  C0439228|day (qualifier value)|T079
+  C0078606|xanthosine|T114
+maximum tolerated dose
+  1
+  C0752079|Maximum Tolerated Dose|T081
+responses
+  1
+  C0871261|Responses|T054
+age
+  1
+  C0001779|Age (qualifier value)|T079
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+predefined dose reduction scheme
+  3
+  C0301630|Reduction (chemical)|T070
+  C0178602|Dosages (qualifier value)|T081
+  C0441610|Reduction - action|T061
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+routine use
+  2
+  C0042153|utilization|T081
+  C0205547|Routine (qualifier value)|T080
+grade leukopenia
+  2
+  C0441800|Grade|T185
+  C0023530|Leukopenia|T047
+neutropenic fever
+  1
+  C0948631|Neutropenic fever|T047
+episodes
+  1
+  C0678231|Episodes (qualifier value)|T079
+anemia
+  2
+  C0002871|Anemia|T047
+  C1000483|Genus Anemia|T002
+multiple transfusions
+  2
+  C0439064|Numerous (qualifier value)|T081
+  C0199960|Transfusion - action (qualifier value)|T061
+deaths
+  1
+  C0011065|Cessation of life|T040
+patients
+  1
+  C0030705|Patients|T101
+serial hematologic evaluations
+  3
+  C0205488|Hematologic (qualifier value)|T169
+  C0031082|Periodicals|T170
+  C0220825|Evaluation|T169
+complete recovery
+  3
+  C0237820|recovery from disease|T040
+  C0205197|Complete (qualifier value)|T080
+  C0725685|Compleat|T168
+chronic toxicities
+  1
+  C1264527|Chronic poisoning (disorder)|T037
+main finding
+  2
+  C0243095|findings|T169
+  C0205225|Primary|T080
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+beneficial impact
+  1
+  C0726639|Impact|T168
+OS
+  1
+  C0262950|Skeletal bone|T021
+benefit
+  1
+  C0814225|benefits|T081
+never started chemotherapy
+  4
+  C1272689|Started (qualifier value)|T080
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+absolute benefit
+  2
+  C0205344|Absolute (qualifier value)|T080
+  C0814225|benefits|T081
+19% reduction
+  2
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+univariate analysis
+  1
+  C0683962|univariate analysis|T062
+statistically significant differences
+  2
+  C0237881|Statistical Significance|T081
+  C0443199|Differential (qualifier value)|T080
+only high-risk patients
+  3
+  C0030705|Patients|T101
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+other more favorable groups
+  4
+  C0205394|Other|T080
+  C0205172|More (qualifier value)|T081
+  C0309049|FAVOR (product)|T121
+  C0441833|Groups (qualifier value)|T170
+protocol methodology
+  3
+  C0969625|Methodology aspects|T170
+  C0442711|Protocols documentation|T170
+  C0025664|Methodology|T170
+interim analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+two sided
+  3
+  C0441987|Side (qualifier value)|T082
+  C0457012|Sidedness (qualifier value)|T082
+  C0205448|Two (qualifier value)|T081
+patient accrual
+  1
+  C0030705|Patients|T101
+P value
+  1
+  C0879541|p-value|T081
+protocol
+  1
+  C0442711|Protocols documentation|T170
+DFS
+  1
+  C0011145|Deferoxamine|T123
+OS
+  1
+  C0262950|Skeletal bone|T021
+not realistic end point
+  2
+  C0150100|ENDPOINT|T062
+  C0237815|Realism|T078
+Rizzoli Institute
+  1
+  C0021622|Institutes|T092
+risk
+  1
+  C0035647|Risk|T080
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+other points to
+  2
+  C0205394|Other|T080
+  C0324413|Pointer (organism)|T015
+23% overall local relapse
+  4
+  C0282416|Overall [Publication Type]|T170
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0035020|Relapse|T067
+unfavorable local behaviour
+  2
+  C0004927|Behavior|T055
+  C0205276|Local (qualifier value)|T082
+median diameter
+  3
+  C0332517|Diameter (qualifier value)|T032
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+relapses
+  1
+  C0035020|Relapse|T067
+cm
+  1
+  C0475210|cm (qualifier value)|T081
+control groups
+  1
+  C0009932|Control Groups|T096
+trend
+  1
+  C0040833|trends|T079
+two local relapse
+  5
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+  C0205448|Two (qualifier value)|T081
+critical structures
+  3
+  C0335034|Critic (occupation)|T097
+  C0678594|structure|T170
+  C0231224|Crisis (finding)|T033
+nerves
+  2
+  C0027740|Nerve|T024
+  C0027769|Nervousness|T184
+vessels
+  1
+  C0005847|Blood Vessels|T023
+therefore high incidence
+  4
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+Questions
+  1
+  C0750481|QUESTIONABLE|T078
+adequacy
+  1
+  C0205411|Adequate (qualifier value)|T080
+consequently adequacy
+  1
+  C0205411|Adequate (qualifier value)|T080
+only patients
+  1
+  C0030705|Patients|T101
+local relapses
+  2
+  C0205276|Local (qualifier value)|T082
+  C0035020|Relapse|T067
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+untreated groups
+  1
+  C0441833|Groups (qualifier value)|T170
+patients
+  1
+  C0030705|Patients|T101
+previous studies
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0205156|Previous (qualifier value)|T082
+Foundation Bergonie trials,19 used similar patient selection criteria
+  2
+  C0242801|Selection Criteria|T080
+  C0016617|Foundations|T092
+behaviour
+  1
+  C0004927|Behavior|T055
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+only patients
+  1
+  C0030705|Patients|T101
+Time
+  1
+  C0040223|Time|T079
+observation time
+  3
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+  C0040223|Time|T079
+present trial
+  1
+  C0150312|Present|T169
+months
+  1
+  C0439231|month (qualifier value)|T079
+definitive results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0443196|Definitive (qualifier value)|T079
+Adjuvant treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0001551|Adjuvants, Immunologic|T129
+  C0039798|therapeutic aspects|T169
+published trials
+  1
+  C0034037|Publishing|T057
+one meta-analysis
+  2
+  C0920317|Meta-Analysis|T170
+  C0205447|One (qualifier value)|T081
+few second generation trials
+  3
+  C0079411|Generations|T079
+  C0205388|Few (qualifier value)|T081
+  C0205436|Second (qualifier value)|T081
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+patient accrual
+  1
+  C0030705|Patients|T101
+beneficial impact
+  1
+  C0726639|Impact|T168
+OS
+  1
+  C0262950|Skeletal bone|T021
+arms
+  1
+  C0003792|Arm|T029
+significant delay
+  2
+  C0205421|Deferred (qualifier value)|T079
+  C0750502|Significant (qualifier value)|T078
+death
+  1
+  C0011065|Cessation of life|T040
+shortness
+  1
+  C0205167|Short (qualifier value)|T079
+absence
+  1
+  C0424530|Absences (finding)|T033

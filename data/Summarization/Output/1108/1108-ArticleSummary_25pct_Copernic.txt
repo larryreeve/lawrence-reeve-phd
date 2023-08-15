@@ -1,0 +1,61 @@
+THE American Joint Committee on Cancer and the International Federation of Gynecology and Obstetrics define stage IB cervical cancer as invasive cancer that is confined to the cervix, with a depth of more than 5 mm and a width of more than 7 mm.
+
+In patients with large stage IB cervical cancers, local control and survival are poorer than in patients with smaller stage I cancers, whether treated by surgery or irradiation.
+
+In a previous randomized trial of combined external and intracavitary irradiation alone or followed by extrafascial hysterectomy, the Gynecologic Oncology Group found that hysterectomy did not improve survival, but it did significantly reduce the rate of relapse in the pelvic region (unpublished data).
+
+Several phase 2 studies have reported that concomitant treatment with cisplatin during radiotherapy results in faster and more complete responses and better survival than expected with radiotherapy alone.
+
+METHODS Patients Women of any age with biopsy-proved primary squamous-cell carcinoma, adenocarcinoma, or adenosquamous carcinoma of the cervix of stage IB (exophytic or expansile barrel-shaped tumors with a minimal diameter of 4 cm) were eligible for the study.
+
+In addition, patients could have no radiographic evidence of lymphadenopathy on computed tomographic scanning or lymphangiography, and in those with enlarged or suspicious-appearing lymph nodes, no evidence of cancer on fine-needle aspiration or histologic evaluation.
+
+The dose to point A (a reference location 2 cm lateral and 2 cm superior to the cervical os) was 30 Gy, for a cumulative dose of 75 Gy, and the cumulative dose to point B (the pelvic wall) was 55 Gy.
+
+Quality Control and Follow-up Patients' medical records, films, and pathology slides were reviewed by the appropriate Gynecologic Oncology Group committees.
+
+Progression-free survival was calculated from the date of entry into the study to the date of disease recurrence, death, or the last follow-up visit.
+
+Statistical Analysis We estimated that 173 patients were needed in each treatment group in order to be able to detect a 40 percent decrease in the recurrence rate in the group given radiotherapy and chemotherapy.
+
+The design called for a final analysis when 56 events (recurrences or deaths) had occurred in patients receiving the control regimen (radiotherapy alone) and provided the study with a statistical power of 80 percent with use of the log-rank test and a one-sided significance level of 0.05.
+
+Randomization was carried out by a block arrangement; the treatment assignments were stratified according to center and to whether para-aortic lymph nodes were evaluated surgically, with approximately equal numbers of patients assigned to each group.
+
+The Cox model was used to evaluate the difference between treatment regimens, adjust for prognostic factors, and estimate the relative likelihood (and 95 percent confidence intervals) of survival and progression-free survival.
+
+RESULTS Characteristics of the Patients From February 1992 to April 1997, a total of 374 women were enrolled in the study at 48 Gynecologic Oncology Group institutions.
+
+Four were subsequently excluded after a central review by the pathology committee found that the specimen was inadequate for evaluation in the case of one patient,the primary lesion had been misidentified in the case of one patient, the cell type had been misidentified in the case of one patient, and the stage of the tumor had been overestimated in the case of one patient.
+
+There was a slightly higher percentage of patients with grade 3 tumors in the combined-therapy group (38 percent, vs. 31 percent in the radiotherapy group).
+
+Weekly treatment with cisplatin during radiotherapy has been assessed in several phase 2 studies.
+
+The promising results of these studies as well as the fact that this combination is well tolerated and easy to administer on an outpatient basis led us to evaluate it in this trial.
+
+Both cisplatin and fluorouracil are active against cancer of the cervix in patients with recurrent disease.
+
+The effect of these two drugs in combination with radiotherapy was compared with the effect of hydroxyurea and radiotherapy in a randomized phase 3 trial by the Gynecologic Oncology Group involving patients with cervical cancer of stages IIB through IVA (unpublished data).
+
+In that study, the combination of concurrent radiotherapy and cisplatin-containing chemotherapy was superior to treatment with hydroxyurea and radiotherapy.
+
+The results of a subsequent trial involving similar patients are reported by Rose et al. in this issue of the Journal.
+
+They compared treatment with radiation and hydroxyurea, treatment with radiation and weekly cisplatin, and treatment with radiation and hydroxyurea, cisplatin, and fluorouracil and found that the rate of relapse-free survival was significantly higher in both regimens containing cisplatin.
+
+In addition to these three trials, two other randomized trials have also found that combining radiotherapy and cisplatin-containing chemotherapy improves survival and disease-free survival.
+
+The Radiation Therapy Oncology Group study, whose results appear elsewhere in this issue of the Journal, compared pelvic and para-aortic radiotherapy with pelvic radiotherapy in combination with cisplatin and fluorouracil in patients with clinical stage IB through IVA cervical cancer.
+
+The Southwest Oncology Group study compared pelvic radiotherapy alone with pelvic radiotherapy in combination with fluorouracil and cisplatin in high-risk patients with involvement of lymph nodes or surgical margins who had undergone radical hysterectomy for cervical cancer stage IA2, IB, or IIA (unpublished data).
+
+In our trial the only difference in the protocols for the two groups was the use of weekly infusions of cisplatin during radiotherapy for bulky stage IB cervical cancers.
+
+The risk of recurrence and death was significantly reduced by concurrent treatment with cisplatin and radiotherapy.
+
+This difference appeared to be due to the lower rate of relapses in the pelvic region in the combined-therapy group.
+
+Although this regimen was also associated with higher rates of adverse effects, these effects consisted predominantly of transient hematologic and gastrointestinal effects, with no evidence of an increase in other serious effects.
+
+Of the 369 eligible patients in our study who were scheduled to undergo hysterectomy after the completion of radiotherapy, 93 percent did undergo the surgery.

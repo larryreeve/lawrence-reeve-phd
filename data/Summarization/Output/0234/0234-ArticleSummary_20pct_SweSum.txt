@@ -1,0 +1,33 @@
+Fifty-four patients with advanced breast cancer who had failed prior nonanthracycline combination chemotherapy were randomized to treatment with either epirubicin 85 mg/m2 or doxorubicin 60 mg/m2 intravenously every three weeks. Of 52 evaluable patients, 25% (six of 24) treated with epirubicin, and 25% (seven of 28) treated with doxorubicin experienced major therapeutic responses. 
+
+Fifteen patients treated with epirubicin and 18 patients treated with doxorubicin had at least two determinations of left ventricular ejection fraction and were evaluable for laboratory cardiotoxicity. Four patients treated with epirubicin and five treated with doxorubicin developed symptomatic congestive heart failure. Fewer episodes of nausea and vomiting were observed in patients receiving epirubicin. Epirubicin is a new anthracycline with reduced cardiac toxicity, but preserved efficacy in the treatment of patients with advanced breast cancer. Therapeutic responses were observed in patients with advanced breast cancer in both studies. 
+
+
+MATERIALS AND METHODS 
+
+Patient Eligibility 
+
+This study was conducted in patients with advanced breast cancer who had progressed after receiving combination chemotherapy. Patients whose prior treatment included an anthracycline were excluded from this study. All patients were then randomly assigned to receive either EPI or DOX. Neither patients nor physicians were blinded with respect to treatment. 
+
+
+Evaluation of Response 
+
+The criteria for evaluation of therapeutic response were based on the recommendations of the Breast Cancer Task Force of the National Cancer Institute (Bethesda, Md).17 These guidelines were modified to include a minor response (MR) category for those patients with unequivocal therapeutic responses, but less than that required for a partial response (PR). 
+
+
+Evaluation of Toxicity 
+
+The percent of projected dose received was calculated for each patient as the average of all doses the patient received (mg/m 2) - 85 if the patient was randomized to EPI and - 60 if the patient was randomized to DOX. Cardiac toxicity was assessed in all patients by both clinical evaluation and RNCA. Antineoplastic therapy was discontinued if the LVEF decreased to < 40% or if the patient developed clinical congestive heart failure. The characteristics of the patients are presented in Table 1. Although all patients had received prior chemotherapy which included cyclophosphamide or other alkylating agent, no patient had been previously treated with mitomycin C. No patient was being treated with digitalis glycosides or antiarrhythmics. 
+
+
+Response Rates and Durations 
+
+Twenty-four patients on the EPI arm and 28 patients on the DOX arm are evaluable for therapeutic response (Table 2). Six (25%) of the 24 evaluable patients treated with EPI and seven (25%) of the 28 evaluable patients on the DOX arm achieved PRs. In addition, on the EPI arm, one patient experienced an MR and eight patients had stable disease. Cardiac toxicity alone did not limit the administration of EPI, but DOX was discontinued in three patients with ongoing PRs because of cardiac toxicity. Of the 13 patients with PRs, six had tumors that were estrogen receptor positive, six had estrogen receptor negative tumors, and in one patient the estrogen receptor value was unknown. One patient receiving EPI died of nadir sepsis. This patient had been extensively treated with radiation and chemotherapy before treatment on this protocol. Nausea or vomiting was documented in 58% of patients who received EPI and 67% of the patients who were treated with DOX. In general, the nausea and vomiting in patients on the EPI arm was less severe. Because all patients had been treated previously with chemotherapy, the degree and incidence of alopecia is difficult to assess; however, hair loss was noted in 50% of patients treated with EPI and 35% of those treated with DOX. Mucositis was observed in only 4% of patients on the EPI arm, and in 6% of patients receiving DOX. 
+
+
+Cardiac Toxicity 
+
+Each patient had a baseline RNCA scan, and in all patients the resting LVEF was > 50% with the exception of one patient in whom it was 48%. All patients are included in the analysis of cardiotoxicity. Fifteen patients on the EPI arm and 18 patients on the DOX arm had at least one followup RNCA and were evaluable for laboratory cardiotoxicity. Eight patients treated with EPI and nine patients treated with DOX had laboratory evidence of cardiotoxicity. For all patients evaluable for cardiotoxicity by RNCA, laboratory cardiotoxicity data were further analyzed using methods of survival analysis. 
+
+
+Four patients treated with EPI and five patients treated with DOX developed clinical congestive heart failure (CHF). One of the patients who developed CHF on the DOX arm is the patient who had the initial resting LVEF of 48%; this patient also had a history of pulmonary emboli and it was unclear whether this contributed to her cardiac decompensation. Of the patients who developed symptomatic CHF on the EPI arm, one had prior radiotherapy and one had hypertension. Since only five patients treated with DOX and four treated with EPI actually developed clinical heart failure, this result should not be overinterpreted. In a prospective adjuvant chemotherapy trial for patients with soft-tissue sarcomas, 14% of patients who received 430 to 600 mg/m2 of DOX developed clinical CHF. This suggests that EPI might have a better therapeutic index in patients with cancer. There are three prospective randomized comparison studies that address this issue in patients with breast cancer. In the multidrug study, therapy was discontinued in seven patients on the DOX-containing (FAC) arm because of cardiac dysfunction, including three with heart failure. Most patients in our trials received less than 550 mg/m2 of EPI; however, in 11 patients receiving cumulative EPI doses from 550 to 1,465 mg/m2, RNCA abnormalities were observed in only four patients at 970, 1,180,1,190, and 1,465 mg/m2, respectively (C.W. In this study, worsening cardiac function forced the premature discontinuation of DOX therapy in three patients experiencing partial responses, whereas effective treatment with EPI was never discontinued because of cardiac toxicity. 

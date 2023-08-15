@@ -1,0 +1,11 @@
+Median (qualifier value)	1
+Patients	1
+Postmenopausal state (finding)	1
+Skeletal bone	1
+Median Statistical Measurement	1
+estrogen receptor negative	1
+Effect (qualifier value)	1
+month (qualifier value)	1
+Status (attribute)	1
+Differential (qualifier value)	1
+Follow-up status (finding)	1

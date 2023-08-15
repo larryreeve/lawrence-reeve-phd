@@ -1,0 +1,35 @@
+Neoplasms	2	T191-Neoplastic Process
+Room of building - Study	1	T073-Manufactured Object
+Scientific Study	1	T059-Laboratory Procedure
+irinotecan	4	T109-Organic Chemical
+Interpretation (attribute)	1	T170-Intellectual Product
+Related (finding)	2	T033-Finding
+Pain-Free	1	T109-Organic Chemical
+Male population group	1	T098-Population Group
+week (qualifier value)	1	T079-Temporal Concept
+Human adult females	1	T098-Population Group
+year (qualifier value)	1	T079-Temporal Concept
+Few (qualifier value)	1	T081-Quantitative Concept
+findings	1	T169-Functional Concept
+Overall [Publication Type]	2	T170-Intellectual Product
+Long (qualifier value)	1	T080-Qualitative Concept
+With quality (attribute)	1	T080-Qualitative Concept
+Mean (qualifier value)	1	T081-Quantitative Concept
+Magnesium	1	T123-Biologically Active Substance
+performance status	1	T033-Finding
+survival aspects	5	T081-Quantitative Concept
+Age (qualifier value)	1	T079-Temporal Concept
+Weight Loss	1	T184-Sign or Symptom
+Better (qualifier value)	1	T080-Qualitative Concept
+symptoms	2	T169-Functional Concept
+Methods	1	T170-Intellectual Product
+Colorectal cancer metastatic	1	T191-Neoplastic Process
+Supportive care	1	T058-Health Care Activity
+Significant (qualifier value)	1	T078-Idea or Concept
+Human Females	1	T098-Population Group
+Methodology	1	T170-Intellectual Product
+benefits	2	T081-Quantitative Concept
+Differential (qualifier value)	1	T080-Qualitative Concept
+Continuance of life	5	T052-Activity
+milligram	1	T081-Quantitative Concept
+Patients	8	T101-Patient or Disabled Group

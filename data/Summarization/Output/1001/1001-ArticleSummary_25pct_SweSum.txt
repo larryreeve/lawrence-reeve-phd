@@ -1,0 +1,90 @@
+Monoclonal Antibody Therapy for Resected Dukes' C Colorectal Cancer: Seven-Year Outcome of a Multicenter Randomized Trial 
+
+Purpose: As previously shown, antibody treatment increased survival of patients with resected colorectal cancer of stage Dukes' C. 
+
+Patients and Methods: A total of 189 patients with resected Dukes' C colorectal cancer were randomly allocated to infusions of a total of 900 mg 17-1A antibody, 500 mg postoperatively followed by 4 monthly doses of 100 mg (n = 99), or to observation only (n = 90). 
+
+Patients were stratified by a dynamic randomization according to center, sex, location of tumor, number of affected lymph nodes, and preoperative carcinoembryonic antigen concentration. 
+
+Conclusion: The now-matured study shows that 17-1A antibody administered after surgery prevents the development of distant metastasis in approximately one third of patients. 
+
+According to Zelen, these patients were included in the treatment group for final analysis, although they had not received antibodies. 
+
+
+
+Stratification and Randomization 
+
+After confirmation of histology and R0 resection of lymph node metastasis, patients were randomized into two groups one received 17-lA treatment, whereas the other served as observation controls. 
+
+In brief, patients were staged after surgery and had a chest radiogram and abdominal ultrasound or computed tomography scan. 
+
+
+Antibody and Antigen. 
+
+
+Patients and Causes of Ineligibility 
+
+Patient characteristics and distribution of risk factors for both groups were well balanced (Table 1) 3 A total of 189 patients were randomized between May 1985 and April 1990. 
+
+It could be verified that neither of the two patients randomized to treatment had actually received the antibody. 
+
+A final status of 185 patients could be obtained for this analysis. Nineteen patients (10.3%) were ineligible: seven in the treatment arm and 12 in the observation arm. 
+
+Thus, eight patients had Dukes' B, four had Dukes' D, three were older than 70 years, one presented with polyposis coh, and one patient had residual tumor (R2) after surgery. 
+
+One patient had a competing neoplasm and one patient received postoperative radiochemotherapy. 
+
+Since ineligibility was not biased by treatment assignment, these patients were excluded from further analysis. 
+
+However, eleven patients who refused their treatment assignment were considered eligible and were included in all statistical analyses as participants in the treatment group. 
+
+Among all deaths recorded, six patients died without recurrence or secondary colorectal cancer and one observed patient of the control group died of secondary colon carcinoma, which was not counted as a recurrence. 
+
+The median survival time before death after recurrence was 1.4 years for patients randomized to treatment with 17-1A and 1.2 years for patients in the observed group. 
+
+According to the disease-free interval analysis, tumor recurred in 96 of 166 eligible patients after 7 years of follow-up evaluation; thus, three more recurrences were recorded m the treatment group and one more in the observation arm. 
+
+In this analysis, data on patients who died without recurrence were censored. 
+
+In summary, 46% of patients (41 of 90) in the treatment group are at nsk at 7 years and only 29% of patients (22 of 76) m the observed group are alive without recurrence. 
+
+When the two groups were compared with regard to the site of first recurrence, the 7-year data similar to the 5-year analysis show that significantly fewer distant recurrences occur in patients treated with the antibody than in the control arm (Fig 3). 
+
+Another reason for this difference may be local radiation applied to rectum carcinoma patients in the control group, as detailed further later. 
+
+When tested for antibody response against murine antibody (HAMA), 80% of treated patients developed a distinct HAMA response after the second or third nfusion. Patients who developed recurrences and those who remained tumorfree did not show a difference in antibody titers. 
+
+As will be reported elsewhere, the serum levels of antiidlotyplc antibodies (Ab2) showed no significant differences between the analyzed patients who remained tumor free (n = 30) or experienced a relapse (n = 30). 
+
+
+In the antibody trial, both colon and rectum cancer patients were enrolled onto the trial presented here. 
+
+Thus, irradiation was applied to 11 patients of this group (two received preoperative, four preoperative radiation and postoperative radiochemotherapy, and five postoperative radiation only). 
+
+While after 5 years of follow-up evaluation, a significant increase in disease-free and overall survival of patients was evident, after 2 further years, the overall survival did not show significance. 
+
+
+The pattern of first recurrences beyond 5 postoperative years shows that patients in each group still recur, with manifest distant metastasis as first sign of a relapse. 
+
+
+Patients in the control group continued to die of progressive disease that probably had arisen from occult distant metastatic cells that were elimnated by the antibody in the treatment group. 
+
+In that trial, only colon cancer patients were treated who were known to have fewer local relapses than rectum cancer patients and were included in our trial. 
+
+Therefore, the less pronounced chemotherapeutic effect on local relapses may be due to the difference in patient populations. 
+
+Antildiotype antibodies were detected in most HAMA-posltive samples. However, patients with and without manifest metastatic relapses did not differ in antiidiotype titers. 
+
+
+Why only one third of the patients at risk have responded to the antibody treatment may be explained by variations in accessibility, vulnerability, and/or antigen expression in individual disseminated tumor cells. 
+
+Furthermore, humanized antibodies or entirely human antibodies generated from human mmunoglobulin gene hbrarles that are less Immunogenic than murine antibodies are now being tested. 
+
+One of these trials, performed in Europe and Israel, includes a confirmatory arm with antibody as single treatment, with the other two arms applying chemotherapy or chemotherapy plus antibody, respectively. 
+
+
+In conclusion, the presented results still support the original hypothesis that minimal residual disease occurring so frequently in patients with sohd tumors appears to be an indication for antibody therapy. 
+
+
+
+

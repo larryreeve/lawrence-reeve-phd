@@ -1,0 +1,278 @@
+Source Text	Concept Name	Semantic Type	Concept Frequency
+STRING	STRING	STRING	INTEGER
+Summary	Ratio (property) (qualifier value)	T170-Intellectual Product	1		Summary	T170-Intellectual Product	Ratio (property) (qualifier value)
+Summary	Interpretation (attribute)	T170-Intellectual Product	1		Summary	T170-Intellectual Product	Interpretation (attribute)
+Summary	GENERAL OPERATIVE PROCEDURES	T061-Therapeutic or Preventive Procedure	1		Summary	T061-Therapeutic or Preventive Procedure	GENERAL OPERATIVE PROCEDURES
+Summary	Out (qualifier value)	T082-Spatial Concept	1		Summary	T082-Spatial Concept	Out (qualifier value)
+Summary	Definitive (qualifier value)	T079-Temporal Concept	1		Summary	T079-Temporal Concept	Definitive (qualifier value)
+Summary	Surgery specialty	T091-Biomedical Occupation or Discipline	1		Summary	T091-Biomedical Occupation or Discipline	Surgery specialty
+Summary	Survival Rate	T081-Quantitative Concept	1		Summary	T081-Quantitative Concept	Survival Rate
+Summary	Recurrence	T067-Phenomenon or Process	2		Summary	T067-Phenomenon or Process	Recurrence
+Summary	Preoperative (qualifier value)	T032-Organism Attribute	1		Summary	T032-Organism Attribute	Preoperative (qualifier value)
+Summary	findings	T169-Functional Concept	1		Summary	T169-Functional Concept	findings
+Summary	MST	T109-Organic Chemical	1		Summary	T109-Organic Chemical	MST
+Summary	Late (qualifier value)	T079-Temporal Concept	1		Summary	T079-Temporal Concept	Late (qualifier value)
+Summary	radiotherapeutic	T170-Intellectual Product	2		Summary	T170-Intellectual Product	radiotherapeutic
+Summary	Increase (qualifier value)	T169-Functional Concept	1		Summary	T169-Functional Concept	Increase (qualifier value)
+Summary	Random Allocation	T062-Research Activity	1		Summary	T062-Research Activity	Random Allocation
+Summary	month (qualifier value)	T079-Temporal Concept	2		Summary	T079-Temporal Concept	month (qualifier value)
+Summary	Complication Aspects	T046-Pathologic Function	1		Summary	T046-Pathologic Function	Complication Aspects
+Summary	Complication	T046-Pathologic Function	1		Summary	T046-Pathologic Function	Complication
+Summary	survival aspects	T081-Quantitative Concept	2		Summary	T081-Quantitative Concept	survival aspects
+Summary	Result (navigational concept)	T169-Functional Concept	4		Summary	T169-Functional Concept	Result (navigational concept)
+Summary	Methods	T170-Intellectual Product	1		Summary	T170-Intellectual Product	Methods
+Summary	Operable (qualifier value)	T080-Qualitative Concept	1		Summary	T080-Qualitative Concept	Operable (qualifier value)
+Summary	hazard	T080-Qualitative Concept	1		Summary	T080-Qualitative Concept	hazard
+Summary	Radiation therapy	T061-Therapeutic or Preventive Procedure	2		Summary	T061-Therapeutic or Preventive Procedure	Radiation therapy
+Summary	Significant (qualifier value)	T078-Idea or Concept	1		Summary	T078-Idea or Concept	Significant (qualifier value)
+Summary	Surgical aspects	T169-Functional Concept	1		Summary	T169-Functional Concept	Surgical aspects
+Summary	Methodology	T170-Intellectual Product	1		Summary	T170-Intellectual Product	Methodology
+Summary	benefits	T081-Quantitative Concept	1		Summary	T081-Quantitative Concept	benefits
+Summary	Carcinoma	T191-Neoplastic Process	1		Summary	T191-Neoplastic Process	Carcinoma
+Summary	Numbers (qualifier value)	T170-Intellectual Product	1		Summary	T170-Intellectual Product	Numbers (qualifier value)
+Summary	Continuance of life	T052-Activity	2		Summary	T052-Activity	Continuance of life
+Summary	Local (qualifier value)	T082-Spatial Concept	2		Summary	T082-Spatial Concept	Local (qualifier value)
+Summary	Rating	T062-Research Activity	1		Summary	T062-Research Activity	Rating
+Summary	Patients	T101-Patient or Disabled Group	2		Summary	T101-Patient or Disabled Group	Patients
+Full-text	Upper arm	T029-Body Location or Region	1		Full-text	T029-Body Location or Region	Upper arm
+Full-text	Fit and well	T033-Finding	1		Full-text	T033-Finding	Fit and well
+Full-text	Infusion (procedure)	T061-Therapeutic or Preventive Procedure	1		Full-text	T061-Therapeutic or Preventive Procedure	Infusion (procedure)
+Full-text	Periodic (qualifier value)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Periodic (qualifier value)
+Full-text	Adjuvants, Immunologic	T129-Immunologic Factor	1		Full-text	T129-Immunologic Factor	Adjuvants, Immunologic
+Full-text	Current (qualifier value)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Current (qualifier value)
+Full-text	Sufficient (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Sufficient (qualifier value)
+Full-text	Lower (qualifier value)	T169-Functional Concept	2		Full-text	T169-Functional Concept	Lower (qualifier value)
+Full-text	Low frequency (qualifier value)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Low frequency (qualifier value)
+Full-text	Changed status	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Changed status
+Full-text	Most (qualifier value)	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Most (qualifier value)
+Full-text	Pain	T184-Sign or Symptom	1		Full-text	T184-Sign or Symptom	Pain
+Full-text	Suggestion	T061-Therapeutic or Preventive Procedure	1		Full-text	T061-Therapeutic or Preventive Procedure	Suggestion
+Full-text	Introduction (procedure)	T058-Health Care Activity	1		Full-text	T058-Health Care Activity	Introduction (procedure)
+Full-text	Surgeon (occupation)	T097-Professional or Occupational Group	5		Full-text	T097-Professional or Occupational Group	Surgeon (occupation)
+Full-text	Questioning	T041-Mental Process	1		Full-text	T041-Mental Process	Questioning
+Full-text	Seizures	T184-Sign or Symptom	1		Full-text	T184-Sign or Symptom	Seizures
+Full-text	month (qualifier value)	T079-Temporal Concept	6		Full-text	T079-Temporal Concept	month (qualifier value)
+Full-text	Attenuated by (contextual qualifier) (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Attenuated by (contextual qualifier) (qualifier value)
+Full-text	Fluorouracil	T114-Nucleic Acid, Nucleoside, or Nucleotide	1		Full-text	T114-Nucleic Acid, Nucleoside, or Nucleotide	Fluorouracil
+Full-text	Result (navigational concept)	T169-Functional Concept	2		Full-text	T169-Functional Concept	Result (navigational concept)
+Full-text	Residual Tumor	T191-Neoplastic Process	1		Full-text	T191-Neoplastic Process	Residual Tumor
+Full-text	Decrease (qualifier value)	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Decrease (qualifier value)
+Full-text	Operable (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Operable (qualifier value)
+Full-text	Cesium	T196-Element, Ion, or Isotope	1		Full-text	T196-Element, Ion, or Isotope	Cesium
+Full-text	Significant (qualifier value)	T078-Idea or Concept	2		Full-text	T078-Idea or Concept	Significant (qualifier value)
+Full-text	Anogenital region	T029-Body Location or Region	3		Full-text	T029-Body Location or Region	Anogenital region
+Full-text	Surgical aspects	T169-Functional Concept	6		Full-text	T169-Functional Concept	Surgical aspects
+Full-text	Increased (qualifier value)	T169-Functional Concept	1		Full-text	T169-Functional Concept	Increased (qualifier value)
+Full-text	Generalized (qualifier value)	T082-Spatial Concept	1		Full-text	T082-Spatial Concept	Generalized (qualifier value)
+Full-text	Count of entities (property) (qualifier value)	T081-Quantitative Concept	5		Full-text	T081-Quantitative Concept	Count of entities (property) (qualifier value)
+Full-text	Central	T082-Spatial Concept	1		Full-text	T082-Spatial Concept	Central
+Full-text	Providing presence (regime/therapy)	T061-Therapeutic or Preventive Procedure	2		Full-text	T061-Therapeutic or Preventive Procedure	Providing presence (regime/therapy)
+Full-text	Hospitals	T093-Health Care Related Organization	1		Full-text	T093-Health Care Related Organization	Hospitals
+Full-text	Ethics Committees	T097-Professional or Occupational Group	1		Full-text	T097-Professional or Occupational Group	Ethics Committees
+Full-text	Median Statistical Measurement	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Median Statistical Measurement
+Full-text	Status (attribute)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Status (attribute)
+Full-text	Sensitivity Training Groups	T065-Educational Activity	1		Full-text	T065-Educational Activity	Sensitivity Training Groups
+Full-text	Recruitment (finding)	T039-Physiologic Function	3		Full-text	T039-Physiologic Function	Recruitment (finding)
+Full-text	Morbidity - disease rate	T102-Group Attribute	2		Full-text	T102-Group Attribute	Morbidity - disease rate
+Full-text	Surveys	T062-Research Activity	1		Full-text	T062-Research Activity	Surveys
+Full-text	Reduction - action	T061-Therapeutic or Preventive Procedure	7		Full-text	T061-Therapeutic or Preventive Procedure	Reduction - action
+Full-text	APPARENTLY	T078-Idea or Concept	1		Full-text	T078-Idea or Concept	APPARENTLY
+Full-text	Disease-Free Survival	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Disease-Free Survival
+Full-text	ADVANTAGE	T131-Hazardous or Poisonous Substance	3		Full-text	T131-Hazardous or Poisonous Substance	ADVANTAGE
+Full-text	Pharmaceutical Preparations	T121-Pharmacologic Substance	1		Full-text	T121-Pharmacologic Substance	Pharmaceutical Preparations
+Full-text	Common (qualifier value)	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Common (qualifier value)
+Full-text	Excision	T061-Therapeutic or Preventive Procedure	7		Full-text	T061-Therapeutic or Preventive Procedure	Excision
+Full-text	Intention	T041-Mental Process	2		Full-text	T041-Mental Process	Intention
+Full-text	Rank	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Rank
+Full-text	With frequency	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	With frequency
+Full-text	Two (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Two (qualifier value)
+Full-text	Teaching principal	T097-Professional or Occupational Group	1		Full-text	T097-Professional or Occupational Group	Teaching principal
+Full-text	therapeutic aspects	T169-Functional Concept	7		Full-text	T169-Functional Concept	therapeutic aspects
+Full-text	First (qualifier value)	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	First (qualifier value)
+Full-text	ENDPOINT	T062-Research Activity	1		Full-text	T062-Research Activity	ENDPOINT
+Full-text	Time	T079-Temporal Concept	6		Full-text	T079-Temporal Concept	Time
+Full-text	None (qualifier value)	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	None (qualifier value)
+Full-text	Goals	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Goals
+Full-text	Abdominoperineal approach (qualifier value)	T082-Spatial Concept	4		Full-text	T082-Spatial Concept	Abdominoperineal approach (qualifier value)
+Full-text	Assessment procedure (procedure)	T058-Health Care Activity	1		Full-text	T058-Health Care Activity	Assessment procedure (procedure)
+Full-text	roentgenographic	T169-Functional Concept	2		Full-text	T169-Functional Concept	roentgenographic
+Full-text	Analysis of substances	T059-Laboratory Procedure	1		Full-text	T059-Laboratory Procedure	Analysis of substances
+Full-text	Follow-up status (finding)	T169-Functional Concept	6		Full-text	T169-Functional Concept	Follow-up status (finding)
+Full-text	Medical Research	T062-Research Activity	1		Full-text	T062-Research Activity	Medical Research
+Full-text	Disease recurrence	T033-Finding	1		Full-text	T033-Finding	Disease recurrence
+Full-text	Distributing	T078-Idea or Concept	1		Full-text	T078-Idea or Concept	Distributing
+Full-text	Roentgen Rays	T070-Natural Phenomenon or Process	1		Full-text	T070-Natural Phenomenon or Process	Roentgen Rays
+Full-text	Commonwealth of Independent States	T083-Geographic Area	2		Full-text	T083-Geographic Area	Commonwealth of Independent States
+Full-text	Autopsy	T060-Diagnostic Procedure	1		Full-text	T060-Diagnostic Procedure	Autopsy
+Full-text	Reduction (chemical)	T070-Natural Phenomenon or Process	7		Full-text	T070-Natural Phenomenon or Process	Reduction (chemical)
+Full-text	year (qualifier value)	T079-Temporal Concept	3		Full-text	T079-Temporal Concept	year (qualifier value)
+Full-text	Full (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Full (qualifier value)
+Full-text	Curved (qualifier value)	T082-Spatial Concept	1		Full-text	T082-Spatial Concept	Curved (qualifier value)
+Full-text	Few (qualifier value)	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Few (qualifier value)
+Full-text	categories	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	categories
+Full-text	Proportional (qualifier value)	T080-Qualitative Concept	4		Full-text	T080-Qualitative Concept	Proportional (qualifier value)
+Full-text	MST	T109-Organic Chemical	1		Full-text	T109-Organic Chemical	MST
+Full-text	Fractionation	T059-Laboratory Procedure	2		Full-text	T059-Laboratory Procedure	Fractionation
+Full-text	proven venom	T123-Biologically Active Substance	1		Full-text	T123-Biologically Active Substance	proven venom
+Full-text	Aspects of mortality statistics	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Aspects of mortality statistics
+Full-text	criteria	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	criteria
+Full-text	Three (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Three (qualifier value)
+Full-text	Changing	T169-Functional Concept	1		Full-text	T169-Functional Concept	Changing
+Full-text	Daily (qualifier value)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Daily (qualifier value)
+Full-text	Discussion (procedure)	T061-Therapeutic or Preventive Procedure	1		Full-text	T061-Therapeutic or Preventive Procedure	Discussion (procedure)
+Full-text	Fixed (qualifier value)	T080-Qualitative Concept	6		Full-text	T080-Qualitative Concept	Fixed (qualifier value)
+Full-text	Mortality Vital Statistics	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Mortality Vital Statistics
+Full-text	Effect (qualifier value)	T080-Qualitative Concept	2		Full-text	T080-Qualitative Concept	Effect (qualifier value)
+Full-text	Several (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Several (qualifier value)
+Full-text	Absences (finding)	T033-Finding	1		Full-text	T033-Finding	Absences (finding)
+Full-text	Methods	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Methods
+Full-text	Statistical Analysis	T062-Research Activity	1		Full-text	T062-Research Activity	Statistical Analysis
+Full-text	Partial (qualifier value)	T081-Quantitative Concept	3		Full-text	T081-Quantitative Concept	Partial (qualifier value)
+Full-text	Specific (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Specific (qualifier value)
+Full-text	Suggestible (finding)	T033-Finding	1		Full-text	T033-Finding	Suggestible (finding)
+Full-text	Timing (attribute)	T079-Temporal Concept	2		Full-text	T079-Temporal Concept	Timing (attribute)
+Full-text	Five (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Five (qualifier value)
+Full-text	Intestines, Small	T023-Body Part, Organ, or Organ Component	1		Full-text	T023-Body Part, Organ, or Organ Component	Intestines, Small
+Full-text	Registers (PT)	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Registers (PT)
+Full-text	week (qualifier value)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	week (qualifier value)
+Full-text	Surgery specialty	T091-Biomedical Occupation or Discipline	5		Full-text	T091-Biomedical Occupation or Discipline	Surgery specialty
+Full-text	Diarrhea	T184-Sign or Symptom	1		Full-text	T184-Sign or Symptom	Diarrhea
+Full-text	Pathologist evaluation (procedure)	T060-Diagnostic Procedure	1		Full-text	T060-Diagnostic Procedure	Pathologist evaluation (procedure)
+Full-text	Biopsy sample (specimen)	T024-Tissue	1		Full-text	T024-Tissue	Biopsy sample (specimen)
+Full-text	Dose Fractionation	T061-Therapeutic or Preventive Procedure	2		Full-text	T061-Therapeutic or Preventive Procedure	Dose Fractionation
+Full-text	Proliferation (morphologic abnormality)	T169-Functional Concept	1		Full-text	T169-Functional Concept	Proliferation (morphologic abnormality)
+Full-text	Long (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Long (qualifier value)
+Full-text	One (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	One (qualifier value)
+Full-text	Events (event)	T051-Event	2		Full-text	T051-Event	Events (event)
+Full-text	Indeterminate	T078-Idea or Concept	1		Full-text	T078-Idea or Concept	Indeterminate
+Full-text	survival aspects	T081-Quantitative Concept	8		Full-text	T081-Quantitative Concept	survival aspects
+Full-text	Timed (qualifier value)	T169-Functional Concept	2		Full-text	T169-Functional Concept	Timed (qualifier value)
+Full-text	High dose (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	High dose (qualifier value)
+Full-text	Schedules	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Schedules
+Full-text	Radiation therapy	T061-Therapeutic or Preventive Procedure	19		Full-text	T061-Therapeutic or Preventive Procedure	Radiation therapy
+Full-text	Failure (biologic function)	T169-Functional Concept	1		Full-text	T169-Functional Concept	Failure (biologic function)
+Full-text	Logger (occupation)	T097-Professional or Occupational Group	1		Full-text	T097-Professional or Occupational Group	Logger (occupation)
+Full-text	control	T169-Functional Concept	1		Full-text	T169-Functional Concept	control
+Full-text	Personal failure	T055-Individual Behavior	1		Full-text	T055-Individual Behavior	Personal failure
+Full-text	morbidity aspects	T170-Intellectual Product	2		Full-text	T170-Intellectual Product	morbidity aspects
+Full-text	Continuance of life	T052-Activity	8		Full-text	T052-Activity	Continuance of life
+Full-text	Causality	T169-Functional Concept	4		Full-text	T169-Functional Concept	Causality
+Full-text	Adenocarcinoma	T191-Neoplastic Process	1		Full-text	T191-Neoplastic Process	Adenocarcinoma
+Full-text	Moderate (severity modifier) (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Moderate (severity modifier) (qualifier value)
+Full-text	Pelvis	T029-Body Location or Region	2		Full-text	T029-Body Location or Region	Pelvis
+Full-text	GENERAL OPERATIVE PROCEDURES	T061-Therapeutic or Preventive Procedure	8		Full-text	T061-Therapeutic or Preventive Procedure	GENERAL OPERATIVE PROCEDURES
+Full-text	Analysis	T062-Research Activity	1		Full-text	T062-Research Activity	Analysis
+Full-text	Improving (qualifier value)	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Improving (qualifier value)
+Full-text	injuries	T037-Injury or Poisoning	2		Full-text	T037-Injury or Poisoning	injuries
+Full-text	Male population group	T098-Population Group	1		Full-text	T098-Population Group	Male population group
+Full-text	Combined (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Combined (qualifier value)
+Full-text	Survival Rate	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Survival Rate
+Full-text	SURVIVE (product)	T121-Pharmacologic Substance	2		Full-text	T121-Pharmacologic Substance	SURVIVE (product)
+Full-text	Recurrence	T067-Phenomenon or Process	6		Full-text	T067-Phenomenon or Process	Recurrence
+Full-text	Therapeutic procedure	T061-Therapeutic or Preventive Procedure	7		Full-text	T061-Therapeutic or Preventive Procedure	Therapeutic procedure
+Full-text	Increase (qualifier value)	T169-Functional Concept	1		Full-text	T169-Functional Concept	Increase (qualifier value)
+Full-text	Extension (qualifier value)	T042-Organ or Tissue Function	1		Full-text	T042-Organ or Tissue Function	Extension (qualifier value)
+Full-text	Nine (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Nine (qualifier value)
+Full-text	Radiation	T070-Natural Phenomenon or Process	2		Full-text	T070-Natural Phenomenon or Process	Radiation
+Full-text	Role	T054-Social Behavior	1		Full-text	T054-Social Behavior	Role
+Full-text	Proven findings	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Proven findings
+Full-text	Survival Analysis	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Survival Analysis
+Full-text	Cancer of Rectum	T191-Neoplastic Process	2		Full-text	T191-Neoplastic Process	Cancer of Rectum
+Full-text	Saws	T074-Medical Device	1		Full-text	T074-Medical Device	Saws
+Full-text	Entire abdomen	T023-Body Part, Organ, or Organ Component	1		Full-text	T023-Body Part, Organ, or Organ Component	Entire abdomen
+Full-text	Gy (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Gy (qualifier value)
+Full-text	Small	T080-Qualitative Concept	2		Full-text	T080-Qualitative Concept	Small
+Full-text	Numbers (qualifier value)	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Numbers (qualifier value)
+Full-text	Malignant disease	T047-Disease or Syndrome	1		Full-text	T047-Disease or Syndrome	Malignant disease
+Full-text	Deferred (qualifier value)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Deferred (qualifier value)
+Full-text	day (qualifier value)	T079-Temporal Concept	3		Full-text	T079-Temporal Concept	day (qualifier value)
+Full-text	Intestinal Obstruction	T047-Disease or Syndrome	1		Full-text	T047-Disease or Syndrome	Intestinal Obstruction
+Full-text	Room of building - Study	T073-Manufactured Object	2		Full-text	T073-Manufactured Object	Room of building - Study
+Full-text	Histologic	T169-Functional Concept	2		Full-text	T169-Functional Concept	Histologic
+Full-text	Altered (qualifier value)	T169-Functional Concept	1		Full-text	T169-Functional Concept	Altered (qualifier value)
+Full-text	SLIGHTLY	T078-Idea or Concept	1		Full-text	T078-Idea or Concept	SLIGHTLY
+Full-text	Normal (qualifier value)	T033-Finding	1		Full-text	T033-Finding	Normal (qualifier value)
+Full-text	Electrocardiographic axis	T201-Clinical Attribute	1		Full-text	T201-Clinical Attribute	Electrocardiographic axis
+Full-text	Injury wounds	T037-Injury or Poisoning	2		Full-text	T037-Injury or Poisoning	Injury wounds
+Full-text	Induration (morphologic abnormality)	T169-Functional Concept	1		Full-text	T169-Functional Concept	Induration (morphologic abnormality)
+Full-text	Anterior	T082-Spatial Concept	2		Full-text	T082-Spatial Concept	Anterior
+Full-text	Financially poor	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Financially poor
+Full-text	trends	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	trends
+Full-text	pM category (observable entity)	T201-Clinical Attribute	1		Full-text	T201-Clinical Attribute	pM category (observable entity)
+Full-text	Risk	T080-Qualitative Concept	2		Full-text	T080-Qualitative Concept	Risk
+Full-text	Reporting	T058-Health Care Activity	1		Full-text	T058-Health Care Activity	Reporting
+Full-text	Planned (qualifier value)	T169-Functional Concept	3		Full-text	T169-Functional Concept	Planned (qualifier value)
+Full-text	Distant (qualifier value)	T082-Spatial Concept	5		Full-text	T082-Spatial Concept	Distant (qualifier value)
+Full-text	Causing (attribute)	T169-Functional Concept	2		Full-text	T169-Functional Concept	Causing (attribute)
+Full-text	Other	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Other
+Full-text	Large	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Large
+Full-text	Sample Size	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Sample Size
+Full-text	Median (qualifier value)	T082-Spatial Concept	2		Full-text	T082-Spatial Concept	Median (qualifier value)
+Full-text	Immediate (qualifier value)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Immediate (qualifier value)
+Full-text	hazard	T080-Qualitative Concept	4		Full-text	T080-Qualitative Concept	hazard
+Full-text	Dates	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Dates
+Full-text	Arm	T029-Body Location or Region	1		Full-text	T029-Body Location or Region	Arm
+Full-text	Poor - grade value	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Poor - grade value
+Full-text	Entire pelvis	T023-Body Part, Organ, or Organ Component	1		Full-text	T023-Body Part, Organ, or Organ Component	Entire pelvis
+Full-text	benefits	T081-Quantitative Concept	4		Full-text	T081-Quantitative Concept	benefits
+Full-text	Postoperative Period	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Postoperative Period
+Full-text	Previous (qualifier value)	T082-Spatial Concept	1		Full-text	T082-Spatial Concept	Previous (qualifier value)
+Full-text	Potential	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Potential
+Full-text	etiology	T169-Functional Concept	4		Full-text	T169-Functional Concept	etiology
+Full-text	Ratio (property) (qualifier value)	T170-Intellectual Product	4		Full-text	T170-Intellectual Product	Ratio (property) (qualifier value)
+Full-text	Type of restoration (attribute)	T170-Intellectual Product	2		Full-text	T170-Intellectual Product	Type of restoration (attribute)
+Full-text	Scientific Study	T059-Laboratory Procedure	2		Full-text	T059-Laboratory Procedure	Scientific Study
+Full-text	Course (attribute)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Course (attribute)
+Full-text	Related (finding)	T033-Finding	1		Full-text	T033-Finding	Related (finding)
+Full-text	SPECIFIC	T121-Pharmacologic Substance	1		Full-text	T121-Pharmacologic Substance	SPECIFIC
+Full-text	CONTINUED	T078-Idea or Concept	1		Full-text	T078-Idea or Concept	CONTINUED
+Full-text	Genus Axis	T015-Mammal	1		Full-text	T015-Mammal	Genus Axis
+Full-text	ESTIMATED	T078-Idea or Concept	1		Full-text	T078-Idea or Concept	ESTIMATED
+Full-text	findings	T169-Functional Concept	1		Full-text	T169-Functional Concept	findings
+Full-text	Preoperative (qualifier value)	T032-Organism Attribute	6		Full-text	T032-Organism Attribute	Preoperative (qualifier value)
+Full-text	Axis vertebra	T017-Anatomical Structure	1		Full-text	T017-Anatomical Structure	Axis vertebra
+Full-text	Random Allocation	T062-Research Activity	3		Full-text	T062-Research Activity	Random Allocation
+Full-text	Biopsy sampling (qualifier value)	T060-Diagnostic Procedure	1		Full-text	T060-Diagnostic Procedure	Biopsy sampling (qualifier value)
+Full-text	Greater (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Greater (qualifier value)
+Full-text	Death Certificates	T073-Manufactured Object	1		Full-text	T073-Manufactured Object	Death Certificates
+Full-text	Complication Aspects	T046-Pathologic Function	9		Full-text	T046-Pathologic Function	Complication Aspects
+Full-text	Diagnostic radiologic examination	T060-Diagnostic Procedure	3		Full-text	T060-Diagnostic Procedure	Diagnostic radiologic examination
+Full-text	alone	T102-Group Attribute	1		Full-text	T102-Group Attribute	alone
+Full-text	Group (social concept)	T096-Group	3		Full-text	T096-Group	Group (social concept)
+Full-text	EUROPEAN	T098-Population Group	1		Full-text	T098-Population Group	EUROPEAN
+Full-text	Responsive (qualifier value)	T169-Functional Concept	1		Full-text	T169-Functional Concept	Responsive (qualifier value)
+Full-text	Fractions of (qualifier value)	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Fractions of (qualifier value)
+Full-text	Spatial Distribution	T082-Spatial Concept	1		Full-text	T082-Spatial Concept	Spatial Distribution
+Full-text	Cessation of life	T040-Organism Function	3		Full-text	T040-Organism Function	Cessation of life
+Full-text	Anastomotic complication	T046-Pathologic Function	1		Full-text	T046-Pathologic Function	Anastomotic complication
+Full-text	Methodology	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Methodology
+Full-text	Plain film (procedure)	T060-Diagnostic Procedure	1		Full-text	T060-Diagnostic Procedure	Plain film (procedure)
+Full-text	Local (qualifier value)	T082-Spatial Concept	1		Full-text	T082-Spatial Concept	Local (qualifier value)
+Full-text	Excision - action (qualifier value)	T169-Functional Concept	7		Full-text	T169-Functional Concept	Excision - action (qualifier value)
+Full-text	Short (qualifier value)	T079-Temporal Concept	1		Full-text	T079-Temporal Concept	Short (qualifier value)
+Full-text	Neoplasms	T191-Neoplastic Process	8		Full-text	T191-Neoplastic Process	Neoplasms
+Full-text	cm (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	cm (qualifier value)
+Full-text	Groups (qualifier value)	T170-Intellectual Product	4		Full-text	T170-Intellectual Product	Groups (qualifier value)
+Full-text	Dosages (qualifier value)	T081-Quantitative Concept	2		Full-text	T081-Quantitative Concept	Dosages (qualifier value)
+Full-text	DOS	T109-Organic Chemical	1		Full-text	T109-Organic Chemical	DOS
+Full-text	Eight (qualifier value)	T170-Intellectual Product	1		Full-text	T170-Intellectual Product	Eight (qualifier value)
+Full-text	Case (qualifier value)	T169-Functional Concept	2		Full-text	T169-Functional Concept	Case (qualifier value)
+Full-text	Late (qualifier value)	T079-Temporal Concept	3		Full-text	T079-Temporal Concept	Late (qualifier value)
+Full-text	radiotherapeutic	T170-Intellectual Product	19		Full-text	T170-Intellectual Product	radiotherapeutic
+Full-text	Statistical Significance	T081-Quantitative Concept	1		Full-text	T081-Quantitative Concept	Statistical Significance
+Full-text	Entire axis vertebra	T023-Body Part, Organ, or Organ Component	1		Full-text	T023-Body Part, Organ, or Organ Component	Entire axis vertebra
+Full-text	Palpation	T060-Diagnostic Procedure	1		Full-text	T060-Diagnostic Procedure	Palpation
+Full-text	Power (Psychology)	T068-Human-caused Phenomenon or Process	1		Full-text	T068-Human-caused Phenomenon or Process	Power (Psychology)
+Full-text	Extended (qualifier value)	T082-Spatial Concept	1		Full-text	T082-Spatial Concept	Extended (qualifier value)
+Full-text	Grade	T185-Classification	1		Full-text	T185-Classification	Grade
+Full-text	Skin reaction (observable entity)	T034-Laboratory or Test Result	1		Full-text	T034-Laboratory or Test Result	Skin reaction (observable entity)
+Full-text	Accurate (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Accurate (qualifier value)
+Full-text	Ischiorectal abscess (disorder)	T020-Acquired Abnormality	1		Full-text	T020-Acquired Abnormality	Ischiorectal abscess (disorder)
+Full-text	Complication	T046-Pathologic Function	10		Full-text	T046-Pathologic Function	Complication
+Full-text	experience (practice)	T041-Mental Process	1		Full-text	T041-Mental Process	experience (practice)
+Full-text	free time	T056-Daily or Recreational Activity	2		Full-text	T056-Daily or Recreational Activity	free time
+Full-text	Primary	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Primary
+Full-text	Rating	T062-Research Activity	1		Full-text	T062-Research Activity	Rating
+Full-text	Abdomen	T029-Body Location or Region	1		Full-text	T029-Body Location or Region	Abdomen
+Full-text	Improved (qualifier value)	T080-Qualitative Concept	1		Full-text	T080-Qualitative Concept	Improved (qualifier value)
+Full-text	Patients	T101-Patient or Disabled Group	29		Full-text	T101-Patient or Disabled Group	Patients

@@ -1,0 +1,9 @@
+Groups (qualifier value)	1
+Group (social concept)	1
+Bone Marrow Transplantation	1
+Dosages (qualifier value)	1
+Pharmacotherapy	1
+Chemotherapy-Oncologic Procedure	1
+Conventional (qualifier value)	1
+Philadelphia	1
+pharmacotherapeutic	1

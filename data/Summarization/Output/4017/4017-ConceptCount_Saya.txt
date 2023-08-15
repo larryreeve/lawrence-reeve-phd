@@ -1,0 +1,140 @@
+Proportional (qualifier value)	3
+survival aspects	5
+Clinical (qualifier value)	1
+Multicenter Trials	1
+regimen	2
+Blood Platelets	1
+High dose (qualifier value)	1
+performance status	1
+cooperative group	1
+Lumbar (qualifier value)	2
+Neoplasms	1
+Second (qualifier value)	1
+German population	1
+Lithium	3
+With quality (attribute)	1
+Leucovorin Calcium	7
+Increased (qualifier value)	1
+Median Statistical Measurement	2
+DOS	1
+Rectum	1
+Entire rectum	1
+Continuance of life	5
+Intravascular line	2
+Linear	2
+Overall [Publication Type]	1
+Result (navigational concept)	1
+proven venom	1
+With frequency	1
+DNA Topoisomerase	1
+Surgery specialty	1
+hazard	1
+Previous (qualifier value)	2
+Israel	1
+Degree or extent	1
+Low (qualifier value)	1
+week (qualifier value)	2
+Common (qualifier value)	1
+social resistance	1
+criteria	1
+Cell Division	1
+Liquid substance	3
+Human Development	1
+Academic degree	1
+Time	6
+Preferences (qualifier value)	1
+Life Expectancy	1
+Combined (qualifier value)	1
+Histologic	1
+Crossed (qualifier value)	1
+Office	1
+Neutropenia	1
+Phase (qualifier value)	1
+Frequency of Responses	3
+History of (contextual qualifier) (qualifier value)	1
+Secondary malignant neoplasm of liver (disorder)	1
+random assignment	1
+Room of building - Study	1
+Additive (qualifier value)	2
+Therapeutic procedure	3
+Age (qualifier value)	1
+Recording of previous events	1
+Lights, manufactured	3
+Questionnaires	1
+Light color	3
+CHOOSING	1
+Following (attribute)	1
+Primary operation (qualifier value)	1
+Significant (qualifier value)	2
+Pharmaceutical Preparations	1
+Neoplasm Metastasis	2
+pharmacotherapeutic	2
+Lighter, device (physical object)	3
+Cancer treatment response rate	3
+Resistance (Psychotherapeutic)	1
+Surgical aspects	1
+ADVANTAGE	1
+Hemoglobin G (substance)	1
+Two (qualifier value)	1
+Responses	1
+South Africa	1
+Ratio (property) (qualifier value)	1
+Euphoric mood	2
+Population	1
+III (qualifier value)	1
+Cancer resistance to treatment	1
+Same (qualifier value)	2
+Assessment procedure (procedure)	1
+First (qualifier value)	2
+development aspects	1
+Left (qualifier value)	3
+Random Allocation	2
+Light	3
+Long (qualifier value)	1
+Primary	1
+Scientific Study	1
+High	2
+MST	1
+Groups (qualifier value)	11
+Absolute neutrophil count	1
+Group (social concept)	10
+Effect (qualifier value)	1
+therapeutic aspects	3
+Chemotherapy, Adjuvant	1
+Timing (attribute)	2
+Duration	2
+Secondary malignant neoplastic disease (disorder)	1
+history	1
+irinotecan	10
+benefits	1
+Alanine Transaminase	1
+Medical History	1
+Lighting	3
+One (qualifier value)	1
+GENERAL OPERATIVE PROCEDURES	1
+Adenocarcinoma	1
+Median (qualifier value)	2
+Patients	6
+Diarrhea	1
+Pharmacotherapy	2
+L (qualifier value)	3
+Weekly (qualifier value)	1
+Secondary to	1
+Research Personnel	1
+Liquid (finding)	3
+year (qualifier value)	1
+LAB ABNORMALITY	1
+Metastatic to	1
+standard therapy	1
+Proven findings	1
+History of (present illness) (contextual qualifier) (qualifier value)	1
+Fluorouracil	3
+Variable (qualifier value)	1
+ENDPOINT	2
+Differential (qualifier value)	1
+Timed (qualifier value)	2
+Toxic effect	3
+Countries (geographic location)	1
+Most (qualifier value)	1
+Chemotherapy-Oncologic Procedure	2
+Synchronous (qualifier value)	1

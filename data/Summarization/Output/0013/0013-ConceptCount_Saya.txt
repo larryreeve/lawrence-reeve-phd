@@ -1,0 +1,97 @@
+Risk	1
+Supportive care	1
+survival aspects	3
+Set (Psychology)	1
+regimen	2
+Progression (attribute)	1
+Second (qualifier value)	1
+Upper arm	1
+Consistent with (qualifier value)	1
+Creatinine increased	1
+APC Gene	1
+Chromium	1
+Rating	1
+Carcinoma, Squamous Cell	1
+Continuance of life	3
+New (qualifier value)	1
+Ifosfamide	4
+Stage of Surgical Procedure	1
+Overall [Publication Type]	1
+Worsening (qualifier value)	3
+Result (navigational concept)	2
+With frequency	2
+Greater (qualifier value)	1
+week (qualifier value)	2
+Common (qualifier value)	1
+Agent (attribute)	1
+Step (qualifier value)	1
+Future	1
+Toxicity aspects	2
+Deterioration of status	3
+PRIOR	2
+Hydroxyurea	1
+Improving (qualifier value)	4
+Frequency of Responses	2
+In complete remission (qualifier value)	1
+Improved (qualifier value)	4
+Room of building - Study	1
+Radiation therapy	1
+Therapeutic procedure	2
+Reception	1
+Mesna	1
+Radiation-Sensitizing Agents	1
+Human Females	2
+Reasoning	1
+Analysis of substances	1
+Arm	1
+Significant (qualifier value)	2
+Human adult females	2
+Pharmaceutical Preparations	2
+radiotherapeutic	1
+pharmacotherapeutic	1
+Cancer treatment response rate	2
+Bleomycin	1
+Increase (qualifier value)	1
+Bladder	1
+LIST	1
+Diagnostic Neoplasm Staging	1
+Euphoric mood	1
+Entire bladder	1
+Persistent (qualifier value)	1
+Analysis	1
+First (qualifier value)	1
+Combinations (physical object)	1
+Possible	1
+milligram	5
+Type of cell (qualifier value)	1
+Closed approach	1
+High	1
+Scientific Study	1
+primary tumor	2
+Oral (qualifier value)	1
+therapeutic aspects	2
+benefits	1
+Attenuated by (contextual qualifier) (qualifier value)	4
+Mitolactol	1
+recur	1
+Potential	1
+Patients	7
+Closed	1
+utilization	1
+Pharmacotherapy	1
+VALUING	1
+Magnesium	5
+Present	2
+More (qualifier value)	1
+Impact	2
+Freedom	1
+Interval (qualifier value)	1
+Fluorouracil	1
+Limited (qualifier value)	2
+Cesium	1
+Differential (qualifier value)	1
+Toxic effect	2
+Most (qualifier value)	1
+Chemotherapy-Oncologic Procedure	1
+minority	1
+Cisplatin	6

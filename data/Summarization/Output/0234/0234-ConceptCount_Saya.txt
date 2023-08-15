@@ -1,0 +1,128 @@
+Administration (procedure)	2
+Patient observation	1
+Clinical (qualifier value)	1
+Cytotoxicity	1
+preserved	1
+Adriamycin	1
+Doxycycline	4
+Chronic poisoning (disorder)	1
+Observation in research	1
+Alternating (qualifier value)	1
+Dosages (qualifier value)	3
+Median Statistical Measurement	5
+Physical activity	4
+Anthracyclines	1
+Guidelines	1
+DOS	1
+Volume (property) (qualifier value)	1
+V - volt (qualifier value)	1
+New (qualifier value)	1
+Epithelium	11
+Result (navigational concept)	1
+Cardiotoxicity	6
+Degree or extent	1
+week (qualifier value)	2
+Minor	1
+criteria	1
+Other	1
+partial response	1
+Human Development	2
+Academic degree	1
+Several (qualifier value)	1
+Toxicity aspects	3
+Velocity (property) (qualifier value)	1
+Drug Therapy, Combination	1
+Radioisotopes	1
+PRIOR	1
+Intravenous	1
+Hematologic (qualifier value)	1
+Frequency of Responses	1
+V (voltage)	1
+progesterone receptor negative	1
+Observers	1
+Limitation (attribute)	1
+month (qualifier value)	3
+Room of building - Study	2
+Therapeutic procedure	1
+Heart alternation	1
+Reception	1
+cardiac toxicity	2
+Molecular Weight	1
+Organization administrative structures	1
+Laboratories	1
+Physiologic Organization	1
+The science and art of healing	3
+Reduced (qualifier value)	1
+Medial Dorsal Nucleus	1
+Pharmaceutical Preparations	2
+guiding characteristics	1
+Major (qualifier value)	1
+pharmacotherapeutic	1
+Cancer treatment response rate	1
+Epithelial	1
+Long-term (qualifier value)	1
+Therapeutic	3
+LAB DATA	1
+Responses	1
+Ohio	1
+Vanadium	1
+Methods	2
+Four (qualifier value)	1
+Immature (qualifier value)	1
+Minor (value)	1
+organizational	1
+Heart failure NOS (disorder)	1
+Same (qualifier value)	1
+Assessment procedure (procedure)	1
+Doxorubicin	6
+Adria Pharmaceuticals	1
+development aspects	2
+milligram	8
+Failed	1
+Methodology	2
+therapeutic index	1
+Cardiac function (observable entity)	1
+Scientific Study	2
+Activities	4
+Effect (qualifier value)	1
+Approach (attribute)	3
+therapeutic aspects	1
+Evaluation	1
+Duration	3
+Alkylating Agents	1
+Effective (qualifier value)	1
+Anthracycline Antibiotics	1
+Compound (qualifier value)	2
+Cineradiography of cardiovascular system (procedure)	1
+5'-deoxy-5-fluorouridine	4
+One (qualifier value)	1
+categories	1
+Epirubicin	3
+Median (qualifier value)	5
+Potential	2
+Negative (qualifier value)	1
+Patients	7
+Unknown (qualifier value)	1
+EUROPEAN	1
+Administration	2
+utilization	1
+Eq (qualifier value)	1
+Pharmacotherapy	1
+Subclinical (qualifier value)	1
+Magnesium	8
+Endurance of activity	4
+Better (qualifier value)	1
+Anti-Arrhythmia Agents	1
+Injury inflicted to the body by an external force	2
+Metastatic to	1
+Lesion	1
+Three (qualifier value)	2
+Cardio-	2
+Cyclophosphamide	1
+Physicians	1
+Antineoplastic Agents	1
+Toxic effect	4
+Chemotherapy-Oncologic Procedure	1
+Discontinuation (procedure)	2
+Epilepsy	11
+Positive (qualifier value)	1

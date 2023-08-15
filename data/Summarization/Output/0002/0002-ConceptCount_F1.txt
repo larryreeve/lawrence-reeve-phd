@@ -1,0 +1,7 @@
+regimen	1
+Malignant neoplasm of cervix uteri	1
+Progression-Free Survival	1
+Pharmacotherapy	1
+Chemotherapy-Oncologic Procedure	1
+pharmacotherapeutic	1
+Cisplatin	1

@@ -1,0 +1,68 @@
+Carcinoma of cervix (disorder)	3	T191-Neoplastic Process
+Analysis of substances	3	T059-Laboratory Procedure
+Worsening (qualifier value)	1	T080-Qualitative Concept
+Interpretation (attribute)	1	T170-Intellectual Product
+GENERAL OPERATIVE PROCEDURES	1	T061-Therapeutic or Preventive Procedure
+Outcome Measures	1	T081-Quantitative Concept
+Analysis	3	T062-Research Activity
+Combined (qualifier value)	1	T080-Qualitative Concept
+Bad (qualifier value)	1	T080-Qualitative Concept
+year (qualifier value)	2	T079-Temporal Concept
+findings	1	T169-Functional Concept
+Recurrence	2	T067-Phenomenon or Process
+Scheduled (qualifier value)	1	T169-Functional Concept
+Therapeutic procedure	3	T061-Therapeutic or Preventive Procedure
+Deterioration of status	1	T080-Qualitative Concept
+Urology	1	T091-Biomedical Occupation or Discipline
+Primary operation (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Surgical Patients	1	T101-Patient or Disabled Group
+month (qualifier value)	1	T079-Temporal Concept
+Complication Aspects	1	T046-Pathologic Function
+Group (social concept)	2	T096-Group
+Cervical (qualifier value)	2	T082-Spatial Concept
+Age (qualifier value)	1	T079-Temporal Concept
+Recurrent disease (finding)	1	T047-Disease or Syndrome
+Accountant NOS (occupation)	1	T097-Professional or Occupational Group
+Methods	1	T170-Intellectual Product
+Patterns (qualifier value)	1	T082-Spatial Concept
+Illness (finding)	1	T046-Pathologic Function
+Significant (qualifier value)	1	T078-Idea or Concept
+Surgical aspects	1	T169-Functional Concept
+Good (qualifier value)	1	T080-Qualitative Concept
+Human Females	3	T098-Population Group
+Malaise	1	T184-Sign or Symptom
+Histological type (attribute)	1	T170-Intellectual Product
+Methodology	2	T170-Intellectual Product
+Groups (qualifier value)	3	T170-Intellectual Product
+With type (attribute)	1	T169-Functional Concept
+Radiotherapy, Adjuvant	1	T061-Therapeutic or Preventive Procedure
+Medical (qualifier value)	1	T169-Functional Concept
+Morbidity - disease rate	2	T102-Group Attribute
+Surgery specialty	1	T091-Biomedical Occupation or Discipline
+Human adult females	3	T098-Population Group
+Special (qualifier value)	1	T080-Qualitative Concept
+Malignant Neoplasms	1	T191-Neoplastic Process
+Cancer Genus	1	T009-Invertebrate
+Disease-Free Survival	2	T081-Quantitative Concept
+radiotherapeutic	4	T170-Intellectual Product
+Procedures	1	T058-Health Care Activity
+Lymphangiography	1	T060-Diagnostic Procedure
+Stage 1 lower case bee	1	T185-Classification
+NODE	1	T023-Body Part, Organ, or Organ Component
+Stage 1 upper case bee	1	T185-Classification
+Diameter (qualifier value)	2	T032-Organism Attribute
+Complication	1	T046-Pathologic Function
+survival aspects	2	T081-Quantitative Concept
+Two (qualifier value)	1	T081-Quantitative Concept
+therapeutic aspects	3	T169-Functional Concept
+Better (qualifier value)	1	T080-Qualitative Concept
+Severe (severity modifier) (qualifier value)	1	T080-Qualitative Concept
+Positive (qualifier value)	2	T080-Qualitative Concept
+Radiation therapy	4	T061-Therapeutic or Preventive Procedure
+Multivariate Analysis	1	T081-Quantitative Concept
+adjuvant therapy	1	T061-Therapeutic or Preventive Procedure
+Primary	1	T080-Qualitative Concept
+Malignant neoplasm, primary (morphologic abnormality)	1	T191-Neoplastic Process
+morbidity aspects	2	T170-Intellectual Product
+Continuance of life	2	T052-Activity
+Patients	3	T101-Patient or Disabled Group

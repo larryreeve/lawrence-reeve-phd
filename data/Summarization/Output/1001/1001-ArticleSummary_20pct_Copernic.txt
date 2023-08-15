@@ -1,0 +1,57 @@
+Purpose: As previously shown, antibody treatment increased survival of patients with resected colorectal cancer of stage Dukes' C.
+
+Since the 5-year analysis was criticized because of the wide range (2.7 to 7.5 years) of follow-up time, we performed a 7-year analysis with only four of 189 patients monitored for less than 5 years.
+
+Primary end points were overall survival and disease-free interval.
+
+Patients were stratified by a dynamic randomization according to center, sex, location of tumor, number of affected lymph nodes, and preoperative carcinoembryonic antigen concentration.
+
+After 7 years of follow-up evaluation, treatment had reduced overall mortality by 32% (Cox's proportional hazard, P < .01; log-rank, P = .01) and decreased the recurrence rate by 23% (Cox's proportional hazard, P < .04; log-rank, P = .07).
+
+Conclusion: The now-matured study shows that 17-1A antibody administered after surgery prevents the development of distant metastasis in approximately one third of patients.
+
+The therapeutic effect is maintained after 7 years of follow-up evaluation.
+
+THE CURRENT PESSIMISTIC VIEW of unconjugated monoclonal antibodies as cancer therapeutics has been largely influenced by the negative outcome of multiple clinical trials initiated shortly after introduction of the hybridoma technology.
+
+Thus, it comes as no surprise that recent reports on some successes obtained with antibody therapy in lymphoma, breast, and colorectal carcinoma were met with great reserve.
+
+In contrast to other trials aimed at patients with larger metastatic tumor masses and using regression or shrinkage as the end point, this one on colorectal cancer of stage Dukes' C required microscopically complete resection of the primary tumor for patients to be admitted.3 As the primary end point, overall-survival was determined at 5 years.
+
+Here, we report on the 7-year follow-up study of this prospective randomized two-arm trial in minimal residual disease that used the murine 17-1A antibody, 4 which recognizes a 34-kd glycoprotein of the cell membrane of epithelial cells.5 The 5-year analysis had shown that a short, albeit intensive, postoperative course of antibody treatment (900 mg total dose) significantly reduced the appearance of distant metastases, but did not affect the rate of local relapses.
+
+All patients were stratified according to Zelen 8 by the following factors participating center, sex, location of tumor, stage (Dukes' Cl or C2 equivalent to pN1 or pN2-3), number of affected lymph nodes, and carcinoembryonic antigen (CEA) level before surgery (Table 1) In the treated arm, more patients had pT2 and pT3 tumors, and fewer had pT4 tumors However, treated patients appeared to have had higher numbers of involved lymph nodes (pN2) and tumors of less differentiated histology (grade 3).
+
+However, a Fishers' exact test, companng the distnbutlon of patients according to all prognostic variables, showed no significant differences Randomlzation before consent was performed and evaluated according to Zelen 9 On approval by legal experts in 1985, this procedure was accepted by the ethical review board Statistical analyses were performed according to SAS (Statistical Analysis System, Cary, NC) To test for potential selection bias in the study, a retrospective analysis was performed at Medizimnische Hochschule Hannover on 67 Dukes' C colorectal cancer patients selected from 107 patients seen between 1980 and 1985 They fulfilled the entry criteria for the 17-1A clinical trial and were monitored for at least 5 years each The survival analysis was performed by the Instutut fur Medlzinische Informatlk und Blomathematlk, Umversltat Essen The overall survival according to Kaplan-Meier curve is nearly identical to the control group of the 17-1A trial (log-rank, P = 97), thus, this historical control does not show any selection bias.
+
+The first 5-year analysis of the study performed by the Essen biometrical center was confirmed by two independent external audits, both of which relied on examination of original representative record samples.
+
+For the end point analysis, standardized and objectively verifiable dates were used for all patients, e, time point of surgery up to death of all cause or date of last contact alive for overall survival analysis In a separate analysis, cancer-related mortality was assessed, e, death without recurrence was not counted as an event.
+
+When tested for antibody response against murine antibody (HAMA), 80% of treated patients developed a distinct HAMA response after the second or third nfusion.
+
+As the 7-year median follow-up data confirm the previously reported 5-year findings, the conclusion seems warranted that antibody treatment improves the chances of curatively operated patients.
+
+The conspicuous inefficacy of the antibody on local recurrences (Fig 4) may account for the smaller P values in the disease-free-interval analysis.
+
+Local recurrences may not affect the overall survival curve to the same degree as distant metastases do (Fig 3); therefore, survival at 7 years appears to be superior to the disease-free interval.
+
+Radiation therapy now accepted as efficient to reduce local recurrences was not part of our clhmcal protocol, but was allowed for patients in the control group.
+
+The pattern of first recurrences beyond 5 postoperative years shows that patients in each group still recur, with manifest distant metastasis as first sign of a relapse.
+
+This finding lends some support to the concept of long-lasting dormancy in early disseminated tumor cells.
+
+Indeed, nuclear proliferation markers such as Ki-67 or p120 nucleolar antigen were rarely detected on micrometastatic cells disseminated to bone marrow.
+
+Interestingly, in the most recent report (median follow-up time, 6.5 years), adjuvant therapy with fluorouracil plus levamisol administered to patients with Dukes' C colon cancer had only a minimal effect on local recurrences.
+
+In that trial, only colon cancer patients were treated who were known to have fewer local relapses than rectum cancer patients and were included in our trial.
+
+The dose of antibody chosen deserves a special comment.
+
+This strategy, originally pro1 7 posed by Sears et al, was only partially successful, as only about 20% of the recipients did not respond to mouse immunoglobulin, while the others exhibited a distinct, albeit slow rise of HAMA titers.
+
+Antildiotype antibodies were detected in most HAMA-posltive samples.
+
+However, patients with and without manifest metastatic relapses did not differ in antiidiotype titers.

@@ -1,0 +1,64 @@
+Analysis of substances	3	T059-Laboratory Procedure
+Scientific Study	1	T059-Laboratory Procedure
+Distributing	1	T078-Idea or Concept
+Gender	1	T022-Body System
+Analysis	3	T062-Research Activity
+Mature (qualifier value)	1	T079-Temporal Concept
+Occult (qualifier value)	1	T169-Functional Concept
+year (qualifier value)	2	T079-Temporal Concept
+Recurrence	1	T067-Phenomenon or Process
+Preoperative (qualifier value)	1	T032-Organism Attribute
+Interval (qualifier value)	1	T079-Temporal Concept
+Proportional (qualifier value)	6	T080-Qualitative Concept
+Prostaglandin-Endoperoxide Synthase	6	T116-Amino Acid, Peptide, or Protein
+Concentration	1	T041-Mental Process
+Therapeutic	1	T169-Functional Concept
+Aspects of mortality statistics	1	T170-Intellectual Product
+Therapeutic procedure	2	T061-Therapeutic or Preventive Procedure
+Cox microbiology subtype	6	T170-Intellectual Product
+Random Allocation	1	T062-Research Activity
+Primary operation (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Mortality Vital Statistics	1	T081-Quantitative Concept
+Effect (qualifier value)	3	T080-Qualitative Concept
+Balanced - adjective	1	T169-Functional Concept
+Spatial Distribution	1	T082-Spatial Concept
+Location (attribute)	1	T082-Spatial Concept
+Result (navigational concept)	1	T169-Functional Concept
+Relapse	1	T067-Phenomenon or Process
+Methods	1	T170-Intellectual Product
+Significant (qualifier value)	2	T078-Idea or Concept
+Methodology	1	T170-Intellectual Product
+Increased (qualifier value)	1	T169-Functional Concept
+The science and art of healing	1	T061-Therapeutic or Preventive Procedure
+Differential (qualifier value)	1	T080-Qualitative Concept
+Local (qualifier value)	2	T082-Spatial Concept
+Count of entities (property) (qualifier value)	1	T081-Quantitative Concept
+Room of building - Study	1	T073-Manufactured Object
+Disease	1	T047-Disease or Syndrome
+Postop	1	T079-Temporal Concept
+Satellite Viruses	1	T005-Virus
+Overall [Publication Type]	2	T170-Intellectual Product
+Third (qualifier value)	1	T081-Quantitative Concept
+Coitus	1	T055-Individual Behavior
+Disease-Free Survival	1	T081-Quantitative Concept
+Reduced (qualifier value)	1	T080-Qualitative Concept
+pM category (observable entity)	1	T201-Clinical Attribute
+Antibodies	2	T116-Amino Acid, Peptide, or Protein
+Magnesium	1	T123-Biologically Active Substance
+Rank	6	T170-Intellectual Product
+Total (qualifier value)	1	T080-Qualitative Concept
+Human Development	1	T039-Physiologic Function
+survival aspects	2	T081-Quantitative Concept
+therapeutic aspects	2	T169-Functional Concept
+ENDPOINT	1	T062-Research Activity
+Purpose (attribute)	1	T033-Finding
+hazard	6	T080-Qualitative Concept
+Carcinoembryonic Antigen	1	T116-Amino Acid, Peptide, or Protein
+Conclude	1	T122-Biomedical or Dental Material
+Logger (occupation)	6	T097-Professional or Occupational Group
+development aspects	1	T039-Physiologic Function
+Primary	1	T080-Qualitative Concept
+Continuance of life	2	T052-Activity
+Rating	1	T062-Research Activity
+milligram	1	T081-Quantitative Concept
+Patients	2	T101-Patient or Disabled Group

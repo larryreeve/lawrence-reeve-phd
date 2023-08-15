@@ -1,0 +1,1329 @@
+Introduction
+  1
+  C1293116|Introduction (procedure)|T058
+Colorectal cancer
+  1
+  C0009402|Colorectal Cancer|T191
+one person
+  2
+  C0205447|One (qualifier value)|T081
+  C0027361|Persons|T098
+40 patients
+  1
+  C0030705|Patients|T101
+metastatic disease
+  1
+  C0027627|Neoplasm Metastasis|T191
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+median survival
+  4
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+10 12 months
+  1
+  C0439231|month (qualifier value)|T079
+tumour progresses
+  1
+  C0178874|Neoplasm progression|T191
+standard treatment
+  4
+  C0038137|standards characteristics|T170
+  C0087111|Therapeutic procedure|T061
+  C0175675|Standards of Weights and Measures|T080
+  C0039798|therapeutic aspects|T169
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+onset
+  1
+  C0332162|Onset of (contextual qualifier) (qualifier value)|T080
+worsening
+  1
+  C0332271|Worsening (qualifier value)|T080
+poor quality
+  3
+  C0332306|With quality (attribute)|T080
+  C0542537|Poor - grade value|T080
+  C0699761|Financially poor|T080
+cytotoxic agents
+  1
+  C0304497|Cytotoxic agent (substance)|T121
+low response rates
+  3
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+  C0205251|Low (qualifier value)|T080
+patients
+  1
+  C0030705|Patients|T101
+supportive care
+  1
+  C0344211|Supportive care|T058
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+or delayed chemotherapy
+  5
+  C0205421|Deferred (qualifier value)|T079
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0069590|ORALIT|T197
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+quality
+  1
+  C0332306|With quality (attribute)|T080
+value
+  1
+  C0042295|VALUING|T080
+Irinotecan
+  1
+  C0123931|irinotecan|T109
+topoisomerase I inhibitor
+  1
+  C0598317|Topoisomerase inhibitor (substance)|T121
+DNA replication step
+  2
+  C0012902|DNA Replication|T045
+  C1261552|Step (qualifier value)|T169
+cell division
+  1
+  C0007590|Cell Division|T043
+irinotecan
+  1
+  C0123931|irinotecan|T109
+objective antitumour activity
+  4
+  C0600075|Endurance of activity|T033
+  C0441655|Activities|T052
+  C0221187|Physical activity|T056
+  C0018017|Goals|T170
+tumour stabilisation
+  2
+  C1293130|Stabilization (procedure)|T061
+  C0027651|Neoplasms|T191
+Common side-effects
+  2
+  C0001688|adverse effects|T037
+  C0205214|Common (qualifier value)|T081
+delayed diarrhoea
+  2
+  C0011991|Diarrhea|T184
+  C0205421|Deferred (qualifier value)|T079
+neutropenia
+  1
+  C0027947|Neutropenia|T047
+early cholinergic syndrome
+  2
+  C0205085|Early (qualifier value)|T079
+  C0274702|Poisoning by parasympathomimetic drug (disorder)|T037
+nausea
+  1
+  C0027497|Nausea|T033
+vomiting
+  2
+  C0042963|Vomiting|T184
+  C0401156|Vomiting NOS (disorder)|T047
+alopecia
+  1
+  C0002170|Alopecia|T184
+asthenia
+  1
+  C0004093|Asthenia|T184
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+toxic effects
+  1
+  C0600688|Toxic effect|T037
+severe diarrhoea
+  2
+  C0205082|Severe (severity modifier) (qualifier value)|T080
+  C0011991|Diarrhea|T184
+neutropenia
+  1
+  C0027947|Neutropenia|T047
+irinotecan
+  1
+  C0123931|irinotecan|T109
+quality
+  1
+  C0332306|With quality (attribute)|T080
+other clinical variables
+  3
+  C0205394|Other|T080
+  C0205210|Clinical (qualifier value)|T080
+  C0439828|Variable (qualifier value)|T080
+participants
+  1
+  C0679646|participant|T098
+patients
+  1
+  C0030705|Patients|T101
+Methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Endpoints
+  1
+  C0150100|ENDPOINT|T062
+Overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+primary endpoint
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0150100|ENDPOINT|T062
+  C0205225|Primary|T080
+secondary objectives
+  3
+  C0036525|Metastatic to|T169
+  C0018017|Goals|T170
+  C0175668|Secondary to|T079
+impact
+  1
+  C0726639|Impact|T168
+tumour related symptoms
+  3
+  C0683368|symptoms|T169
+  C0445223|Related (finding)|T033
+  C0027651|Neoplasms|T191
+quality
+  1
+  C0332306|With quality (attribute)|T080
+Patients selection
+  1
+  C0242802|Patient Selection|T058
+patients
+  1
+  C0030705|Patients|T101
+following criteria
+  2
+  C0332282|Following (attribute)|T079
+  C0243161|criteria|T170
+histologically proven metastatic colorectal cancer
+  4
+  C0205462|Histologic|T169
+  C0456369|Proven findings|T080
+  C0700164|proven venom|T123
+  C0948380|Colorectal cancer metastatic|T191
+progressive metastatic disease
+  4
+  C0036525|Metastatic to|T169
+  C0677932|progressive disease|T191
+  C0205329|Progressive (qualifier value)|T169
+  C0027627|Neoplasm Metastasis|T191
+25% increase
+  1
+  C0442805|Increase (qualifier value)|T169
+increase
+  1
+  C0442805|Increase (qualifier value)|T169
+baseline value
+  2
+  C0168634|BaseLine|T122
+  C0042295|VALUING|T080
+L
+  10
+  C0392223|Lights, manufactured|T074
+  C0023870|Lithium|T196
+  C0336769|Lighter, device (physical object)|T073
+  C0023693|Light|T070
+  C0302908|Liquid substance|T167
+  C0023700|Lighting|T068
+  C1304698|Liquid (finding)|T033
+  C0205091|Left (qualifier value)|T082
+  C1306462|Light color|T169
+  C0475211|L (qualifier value)|T081
+inclusion
+  1
+  C0332257|Including (qualifier value)|T169
+peritoneal carcinomatosis
+  2
+  C0442034|Peritoneal (qualifier value)|T023
+  C0205699|Carcinomatosis|T191
+pelvic recurrences
+  2
+  C0030797|Pelvis|T029
+  C0034897|Recurrence|T067
+progression
+  1
+  C0449258|Progression (attribute)|T169
+tumour progression
+  1
+  C0178874|Neoplasm progression|T191
+one adjuvant
+  2
+  C0001551|Adjuvants, Immunologic|T129
+  C0205447|One (qualifier value)|T081
+age 18 75 years
+  2
+  C0001779|Age (qualifier value)|T079
+  C0439234|year (qualifier value)|T079
+performance status 0.2
+  1
+  C0935728|performance status|T033
+neutrophils L
+  12
+  C0442022|Lumbar (qualifier value)|T082
+  C0392223|Lights, manufactured|T074
+  C0023870|Lithium|T196
+  C0336769|Lighter, device (physical object)|T073
+  C0023693|Light|T070
+  C0302908|Liquid substance|T167
+  C0023700|Lighting|T068
+  C1304698|Liquid (finding)|T033
+  C0205091|Left (qualifier value)|T082
+  C0027950|Neutrophils|T025
+  C1306462|Light color|T169
+  C0475211|L (qualifier value)|T081
+L
+  10
+  C0392223|Lights, manufactured|T074
+  C0023870|Lithium|T196
+  C0336769|Lighter, device (physical object)|T073
+  C0023693|Light|T070
+  C0302908|Liquid substance|T167
+  C0023700|Lighting|T068
+  C1304698|Liquid (finding)|T033
+  C0205091|Left (qualifier value)|T082
+  C1306462|Light color|T169
+  C0475211|L (qualifier value)|T081
+institutional upper normal limit
+  3
+  C1272753|Institution (social concept)|T078
+  C0442816|Normal limits (qualifier value)|T081
+  C0547042|Upper (qualifier value)|T082
+L
+  10
+  C0392223|Lights, manufactured|T074
+  C0023870|Lithium|T196
+  C0336769|Lighter, device (physical object)|T073
+  C0023693|Light|T070
+  C0302908|Liquid substance|T167
+  C0023700|Lighting|T068
+  C1304698|Liquid (finding)|T033
+  C0205091|Left (qualifier value)|T082
+  C1306462|Light color|T169
+  C0475211|L (qualifier value)|T081
+wash-out
+  1
+  C0392674|Exhaustion (finding)|T184
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+written informed consent
+  3
+  C0043266|Writing|T090
+  C0021430|Informed Consent|T058
+  C0341628|Writer (occupation)|T097
+Patients
+  1
+  C0030705|Patients|T101
+not eligible previous treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0205156|Previous (qualifier value)|T082
+  C0039798|therapeutic aspects|T169
+bulky disease
+  1
+  C0012634|Disease|T047
+abdominal mass cm
+  2
+  C0000734|[D]Abdominal mass (context-dependent category)|T184
+  C0475210|cm (qualifier value)|T081
+metastases
+  2
+  C1290850|Secondary malignant neoplastic disease (disorder)|T191
+  C0027627|Neoplasm Metastasis|T191
+bowel obstruction
+  1
+  C0021843|Intestinal Obstruction|T047
+diarrhoea
+  1
+  C0011991|Diarrhea|T184
+Randomisation
+  1
+  C0034656|Random Allocation|T062
+study treatments
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0087111|Therapeutic procedure|T061
+Registration forms
+  2
+  C0600375|Registers (PT)|T170
+  C0376315|Manufactured form|T073
+France
+  1
+  C0016674|France|T083
+eligibility criteria
+  1
+  C0243161|criteria|T170
+criteria
+  1
+  C0243161|criteria|T170
+randomisation
+  1
+  C0034656|Random Allocation|T062
+patients
+  1
+  C0030705|Patients|T101
+best supportive care
+  3
+  C0205170|Good (qualifier value)|T080
+  C0344211|Supportive care|T058
+  C0332272|Better (qualifier value)|T080
+irinotecan mg
+  3
+  C0123931|irinotecan|T109
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+dextrose
+  1
+  C0017725|Glucose|T123
+or mg
+  3
+  C0069590|ORALIT|T197
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+aged years
+  2
+  C0439234|year (qualifier value)|T079
+  C0001792|Elderly|T100
+performance status
+  1
+  C0935728|performance status|T033
+Guidelines
+  2
+  C0220845|guiding characteristics|T170
+  C0162791|Guidelines|T170
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+alone group
+  3
+  C0441833|Groups (qualifier value)|T170
+  C0679994|alone|T102
+  C1300322|Group (social concept)|T096
+patients
+  1
+  C0030705|Patients|T101
+best supportive care
+  3
+  C0205170|Good (qualifier value)|T080
+  C0344211|Supportive care|T058
+  C0332272|Better (qualifier value)|T080
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+Supportive care
+  1
+  C0344211|Supportive care|T058
+Supportive care included antibiotics
+  3
+  C0344211|Supportive care|T058
+  C0332257|Including (qualifier value)|T169
+  C0003232|Antibiotics|T195
+analgesics
+  1
+  C0002771|Analgesics|T121
+transfusions
+  1
+  C0199960|Transfusion - action (qualifier value)|T061
+corticosteroids
+  1
+  C0001617|Adrenal Cortex Hormones|T125
+other symptomatic therapy
+  2
+  C0231220|Symptomatic (qualifier value)|T169
+  C0418967|Other therapy NOS (regime/therapy)|T061
+other topoisomerase I inhibitor
+  3
+  C0205394|Other|T080
+  C0012920|DNA Topoisomerase|T116
+  C0243077|inhibitors|T120
+assistance
+  1
+  C0018896|Helping Behavior|T054
+Localised radiation therapy to
+  3
+  C0392752|Localized (qualifier value)|T082
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+symptoms
+  1
+  C0683368|symptoms|T169
+total dose
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+Analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+Supportive care
+  1
+  C0344211|Supportive care|T058
+concomitant medications
+  1
+  C0013227|Pharmaceutical Preparations|T121
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+groups
+  1
+  C0441833|Groups (qualifier value)|T170
+analgesics
+  1
+  C0002771|Analgesics|T121
+non-opioids
+  1
+  C0242402|Opioids|T131
+Follow-up
+  1
+  C0589120|Follow-up status (finding)|T169
+Patients
+  1
+  C0030705|Patients|T101
+investigator
+  1
+  C0035173|Research Personnel|T097
+treatment weeks
+  3
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0439230|week (qualifier value)|T079
+adverse events
+  1
+  C0877248|Adverse event|T033
+common toxicity criteria
+  4
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C0205214|Common (qualifier value)|T081
+  C0243161|criteria|T170
+patients
+  1
+  C0030705|Patients|T101
+tumour status
+  1
+  C0475752|Tumor status (attribute)|T080
+symptoms
+  1
+  C0683368|symptoms|T169
+side-effects
+  1
+  C0001688|adverse effects|T037
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+death
+  1
+  C0011065|Cessation of life|T040
+only date
+  1
+  C0011008|Dates|T079
+Quality
+  1
+  C0332306|With quality (attribute)|T080
+Quality
+  1
+  C0332306|With quality (attribute)|T080
+QLQ-C30 questionnaire
+  1
+  C0034394|Questionnaires|T170
+five function scales
+  6
+  C0205451|Five (qualifier value)|T081
+  C0542341|Function|T169
+  C0175659|Weight measurement scales|T073
+  C0222045|Integumentary scale|T023
+  C0700205|Function Axis|T185
+  C0031843|physiological aspects|T039
+one global health status scale
+  6
+  C0018759|Health Status|T080
+  C0205246|Generalized (qualifier value)|T082
+  C0175659|Weight measurement scales|T073
+  C0349674|Intellectual scale|T170
+  C0222045|Integumentary scale|T023
+  C0205447|One (qualifier value)|T081
+nine symptom scales
+  4
+  C0683368|symptoms|T169
+  C0175659|Weight measurement scales|T073
+  C0222045|Integumentary scale|T023
+  C0205455|Nine (qualifier value)|T081
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+then weeks
+  1
+  C0439230|week (qualifier value)|T079
+patients
+  1
+  C0030705|Patients|T101
+Statistical analysis
+  1
+  C0871424|Statistical Analysis|T062
+Survival curves
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0205134|Curved (qualifier value)|T082
+power
+  1
+  C0032863|Power (Psychology)|T068
+patients
+  1
+  C0030705|Patients|T101
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+supportive care
+  1
+  C0344211|Supportive care|T058
+irinotecan
+  1
+  C0123931|irinotecan|T109
+randomisation
+  1
+  C0034656|Random Allocation|T062
+retrospective stratification
+  2
+  C0205363|Stratified (qualifier value)|T080
+  C0035363|Retrospective Studies|T081
+baseline prognostic factors
+  2
+  C0168634|BaseLine|T122
+  C0220901|prognostic|T170
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+age
+  1
+  C0001779|Age (qualifier value)|T079
+performance status
+  1
+  C0935728|performance status|T033
+weight loss
+  1
+  C0043096|Weight Loss|T184
+presence
+  1
+  C0392148|Providing presence (regime/therapy)|T061
+site
+  1
+  C0205145|Associated topography (attribute)|T082
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+response
+  1
+  C0871261|Responses|T054
+duration
+  1
+  C0449238|Duration|T079
+intent adjuvant
+  2
+  C0679197|Has intent (attribute)|T041
+  C0001551|Adjuvants, Immunologic|T129
+haemoglobin
+  1
+  C0019046|Hemoglobin|T116
+white blood cells
+  1
+  C0023516|Leukocytes|T025
+platelets
+  1
+  C0005821|Blood Platelets|T025
+lactate dehydrogenase
+  1
+  C0022917|Lactate Dehydrogenase|T116
+transaminases
+  2
+  C0919834|Transaminase Assay|T059
+  C0002594|Transaminases|T116
+alkaline phosphatase
+  2
+  C1318717|Alkaline phosphatase stain|T130
+  C0002059|Alkaline Phosphatase|T116
+bilirubin
+  1
+  C0005437|Bilirubin|T123
+protein
+  2
+  C0033684|Proteins|T116
+  C0202202|Protein measurement|T059
+carcinoembryonic antigen
+  1
+  C0007082|Carcinoembryonic Antigen|T116
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+patients
+  1
+  C0030705|Patients|T101
+association
+  2
+  C0004083|Mental association|T041
+  C0699792|Relationship by association|T054
+Model selection
+  2
+  C0036576|Selection (Genetics)|T045
+  C0026336|Models|T170
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+p values to
+  1
+  C0879541|p-value|T081
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+pain-free survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0908489|Pain-Free|T109
+Quality
+  1
+  C0332306|With quality (attribute)|T080
+univariate analyses of variance
+  1
+  C0002780|Analysis of Variance|T081
+Kaplan Meier estimates
+  1
+  C0750572|ESTIMATED|T078
+logrank tests
+  1
+  C0392366|Tests (qualifier value)|T170
+Results
+  1
+  C1274040|Result (navigational concept)|T169
+Patients data
+  1
+  C0030705|Patients|T101
+patients
+  1
+  C0030705|Patients|T101
+randomly allocated irinotecan
+  2
+  C0123931|irinotecan|T109
+  C0034656|Random Allocation|T062
+supportive care
+  1
+  C0344211|Supportive care|T058
+patients
+  1
+  C0030705|Patients|T101
+patients characteristics
+  1
+  C0815172|patient characteristics|T201
+more patients
+  2
+  C0205172|More (qualifier value)|T081
+  C0030705|Patients|T101
+poor performance status
+  3
+  C0542537|Poor - grade value|T080
+  C0699761|Financially poor|T080
+  C0935728|performance status|T033
+reference values
+  1
+  C0034926|Reference Values|T081
+Six patients
+  2
+  C0205452|Six (qualifier value)|T081
+  C0030705|Patients|T101
+irinotecan
+  1
+  C0123931|irinotecan|T109
+Irinotecan
+  1
+  C0123931|irinotecan|T109
+months
+  1
+  C0439231|month (qualifier value)|T079
+patients
+  1
+  C0030705|Patients|T101
+first infusion
+  2
+  C0574032|Infusion (procedure)|T061
+  C0205435|First (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+subsequent anticancer chemotherapies
+  3
+  C0750530|SUBSEQUENT|T078
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013216|Pharmacotherapy|T061
+fluorouracil regimen
+  2
+  C0016360|Fluorouracil|T114
+  C0677937|regimen|T061
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+fluorouracil regimen
+  2
+  C0016360|Fluorouracil|T114
+  C0677937|regimen|T061
+nine other drugs
+  3
+  C0205394|Other|T080
+  C0013227|Pharmaceutical Preparations|T121
+  C0205455|Nine (qualifier value)|T081
+one irinotecan
+  2
+  C0123931|irinotecan|T109
+  C0205447|One (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Concomitant medications
+  1
+  C0013227|Pharmaceutical Preparations|T121
+groups
+  1
+  C0441833|Groups (qualifier value)|T170
+Overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+events
+  1
+  C0441471|Events (event)|T051
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+survival probability
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0033204|Probability|T081
+events
+  1
+  C0441471|Events (event)|T051
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+Median follow-up
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0589120|Follow-up status (finding)|T169
+12.9 months
+  1
+  C0439231|month (qualifier value)|T079
+Patients
+  1
+  C0030705|Patients|T101
+benefit
+  1
+  C0814225|benefits|T081
+1-year survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0439234|year (qualifier value)|T079
+supportive care groups
+  2
+  C0344211|Supportive care|T058
+  C0441833|Groups (qualifier value)|T170
+Median survival
+  4
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+6.5 months
+  1
+  C0439231|month (qualifier value)|T079
+univariate Cox model
+  1
+  C0010234|Cox Models|T170
+patients
+  1
+  C0030705|Patients|T101
+same prognosis
+  2
+  C0033325|Forecast of outcome|T058
+  C0445247|Same (qualifier value)|T080
+benefit
+  1
+  C0814225|benefits|T081
+events
+  1
+  C0441471|Events (event)|T051
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+survival probability
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0033204|Probability|T081
+events
+  1
+  C0441471|Events (event)|T051
+months
+  1
+  C0439231|month (qualifier value)|T079
+events
+  1
+  C0441471|Events (event)|T051
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+survival probability
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0033204|Probability|T081
+events
+  1
+  C0441471|Events (event)|T051
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+Multivariate Cox regression
+  4
+  C0684320|Disease regression|T046
+  C0684321|Regression - mental defense mechanism|T055
+  C0033551|Prostaglandin-Endoperoxide Synthase|T116
+  C0442996|Cox microbiology subtype|T170
+treatment group
+  1
+  C0036669|Sensitivity Training Groups|T065
+survival benefit
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0814225|benefits|T081
+Secondary endpoints
+  3
+  C0036525|Metastatic to|T169
+  C0150100|ENDPOINT|T062
+  C0175668|Secondary to|T079
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+More patients
+  2
+  C0205172|More (qualifier value)|T081
+  C0030705|Patients|T101
+performance status
+  1
+  C0935728|performance status|T033
+Pain-free survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0908489|Pain-Free|T109
+supportive care group
+  3
+  C0344211|Supportive care|T058
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+higher proportion
+  3
+  C0205351|Proportional (qualifier value)|T080
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+events
+  1
+  C0441471|Events (event)|T051
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+survival probability
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0033204|Probability|T081
+events
+  1
+  C0441471|Events (event)|T051
+months
+  1
+  C0439231|month (qualifier value)|T079
+compliance
+  2
+  C0009563|Biomechanical compliance|T081
+  C0030680|Patient Compliance|T055
+Compliance
+  2
+  C0009563|Biomechanical compliance|T081
+  C0030680|Patient Compliance|T055
+univariate analyses of variance
+  1
+  C0002780|Analysis of Variance|T081
+global quality
+  2
+  C0205246|Generalized (qualifier value)|T082
+  C0332306|With quality (attribute)|T080
+pain score
+  1
+  C0582148|Pain score (observable entity)|T033
+dyspnoea
+  1
+  C0013404|Dyspnea|T184
+appetite loss
+  1
+  C0003123|Anorexia|T184
+financial impact scores
+  3
+  C0449820|Scores (qualifier value)|T081
+  C0726639|Impact|T168
+  C0376243|financial|T081
+diarrhoea score
+  2
+  C0449820|Scores (qualifier value)|T081
+  C0011991|Diarrhea|T184
+Analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+results
+  1
+  C1274040|Result (navigational concept)|T169
+sleep disturbance
+  2
+  C0037317|Sleep disturbances|T047
+  C0700201|Dyssomnias|T047
+financial scores
+  2
+  C0449820|Scores (qualifier value)|T081
+  C0376243|financial|T081
+Diarrhoea score
+  2
+  C0449820|Scores (qualifier value)|T081
+  C0011991|Diarrhea|T184
+Time
+  1
+  C0040223|Time|T079
+chosen threshold
+  2
+  C0449864|Threshold (property) (qualifier value)|T169
+  C0812351|CHOOSING|T041
+Safety
+  1
+  C0036043|Safety|T068
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+adverse events
+  1
+  C0877248|Adverse event|T033
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+Patients
+  1
+  C0030705|Patients|T101
+high incidence
+  4
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+  C0235146|Euphoric mood|T041
+  C0205250|High|T080
+especially pain
+  2
+  C0205555|Special (qualifier value)|T080
+  C0030193|Pain|T184
+asthenia
+  1
+  C0004093|Asthenia|T184
+significantly more patients
+  3
+  C0205172|More (qualifier value)|T081
+  C0030705|Patients|T101
+  C0750502|Significant (qualifier value)|T078
+severe events
+  2
+  C0441471|Events (event)|T051
+  C0205082|Severe (severity modifier) (qualifier value)|T080
+especially neutropenia
+  2
+  C0205555|Special (qualifier value)|T080
+  C0027947|Neutropenia|T047
+nausea
+  1
+  C0027497|Nausea|T033
+diarrhoea
+  1
+  C0011991|Diarrhea|T184
+Two
+  1
+  C0205448|Two (qualifier value)|T081
+association
+  2
+  C0004083|Mental association|T041
+  C0699792|Relationship by association|T054
+diarrhoea
+  1
+  C0011991|Diarrhea|T184
+febrile neutropenia
+  1
+  C0746883|Febrile neutropenia|T047
+Admission
+  1
+  C0809949|ADMISSION|T058
+days
+  1
+  C0439228|day (qualifier value)|T079
+days
+  1
+  C0439228|day (qualifier value)|T079
+Discussion
+  1
+  C0557061|Discussion (procedure)|T061
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+life
+  1
+  C0376558|Life|T078
+benefit
+  1
+  C0814225|benefits|T081
+probability
+  1
+  C0033204|Probability|T081
+Other efficacy endpoints
+  2
+  C0205394|Other|T080
+  C0150100|ENDPOINT|T062
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+pain-free survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0908489|Pain-Free|T109
+quality
+  1
+  C0332306|With quality (attribute)|T080
+significantly
+  1
+  C0750502|Significant (qualifier value)|T078
+survival advantage
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0308269|ADVANTAGE|T131
+well recognised prognostic factor
+  2
+  C0205170|Good (qualifier value)|T080
+  C0220901|prognostic|T170
+multivariate regression
+  2
+  C0684320|Disease regression|T046
+  C0684321|Regression - mental defense mechanism|T055
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+survival data
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+study also
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+advantage
+  1
+  C0308269|ADVANTAGE|T131
+results
+  1
+  C1274040|Result (navigational concept)|T169
+performance status deterioration
+  2
+  C0868945|Deterioration|T067
+  C0935728|performance status|T033
+weight loss
+  1
+  C0043096|Weight Loss|T184
+pain control
+  1
+  C1304888|Pain control (procedure)|T061
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+EORTC QLQC30 questionnaire
+  1
+  C0034394|Questionnaires|T170
+safety profile
+  1
+  C0036043|Safety|T068
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+diarrhoea
+  1
+  C0011991|Diarrhea|T184
+result
+  1
+  C1274040|Result (navigational concept)|T169
+Grade 3.4 neutropenia
+  2
+  C0441800|Grade|T185
+  C0027947|Neutropenia|T047
+grade 3.4 vomiting
+  3
+  C0441800|Grade|T185
+  C0042963|Vomiting|T184
+  C0401156|Vomiting NOS (disorder)|T047
+Asthenia
+  1
+  C0004093|Asthenia|T184
+pain
+  1
+  C0030193|Pain|T184
+neurological symptoms
+  1
+  C0235031|Neurologic Symptoms|T184
+patients
+  1
+  C0030705|Patients|T101
+eaceful end
+  1
+  C0444930|End (qualifier value)|T082
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+supportive care
+  1
+  C0344211|Supportive care|T058
+severe symptoms
+  2
+  C0683368|symptoms|T169
+  C0205082|Severe (severity modifier) (qualifier value)|T080
+irinotecan
+  1
+  C0123931|irinotecan|T109
+symptoms
+  1
+  C0683368|symptoms|T169
+onset
+  1
+  C0332162|Onset of (contextual qualifier) (qualifier value)|T080
+weight loss
+  1
+  C0043096|Weight Loss|T184
+pain
+  1
+  C0030193|Pain|T184
+side-effects
+  1
+  C0001688|adverse effects|T037
+survival advantage
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0308269|ADVANTAGE|T131
+clinical benefit
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0814225|benefits|T081
+Many patients
+  2
+  C0030705|Patients|T101
+  C0439064|Numerous (qualifier value)|T081
+poor prognostic factors
+  1
+  C0278252|Prognosis bad (finding)|T033
+results
+  1
+  C1274040|Result (navigational concept)|T169
+value
+  1
+  C0042295|VALUING|T080
+quality
+  1
+  C0332306|With quality (attribute)|T080
+other clinical variables
+  3
+  C0205394|Other|T080
+  C0205210|Clinical (qualifier value)|T080
+  C0439828|Variable (qualifier value)|T080
+Irinotecan
+  1
+  C0123931|irinotecan|T109

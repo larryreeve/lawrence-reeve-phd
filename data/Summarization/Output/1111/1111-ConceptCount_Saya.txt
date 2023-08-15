@@ -1,0 +1,115 @@
+survival aspects	2
+Cox Models	1
+With type (attribute)	1
+Neoplasms	1
+PELVIS RADIATION	1
+Forecast of outcome	1
+Indexes	1
+Not free of (attribute)	1
+Sliding	1
+Pelvic lymphadenectomy (procedure)	1
+Carcinoma, Adenosquamous	1
+Nine (qualifier value)	1
+Rating	1
+Vagina	1
+Continuance of life	2
+Cycloleucine	5
+Mortality Vital Statistics	2
+Overall [Publication Type]	1
+Depth (qualifier value)	6
+Stroma	2
+Report (document)	1
+Involved (qualifier value)	1
+Sufficient (qualifier value)	1
+data set	1
+Several (qualifier value)	1
+Author (occupation)	1
+Aspects of mortality statistics	2
+Secondary malignant neoplasm of lymph node (disorder)	1
+Histologic	1
+Reporting	2
+Entire vagina	1
+Histology Procedure	1
+Prospective Studies	2
+Improved (qualifier value)	1
+Prognosis bad (finding)	1
+Additive (qualifier value)	1
+Room of building - Study	2
+Radiation therapy	4
+Therapeutic procedure	1
+Entire pelvic lymph node	1
+Recurrence	3
+Exclude (qualifier value)	1
+Cervix carcinoma stage I	1
+Measurement	1
+Most significant (qualifier value)	1
+Risk Factors	3
+Depth (attribute)	3
+Human Females	2
+Analysis of substances	1
+PREVENT (product)	1
+Slide (specimen)	1
+Primary operation (qualifier value)	2
+Pathological aspects	1
+Diameter (qualifier value)	3
+Human adult females	2
+radiotherapeutic	3
+Neoplasm Metastasis	1
+Neoplasm progression	1
+Chloride measurement	5
+Stage 1 lower case bee	2
+Pelvis	2
+Methods	1
+Discord	1
+lymph nodes	2
+Local (qualifier value)	1
+Radiation	2
+Brachytherapy	1
+Large tumor (finding)	2
+Squamous	1
+Analysis	1
+Random Allocation	2
+Tail	1
+Pelvic lymph node group	1
+Primary	2
+FAVOR (product)	1
+Scientific Study	2
+primary tumor	1
+Stage 1 upper case bee	2
+Groups (qualifier value)	1
+[M]Unspecified tumor cell NOS (morphologic abnormality)	1
+Group (social concept)	1
+therapeutic aspects	1
+Count of entities (property) (qualifier value)	1
+Secondary malignant neoplastic disease (disorder)	1
+benefits	2
+Spreading (qualifier value)	1
+External (qualifier value)	1
+One (qualifier value)	3
+Direct type of resin cement	1
+Microscopic (qualifier value)	1
+Prevents (attribute)	1
+Adenocarcinoma	1
+Negative (qualifier value)	2
+Patients	5
+Related (finding)	1
+Histology	1
+cancer recurrence	2
+Direct type of relationship	1
+utilization	1
+Irradiation (physical force)	1
+Present	1
+Accurate (qualifier value)	1
+year (qualifier value)	1
+Metastatic to	1
+Providing presence (regime/therapy)	2
+Freedom	1
+Numerous (qualifier value)	1
+Interval (qualifier value)	1
+Absences (finding)	1
+Entire pelvis	1
+Variable (qualifier value)	1
+NODE	1
+Postoperative Period	1
+Size (attribute)	1
+node-negative	1

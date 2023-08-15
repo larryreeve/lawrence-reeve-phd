@@ -1,0 +1,69 @@
+
+
+Additional concern was raised by data suggesting that irradiated patients have reduced survival
+rates, due to either immune suppression or cardiac complications. In the late 1970s, adjuvant
+chemotherapy became a standard treatment for high-risk premenopausal patients with breast cancer.
+
+
+Nevertheless, there are reasons to reconsider radiotherapy, including the limited value of adjuvant
+chemotherapy for bulky disease, a synergistic effect of chemotherapy plus radiation on residual
+locoregional tumor, and the possibility that eliminating bulky disease with radiation may improve
+the effect of chemotherapy, because chemotherapy may be more effective when the overall disease
+burden is low.
+
+
+From 1979 through 1986, 318 premenopausal women with newly diagnosed stage I or II breast cancer
+were enrolled in the study after undergoing modified radical mastectomy if, after axillary-node
+dissection, one or more level I or II lymph nodes were found to be positive on pathological
+examination. 
+
+
+A direct internal mammary field delivered a dose of 35 Gy at a depth of 3 cm. All the fields were
+treated with cobalt-60. Also, as part of a second randomization, 68 patients with estrogen-positive
+tumors were treated with radiationinduced ovarian ablation that included 20 Gy over a period of five
+days plus prednisone (7.5 mg per day) for two years, as described by Meakin et al. Among these 68
+patients, 33 were assigned to chemotherapy and 35 were assigned to chemotherapy and radiotherapy. 
+
+
+In the various analyses, we studied the following end points, any relapse of breast cancer (or death
+without a known relapse of breast cancer), for the analysis of disease-free survival, locoregional
+recurrence as a first event, before a systemic recurrence (in the ipsilateral chest wall or an
+axillary, internal mammary, or supraclavicular node), for the analysis of survival free of
+locoregional disease, any systemic relapse, with or without a locoregional relapse (or death without
+a known systemic relapse), for the analysis of survival free of systemic disease, death from breast
+cancer, for the analysis of breast-cancer–specific survival, and any death, for the analysis of
+overall survival. 
+
+
+All the analyses presented were performed on an intention-to-treat basis (according to the initial
+randomization).
+
+
+There was an overall reduction of 34 percent in the rate of systemic recurrence (relative risk,
+0.66, 95 percent confidence interval, 0.49 to 0.89, P 0.006) in the group treated with combined
+therapy (75 of 164 patients vs. 94 of 154 patients in the group treated only with chemotherapy), and
+a 17-percentage-point improvement in systemic disease-free survival (Fig. 2). 
+
+
+The incidence of second cancers and the associated mortality were distributed evenly between the two
+groups (Table 4).
+
+
+Our trial did not stratify the patients according to nodal status, but a test for interaction showed
+no significant difference in the magnitude of the benefit from radiotherapy between the subgroup
+with three or fewer positive nodes and the subgroup with four or more positive nodes. Also, in
+various past trials different areas were encompassed in the irradiated volume, and the trials
+differed in techniques of radiation, treatment planning, age, nodal status, and the use of adjuvant
+chemotherapy. 
+
+
+The patients in that study were similar to those in our cohort, there was a large and homogeneous
+group of premenopausal, node-positive patients treated with chemotherapy and five-field
+radiotherapy. The other eight studies were notsimilar to ours or the Danish trial, either because
+the number of randomized premenopausal patients was small or because the radiotherapy techniques or
+the chemotherapy schedules were heterogeneous. 
+
+
+Four randomized trials comparing breast irradiation with no irradiation in patients who underwent
+conservative surgery showed significant reductions in the rate of relapse in the breast but no
+effect on systemic recurrences or overall survival. 

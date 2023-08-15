@@ -1,0 +1,113 @@
+survival aspects	3
+X-Ray Computed Tomography	5
+BOMP protocol	2
+Upper arm	1
+Associated topography (attribute)	1
+findings	1
+Efficiency	1
+Increased (qualifier value)	1
+Median Statistical Measurement	1
+Hyperbaric Oxygenation	1
+Chromium	4
+symptoms	1
+Cessation of life	1
+Suspected diagnosis (contextual qualifier) (qualifier value)	1
+Rating	2
+Recurrent disease (finding)	1
+Continuance of life	3
+Intravaginal (qualifier value)	3
+stable disease	1
+Introduction (procedure)	1
+control	2
+Result (navigational concept)	1
+Surgery specialty	1
+Previous (qualifier value)	1
+Clinical investigation	1
+Few (qualifier value)	1
+criteria	1
+Effectiveness (qualifier value)	1
+Vincristine	1
+success	1
+Other	1
+Follow-up status (finding)	1
+partial response	1
+Intravascular (qualifier value)	3
+Hour	1
+Toxicity aspects	3
+Mechanisms (qualifier value)	1
+Intravenous	3
+Brazil	1
+Progressive (qualifier value)	1
+MOST LIKELY	1
+progesterone receptor negative	1
+Pulmonary toxicity	1
+month (qualifier value)	2
+Room of building - Study	1
+Radiation therapy	2
+Therapeutic procedure	3
+high-LET neutron therapy	1
+incidence of cases	1
+Laboratories	1
+Status (attribute)	1
+explanation	1
+Arm	1
+Primary operation (qualifier value)	1
+Mitomycin	1
+Major (qualifier value)	1
+radiotherapeutic	2
+pharmacotherapeutic	2
+Bleomycin	1
+Survival Rate	1
+Fractions of (qualifier value)	1
+Surgical aspects	1
+Two (qualifier value)	1
+Disease	2
+Pelvis	2
+Euphoric mood	2
+Local (qualifier value)	1
+Mitomycins	1
+Incidence	1
+Abnormal renal function (finding)	1
+Schedules	1
+Assessment procedure (procedure)	1
+Invasive (qualifier value)	3
+milligram	3
+Diethylstilbestrol	1
+Random Allocation	1
+Primary	1
+Tissues	1
+Scientific Study	1
+High	2
+Groups (qualifier value)	1
+Approach (attribute)	1
+therapeutic aspects	3
+Concentration	1
+Role	1
+FIGO Stage (attribute)	1
+Effective (qualifier value)	1
+Complication	1
+Enhancer	1
+One (qualifier value)	1
+GENERAL OPERATIVE PROCEDURES	1
+tyramine-deoxysorbitol	1
+Cyclic (qualifier value)	2
+Median (qualifier value)	1
+Patients	5
+Related (finding)	1
+utilization	3
+Pharmacotherapy	2
+MODALITY	1
+Rio (qualifier value)	1
+Magnesium	3
+Acuteness (qualifier value)	1
+At risk for impaired home maintenance management (finding)	2
+year (qualifier value)	2
+Three (qualifier value)	1
+Intervertebral (qualifier value)	3
+Uranium	1
+Shrinkage (finding)	1
+Five (qualifier value)	1
+Toxic effect	3
+Chemotherapy-Oncologic Procedure	2
+cell proliferation	1
+Cisplatin	1

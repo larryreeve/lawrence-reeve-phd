@@ -1,0 +1,110 @@
+survival aspects	2
+regimen	2
+High dose (qualifier value)	1
+PELVIS RADIATION	1
+Biomechanical compliance	1
+Blood Count, Complete	1
+Dosages (qualifier value)	1
+Median Statistical Measurement	1
+DOS	1
+Rating	1
+Continuance of life	2
+Vagina	1
+CHEMOTHERAPY RECORDS	1
+Overall [Publication Type]	1
+Radiation Oncology	1
+Result (navigational concept)	2
+Previous (qualifier value)	1
+week (qualifier value)	1
+Extended (qualifier value)	1
+gynecologic oncology	1
+criteria	1
+Other	2
+Sufficient (qualifier value)	1
+Combined (qualifier value)	1
+Muscle Rigidity	1
+Total (qualifier value)	1
+Toxicity aspects	1
+Field's stain	2
+Hydroxyurea	1
+Hematologic (qualifier value)	1
+Aggressive cancer	1
+Records	1
+Dates	1
+Improved (qualifier value)	1
+month (qualifier value)	1
+Room of building - Study	1
+Radiation therapy	6
+Confidence Intervals	1
+Member of (attribute)	1
+Therapeutic procedure	3
+Recurrence	1
+incidence of cases	1
+Aggressive course (qualifier value)	1
+Malignant neoplasm of cervix uteri	4
+Aggression	1
+Human Females	5
+Primary operation (qualifier value)	1
+Distal site (attribute)	1
+Human adult females	5
+radiotherapeutic	6
+pharmacotherapeutic	4
+Protocols documentation	1
+Disease	2
+Pelvis	1
+Methods	1
+Manual pelvic examination (procedure)	1
+Fielding	1
+Clinical Trials, Randomized	1
+Incidence	1
+Radiation	1
+Assessment procedure (procedure)	1
+First (qualifier value)	1
+Interstitial brachytherapy (regime/therapy)	1
+milligram	1
+Intracavitary (qualifier value)	1
+Primary	1
+With staging (attribute)	2
+Disease-Free Survival	2
+Normal tissue (finding)	1
+Scientific Study	1
+Rigor - Temperature-associated observation	1
+Iva	2
+Disproportionate (qualifier value)	1
+Access (attribute)	1
+Groups (qualifier value)	3
+PLACEMENT	1
+Distant (qualifier value)	1
+Group (social concept)	2
+Patient Compliance	1
+Effect (qualifier value)	4
+therapeutic aspects	3
+Duration	1
+Evaluation	1
+benefits	1
+Percent (qualifier value)	6
+External (qualifier value)	1
+Concurrent (qualifier value)	2
+Cyclic (qualifier value)	1
+Including (qualifier value)	2
+Ib (qualifier value)	1
+Median (qualifier value)	1
+Patients	4
+Knowledge	1
+Pharmacotherapy	4
+Insufficient	1
+Magnesium	1
+Prophylactic (qualifier value)	1
+More (qualifier value)	2
+adverse effects	1
+Platelet Count	1
+Fluorouracil	3
+Variable (qualifier value)	1
+ENDPOINT	1
+Third (qualifier value)	1
+Placebos	1
+Toxic effect	1
+Eight (qualifier value)	1
+Clinical act of insertion	1
+Chemotherapy-Oncologic Procedure	4
+Psychotherapy, Group	1

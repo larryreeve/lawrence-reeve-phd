@@ -1,0 +1,104 @@
+Proportional (qualifier value)	1
+Determination Aspects	1
+FLUOROURACIL:MASS:POINT IN TIME:DOSE MED OR SUBSTANCE:QUANTITATIVE	1
+Supportive care	1
+survival aspects	3
+regimen	2
+Progression (attribute)	1
+Neoplasms	1
+Histopathology	1
+Taxonomic	1
+Dosages (qualifier value)	1
+Median Statistical Measurement	1
+Large	1
+Physical activity	2
+Rating	1
+Continuance of life	3
+Singular	1
+Controlled (qualifier value)	1
+Disease regression	3
+Drug Dosages	2
+Location (attribute)	1
+Histopathological aspects	1
+Result (navigational concept)	5
+proven venom	1
+Power (Psychology)	1
+Thymidine	1
+Colorectal cancer metastatic	1
+Agent (attribute)	1
+Effectiveness (qualifier value)	1
+Vincristine	1
+Curved (qualifier value)	1
+Scheduled (qualifier value)	1
+Toxicity aspects	2
+Histologic	1
+Levamisole	1
+Meaningfulness	1
+Frequency of Responses	1
+prognostic	1
+month (qualifier value)	1
+Additive (qualifier value)	1
+Classification of information	1
+Exploration procedure (procedure)	1
+Adjudication	1
+Primary operation (qualifier value)	2
+Cancer treatment response rate	1
+ADVANTAGE	1
+Multiple Organ Failure	1
+Disease	2
+Responses	2
+CONTINUED	1
+Advanced phase	1
+Methods	1
+Streptozocin	1
+Grade	2
+Euphoric mood	2
+Modulated (qualifier value)	2
+measurable disease	1
+None (qualifier value)	3
+Classification	1
+Purpose (attribute)	1
+Schedules	1
+CONFIRMED	1
+Writing	1
+Clinical examination	1
+Severe (severity modifier) (qualifier value)	1
+Exertion	1
+Frequent (qualifier value)	1
+EXCEPTIONALLY	1
+Primary	2
+Writer (occupation)	1
+FAVOR (product)	1
+hope	1
+Tissues	1
+Activities	2
+High	2
+Colorectal Carcinoma	2
+Effect (qualifier value)	3
+Approach (attribute)	1
+Count of entities (property) (qualifier value)	2
+Disappointment	1
+Effective (qualifier value)	1
+Median (qualifier value)	1
+Patients	7
+Regression - mental defense mechanism	3
+prediction	1
+Radiographic procedure on chest (procedure)	1
+Acids	1
+Endurance of activity	2
+Better (qualifier value)	1
+Cytologic (qualifier value)	1
+Biochemical (qualifier value)	2
+CONSIDER	1
+Providing presence (regime/therapy)	1
+Low dose (qualifier value)	1
+Obtained (attribute)	1
+Proven findings	1
+Full (qualifier value)	1
+Fluorouracil	1
+ENDPOINT	1
+Exploration - action (qualifier value)	1
+Toxic effect	2
+Meaning	1
+Good (qualifier value)	1
+Informed Consent	1

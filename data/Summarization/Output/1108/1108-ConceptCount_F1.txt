@@ -1,0 +1,9 @@
+Risk	1
+regimen	1
+Combine, device (physical object)	1
+Effect (qualifier value)	2
+Radiation therapy	1
+radiotherapeutic	1
+Cessation of life	1
+Gastrointestinal	1
+Psychotherapy, Group	1

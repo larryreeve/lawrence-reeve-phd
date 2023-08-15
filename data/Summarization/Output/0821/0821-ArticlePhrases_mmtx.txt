@@ -1,0 +1,953 @@
+ANTIMETABOLITES methotrexate
+  2
+  C0003376|Antimetabolites|T121
+  C0025677|Methotrexate|T109
+MTX
+  1
+  C0025677|Methotrexate|T109
+MTX
+  1
+  C0025677|Methotrexate|T109
+major drug
+  2
+  C0205164|Major (qualifier value)|T080
+  C0013227|Pharmaceutical Preparations|T121
+gastric cancer
+  1
+  C0024623|Malignant neoplasm of stomach|T191
+two drugs
+  2
+  C0013227|Pharmaceutical Preparations|T121
+  C0205448|Two (qualifier value)|T081
+in vitro document
+  3
+  C0021135|In Vitro|T080
+  C1301746|Documents (qualifier value)|T170
+  C1301725|Documented (qualifier value)|T058
+antagonistic interactions
+  4
+  C0687133|Drug Interactions|T044
+  C0680242|antagonism|T054
+  C0231491|Antagonist muscle action|T042
+  C0243076|antagonists|T120
+sequential exposure
+  3
+  C0274281|EFFECTS OF EXPOSURE TO EXTERNAL CAUSES|T037
+  C0391838|Exposure condition|T169
+  C0728853|Accident due to exposure to weather conditions|T037
+intracellular concentration
+  3
+  C0086045|Concentration|T041
+  C0175996|Protoplasm|T026
+  C0178719|Intracellular|T082
+potential mechanism
+  2
+  C0457274|Mechanism (attribute)|T169
+  C0237399|Potential|T080
+synergy
+  1
+  C0599739|synergism|T044
+doubts
+  1
+  C0870444|Doubt|T041
+Sequential administration
+  2
+  C0001554|Administration|T057
+  C1262471|Administration (procedure)|T061
+colorectal cancer
+  1
+  C0009402|Colorectal Cancer|T191
+breast cancer
+  1
+  C0006142|Malignant neoplasm of breast|T191
+prospective randomized clinical trial
+  1
+  C0206034|Clinical Trials, Randomized|T170
+primary objective
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0018017|Goals|T170
+  C0205225|Primary|T080
+treatment sequences
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+patients
+  1
+  C0030705|Patients|T101
+MTX
+  1
+  C0025677|Methotrexate|T109
+results
+  1
+  C1274040|Result (navigational concept)|T169
+al
+  1
+  C0002367|Aluminum|T196
+reports
+  1
+  C0684224|Report (document)|T170
+MATERIALS
+  1
+  C0520510|Materials|T167
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+recurrent squamous cell carcinoma
+  2
+  C0205335|Recurrent (qualifier value)|T079
+  C0007137|Carcinoma, Squamous Cell|T191
+neck
+  2
+  C0027530|Neck|T017
+  C1281592|Entire neck|T023
+adenocarcinoma
+  1
+  C0001418|Adenocarcinoma|T191
+rectum
+  2
+  C0034896|Rectum|T023
+  C1278926|Entire rectum|T023
+stomach
+  2
+  C1278920|Entire stomach|T017
+  C0038351|Stomach|T023
+Table I
+  2
+  C1168570|Table - visual aid|T170
+  C0039224|Table - furniture|T073
+Histopathologic confirmation
+  3
+  C0677043|Histopathology|T046
+  C0243140|Histopathological aspects|T169
+  C0750484|CONFIRMED|T078
+Eastern Cooperative Oncology Group
+  1
+  C0430797|Electrocorticogram (procedure)|T060
+ECOG
+  1
+  C0430797|Electrocorticogram (procedure)|T060
+performance status
+  1
+  C0935728|performance status|T033
+platelet count x L
+  14
+  C0442022|Lumbar (qualifier value)|T082
+  C0392223|Lights, manufactured|T074
+  C0032181|Platelet Count|T059
+  C0078606|xanthosine|T114
+  C0336769|Lighter, device (physical object)|T073
+  C0023693|Light|T070
+  C1304698|Liquid (finding)|T033
+  C1287267|Finding of platelet count (finding)|T034
+  C0205091|Left (qualifier value)|T082
+  C0023870|Lithium|T196
+  C0302908|Liquid substance|T167
+  C0023700|Lighting|T068
+  C1306462|Light color|T169
+  C0475211|L (qualifier value)|T081
+adequate renal function
+  3
+  C0205411|Adequate (qualifier value)|T080
+  C0232804|Renal function, NOS|T042
+  C0042031|Urinary Tract Physiology|T042
+L
+  10
+  C0392223|Lights, manufactured|T074
+  C0023870|Lithium|T196
+  C0336769|Lighter, device (physical object)|T073
+  C0023693|Light|T070
+  C0302908|Liquid substance|T167
+  C0023700|Lighting|T068
+  C1304698|Liquid (finding)|T033
+  C0205091|Left (qualifier value)|T082
+  C1306462|Light color|T169
+  C0475211|L (qualifier value)|T081
+creatinine clearance 1.0 mL
+  2
+  C0812399|Creatinine clearance|T033
+  C0439242|mL (qualifier value)|T081
+sec
+  1
+  C0457385|seconds|T079
+inclusion
+  1
+  C0332257|Including (qualifier value)|T169
+opinion
+  1
+  C0871010|Opinions|T041
+neck clinic
+  3
+  C0027530|Neck|T017
+  C0442592|Clinic (environment)|T093
+  C1281592|Entire neck|T023
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Informed consent
+  1
+  C0021430|Informed Consent|T058
+Central telephone randomization
+  3
+  C0205099|Central|T082
+  C0034656|Random Allocation|T062
+  C0039457|Telephone|T073
+balanced blocks
+  4
+  C0205415|Balanced - adjective|T169
+  C0332206|Blocking|T169
+  C0028778|Obstruction|T046
+  C0233660|Mental blocking|T048
+MTX
+  1
+  C0025677|Methotrexate|T109
+MF
+  3
+  C0025979|Microfilaments|T026
+  C0026987|Myelofibrosis|T047
+  C0752265|Microfibrils|T031
+FM
+  1
+  C0015853|Fermium|T196
+case
+  1
+  C0868928|Case (qualifier value)|T169
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+injection
+  2
+  C0021485|Injections|T061
+  C1272883|Injection (product)|T073
+Patients
+  1
+  C0030705|Patients|T101
+IV bicarbonate to
+  6
+  C0442123|Intravascular (qualifier value)|T082
+  C0442122|Intravaginal (qualifier value)|T082
+  C0005367|Bicarbonates|T197
+  C0348016|Intravenous|T082
+  C0442106|Intervertebral (qualifier value)|T029
+  C0205281|Invasive (qualifier value)|T080
+urine pH
+  1
+  C0042044|Urine pH test (procedure)|T059
+then oral folinic acid rescue
+  2
+  C0442027|Oral (qualifier value)|T082
+  C0023413|Leucovorin|T109
+hours
+  1
+  C0439227|Hour|T079
+increasing serum creatinine
+  1
+  C0700225|Serum creatinine raised (finding)|T033
+mucositis
+  1
+  C0236177|Inflammatory disease of mucous membrane (disorder)|T046
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+response status
+  2
+  C0871261|Responses|T054
+  C0449438|Status (attribute)|T080
+criteria
+  1
+  C0243161|criteria|T170
+Patients
+  1
+  C0030705|Patients|T101
+partial response
+  1
+  C0677924|partial response|T080
+further four courses
+  2
+  C0205450|Four (qualifier value)|T081
+  C0750729|Courses (qualifier value)|T079
+progressive disease
+  1
+  C0677932|progressive disease|T191
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Subsequent treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0750530|SUBSEQUENT|T078
+  C0039798|therapeutic aspects|T169
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Statistical analysis
+  1
+  C0871424|Statistical Analysis|T062
+BMDP statistical software to
+  2
+  C0037585|Computer software|T170
+  C0220917|statistical|T170
+Kaplan Meier survival curves
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0205134|Curved (qualifier value)|T082
+treatment sequence
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+performance status
+  1
+  C0935728|performance status|T033
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+age group
+  2
+  C0027362|Human Age Group|T100
+  C0596048|Age Group Unspecified|T100
+response
+  1
+  C0871261|Responses|T054
+disease stage
+  1
+  C0699749|disease stage|T060
+standard definitions
+  2
+  C0038137|standards characteristics|T170
+  C0175675|Standards of Weights and Measures|T080
+End Result reporting
+  3
+  C0444930|End (qualifier value)|T082
+  C0700287|Reporting|T058
+  C1274040|Result (navigational concept)|T169
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+Standard
+  2
+  C0038137|standards characteristics|T170
+  C0175675|Standards of Weights and Measures|T080
+toxicity grades
+  3
+  C0441800|Grade|T185
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+Chi square
+  1
+  C0205120|Square (qualifier value)|T082
+Fisher
+  1
+  C0325045|Martes pennanti (organism)|T015
+exact tests
+  2
+  C0059927|Exact|T122
+  C0392366|Tests (qualifier value)|T170
+standard formulas
+  3
+  C0038137|standards characteristics|T170
+  C0175675|Standards of Weights and Measures|T080
+  C0489829|Mathematical formula|T170
+univariate analyses
+  1
+  C0683962|univariate analysis|T062
+default conditions
+  2
+  C0009647|Conditioning (Psychology)|T041
+  C0348080|Condition (attribute)|T080
+exclusion
+  1
+  C0680251|exclusion|T169
+MPLR stepping option
+  1
+  C0859325|Stepping|T184
+Variables
+  1
+  C0439828|Variable (qualifier value)|T080
+treatment group
+  1
+  C0036669|Sensitivity Training Groups|T065
+prior radiotherapy
+  3
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+performance status
+  1
+  C0935728|performance status|T033
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+prior surgery
+  4
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0750516|PRIOR|T078
+  C0038894|Surgery specialty|T091
+stage
+  2
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+Multivariate analysis
+  1
+  C0026777|Multivariate Analysis|T081
+stepwise logistic regression
+  1
+  C0206031|Logistic Regression|T062
+examined treatment group
+  2
+  C0036669|Sensitivity Training Groups|T065
+  C0579007|Examination - action (qualifier value)|T169
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+performance status
+  1
+  C0935728|performance status|T033
+stage
+  2
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+stage group
+  4
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+N
+  1
+  C0439225|ns (qualifier value)|T081
+M stage
+  1
+  C0456533|M category (observable entity)|T170
+three way interactions
+  2
+  C0687133|Drug Interactions|T044
+  C0205449|Three (qualifier value)|T081
+Default conditions
+  2
+  C0009647|Conditioning (Psychology)|T041
+  C0348080|Condition (attribute)|T080
+exclusion
+  1
+  C0680251|exclusion|T169
+MLR stepping option
+  1
+  C0859325|Stepping|T184
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+patients
+  1
+  C0030705|Patients|T101
+prior chemotherapy
+  4
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C0750516|PRIOR|T078
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+surgical treatment
+  1
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+patients
+  1
+  C0030705|Patients|T101
+remaining nine patients
+  2
+  C0030705|Patients|T101
+  C0205455|Nine (qualifier value)|T081
+pretreatment stratification
+  1
+  C0205363|Stratified (qualifier value)|T080
+reasonable balance
+  3
+  C0014653|Equilibrium|T040
+  C0684328|Reasoning|T041
+  C0205415|Balanced - adjective|T169
+trend
+  1
+  C0040833|trends|T079
+treatments
+  1
+  C0087111|Therapeutic procedure|T061
+significant renal toxicity
+  2
+  C0595916|Toxic nephropathy (disorder)|T047
+  C0750502|Significant (qualifier value)|T078
+occasional severe diarrhea
+  2
+  C0205082|Severe (severity modifier) (qualifier value)|T080
+  C0011991|Diarrhea|T184
+mucositis
+  1
+  C0236177|Inflammatory disease of mucous membrane (disorder)|T046
+Four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+two
+  1
+  C0205448|Two (qualifier value)|T081
+sepsis
+  2
+  C1090821|Sepsis (Invertebrate)|T009
+  C0243026|Systemic infection|T047
+diarrhea
+  1
+  C0011991|Diarrhea|T184
+aspiration pneumonia
+  1
+  C0032290|Pneumonia, Aspiration|T047
+further patient
+  1
+  C0030705|Patients|T101
+prolonged neurologic toxicity
+  4
+  C0040539|Toxicity aspects|T081
+  C0439590|Prolonged (qualifier value)|T079
+  C0205494|Neurologic (qualifier value)|T169
+  C0600688|Toxic effect|T037
+Two patients
+  2
+  C0030705|Patients|T101
+  C0205448|Two (qualifier value)|T081
+nonlethal toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+significant differences
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+Response categories
+  2
+  C0871261|Responses|T054
+  C0683312|categories|T170
+median survival durations
+  5
+  C0220921|survival aspects|T081
+  C0449238|Duration|T079
+  C0038952|Continuance of life|T052
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+treatment sequences
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+overall major response rate
+  4
+  C0237629|Frequency of Responses|T079
+  C0282416|Overall [Publication Type]|T170
+  C0878525|Cancer treatment response rate|T079
+  C0205164|Major (qualifier value)|T080
+95% confidence limits
+  1
+  C0237530|Confidence Limits|T081
+Responses
+  1
+  C0871261|Responses|T054
+previously untreated patients
+  2
+  C0030705|Patients|T101
+  C0205156|Previous (qualifier value)|T082
+95% confidence limits
+  1
+  C0237530|Confidence Limits|T081
+Differences
+  1
+  C0443199|Differential (qualifier value)|T080
+consistent trend
+  2
+  C0332290|Consistent with (qualifier value)|T078
+  C0040833|trends|T079
+MF
+  3
+  C0025979|Microfilaments|T026
+  C0026987|Myelofibrosis|T047
+  C0752265|Microfibrils|T031
+Fisher
+  1
+  C0325045|Martes pennanti (organism)|T015
+exact test
+  2
+  C0059927|Exact|T122
+  C0392366|Tests (qualifier value)|T170
+most extreme case
+  3
+  C0205403|Extreme (qualifier value)|T080
+  C0868928|Case (qualifier value)|T169
+  C0205393|Most (qualifier value)|T081
+four nonevaluable patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+Fisher
+  1
+  C0325045|Martes pennanti (organism)|T015
+exact test
+  2
+  C0059927|Exact|T122
+  C0392366|Tests (qualifier value)|T170
+Because most responding patients
+  2
+  C0205393|Most (qualifier value)|T081
+  C0030705|Patients|T101
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+meaningful response duration
+  3
+  C0237585|Response Duration|T079
+  C0876919|Meaning|T078
+  C0870867|Meaningfulness|T080
+Responding patients
+  2
+  C0871261|Responses|T054
+  C0030705|Patients|T101
+inherently superior prognosis
+  2
+  C0205105|Superior (qualifier value)|T082
+  C0033325|Forecast of outcome|T058
+Patients
+  1
+  C0030705|Patients|T101
+significantly longer survival
+  4
+  C0205166|Long (qualifier value)|T080
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0750502|Significant (qualifier value)|T078
+Survival duration
+  3
+  C0220921|survival aspects|T081
+  C0449238|Duration|T079
+  C0038952|Continuance of life|T052
+trend
+  1
+  C0040833|trends|T079
+median survival
+  4
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+Cox model multivariate analysis
+  2
+  C0026777|Multivariate Analysis|T081
+  C0010234|Cox Models|T170
+ECOG performance status
+  2
+  C0430797|Electrocorticogram (procedure)|T060
+  C0935728|performance status|T033
+most significant prognostic factor
+  2
+  C0220901|prognostic|T170
+  C1299394|Most significant (qualifier value)|T080
+allowance
+  1
+  C0556660|Allowance (administrative concept)|T081
+survival difference
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0443199|Differential (qualifier value)|T080
+FM sequence
+  1
+  C0015853|Fermium|T196
+Other factors
+  1
+  C0205394|Other|T080
+stage
+  2
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+sex
+  2
+  C0009253|Coitus|T055
+  C0079399|Gender|T022
+prior radiotherapy
+  3
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+prior surgery
+  4
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0750516|PRIOR|T078
+  C0038894|Surgery specialty|T091
+Response category
+  2
+  C0871261|Responses|T054
+  C0683312|categories|T170
+responses
+  1
+  C0871261|Responses|T054
+95% confidence limit
+  1
+  C0237530|Confidence Limits|T081
+median survival
+  4
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+only 4.6 months
+  1
+  C0439231|month (qualifier value)|T079
+significant sequence dependent differences
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+survival duration
+  3
+  C0220921|survival aspects|T081
+  C0449238|Duration|T079
+  C0038952|Continuance of life|T052
+Responses
+  1
+  C0871261|Responses|T054
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+cell culture
+  1
+  C0007585|Cell Culture|T059
+sequence dependent synergy
+  2
+  C0851827|Dependent (qualifier value)|T098
+  C0599739|synergism|T044
+L hypoxanthine
+  12
+  C0020684|Hypoxanthine|T123
+  C0442022|Lumbar (qualifier value)|T082
+  C0392223|Lights, manufactured|T074
+  C0023870|Lithium|T196
+  C0336769|Lighter, device (physical object)|T073
+  C0023693|Light|T070
+  C0302908|Liquid substance|T167
+  C0023700|Lighting|T068
+  C1304698|Liquid (finding)|T033
+  C0205091|Left (qualifier value)|T082
+  C1306462|Light color|T169
+  C0475211|L (qualifier value)|T081
+physiologic level
+  2
+  C0205463|Physiologic (qualifier value)|T169
+  C0456079|Disease classification level|T185
+observation
+  2
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+doubt
+  1
+  C0870444|Doubt|T041
+prospective randomized controlled trial
+  1
+  C0282440|Randomized Controlled Trials|T170
+same drugs
+  2
+  C0445247|Same (qualifier value)|T080
+  C0013227|Pharmaceutical Preparations|T121
+one hour apart
+  2
+  C0439227|Hour|T079
+  C0205447|One (qualifier value)|T081
+question
+  1
+  C0750481|QUESTIONABLE|T078
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+patients
+  1
+  C0030705|Patients|T101
+neck
+  2
+  C0027530|Neck|T017
+  C1281592|Entire neck|T023
+gastric adenocarcinoma
+  2
+  C0038351|Stomach|T023
+  C0001418|Adenocarcinoma|T191
+MTX
+  1
+  C0025677|Methotrexate|T109
+treatments
+  1
+  C0087111|Therapeutic procedure|T061
+not purpose
+  1
+  C0449256|Purpose (attribute)|T033
+results
+  1
+  C1274040|Result (navigational concept)|T169
+various doses
+  2
+  C0719635|DOS|T109
+  C0440102|Various (substance)|T130
+combination chemotherapy
+  1
+  C0013218|Drug Therapy, Combination|T061
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+response rate
+  2
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+95% confidence
+  1
+  C0237529|Self-confidence (observable entity)|T041
+chance observation
+  3
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+  C0237506|Chance|T080
+median survival
+  4
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+4.6 months
+  1
+  C0439231|month (qualifier value)|T079
+survival duration
+  3
+  C0220921|survival aspects|T081
+  C0449238|Duration|T079
+  C0038952|Continuance of life|T052
+continuing
+  1
+  C0750536|CONTINUED|T078
+patients
+  1
+  C0030705|Patients|T101
+interim analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+Antagonism
+  1
+  C0680242|antagonism|T054
+therapeutic advantage
+  3
+  C0308269|ADVANTAGE|T131
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+higher doses
+  1
+  C0444956|High dose (qualifier value)|T081
+differential effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0443199|Differential (qualifier value)|T080
+purine concentrations
+  3
+  C0034140|Purines|T109
+  C0086045|Concentration|T041
+  C0220903|purine|T109
+peripheral blood
+  1
+  C0229664|Peripheral blood (substance)|T031
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+synergy
+  1
+  C0599739|synergism|T044
+antagonism
+  1
+  C0680242|antagonism|T054
+optimal time delay
+  2
+  C0205421|Deferred (qualifier value)|T079
+  C0040223|Time|T079
+prediction
+  1
+  C0681842|prediction|T170
+low purine concentrations
+  4
+  C0034140|Purines|T109
+  C0086045|Concentration|T041
+  C0220903|purine|T109
+  C0205251|Low (qualifier value)|T080
+al
+  1
+  C0002367|Aluminum|T196
+similar trial
+  1
+  C0871364|Simile|T170
+MTX
+  1
+  C0025677|Methotrexate|T109
+same two drugs
+  3
+  C0445247|Same (qualifier value)|T080
+  C0013227|Pharmaceutical Preparations|T121
+  C0205448|Two (qualifier value)|T081
+benefit
+  1
+  C0814225|benefits|T081
+trend
+  1
+  C0040833|trends|T079
+simultaneous therapy group
+  2
+  C0033971|Psychotherapy, Group|T061
+  C0521115|Simultaneous (qualifier value)|T079
+only prospective randomized clinical trials yet
+  1
+  C0206034|Clinical Trials, Randomized|T170
+MTX
+  1
+  C0025677|Methotrexate|T109
+results
+  1
+  C1274040|Result (navigational concept)|T169
+reports
+  1
+  C0684224|Report (document)|T170
+sequential administration
+  2
+  C0001554|Administration|T057
+  C1262471|Administration (procedure)|T061

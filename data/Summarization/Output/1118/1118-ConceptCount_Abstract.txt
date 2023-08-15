@@ -1,0 +1,35 @@
+Neoplasms	1	T191-Neoplastic Process
+Analysis of substances	1	T059-Laboratory Procedure
+Cisplatin	1	T197-Inorganic Chemical
+Groups (qualifier value)	1	T170-Intellectual Product
+Room of building - Study	1	T073-Manufactured Object
+Scientific Study	1	T059-Laboratory Procedure
+Superior (qualifier value)	1	T082-Spatial Concept
+Pharmacotherapy	2	T061-Therapeutic or Preventive Procedure
+Related (finding)	1	T033-Finding
+Analysis	1	T062-Research Activity
+Chemotherapy-Oncologic Procedure	2	T061-Therapeutic or Preventive Procedure
+week (qualifier value)	1	T079-Temporal Concept
+Definitive (qualifier value)	1	T079-Temporal Concept
+pharmacotherapeutic	2	T169-Functional Concept
+Survival Rate	1	T081-Quantitative Concept
+Overall [Publication Type]	1	T170-Intellectual Product
+Bleomycin	1	T116-Amino Acid, Peptide, or Protein
+Disease-Free Survival	1	T081-Quantitative Concept
+radiotherapeutic	3	T170-Intellectual Product
+Therapeutic procedure	3	T061-Therapeutic or Preventive Procedure
+Mean Survival Time	1	T081-Quantitative Concept
+Concurrent (qualifier value)	2	T079-Temporal Concept
+month (qualifier value)	2	T079-Temporal Concept
+Total (qualifier value)	1	T080-Qualitative Concept
+survival aspects	1	T081-Quantitative Concept
+Responses	1	T054-Social Behavior
+Toxicity aspects	2	T081-Quantitative Concept
+therapeutic aspects	3	T169-Functional Concept
+Purpose (attribute)	1	T033-Finding
+Radiation therapy	3	T061-Therapeutic or Preventive Procedure
+Vincristine	1	T109-Organic Chemical
+Actuary (occupation)	2	T097-Professional or Occupational Group
+Continuance of life	1	T052-Activity
+Patients	2	T101-Patient or Disabled Group
+Toxic effect	2	T037-Injury or Poisoning

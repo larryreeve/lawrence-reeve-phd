@@ -1,0 +1,44 @@
+cm (qualifier value)	1	T081-Quantitative Concept
+Room of building - Study	1	T073-Manufactured Object
+Follow-up status (finding)	1	T169-Functional Concept
+Scientific Study	1	T059-Laboratory Procedure
+Skeletal bone	2	T021-Fully Formed Anatomical Structure
+Median Statistical Measurement	3	T081-Quantitative Concept
+Size (attribute)	1	T081-Quantitative Concept
+Girdle (physical object)	2	T073-Manufactured Object
+Conflict (Psychology)	1	T055-Individual Behavior
+Absolute (qualifier value)	1	T080-Qualitative Concept
+year (qualifier value)	1	T079-Temporal Concept
+Impact	1	T168-Food
+Stratified (qualifier value)	1	T080-Qualitative Concept
+Ifosfamide	1	T115-Organophosphorus Compound
+Overall [Publication Type]	1	T170-Intellectual Product
+Disease-Free Survival	1	T081-Quantitative Concept
+Granulocyte Colony-Stimulating Factor	1	T116-Amino Acid, Peptide, or Protein
+Therapeutic procedure	1	T061-Therapeutic or Preventive Procedure
+One (qualifier value)	1	T081-Quantitative Concept
+Present	1	T169-Functional Concept
+Primary operation (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Short duration (qualifier value)	1	T080-Qualitative Concept
+Mesna	1	T109-Organic Chemical
+month (qualifier value)	4	T079-Temporal Concept
+survival aspects	1	T081-Quantitative Concept
+Absences (finding)	1	T033-Finding
+Diameter (qualifier value)	1	T032-Organism Attribute
+Result (navigational concept)	3	T169-Functional Concept
+High dose (qualifier value)	1	T081-Quantitative Concept
+therapeutic aspects	1	T169-Functional Concept
+Median (qualifier value)	3	T082-Spatial Concept
+Chemotherapy, Adjuvant	3	T061-Therapeutic or Preventive Procedure
+Positive (qualifier value)	1	T080-Qualitative Concept
+Significant (qualifier value)	1	T078-Idea or Concept
+Conclude	1	T122-Biomedical or Dental Material
+Primary	1	T080-Qualitative Concept
+Recurrent tumor (finding)	2	T191-Neoplastic Process
+benefits	1	T081-Quantitative Concept
+Previous (qualifier value)	1	T082-Spatial Concept
+Deferoxamine	1	T123-Biologically Active Substance
+Continuance of life	1	T052-Activity
+APC Gene	1	T028-Gene or Genome
+Deferred (qualifier value)	1	T079-Temporal Concept
+Patients	3	T101-Patient or Disabled Group

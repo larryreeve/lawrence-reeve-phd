@@ -1,0 +1,21 @@
+Randomisation and study treatments.
+
+In the supportive-care alone group, patients were given best supportive care and were seen every 3 weeks. Analysis of best supportive care.
+
+After discontinuation of treatment in the irinotecan group, patients were regularly assessed as in the supportive care group  (tumour status, symptoms, or side-effects, every 3 weeks) until  death or for at least a year. Quality of life.
+
+After  discontinuation of treatment in the irinotecan group, patients continued to fill in QLQ-C30 questionnaires every 6 weeks as in  the supportive-care group. 
+
+
+With p=0.05 and power of 0.80, 264 patients were  required (176 in the irinotecan group and 88 in the supportive-care group) to show a significant difference in 1-year survival from 20% (supportive care) to 35% (irinotecan). 
+
+189 patients were randomly allocated irinotecan and supportive care and 90 patients were allocated  supportive care alone (figure 1). Six patients in the irinotecan group did not receive  irinotecan. In the supportive- care group 28 (31%) of patients received chemotherapy (21 a fluorouracil regimen, nine other drugs, and one irinotecan). 17 (19%) patients in the supportive-care  group received chemotherapy within 1 month  of randomisation compared with two (1%) in the  irinotecan group. Overall survival.
+
+There were 123 (65%) events in the irinotecan  group, median duration of which was 9.2 (range 0-18.9)  months. Patients in the irinotecan group lived significantly longer than those in the supportive-care  group (p=0.0001). 1-year survival was 36.2% and 13.8% in the irinotecan and supportive-care groups, respectively. Median  survival was 9.2 and 6.5 months, respectively. In the  supportive-care-alone group there were 53 (77%) events,  median duration 7.4 (0.7-19.3) months. When the  treatment group was included in the model,the survival benefit for the irinotecan group remained significant (p=0.001). 
+
+Survival without weight loss of more than 5% (p=0.018) and survival without performance-status deterioration (p=0.0001) were significantly longer in the irinotecan group. More patients with a performance-status of worse than 0 at baseline improved their performance status:  35% versus 11% (p=0.002). Pain-free survival in patients without pain at baseline (figure 4) was significantly longer in the irinotecan group than in the supportive-care group (p=0.003), despite a higher proportion of patients on opioids in the supportive-care group. In  the supportive-care group there were 26 (79%) events,  median duration 2.0 (0.13.0) months. The diarrhoea score was significantly better in the supportive-care group (p=0.02). Diarrhoea score was  significantly lower in the supportive-care group. Patients on supportive-care alone experienced a high incidence of severe adverse events, especially pain and asthenia, although significantly more patients in the irinotecan group experienced severe events, especially neutropenia, nausea, vomiting, and diarrhoea. Admission for adverse events  occurred in 136 (72%) of patients in the irinotecan group and 57 (63%) of patients in the supportive-carealone group for a cumulative median of 15 (range 1.168) days and 11 (2.87) days, respectively. 
+
+
+This study showed that treatment with irinotecan and supportive care alone, compared with supportive care, prolonged the life of patients with metastatic colorectal cancer. Other efficacy endpoints, such as survival without weight loss, survival  without performance status deterioration, pain-free survival, and quality-of-life, were all significantly in  favour of irinotecan. 
+
+The survival advantage for the irinotecan group remained highly significant after adjustment of performance status, a well-recognised prognostic  factor. Asthenia, pain, and  neurological symptoms were more frequent in the supportive-care group.

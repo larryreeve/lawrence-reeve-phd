@@ -1,0 +1,7 @@
+Aspects of mortality statistics	1
+Mortality Vital Statistics	1
+Local (qualifier value)	1
+Disease-Free Survival	1
+Relapse phase	1
+Relapsing course	1
+Relapse	1

@@ -1,0 +1,113 @@
+Simile	1
+Follow-up visit (procedure)	1
+survival aspects	1
+Comment	1
+regimen	1
+Original (qualifier value)	1
+High dose (qualifier value)	1
+Late (qualifier value)	1
+Upper arm	1
+Chronic (qualifier value)	1
+findings	1
+Proliferation (morphologic abnormality)	1
+Lanthanum	2
+Pessimistic (finding)	1
+Dosages (qualifier value)	1
+diazonaphthalenedisulfonic acid	1
+Continuance of life	1
+Stillness (finding)	1
+Disease regression	1
+GRADIENT	1
+control	1
+Overall [Publication Type]	1
+Result (navigational concept)	1
+QUESTIONABLE	1
+Malignant neoplasm, primary (morphologic abnormality)	1
+hazard	1
+Death Rate	1
+Entire (qualifier value)	1
+Few (qualifier value)	1
+Report (document)	1
+View (attribute)	1
+Murine	1
+Toxicity aspects	2
+Conditioning (Psychology)	1
+Life	1
+Chance	1
+Recent episode (qualifier value)	1
+injuries	1
+Expression - action (qualifier value)	1
+Appearance	1
+Confidence Intervals	1
+Therapeutic procedure	5
+Excision	1
+Breast	1
+Homo sapiens	1
+Recurrence	1
+Special (qualifier value)	1
+Fatal (qualifier value)	1
+Wounded	1
+Analysis of substances	1
+Indications	1
+Injury wounds	1
+Selection (Genetics)	1
+Arm	1
+Mental tolerance	1
+Significant (qualifier value)	1
+Personal appearance	1
+Physiologic tolerance	1
+Major (qualifier value)	2
+Death rate aspects	1
+Neoplasm Metastasis	2
+Two (qualifier value)	2
+Neoplasm, Residual	1
+Human	1
+Ratio (property) (qualifier value)	1
+Commonwealth of Independent States	2
+Excision - action (qualifier value)	1
+Malignant Neoplasms	1
+Conclude	1
+Analysis	1
+Technology	1
+milligram	1
+Antibodies	7
+Entire breast	1
+MST	1
+Groups (qualifier value)	2
+Colorectal Carcinoma	1
+[M]Unspecified tumor cell NOS (morphologic abnormality)	1
+Distant (qualifier value)	1
+therapeutic aspects	5
+Concentration	1
+Secondary malignant neoplastic disease (disorder)	1
+Staining	1
+Likely	1
+Cancer Genus	1
+One (qualifier value)	2
+Heterogeneity	1
+Course (attribute)	1
+Combination electrotherapy	1
+Cells	2
+Hybridomas	1
+Current (qualifier value)	1
+tyramine-deoxysorbitol	1
+Patients	2
+Regression - mental defense mechanism	1
+Related (finding)	1
+Mild (qualifier value)	1
+Antibodies, in vitro diagnostic	2
+Antigens	3
+Glycoproteins	1
+Magnesium	1
+Present	1
+Combined Modality Therapy	1
+adverse effects	1
+year (qualifier value)	4
+Metastatic to	1
+Shrinkage (finding)	1
+Condition (attribute)	1
+Third (qualifier value)	1
+Postoperative Period	1
+Toxic effect	2
+Published Comment	1
+targeting	1

@@ -1,0 +1,36 @@
+Worsening (qualifier value)	1	T080-Qualitative Concept
+Follow-up status (finding)	2	T169-Functional Concept
+Research Personnel	1	T097-Professional or Occupational Group
+Median Statistical Measurement	1	T081-Quantitative Concept
+year (qualifier value)	2	T079-Temporal Concept
+SURVIVE (product)	1	T121-Pharmacologic Substance
+Semustine	2	T109-Organic Chemical
+Recurrence	1	T067-Phenomenon or Process
+Episodes (qualifier value)	1	T079-Temporal Concept
+One (qualifier value)	2	T081-Quantitative Concept
+Excision	1	T061-Therapeutic or Preventive Procedure
+Deterioration of status	1	T080-Qualitative Concept
+Component (attribute)	1	T073-Manufactured Object
+month (qualifier value)	2	T079-Temporal Concept
+Fluorouracil	1	T114-Nucleic Acid, Nucleoside, or Nucleotide
+survival aspects	1	T081-Quantitative Concept
+Treats (attribute)	2	T185-Classification
+Cessation of life	2	T040-Organism Function
+Result (navigational concept)	1	T169-Functional Concept
+Recurrent disease (finding)	1	T047-Disease or Syndrome
+Toxicity aspects	1	T081-Quantitative Concept
+Median (qualifier value)	1	T082-Spatial Concept
+Methods	1	T170-Intellectual Product
+Essential (qualifier value)	1	T080-Qualitative Concept
+Purpose (attribute)	1	T033-Finding
+Conclude	1	T122-Biomedical or Dental Material
+Time	1	T079-Temporal Concept
+Methodology	1	T170-Intellectual Product
+Previous (qualifier value)	1	T082-Spatial Concept
+Excision - action (qualifier value)	1	T169-Functional Concept
+Continuance of life	1	T052-Activity
+Differential (qualifier value)	1	T080-Qualitative Concept
+Probability	2	T081-Quantitative Concept
+Patients	8	T101-Patient or Disabled Group
+Toxic effect	1	T037-Injury or Poisoning
+Five (qualifier value)	1	T081-Quantitative Concept

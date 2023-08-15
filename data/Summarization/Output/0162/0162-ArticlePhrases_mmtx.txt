@@ -1,0 +1,1752 @@
+toxicologic effects
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0205472|Toxicologic (qualifier value)|T169
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+methotrexate
+  1
+  C0025677|Methotrexate|T109
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+histologically positive axillary nodes
+  3
+  C0205462|Histologic|T169
+  C0729594|Axillary lymph node group|T023
+  C0205159|Positive (qualifier value)|T080
+CMF
+  1
+  C0950521|CMF|T061
+course
+  1
+  C0449922|Course (attribute)|T079
+eligible patients
+  1
+  C0030705|Patients|T101
+further treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+progress reports
+  1
+  C0242586|Progress Report|T170
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+RFS
+  1
+  C0748398|RF|T033
+favoring patients
+  2
+  C0309049|FAVOR (product)|T121
+  C0030705|Patients|T101
+adjuvant CMF
+  2
+  C0950521|CMF|T061
+  C0001551|Adjuvants, Immunologic|T129
+benefit
+  1
+  C0814225|benefits|T081
+results
+  1
+  C1274040|Result (navigational concept)|T169
+multimodality approach
+  1
+  C0449445|Approach (attribute)|T082
+indeed important advance
+  1
+  C0725066|Advance|T074
+optimal duration
+  1
+  C0449238|Duration|T079
+relative shortterm adjuvant systemic treatment
+  4
+  C0080103|Relative (related person)|T099
+  C0087111|Therapeutic procedure|T061
+  C0205345|Relative|T080
+  C0039798|therapeutic aspects|T169
+patients considerable amount
+  3
+  C0750591|CONSIDER|T078
+  C0030705|Patients|T101
+  C0205389|Quantity (attribute)|T081
+new prospective study
+  2
+  C0205314|New (qualifier value)|T079
+  C0033522|Prospective Studies|T081
+preliminary 3-yr results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0439611|Preliminary (qualifier value)|T079
+cycles
+  1
+  C0439596|Cyclic (qualifier value)|T079
+Similar findings
+  2
+  C0871364|Simile|T170
+  C0243095|findings|T169
+5-yr results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0439234|year (qualifier value)|T079
+MATERIALS
+  1
+  C0520510|Materials|T167
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Study Design
+  1
+  C0035171|Research Design|T062
+Treatment Schedule
+  3
+  C0087111|Therapeutic procedure|T061
+  C0086960|Schedules|T170
+  C0039798|therapeutic aspects|T169
+total
+  1
+  C0439810|Total (qualifier value)|T080
+patients
+  1
+  C0030705|Patients|T101
+histologically positive axillary nodes
+  3
+  C0205462|Histologic|T169
+  C0729594|Axillary lymph node group|T023
+  C0205159|Positive (qualifier value)|T080
+age yr
+  2
+  C0001779|Age (qualifier value)|T079
+  C0439234|year (qualifier value)|T079
+cycles
+  1
+  C0439596|Cyclic (qualifier value)|T079
+treatment group
+  1
+  C0036669|Sensitivity Training Groups|T065
+patients
+  1
+  C0030705|Patients|T101
+technique
+  1
+  C0449851|Techniques|T170
+permuted block
+  1
+  C0028778|Obstruction|T046
+apparent lack
+  2
+  C0332268|Lacking (qualifier value)|T080
+  C0750489|APPARENT|T078
+adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+randomization
+  1
+  C0034656|Random Allocation|T062
+postmenopausal patients
+  2
+  C0030705|Patients|T101
+  C0232970|Postmenopausal state (finding)|T079
+CMF
+  1
+  C0950521|CMF|T061
+patients
+  1
+  C0030705|Patients|T101
+modified radical mastectomy
+  2
+  C0024883|Mastectomy, Modified Radical|T061
+  C1320277|Modified radical mastectomy (procedure)|T061
+small fraction
+  2
+  C0457426|Fractions of (qualifier value)|T081
+  C0700321|Small|T080
+postoperative radiotherapy
+  3
+  C0032790|Postoperative Period|T079
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+other ancillary treatment
+  3
+  C0205394|Other|T080
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+Adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+dose schedule
+  2
+  C0086960|Schedules|T170
+  C0178602|Dosages (qualifier value)|T081
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+CTX
+  1
+  C0010583|Cyclophosphamide|T115
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+sq m
+  3
+  C0205120|Square (qualifier value)|T082
+  C1182670|Squamous|T080
+  C0038071|Squalene|T123
+methotrexate
+  1
+  C0025677|Methotrexate|T109
+MTX
+  1
+  C0025677|Methotrexate|T109
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+sq m intravenously
+  4
+  C0205120|Square (qualifier value)|T082
+  C0348016|Intravenous|T082
+  C1182670|Squamous|T080
+  C0038071|Squalene|T123
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+FU
+  1
+  C0016360|Fluorouracil|T114
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+sq m intravenously
+  4
+  C0205120|Square (qualifier value)|T082
+  C0348016|Intravenous|T082
+  C1182670|Squamous|T080
+  C0038071|Squalene|T123
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+CMF
+  1
+  C0950521|CMF|T061
+total
+  1
+  C0439810|Total (qualifier value)|T080
+MTX mg
+  3
+  C0024467|Magnesium|T123
+  C0025677|Methotrexate|T109
+  C0439210|milligram|T081
+sq m
+  3
+  C0205120|Square (qualifier value)|T082
+  C1182670|Squamous|T080
+  C0038071|Squalene|T123
+FU mg
+  3
+  C0016360|Fluorouracil|T114
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+sq m
+  3
+  C0205120|Square (qualifier value)|T082
+  C1182670|Squamous|T080
+  C0038071|Squalene|T123
+dose reduction schedule
+  4
+  C0086960|Schedules|T170
+  C0301630|Reduction (chemical)|T070
+  C0178602|Dosages (qualifier value)|T081
+  C0441610|Reduction - action|T061
+myelosuppression
+  1
+  C0854467|Myelosuppression (finding)|T047
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+leukocyte count
+  1
+  C0023508|White Blood Cell Count procedure|T059
+platelet count
+  2
+  C0032181|Platelet Count|T059
+  C1287267|Finding of platelet count (finding)|T034
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+Toxic manifestations
+  2
+  C0600688|Toxic effect|T037
+  C0205319|Manifest (qualifier value)|T169
+mucositis
+  1
+  C0236177|Inflammatory disease of mucous membrane (disorder)|T046
+cystitis
+  1
+  C0010692|Cystitis|T047
+temporary dose reduction only
+  3
+  C0205374|Transitory|T079
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+Primary treatment failure
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0162643|Treatment Failure|T080
+  C0205225|Primary|T080
+feasible histologic examination
+  2
+  C0579007|Examination - action (qualifier value)|T169
+  C0205462|Histologic|T169
+radiographs
+  1
+  C1306645|Plain film (procedure)|T060
+presence
+  1
+  C0392148|Providing presence (regime/therapy)|T061
+exact timing
+  2
+  C0059927|Exact|T122
+  C0449243|Timing (attribute)|T079
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+following systemic treatment
+  4
+  C0205373|Systemic (qualifier value)|T169
+  C0087111|Therapeutic procedure|T061
+  C0332282|Following (attribute)|T079
+  C0039798|therapeutic aspects|T169
+patients
+  1
+  C0030705|Patients|T101
+positive
+  1
+  C0205159|Positive (qualifier value)|T080
+ovariectomy
+  1
+  C0029936|Ovariectomy|T061
+additive hormonal therapy
+  2
+  C0278784|Hormone therapy (procedure)|T061
+  C0442796|Additive (qualifier value)|T080
+particularly tamoxifen
+  1
+  C0039286|Tamoxifen|T109
+combined sometimes
+  1
+  C0205195|Combined (qualifier value)|T080
+estrogen receptors
+  1
+  C0034804|Estrogen Receptors|T116
+systemic treatment
+  3
+  C0205373|Systemic (qualifier value)|T169
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+preferentially adriamycin containing regimen
+  4
+  C0085752|Adriamycin|T195
+  C0558295|Preferences (qualifier value)|T055
+  C0332256|Containing (qualifier value)|T169
+  C0677937|regimen|T061
+possible patients
+  2
+  C0332149|Possible|T080
+  C0030705|Patients|T101
+second line cytotoxic chemotherapy
+  4
+  C0205132|Linear|T082
+  C0677881|Cytotoxic drug therapy NOS (procedure)|T061
+  C0700221|Intravascular line|T074
+  C0205436|Second (qualifier value)|T081
+hormonal manipulations
+  1
+  C0586971|Hormone manipulation (procedure)|T061
+Patient Population
+  2
+  C0032659|Population|T081
+  C0030705|Patients|T101
+premenopausal women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0279752|premenopausal|T079
+retrospective evaluation
+  3
+  C1261322|Assessment procedure (procedure)|T058
+  C0035363|Retrospective Studies|T081
+  C0220825|Evaluation|T169
+presence
+  1
+  C0392148|Providing presence (regime/therapy)|T061
+additional women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0442796|Additive (qualifier value)|T080
+fixation
+  2
+  C0185023|Fixation - action|T061
+  C0728733|Psychological fixation|T170
+muscle
+  1
+  C0026845|Muscle|T024
+total
+  1
+  C0439810|Total (qualifier value)|T080
+women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+total
+  1
+  C0439810|Total (qualifier value)|T080
+planned adjuvant
+  2
+  C1301732|Planned (qualifier value)|T169
+  C0001551|Adjuvants, Immunologic|T129
+CMF cycles
+  2
+  C0439596|Cyclic (qualifier value)|T079
+  C0950521|CMF|T061
+CMF
+  1
+  C0950521|CMF|T061
+women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+patients
+  1
+  C0030705|Patients|T101
+majority
+  1
+  C0680220|majority|T054
+cm
+  1
+  C0475210|cm (qualifier value)|T081
+Estrogen receptor
+  1
+  C0034804|Estrogen Receptors|T116
+ER
+  1
+  C0279756|estrogen receptor negative|T034
+status
+  1
+  C0449438|Status (attribute)|T080
+dextran-coated charcoal assay
+  2
+  C0079414|Genes, DCC|T028
+  C0243073|assay|T059
+ER tumors
+  2
+  C0279756|estrogen receptor negative|T034
+  C0027651|Neoplasms|T191
+positive
+  1
+  C0205159|Positive (qualifier value)|T080
+negative
+  1
+  C0205160|Negative (qualifier value)|T080
+remaining tumors
+  1
+  C0027651|Neoplasms|T191
+borderline values
+  2
+  C0042295|VALUING|T080
+  C0205189|Borderline (qualifier value)|T080
+median follow-up
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0589120|Follow-up status (finding)|T169
+mo
+  1
+  C0026402|Molybdenum|T123
+Study Parameters
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0449381|Observation parameter (observable entity)|T033
+follow-up program
+  2
+  C0376691|Programs [Publication Type]|T170
+  C0589120|Follow-up status (finding)|T169
+patients
+  1
+  C0030705|Patients|T101
+complete physical examination
+  1
+  C0436120|Physical examination, complete (procedure)|T058
+x-ray
+  4
+  C0043299|Diagnostic radiologic examination|T060
+  C0043309|Roentgen Rays|T070
+  C0034571|roentgenographic|T169
+  C1306645|Plain film (procedure)|T060
+skeleton
+  3
+  C1283922|Entire skeleton|T022
+  C0037253|Skeletal system|T022
+  C0816871|Skeleton|T022
+skull
+  1
+  C0037303|Bone structure of cranium|T023
+spine
+  3
+  C0037949|Vertebral column|T023
+  C1267072|Entire vertebral column|T023
+  C1280065|Entire spine|T023
+pelvis
+  2
+  C0030797|Pelvis|T029
+  C1279864|Entire pelvis|T023
+upper third
+  1
+  C0442049|Upper third (qualifier value)|T082
+liver scan
+  1
+  C0203758|Radioisotope study of liver (procedure)|T060
+bilateral mammography
+  1
+  C0203027|Bilateral mammography (procedure)|T060
+hemogram
+  1
+  C0200631|Complete blood count without differential (procedure)|T059
+biochemical tests
+  1
+  C0430027|Biochemical test (procedure)|T059
+physical examination
+  1
+  C0031809|Clinical examination|T058
+mastectomy
+  1
+  C0024881|Mastectomy|T061
+then mo
+  1
+  C0026402|Molybdenum|T123
+third years
+  2
+  C0439234|year (qualifier value)|T079
+  C0205437|Third (qualifier value)|T081
+4 6 mo thereafter
+  2
+  C0026402|Molybdenum|T123
+  C1271041|Other regular care provider|T097
+Biochemical tests
+  1
+  C0430027|Biochemical test (procedure)|T059
+serum bilirubin
+  3
+  C0428442|Serum bilirubin NOS (procedure)|T059
+  C1318178|Serum bilirubin NOS|T034
+  C0863144|Serum bilirubin|T059
+total proteins
+  2
+  C1261360|Total protein|T034
+  C0555903|Total protein measurement (procedure)|T059
+alkaline phosphatase
+  2
+  C1318717|Alkaline phosphatase stain|T130
+  C0002059|Alkaline Phosphatase|T116
+SGOT
+  1
+  C0201899|Aspartate aminotransferase assay|T059
+SGPT
+  1
+  C0001899|Alanine Transaminase|T116
+mo
+  1
+  C0026402|Molybdenum|T123
+Chest roentgenogram
+  2
+  C1306645|Plain film (procedure)|T060
+  C0817096|Chest|T029
+mo
+  1
+  C0026402|Molybdenum|T123
+bone x-rays
+  1
+  C0848406|X-ray, bones|T060
+year
+  1
+  C0439234|year (qualifier value)|T079
+Liver scan
+  1
+  C0203758|Radioisotope study of liver (procedure)|T060
+mammography
+  1
+  C0024671|Mammography|T060
+examinations
+  1
+  C0579007|Examination - action (qualifier value)|T169
+short-term interval
+  2
+  C0443303|Short-term (qualifier value)|T079
+  C1272706|Interval (qualifier value)|T079
+exact time
+  2
+  C0059927|Exact|T122
+  C0040223|Time|T079
+extent
+  1
+  C0439792|Extents (qualifier value)|T080
+vast majority
+  2
+  C0680220|majority|T054
+  C0814230|Veterans Alcoholism Screening Test|T170
+baseline
+  1
+  C0168634|BaseLine|T122
+routine bone scans
+  2
+  C0205547|Routine (qualifier value)|T080
+  C0203668|Radioisotope scan of bone (procedure)|T060
+suspicious radiographic findings
+  3
+  C0750493|SUSPICIOUS|T078
+  C0444708|Radiographic (qualifier value)|T070
+  C0243095|findings|T169
+persisting bone pain
+  3
+  C0205322|Persistent (qualifier value)|T079
+  C0151825|Bone pain (finding)|T184
+  C0546816|Persistence (finding)|T041
+Primary treatment failure
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0162643|Treatment Failure|T080
+  C0205225|Primary|T080
+local regional s
+  4
+  C0205276|Local (qualifier value)|T082
+  C0457385|seconds|T079
+  C0205147|Regional (qualifier value)|T082
+  C0205436|Second (qualifier value)|T081
+distant s
+  3
+  C0443203|Distant (qualifier value)|T082
+  C0457385|seconds|T079
+  C0205436|Second (qualifier value)|T081
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+Statistical Evaluation
+  3
+  C1261322|Assessment procedure (procedure)|T058
+  C0220825|Evaluation|T169
+  C0220917|statistical|T170
+RFS
+  1
+  C0748398|RF|T033
+proportion
+  1
+  C0205351|Proportional (qualifier value)|T080
+surviving
+  1
+  C0310255|SURVIVE (product)|T121
+yr
+  1
+  C0439234|year (qualifier value)|T079
+Probabilities
+  1
+  C0033204|Probability|T081
+log rank test
+  3
+  C0699794|Rank|T170
+  C0392366|Tests (qualifier value)|T170
+  C0335467|Logger (occupation)|T097
+values
+  1
+  C0042295|VALUING|T080
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+Results
+  1
+  C1274040|Result (navigational concept)|T169
+comparative RFS
+  1
+  C0748398|RF|T033
+results
+  1
+  C1274040|Result (navigational concept)|T169
+nodal status
+  2
+  C0443268|Nodal (qualifier value)|T082
+  C0449438|Status (attribute)|T080
+treatment regimens
+  3
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0677937|regimen|T061
+RFS
+  1
+  C0748398|RF|T033
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+confidence limits
+  1
+  C0237530|Confidence Limits|T081
+percent difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0439165|Percent (qualifier value)|T081
+standard error
+  3
+  C0038137|standards characteristics|T170
+  C0743559|ERROR|T080
+  C0175675|Standards of Weights and Measures|T080
+overall RFS difference
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0748398|RF|T033
+  C0443199|Differential (qualifier value)|T080
+somewhat contrasting results
+  1
+  C1274040|Result (navigational concept)|T169
+postmenopausal patients
+  2
+  C0030705|Patients|T101
+  C0232970|Postmenopausal state (finding)|T079
+only fictitious difference
+  1
+  C0443199|Differential (qualifier value)|T080
+postmenopausal women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0232970|Postmenopausal state (finding)|T079
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+menopausal groups
+  2
+  C0232967|Menopausal|T169
+  C0441833|Groups (qualifier value)|T170
+RFS
+  1
+  C0748398|RF|T033
+5-yr total survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0439234|year (qualifier value)|T079
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+findings
+  1
+  C0243095|findings|T169
+premenopausal patients
+  2
+  C0030705|Patients|T101
+  C0279752|premenopausal|T079
+72% 5-yr survival
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0439234|year (qualifier value)|T079
+findings
+  1
+  C0243095|findings|T169
+Site
+  1
+  C0205145|Associated topography (attribute)|T082
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+frequency
+  1
+  C0376249|With frequency|T081
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+substantial difference
+  1
+  C0443199|Differential (qualifier value)|T080
+postmenopausal women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0232970|Postmenopausal state (finding)|T079
+Results
+  1
+  C1274040|Result (navigational concept)|T169
+RFS
+  1
+  C0748398|RF|T033
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+ER
+  1
+  C0279756|estrogen receptor negative|T034
+absence
+  1
+  C0424530|Absences (finding)|T033
+ER
+  1
+  C0279756|estrogen receptor negative|T034
+findings
+  1
+  C0243095|findings|T169
+RFS
+  1
+  C0748398|RF|T033
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+statistical significance
+  1
+  C0237881|Statistical Significance|T081
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+premenopausal women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0279752|premenopausal|T079
+significantly longer survival
+  4
+  C0205166|Long (qualifier value)|T080
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0750502|Significant (qualifier value)|T078
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+striking difference
+  3
+  C0038452|Strikes, Employee|T057
+  C0443199|Differential (qualifier value)|T080
+  C0275626|Struck (disorder)|T047
+ER tumors
+  2
+  C0279756|estrogen receptor negative|T034
+  C0027651|Neoplasms|T191
+visceral involvement
+  2
+  C0392760|Not free of (attribute)|T169
+  C0442045|Visceral (qualifier value)|T082
+frequency
+  1
+  C0376249|With frequency|T081
+ER
+  1
+  C0279756|estrogen receptor negative|T034
+s
+  2
+  C0457385|seconds|T079
+  C0205436|Second (qualifier value)|T081
+disease
+  1
+  C0012634|Disease|T047
+more indolent course
+  3
+  C0234227|Indolent|T169
+  C0449922|Course (attribute)|T079
+  C0205172|More (qualifier value)|T081
+ER tumors
+  2
+  C0279756|estrogen receptor negative|T034
+  C0027651|Neoplasms|T191
+further progression
+  1
+  C0449258|Progression (attribute)|T169
+Results
+  1
+  C1274040|Result (navigational concept)|T169
+similar type
+  2
+  C0871364|Simile|T170
+  C0332307|With type (attribute)|T169
+nodal status
+  2
+  C0443268|Nodal (qualifier value)|T082
+  C0449438|Status (attribute)|T080
+statistically significant difference
+  2
+  C0237881|Statistical Significance|T081
+  C0443199|Differential (qualifier value)|T080
+6-cycle group
+  3
+  C0439596|Cyclic (qualifier value)|T079
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+Late Toxicity
+  3
+  C0205087|Late (qualifier value)|T079
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+Acute toxic reactions
+  2
+  C0205178|Acuteness (qualifier value)|T079
+  C0542243|Toxic reaction (NOS)|T033
+Nausea
+  1
+  C0027497|Nausea|T033
+hair loss
+  1
+  C0002170|Alopecia|T184
+most distressing side effects
+  4
+  C0700361|Feeling upset (finding)|T033
+  C0231303|Distress (finding)|T041
+  C0205393|Most (qualifier value)|T081
+  C0001688|adverse effects|T037
+Myelosuppression
+  1
+  C0854467|Myelosuppression (finding)|T047
+dose limiting factor
+  1
+  C0935905|dose-limiting|T037
+severe leukopenia
+  2
+  C0205082|Severe (severity modifier) (qualifier value)|T080
+  C0023530|Leukopenia|T047
+thrombocytopenia
+  1
+  C0040034|Thrombocytopenia|T047
+prolonged myelosuppression
+  2
+  C0854467|Myelosuppression (finding)|T047
+  C0439590|Prolonged (qualifier value)|T079
+infectious complications
+  1
+  C0940933|Complication, infection|T047
+Only small subgroup
+  1
+  C0700321|Small|T080
+planned program
+  2
+  C0376691|Programs [Publication Type]|T170
+  C1301732|Planned (qualifier value)|T169
+patients
+  1
+  C0030705|Patients|T101
+toxic treatment program
+  2
+  C0600688|Toxic effect|T037
+  C0679841|treatment program|T058
+drug injections
+  1
+  C0556025|Injecting drug user (finding)|T033
+timing
+  1
+  C0449243|Timing (attribute)|T079
+visible disease
+  2
+  C0012634|Disease|T047
+  C0205379|Visible (qualifier value)|T080
+Frequency
+  1
+  C0376249|With frequency|T081
+treatment groups
+  1
+  C0036669|Sensitivity Training Groups|T065
+contralateral breast cancer
+  1
+  C1096616|Contralateral breast cancer|T191
+Four additional patients
+  3
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+  C0442796|Additive (qualifier value)|T080
+second tumors
+  2
+  C1290850|Secondary malignant neoplastic disease (disorder)|T191
+  C0027627|Neoplasm Metastasis|T191
+endometrial carcinoma in situ
+  2
+  C0007099|Carcinoma in Situ|T191
+  C0227843|Endometrio-|T082
+patients
+  1
+  C0030705|Patients|T101
+endometrial carcinoma
+  1
+  C0476089|Endometrial Carcinoma|T191
+thyroid cancer
+  2
+  C1318516|Malignant tumor of thyroid gland (disorder)|T191
+  C0007115|Thyroid Cancer|T191
+myoblastoma
+  1
+  C0027043|Myoblastoma|T191
+mo
+  1
+  C0026402|Molybdenum|T123
+So far patient
+  1
+  C0030705|Patients|T101
+developed acute leukemia
+  4
+  C0020119|Human Development|T039
+  C0180397|Developers|T130
+  C0085669|Acute leukemia, morphology, including blast cell OR undifferentiated leukemia (morphologic abnormality)|T191
+  C0243107|development aspects|T039
+comparative frequency
+  1
+  C0376249|With frequency|T081
+relative frequency
+  3
+  C0080103|Relative (related person)|T099
+  C0205345|Relative|T080
+  C0376249|With frequency|T081
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+cycles
+  1
+  C0439596|Cyclic (qualifier value)|T079
+total survival
+  3
+  C0220921|survival aspects|T081
+  C0439810|Total (qualifier value)|T080
+  C0038952|Continuance of life|T052
+none
+  1
+  C0549184|None (qualifier value)|T081
+observation
+  2
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+cycles
+  1
+  C0439596|Cyclic (qualifier value)|T079
+apparently superior results
+  3
+  C0205105|Superior (qualifier value)|T082
+  C1274040|Result (navigational concept)|T169
+  C0750541|APPARENTLY|T078
+confidence
+  1
+  C0237529|Self-confidence (observable entity)|T041
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+long-term analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0443252|Long-term (qualifier value)|T079
+  C0936012|Analysis|T062
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+other findings
+  2
+  C0205394|Other|T080
+  C0243095|findings|T169
+cycles
+  1
+  C0439596|Cyclic (qualifier value)|T079
+One
+  1
+  C0205447|One (qualifier value)|T081
+dose level
+  2
+  C0456079|Disease classification level|T185
+  C0178602|Dosages (qualifier value)|T081
+main important pharmacologic factor affecting tumor response
+  2
+  C0871261|Responses|T054
+  C0205225|Primary|T080
+peak level
+  2
+  C0444505|Peak (qualifier value)|T081
+  C0456079|Disease classification level|T185
+total amount
+  2
+  C0439810|Total (qualifier value)|T080
+  C0205389|Quantity (attribute)|T081
+clinical findings
+  1
+  C0586173|Clinical finding (finding)|T033
+above-mentioned statement
+  2
+  C1301808|State (environment)|T083
+  C1282910|Supra- (qualifier value)|T082
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+three different dose levels
+  2
+  C0441889|Levels (qualifier value)|T170
+  C0205449|Three (qualifier value)|T081
+important finding to
+  1
+  C0243095|findings|T169
+pattern
+  1
+  C0449774|Patterns (qualifier value)|T082
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+distant areas
+  2
+  C0443203|Distant (qualifier value)|T082
+  C0205146|Area (qualifier value)|T082
+preliminary 3-yr results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0439611|Preliminary (qualifier value)|T079
+utilizing single multidrug regimen
+  2
+  C0042153|utilization|T081
+  C0677937|regimen|T061
+duration
+  1
+  C0449238|Duration|T079
+Present results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0150312|Present|T169
+patients
+  1
+  C0030705|Patients|T101
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+adriamycin
+  1
+  C0085752|Adriamycin|T195
+wk
+  1
+  C0439230|week (qualifier value)|T079
+same regimen
+  2
+  C0445247|Same (qualifier value)|T080
+  C0677937|regimen|T061
+wk
+  1
+  C0439230|week (qualifier value)|T079
+median 2.6 yr
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0439234|year (qualifier value)|T079
+RFS
+  1
+  C0748398|RF|T033
+survival difference
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0443199|Differential (qualifier value)|T080
+findings
+  1
+  C0243095|findings|T169
+previous trial
+  1
+  C0205156|Previous (qualifier value)|T082
+patient selection
+  1
+  C0242802|Patient Selection|T058
+procedures
+  2
+  C0025664|Methodology|T170
+  C0184661|Procedures|T058
+type
+  1
+  C0332307|With type (attribute)|T169
+methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+follow-up examinations
+  1
+  C0260832|[V]Follow-up examination (context-dependent category)|T033
+women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+medical oncologists
+  1
+  C0278631|Medical oncologist (occupation)|T097
+research nurses
+  1
+  C0687693|Research nurse (occupation)|T097
+5-yr results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0439234|year (qualifier value)|T079
+two series
+  2
+  C0205549|Series (qualifier value)|T081
+  C0205448|Two (qualifier value)|T081
+cycles
+  1
+  C0439596|Cyclic (qualifier value)|T079
+same results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0445247|Same (qualifier value)|T080
+B
+  7
+  C0337527|Brothers|T099
+  C0004927|Behavior|T055
+  C0004587|Bacillus <bacterium>|T007
+  C0677505|Behaviors and observations relating to behavior|T033
+  C1040746|Bacilli|T007
+  C0150141|Bathing|T061
+  C0175640|Baths (medical device)|T074
+C
+  1
+  C0007886|Cesium|T196
+adjuvant CMF
+  2
+  C0950521|CMF|T061
+  C0001551|Adjuvants, Immunologic|T129
+cycles
+  1
+  C0439596|Cyclic (qualifier value)|T079
+course
+  1
+  C0449922|Course (attribute)|T079
+Other considerations
+  2
+  C0205394|Other|T080
+  C0518609|CONSIDERATION|T033
+first
+  1
+  C0205435|First (qualifier value)|T081
+important one
+  1
+  C0205447|One (qualifier value)|T081
+real difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0871222|Reality|T078
+adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+namely CMF
+  1
+  C0950521|CMF|T061
+postmenopausal women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0232970|Postmenopausal state (finding)|T079
+different results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0443199|Differential (qualifier value)|T080
+Low-dose CMF
+  2
+  C0950521|CMF|T061
+  C0445550|Low dose (qualifier value)|T081
+only small fraction
+  2
+  C0457426|Fractions of (qualifier value)|T081
+  C0700321|Small|T080
+findings
+  1
+  C0243095|findings|T169
+menopausal status
+  2
+  C0449438|Status (attribute)|T080
+  C0232967|Menopausal|T169
+treatment outcome
+  2
+  C0085415|Treatment outcome|T080
+  C0599860|Non-human treatment outcome|T080
+Hospital
+  1
+  C0019994|Hospitals|T093
+Manchester study groups
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0441833|Groups (qualifier value)|T170
+actuarial 5-yr RFS
+  2
+  C0748398|RF|T033
+  C0334965|Actuary (occupation)|T097
+melphalan
+  1
+  C0025241|Melphalan|T116
+CMF
+  1
+  C0950521|CMF|T061
+only group significantly
+  3
+  C0441833|Groups (qualifier value)|T170
+  C0750502|Significant (qualifier value)|T078
+  C1300322|Group (social concept)|T096
+premenopausal patients
+  2
+  C0030705|Patients|T101
+  C0279752|premenopausal|T079
+findings
+  1
+  C0243095|findings|T169
+premenopausal women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0279752|premenopausal|T079
+adjuvant combination chemotherapy
+  4
+  C0085533|Chemotherapy, Adjuvant|T061
+  C0001551|Adjuvants, Immunologic|T129
+  C0013218|Drug Therapy, Combination|T061
+  C0205195|Combined (qualifier value)|T080
+Effective adjuvant combination chemotherapy
+  5
+  C0205414|Effective (qualifier value)|T080
+  C0085533|Chemotherapy, Adjuvant|T061
+  C0001551|Adjuvants, Immunologic|T129
+  C0013218|Drug Therapy, Combination|T061
+  C0205195|Combined (qualifier value)|T080
+RFS
+  1
+  C0748398|RF|T033
+results
+  1
+  C1274040|Result (navigational concept)|T169
+recent retrospective studies
+  2
+  C0332185|Recent episode (qualifier value)|T079
+  C0035363|Retrospective Studies|T081
+response rate
+  2
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+results
+  1
+  C1274040|Result (navigational concept)|T169
+ER tumors
+  2
+  C0279756|estrogen receptor negative|T034
+  C0027651|Neoplasms|T191
+possible therapeutic role
+  4
+  C0332149|Possible|T080
+  C0035820|Role|T054
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+premenopausal women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0279752|premenopausal|T079
+significantly longer survival
+  4
+  C0205166|Long (qualifier value)|T080
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0750502|Significant (qualifier value)|T078
+clear explanation
+  2
+  C0681841|explanation|T062
+  C0205305|Clear (qualifier value)|T080
+Patterns
+  1
+  C0449774|Patterns (qualifier value)|T082
+frequency
+  1
+  C0376249|With frequency|T081
+ER tumors
+  2
+  C0279756|estrogen receptor negative|T034
+  C0027651|Neoplasms|T191
+slow growing disease
+  2
+  C0012634|Disease|T047
+  C0445266|Slow grower (qualifier value)|T080
+therapeutic efficacy
+  2
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+clinical reason to
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0684328|Reasoning|T041
+administration
+  2
+  C0001554|Administration|T057
+  C1262471|Administration (procedure)|T061
+combined chemotherapy hormonal therapy
+  2
+  C0278784|Hormone therapy (procedure)|T061
+  C0013218|Drug Therapy, Combination|T061
+superior results
+  2
+  C0205105|Superior (qualifier value)|T082
+  C1274040|Result (navigational concept)|T169
+most important practical aspect
+  2
+  C0205393|Most (qualifier value)|T081
+  C0237607|experience (practice)|T041
+single drug combination
+  4
+  C0205171|Singular|T081
+  C0037179|Unmarried person|T098
+  C0013162|Drug Combinations|T121
+  C0087136|Unmarried|T098
+maximal tumor cytoreduction
+  2
+  C0205289|Maximal (qualifier value)|T080
+  C0027651|Neoplasms|T191
+clinical findings
+  1
+  C0586173|Clinical finding (finding)|T033
+conclusion
+  1
+  C0917903|Conclude|T122
+maximum therapeutic effect
+  4
+  C1280500|Effect (qualifier value)|T080
+  C0039796|The science and art of healing|T061
+  C0806909|Maximum|T033
+  C0302350|Therapeutic|T169
+sound clinical reasons to
+  4
+  C0205210|Clinical (qualifier value)|T080
+  C0684328|Reasoning|T041
+  C0037709|Sound - physical agent|T070
+  C0175663|Sounds device|T074
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+same drugs
+  2
+  C0445247|Same (qualifier value)|T080
+  C0013227|Pharmaceutical Preparations|T121
+observation
+  2
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+cycles
+  1
+  C0439596|Cyclic (qualifier value)|T079
+Arizona group
+  5
+  C0036112|Salmonella arizonae|T007
+  C0003787|Arizona|T083
+  C0441833|Groups (qualifier value)|T170
+  C1275677|Salmonella enterica subsp. arizonae|T007
+  C1300322|Group (social concept)|T096
+different combination regimen
+  3
+  C0443199|Differential (qualifier value)|T080
+  C0677937|regimen|T061
+  C0205195|Combined (qualifier value)|T080
+adriamycin
+  1
+  C0085752|Adriamycin|T195
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+5-yr RFS
+  2
+  C0748398|RF|T033
+  C0439234|year (qualifier value)|T079
+different adjuvant treatments
+  3
+  C0087111|Therapeutic procedure|T061
+  C0443199|Differential (qualifier value)|T080
+  C0001551|Adjuvants, Immunologic|T129
+comparable RFS
+  1
+  C0748398|RF|T033
+extremely important clinical observation
+  3
+  C0700325|Patient observation|T061
+  C0205403|Extreme (qualifier value)|T080
+  C0302523|Observation in research|T062
+frequency
+  1
+  C0376249|With frequency|T081
+moderate patients
+  2
+  C0030705|Patients|T101
+  C0205081|Moderate (severity modifier) (qualifier value)|T080
+unnecessary side effects
+  1
+  C0001688|adverse effects|T037
+negative psychologic reactions
+  3
+  C0205486|Psychologic|T169
+  C0205160|Negative (qualifier value)|T080
+  C0443286|Reaction (qualifier value)|T169
+treatment duration
+  1
+  C0444921|Duration of treatment (qualifier value)|T079
+less protracted exposure
+  4
+  C0274281|EFFECTS OF EXPOSURE TO EXTERNAL CAUSES|T037
+  C0391838|Exposure condition|T169
+  C0728853|Accident due to exposure to weather conditions|T037
+  C0491912|PROTRACTOR|T074
+alkylating agents
+  1
+  C0002073|Alkylating Agents|T131
+adriamycin
+  1
+  C0085752|Adriamycin|T195
+potential risk
+  2
+  C0237399|Potential|T080
+  C0035647|Risk|T080
+chronic organ damage
+  3
+  C0178784|Organ|T023
+  C0010957|Damage (morphologic abnormality)|T169
+  C0205191|Chronic (qualifier value)|T079
+s
+  2
+  C0457385|seconds|T079
+  C0205436|Second (qualifier value)|T081
+RFS
+  1
+  C0748398|RF|T033
+classes
+  1
+  C0441884|Classes (qualifier value)|T170
+Repetitive dose treatments
+  2
+  C0178602|Dosages (qualifier value)|T081
+  C0420265|Repeat treatment NOS (context-dependent category)|T033
+vast majority
+  2
+  C0680220|majority|T054
+  C0814230|Veterans Alcoholism Screening Test|T170
+fluctuating
+  1
+  C0231241|Fluctuating (qualifier value)|T079
+sometimes larger numbers
+  2
+  C0443228|Greater (qualifier value)|T081
+  C0237753|Numbers (qualifier value)|T170
+resistant neoplastic cells overgrow
+  2
+  C0597032|neoplastic cell|T025
+  C0332325|Resistant (qualifier value)|T169
+host
+  1
+  C1167395|host|T032
+40-yr-old mutation theory
+  2
+  C0871935|Theories|T078
+  C0439234|year (qualifier value)|T079
+neoplastic cells
+  1
+  C0597032|neoplastic cell|T025
+basic law
+  5
+  C0178499|Base|T120
+  C0023150|Rules of conduct|T089
+  C0597742|basicity|T081
+  C0728724|Legal system|T089
+  C0220866|aspects of laws|T089
+underlies
+  1
+  C0444455|Underlay (qualifier value)|T082
+consistent observations
+  3
+  C0700325|Patient observation|T061
+  C0332290|Consistent with (qualifier value)|T078
+  C0302523|Observation in research|T062
+sequential delivery
+  3
+  C0011209|Obstetric Delivery|T061
+  C1135594|Delivery|T061
+  C0559563|Delivery finding (finding)|T033
+non cross-resistant drugs often
+  4
+  C0013227|Pharmaceutical Preparations|T121
+  C0205203|Crossed (qualifier value)|T082
+  C0332183|Frequent (qualifier value)|T079
+  C0332325|Resistant (qualifier value)|T169
+delay failures
+  3
+  C0680095|Personal failure|T055
+  C0205421|Deferred (qualifier value)|T079
+  C0231174|Failure (biologic function)|T169
+doses
+  1
+  C0719635|DOS|T109
+schedules
+  1
+  C0086960|Schedules|T170
+sequential delivery
+  3
+  C0011209|Obstetric Delivery|T061
+  C1135594|Delivery|T061
+  C0559563|Delivery finding (finding)|T033
+current results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0521116|Current (qualifier value)|T079
+adriamycin containing regimen
+  3
+  C0085752|Adriamycin|T195
+  C0332256|Containing (qualifier value)|T169
+  C0677937|regimen|T061
+clinical research efforts
+  2
+  C0015264|Exertion|T040
+  C0008972|Clinical Research|T062
+current protocols
+  2
+  C0442711|Protocols documentation|T170
+  C0521116|Current (qualifier value)|T079
+alternating delivery
+  4
+  C0332270|Alternating (qualifier value)|T169
+  C0011209|Obstetric Delivery|T061
+  C1135594|Delivery|T061
+  C0559563|Delivery finding (finding)|T033
+adriamycin
+  1
+  C0085752|Adriamycin|T195
+previous experience
+  2
+  C0596545|experience|T041
+  C0205156|Previous (qualifier value)|T082
+treatments
+  1
+  C0087111|Therapeutic procedure|T061
+full drug doses
+  2
+  C0678766|Drug dose (finding)|T081
+  C0443225|Full (qualifier value)|T080
+CMF regimen
+  1
+  C0055982|CMF regimen|T061
+three drugs
+  2
+  C0013227|Pharmaceutical Preparations|T121
+  C0205449|Three (qualifier value)|T081
+intravenously wk
+  2
+  C0348016|Intravenous|T082
+  C0439230|week (qualifier value)|T079
+CTX
+  1
+  C0010583|Cyclophosphamide|T115
+FU mg
+  3
+  C0016360|Fluorouracil|T114
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+sq m
+  3
+  C0205120|Square (qualifier value)|T082
+  C1182670|Squamous|T080
+  C0038071|Squalene|T123
+MTX mg
+  3
+  C0024467|Magnesium|T123
+  C0025677|Methotrexate|T109
+  C0439210|milligram|T081
+sq m
+  3
+  C0205120|Square (qualifier value)|T082
+  C1182670|Squamous|T080
+  C0038071|Squalene|T123
+platelets 100,000/cu mm
+  2
+  C0439200|millimeter|T081
+  C0005821|Blood Platelets|T025
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+1 2 wk to
+  1
+  C0439230|week (qualifier value)|T079
+constant delivery
+  3
+  C0011209|Obstetric Delivery|T061
+  C1135594|Delivery|T061
+  C0559563|Delivery finding (finding)|T033
+CMF
+  1
+  C0950521|CMF|T061
+postoperative course
+  2
+  C0449922|Course (attribute)|T079
+  C0032790|Postoperative Period|T079
+presence
+  1
+  C0392148|Providing presence (regime/therapy)|T061
+therapeutic effectiveness
+  4
+  C0205414|Effective (qualifier value)|T080
+  C0039796|The science and art of healing|T061
+  C1280519|Effectiveness (qualifier value)|T170
+  C0302350|Therapeutic|T169
+prolonged administration unnecessary
+  3
+  C0001554|Administration|T057
+  C1262471|Administration (procedure)|T061
+  C0439590|Prolonged (qualifier value)|T079
+Only long-term analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0443252|Long-term (qualifier value)|T079
+  C0936012|Analysis|T062
+questions
+  1
+  C0750481|QUESTIONABLE|T078
+addition
+  1
+  C0442796|Additive (qualifier value)|T080
+results
+  1
+  C1274040|Result (navigational concept)|T169
+excellent results
+  1
+  C1274040|Result (navigational concept)|T169
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+adriamycin
+  1
+  C0085752|Adriamycin|T195
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+tumor cell burden
+  1
+  C0431085|[M]Unspecified tumor cell NOS (morphologic abnormality)|T191
+important prognostic factor
+  1
+  C0220901|prognostic|T170
+new prospective trials
+  1
+  C0205314|New (qualifier value)|T079
+potential efficacy
+  1
+  C0237399|Potential|T080

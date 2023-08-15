@@ -1,0 +1,2105 @@
+DOXORUBICIN
+  1
+  C0013089|Doxorubicin|T195
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+Adriamycin
+  1
+  C0085752|Adriamycin|T195
+Adria Laboratories
+  2
+  C0022877|Laboratories|T073
+  C0331763|Adria Pharmaceuticals|T093
+Ohio
+  1
+  C0028905|Ohio|T083
+broad spectrum
+  1
+  C0332464|Widened structure (morphologic abnormality)|T082
+most active nonhormonal drug
+  2
+  C0205393|Most (qualifier value)|T081
+  C0013227|Pharmaceutical Preparations|T121
+use
+  1
+  C0042153|utilization|T081
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+CHF
+  1
+  C0018802|Heart Failure, Congestive|T047
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+higher cumulative doses
+  1
+  C0444956|High dose (qualifier value)|T081
+empiric dose limitation
+  2
+  C0376548|Empiricism|T078
+  C0935905|dose-limiting|T037
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+subclinical cardiac injury
+  3
+  C0205041|Cardio-|T082
+  C0175677|Injury inflicted to the body by an external force|T037
+  C0205211|Subclinical (qualifier value)|T080
+Cardiac monitoring
+  1
+  C0150496|Cardiac monitoring (regime/therapy)|T060
+morphologic cardiac abnormalities
+  2
+  C0332447|Morphologically abnormal structure (morphologic abnormality)|T190
+  C0205041|Cardio-|T082
+Discontinuation
+  1
+  C0457454|Discontinuation (procedure)|T058
+cardiac failure
+  1
+  C0018801|Heart failure NOS (disorder)|T047
+One approach
+  2
+  C0449445|Approach (attribute)|T082
+  C0205447|One (qualifier value)|T081
+development
+  2
+  C0020119|Human Development|T039
+  C0243107|development aspects|T039
+antineoplastic activity
+  4
+  C0600075|Endurance of activity|T033
+  C0441655|Activities|T052
+  C0003392|Antineoplastic Agents|T121
+  C0221187|Physical activity|T056
+reduced potential
+  2
+  C0392756|Reduced (qualifier value)|T080
+  C0237399|Potential|T080
+Preclinical studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+Epirubicin
+  1
+  C0014582|Epirubicin|T109
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+compound
+  1
+  C0205198|Compound (qualifier value)|T080
+stereoisomer
+  1
+  C0376211|Stereoisomers|T104
+hydroxyl group
+  1
+  C0700307|hydroxyl group|T197
+antitumor activity
+  3
+  C0600075|Endurance of activity|T033
+  C0441655|Activities|T052
+  C0221187|Physical activity|T056
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+less toxic compound
+  2
+  C0205198|Compound (qualifier value)|T080
+  C0600688|Toxic effect|T037
+cytotoxicity
+  1
+  C0596402|Cytotoxicity|T049
+cardiac injury
+  2
+  C0205041|Cardio-|T082
+  C0175677|Injury inflicted to the body by an external force|T037
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+similar patterns
+  2
+  C0871364|Simile|T170
+  C0449774|Patterns (qualifier value)|T082
+drug levels
+  2
+  C1261153|Drug measurement (procedure)|T059
+  C0428212|Finding of drug level (finding)|T034
+spleen
+  2
+  C1278932|Entire spleen|T023
+  C0037993|Spleen|T023
+Pharmacokinetic studies
+  1
+  C0201734|Pharmacokinetic study (procedure)|T059
+rats
+  2
+  C0034693|Rattus norvegicus|T015
+  C0034721|Rattus|T015
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+two compounds
+  2
+  C0205198|Compound (qualifier value)|T080
+  C0205448|Two (qualifier value)|T081
+similar pharmacokinetic behavior
+  3
+  C0004927|Behavior|T055
+  C0871364|Simile|T170
+  C0031328|Pharmacokinetic|T169
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+acceptable toxicity
+  4
+  C0814633|acceptability|T080
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+  C1272684|Accepted (qualifier value)|T080
+three weeks
+  2
+  C0205449|Three (qualifier value)|T081
+  C0439230|week (qualifier value)|T079
+acute toxicity
+  3
+  C0040539|Toxicity aspects|T081
+  C0205178|Acuteness (qualifier value)|T079
+  C0600688|Toxic effect|T037
+Therapeutic responses
+  1
+  C0521982|Therapeutic response, function (observable entity)|T033
+studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+multigated radionuclide cineangiocardiography
+  2
+  C0202855|Cineradiography of cardiovascular system (procedure)|T060
+  C0034595|Radioisotopes|T196
+cardiac toxicity
+  1
+  C0280951|cardiac toxicity|T037
+chronic toxicities
+  1
+  C1264527|Chronic poisoning (disorder)|T037
+MATERIALS
+  1
+  C0520510|Materials|T167
+METHODS Patient Eligibility study
+  4
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+Patients
+  1
+  C0030705|Patients|T101
+prior treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0750516|PRIOR|T078
+  C0039798|therapeutic aspects|T169
+anthracycline
+  2
+  C0282564|Anthracyclines|T109
+  C0003234|Anthracycline Antibiotics|T195
+Other criteria
+  2
+  C0205394|Other|T080
+  C0243161|criteria|T170
+performance status
+  1
+  C0935728|performance status|T033
+Karnofsky scale
+  1
+  C0206065|Karnofsky Performance Status|T034
+normal serum bilirubin levels
+  3
+  C0428441|Serum bilirubin measurement (procedure)|T059
+  C1287366|Finding of serum bilirubin level (finding)|T034
+  C0205307|Normal (qualifier value)|T033
+1.5 mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+dL
+  1
+  C0439241|dL (qualifier value)|T081
+measurable disease
+  1
+  C0677909|measurable disease|T047
+Patients
+  1
+  C0030705|Patients|T101
+left ventricular ejection fraction
+  1
+  C0428772|Left ventricular ejection fraction (observable entity)|T034
+Pretreatment Evaluation
+  2
+  C1261322|Assessment procedure (procedure)|T058
+  C0220825|Evaluation|T169
+Follow-up Studies Pretreatment evaluation
+  3
+  C1261322|Assessment procedure (procedure)|T058
+  C0016441|Follow-Up Studies|T062
+  C0220825|Evaluation|T169
+complete history
+  7
+  C0019664|Recording of previous events|T090
+  C0019665|history|T170
+  C0205197|Complete (qualifier value)|T080
+  C0725685|Compleat|T168
+  C0262926|Medical History|T033
+  C1321503|History of (contextual qualifier) (qualifier value)|T033
+  C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+physical examination
+  1
+  C0031809|Clinical examination|T058
+complete blood cell count
+  6
+  C0007634|Cells|T025
+  C0005771|Blood Cell Count|T059
+  C0205197|Complete (qualifier value)|T080
+  C0725685|Compleat|T168
+  C1269647|Entire cell|T025
+  C0009555|Blood Count, Complete|T059
+CBC
+  1
+  C0009555|Blood Count, Complete|T059
+12-channel biochemical profile
+  2
+  C0439799|Channel (qualifier value)|T082
+  C0205474|Biochemical (qualifier value)|T169
+serum creatinine
+  2
+  C0201976|SERUM CREATININE TESTS|T059
+  C0600061|Serum creatinine level|T034
+chest roentgenogram
+  2
+  C1306645|Plain film (procedure)|T060
+  C0817096|Chest|T029
+ECG
+  2
+  C0013798|Electrocardiogram|T060
+  C0180580|Electrocardiographic monitoring (regime/therapy)|T061
+bone scan
+  1
+  C0203668|Radioisotope scan of bone (procedure)|T060
+Areas
+  1
+  C0205146|Area (qualifier value)|T082
+nature
+  2
+  C0349590|Nature|T078
+  C1262865|Natures|T169
+Liver scans
+  1
+  C0203758|Radioisotope study of liver (procedure)|T060
+elevation
+  2
+  C0702240|Elevation - value (qualifier value)|T082
+  C0439775|Elevation (procedure)|T061
+Blood counts
+  3
+  C0005767|Blood|T024
+  C0005768|In Blood|T031
+  C0439157|counts (qualifier value)|T081
+Biochemical profiles
+  1
+  C0205474|Biochemical (qualifier value)|T169
+six weeks
+  2
+  C0205452|Six (qualifier value)|T081
+  C0439230|week (qualifier value)|T079
+measurable parameters
+  3
+  C0444706|Measured (qualifier value)|T080
+  C0449381|Observation parameter (observable entity)|T033
+  C0079809|Measures|T081
+Study Design
+  1
+  C0035171|Research Design|T062
+informed consent
+  1
+  C0021430|Informed Consent|T058
+Patients
+  1
+  C0030705|Patients|T101
+metastatic lesion
+  2
+  C0036525|Metastatic to|T169
+  C0221198|Lesion|T033
+positive
+  1
+  C0205159|Positive (qualifier value)|T080
+unknown v negative
+  7
+  C0042306|Vanadium|T123
+  C0449468|Volume (property) (qualifier value)|T081
+  C0439830|Velocity (property) (qualifier value)|T169
+  C0598352|V (voltage)|T081
+  C0205160|Negative (qualifier value)|T080
+  C0439673|Unknown (qualifier value)|T078
+  C0439502|V - volt (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+Randomization
+  1
+  C0034656|Random Allocation|T062
+method
+  1
+  C0025663|Methods|T170
+equal number
+  2
+  C0205163|Equal (qualifier value)|T080
+  C0449788|Count of entities (property) (qualifier value)|T081
+Treatment Protocol EPI
+  4
+  C0040808|Treatment Protocols|T062
+  C0221908|Epithelial|T169
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+Italy
+  1
+  C0022277|Italy|T083
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+five minute
+  4
+  C0205451|Five (qualifier value)|T081
+  C0700321|Small|T080
+  C0439232|Minute of time|T079
+  C1282918|Minute (qualifier value)|T080
+injections
+  1
+  C0021485|Injections|T061
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+doses
+  1
+  C0719635|DOS|T109
+equivalent degrees
+  3
+  C0439185|Eq (qualifier value)|T081
+  C0542560|Academic degree|T170
+  C0449286|Degree or extent|T080
+Doses
+  1
+  C0719635|DOS|T109
+predetermined schedule
+  1
+  C0086960|Schedules|T170
+patients
+  1
+  C0030705|Patients|T101
+physicians
+  1
+  C0031831|Physicians|T097
+Evaluation
+  2
+  C1261322|Assessment procedure (procedure)|T058
+  C0220825|Evaluation|T169
+guidelines
+  2
+  C0220845|guiding characteristics|T170
+  C0162791|Guidelines|T170
+minor response
+  3
+  C0205165|Minor (value)|T080
+  C0871261|Responses|T054
+  C0026193|Minor|T098
+category
+  1
+  C0683312|categories|T170
+PR
+  1
+  C0279766|progesterone receptor negative|T034
+patient
+  1
+  C0030705|Patients|T101
+progressive disease
+  1
+  C0677932|progressive disease|T191
+demonstrated transient tumor regression
+  7
+  C0205374|Transitory|T079
+  C0040704|Transient Population Group|T098
+  C0332265|Demonstrable (qualifier value)|T169
+  C0684320|Disease regression|T046
+  C0684321|Regression - mental defense mechanism|T055
+  C0027651|Neoplasms|T191
+  C0335296|Demonstrator (occupation)|T097
+Duration
+  1
+  C0449238|Duration|T079
+Evaluation
+  2
+  C1261322|Assessment procedure (procedure)|T058
+  C0220825|Evaluation|T169
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+patient
+  1
+  C0030705|Patients|T101
+patient
+  1
+  C0030705|Patients|T101
+Cardiac toxicity
+  1
+  C0280951|cardiac toxicity|T037
+clinical evaluation
+  3
+  C0205210|Clinical (qualifier value)|T080
+  C1261322|Assessment procedure (procedure)|T058
+  C0220825|Evaluation|T169
+Clinical examination
+  1
+  C0031809|Clinical examination|T058
+bicycle exercise
+  1
+  C0392218|Exercisers, Bicycle|T074
+Patients RBCs
+  2
+  C0014792|Erythrocytes|T025
+  C0030705|Patients|T101
+Images
+  2
+  C0175631|Imagery|T041
+  C0150627|Guided imagery|T061
+computer based procedure
+  3
+  C0178499|Base|T120
+  C0184661|Procedures|T058
+  C0009622|Computers|T073
+supine bicycle exercise
+  2
+  C0999587|Sus|T015
+  C0392218|Exercisers, Bicycle|T074
+monitoring
+  1
+  C0150369|Preventive monitoring|T058
+blood pressure
+  2
+  C0428878|Arterial pressure|T033
+  C0005823|Blood Pressure|T033
+Exercise
+  2
+  C1306338|Physical exercise (qualifier value)|T169
+  C0015259|Exercise|T056
+maximum
+  1
+  C0806909|Maximum|T033
+heart rate
+  1
+  C0018810|Heart Rate|T032
+severe dyspnea
+  2
+  C0013404|Dyspnea|T184
+  C0205082|Severe (severity modifier) (qualifier value)|T080
+chest pain
+  1
+  C0008031|Chest Pain|T184
+patient
+  1
+  C0030705|Patients|T101
+condition
+  1
+  C0348080|Condition (attribute)|T080
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+reproducibility
+  2
+  C0748342|REPRODUCTIVE|T185
+  C0035150|Reproduction|T040
+decrease
+  1
+  C0547047|Decrease (qualifier value)|T081
+Antineoplastic therapy
+  3
+  C0087111|Therapeutic procedure|T061
+  C0003392|Antineoplastic Agents|T121
+  C0039798|therapeutic aspects|T169
+patient
+  1
+  C0030705|Patients|T101
+clinical congestive heart failure
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0018802|Heart Failure, Congestive|T047
+m2 patients
+  1
+  C0030705|Patients|T101
+dose limitation
+  1
+  C0935905|dose-limiting|T037
+toxic cumulative dose
+  2
+  C0600688|Toxic effect|T037
+  C0178602|Dosages (qualifier value)|T081
+Statistical Methods Comparison
+  3
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+  C0220917|statistical|T170
+chi-square test
+  1
+  C0008041|Chi-Square Test|T081
+Several other comparisons
+  2
+  C0205394|Other|T080
+  C0443302|Several (qualifier value)|T081
+two sample Wilcoxon test
+  2
+  C0392366|Tests (qualifier value)|T170
+  C0205448|Two (qualifier value)|T081
+Cumulative dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+response durations
+  1
+  C0237585|Response Duration|T079
+method
+  1
+  C0025663|Methods|T170
+log rank test
+  3
+  C0699794|Rank|T170
+  C0392366|Tests (qualifier value)|T170
+  C0335467|Logger (occupation)|T097
+cumulative dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+response durations
+  1
+  C0237585|Response Duration|T079
+hypothesis tests
+  1
+  C0681918|hypothesis testing|T062
+RESULTS Patient Characteristics total
+  3
+  C0439810|Total (qualifier value)|T080
+  C1274040|Result (navigational concept)|T169
+  C0815172|patient characteristics|T201
+Eight patients
+  2
+  C0030705|Patients|T101
+  C0205454|Eight (qualifier value)|T170
+received prior radiotherapy
+  4
+  C0544683|Reception|T042
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+mediastinum
+  2
+  C1278909|Entire mediastinum|T023
+  C0025066|Mediastinum|T029
+thoracic spine
+  2
+  C0581269|Thoracic spine structure|T023
+  C1269870|Entire thoracic spine|T023
+myocardium
+  1
+  C0027061|Myocardium|T024
+four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+history
+  5
+  C0019664|Recording of previous events|T090
+  C0019665|history|T170
+  C0262926|Medical History|T033
+  C1321503|History of (contextual qualifier) (qualifier value)|T033
+  C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+patients
+  1
+  C0030705|Patients|T101
+received prior chemotherapy
+  5
+  C0544683|Reception|T042
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C0750516|PRIOR|T078
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+other alkylating agent
+  2
+  C0205394|Other|T080
+  C0002073|Alkylating Agents|T131
+patient
+  1
+  C0030705|Patients|T101
+patient
+  1
+  C0030705|Patients|T101
+antiarrhythmics
+  1
+  C0003195|Anti-Arrhythmia Agents|T121
+Dose Attenuation percent
+  3
+  C0599946|attenuation|T045
+  C0178602|Dosages (qualifier value)|T081
+  C0439165|Percent (qualifier value)|T081
+Doses
+  1
+  C0719635|DOS|T109
+patients doses
+  2
+  C0030705|Patients|T101
+  C0719635|DOS|T109
+median actual dose
+  4
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0237400|Actual|T080
+  C0178602|Dosages (qualifier value)|T081
+Wilcoxon test
+  1
+  C0392366|Tests (qualifier value)|T170
+Response Rates
+  3
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+  C0871208|Rating|T062
+Durations Twenty four patients
+  2
+  C0449238|Duration|T079
+  C0030705|Patients|T101
+patients
+  1
+  C0030705|Patients|T101
+additional patient
+  2
+  C0030705|Patients|T101
+  C0442796|Additive (qualifier value)|T080
+nadir sepsis days
+  3
+  C0439228|day (qualifier value)|T079
+  C1090821|Sepsis (Invertebrate)|T009
+  C0243026|Systemic infection|T047
+inevaluable patient
+  1
+  C0030705|Patients|T101
+further therapy
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+alive four months
+  2
+  C0205450|Four (qualifier value)|T081
+  C0439231|month (qualifier value)|T079
+patient
+  1
+  C0030705|Patients|T101
+Complete responses
+  1
+  C0008574|Chromium|T123
+arm
+  2
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+one patient
+  2
+  C0030705|Patients|T101
+  C0205447|One (qualifier value)|T081
+eight patients
+  2
+  C0030705|Patients|T101
+  C0205454|Eight (qualifier value)|T170
+stable disease
+  1
+  C0677946|stable disease|T191
+seven patients
+  2
+  C0030705|Patients|T101
+  C0205453|Seven (qualifier value)|T081
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+11.9 months
+  1
+  C0439231|month (qualifier value)|T079
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+7.1 months
+  1
+  C0439231|month (qualifier value)|T079
+major response rates
+  3
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+  C0205164|Major (qualifier value)|T080
+chisquare test
+  1
+  C0392366|Tests (qualifier value)|T170
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+logrank test
+  1
+  C0392366|Tests (qualifier value)|T170
+administration
+  2
+  C0001554|Administration|T057
+  C1262471|Administration (procedure)|T061
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+tumors
+  1
+  C0027651|Neoplasms|T191
+estrogen receptor positive
+  1
+  C0279754|Estrogen receptor positive|T034
+estrogen receptor negative tumors
+  2
+  C0279756|estrogen receptor negative|T034
+  C0027651|Neoplasms|T191
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+log rank test
+  3
+  C0699794|Rank|T170
+  C0392366|Tests (qualifier value)|T170
+  C0335467|Logger (occupation)|T097
+3.9 months
+  1
+  C0439231|month (qualifier value)|T079
+DOX arm
+  5
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0003792|Arm|T029
+  C0013089|Doxorubicin|T195
+  C0446516|Upper arm|T029
+5.1 months
+  1
+  C0439231|month (qualifier value)|T079
+Noncardiac Toxicity Hematologic toxicity
+  3
+  C0205488|Hematologic (qualifier value)|T169
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+median WBC nadir
+  3
+  C0023516|Leukocytes|T025
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+median platelet nadir
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0005821|Blood Platelets|T025
+x
+  1
+  C0078606|xanthosine|T114
+pL
+  1
+  C0031676|Phospholipids|T119
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+median WBC nadir
+  3
+  C0023516|Leukocytes|T025
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+median platelet nadir
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0005821|Blood Platelets|T025
+One patient receiving EPI
+  6
+  C0544683|Reception|T042
+  C0030705|Patients|T101
+  C0221908|Epithelial|T169
+  C0014609|Epithelium|T024
+  C0205447|One (qualifier value)|T081
+  C0014544|Epilepsy|T047
+patient
+  1
+  C0030705|Patients|T101
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Other common toxicities
+  3
+  C0205394|Other|T080
+  C0600688|Toxic effect|T037
+  C0205214|Common (qualifier value)|T081
+nausea
+  1
+  C0027497|Nausea|T033
+alopecia
+  1
+  C0002170|Alopecia|T184
+Nausea
+  1
+  C0027497|Nausea|T033
+vomiting
+  2
+  C0042963|Vomiting|T184
+  C0401156|Vomiting NOS (disorder)|T047
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+nausea
+  1
+  C0027497|Nausea|T033
+vomiting
+  2
+  C0042963|Vomiting|T184
+  C0401156|Vomiting NOS (disorder)|T047
+patients
+  1
+  C0030705|Patients|T101
+degree
+  2
+  C0542560|Academic degree|T170
+  C0449286|Degree or extent|T080
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+hair loss
+  1
+  C0002170|Alopecia|T184
+Mucositis
+  1
+  C0236177|Inflammatory disease of mucous membrane (disorder)|T046
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+Cardiac Toxicity patient
+  5
+  C0741926|CARDIAC PATIENT|T101
+  C0040539|Toxicity aspects|T081
+  C0030705|Patients|T101
+  C0600688|Toxic effect|T037
+  C0280951|cardiac toxicity|T037
+baseline RNCA scan
+  2
+  C0168634|BaseLine|T122
+  C0441633|Scanning|T060
+patients
+  1
+  C0030705|Patients|T101
+Fifteen patients
+  1
+  C0030705|Patients|T101
+patients
+  1
+  C0030705|Patients|T101
+remaining patients
+  1
+  C0030705|Patients|T101
+receiving three doses
+  3
+  C0544683|Reception|T042
+  C0719635|DOS|T109
+  C0205449|Three (qualifier value)|T081
+received prior radiotherapy
+  4
+  C0544683|Reception|T042
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+internal mammary lymph nodes
+  1
+  C0229755|Parasternal lymph node (body structure)|T023
+sternum
+  2
+  C0038293|Sternum|T023
+  C1279580|Entire sternum|T023
+thoracic spine
+  2
+  C0581269|Thoracic spine structure|T023
+  C1269870|Entire thoracic spine|T023
+two
+  1
+  C0205448|Two (qualifier value)|T081
+history
+  5
+  C0019664|Recording of previous events|T090
+  C0019665|history|T170
+  C0262926|Medical History|T033
+  C1321503|History of (contextual qualifier) (qualifier value)|T033
+  C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+prior radiation exposure
+  2
+  C0015333|[X]Exposure to unspecified type of radiation, occurrence at unspecified place (finding)|T037
+  C0750516|PRIOR|T078
+two
+  1
+  C0205448|Two (qualifier value)|T081
+hypertension
+  3
+  C0340274|Hypertension induced by pregnancy|T047
+  C0020538|Hypertension|T047
+  C0235220|Hypertensive disorder, systemic arterial (disorder)|T047
+two
+  1
+  C0205448|Two (qualifier value)|T081
+hypertension
+  3
+  C0340274|Hypertension induced by pregnancy|T047
+  C0020538|Hypertension|T047
+  C0235220|Hypertensive disorder, systemic arterial (disorder)|T047
+prior radiotherapy
+  3
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Eight patients
+  2
+  C0030705|Patients|T101
+  C0205454|Eight (qualifier value)|T170
+nine patients
+  2
+  C0030705|Patients|T101
+  C0205455|Nine (qualifier value)|T081
+laboratory evidence
+  1
+  C0022877|Laboratories|T073
+median cumulative dose
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0178602|Dosages (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+laboratory cardiotoxicity data
+  2
+  C0745590|LAB DATA|T077
+  C0876994|Cardiotoxicity|T047
+methods
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+median dose
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0178602|Dosages (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+log rank test
+  3
+  C0699794|Rank|T170
+  C0392366|Tests (qualifier value)|T170
+  C0335467|Logger (occupation)|T097
+doses
+  1
+  C0719635|DOS|T109
+equivalent degree
+  3
+  C0439185|Eq (qualifier value)|T081
+  C0542560|Academic degree|T170
+  C0449286|Degree or extent|T080
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+EPI doses
+  4
+  C0719635|DOS|T109
+  C0221908|Epithelial|T169
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+two drugs
+  2
+  C0013227|Pharmaceutical Preparations|T121
+  C0205448|Two (qualifier value)|T081
+Kaplan Meier estimates
+  1
+  C0750572|ESTIMATED|T078
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+eleven patients
+  3
+  C0445482|Serotype eleven|T032
+  C0030705|Patients|T101
+  C0205457|Number eleven|T081
+second RNCA study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0205436|Second (qualifier value)|T081
+total cumulative doses
+  2
+  C0439810|Total (qualifier value)|T080
+  C0719635|DOS|T109
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+not myelosuppressiveequivalent doses
+  1
+  C0719635|DOS|T109
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+decrease
+  1
+  C0547047|Decrease (qualifier value)|T081
+use
+  1
+  C0042153|utilization|T081
+sensitivity
+  3
+  C0312418|Personality Sensitivity|T041
+  C0427965|Antimicrobial susceptibility|T033
+  C0036667|Statistical sensitivity|T081
+patients
+  1
+  C0030705|Patients|T101
+steady progressive decline
+  2
+  C0205361|Steady (qualifier value)|T080
+  C0205329|Progressive (qualifier value)|T169
+stable LVEF
+  1
+  C0205360|Stable (qualifier value)|T080
+acute decrease
+  2
+  C0547047|Decrease (qualifier value)|T081
+  C0205178|Acuteness (qualifier value)|T079
+Four patients
+  2
+  C0205450|Four (qualifier value)|T081
+  C0030705|Patients|T101
+five patients
+  2
+  C0205451|Five (qualifier value)|T081
+  C0030705|Patients|T101
+clinical congestive heart failure
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0018802|Heart Failure, Congestive|T047
+CHF
+  1
+  C0018802|Heart Failure, Congestive|T047
+cumulative doses
+  1
+  C0719635|DOS|T109
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+cumulative doses
+  1
+  C0719635|DOS|T109
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+One
+  1
+  C0205447|One (qualifier value)|T081
+CHF
+  1
+  C0018802|Heart Failure, Congestive|T047
+patient
+  1
+  C0030705|Patients|T101
+initial resting LVEF
+  2
+  C0035253|Rest|T056
+  C0205265|Initial (qualifier value)|T079
+patient also
+  1
+  C0030705|Patients|T101
+history
+  5
+  C0019664|Recording of previous events|T090
+  C0019665|history|T170
+  C0262926|Medical History|T033
+  C1321503|History of (contextual qualifier) (qualifier value)|T033
+  C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+signs
+  3
+  C0220912|Aspects of signs|T169
+  C0220913|Manufactured sign|T073
+  C0311392|Physical findings|T184
+symptoms
+  1
+  C0683368|symptoms|T169
+symptomatic CHF
+  2
+  C0231220|Symptomatic (qualifier value)|T169
+  C0018802|Heart Failure, Congestive|T047
+one
+  1
+  C0205447|One (qualifier value)|T081
+prior radiotherapy
+  3
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+one
+  1
+  C0205447|One (qualifier value)|T081
+hypertension
+  3
+  C0340274|Hypertension induced by pregnancy|T047
+  C0020538|Hypertension|T047
+  C0235220|Hypertensive disorder, systemic arterial (disorder)|T047
+one
+  1
+  C0205447|One (qualifier value)|T081
+CHF
+  1
+  C0018802|Heart Failure, Congestive|T047
+prior radiation exposure
+  2
+  C0015333|[X]Exposure to unspecified type of radiation, occurrence at unspecified place (finding)|T037
+  C0750516|PRIOR|T078
+one
+  1
+  C0205447|One (qualifier value)|T081
+hypertension
+  3
+  C0340274|Hypertension induced by pregnancy|T047
+  C0020538|Hypertension|T047
+  C0235220|Hypertensive disorder, systemic arterial (disorder)|T047
+one
+  1
+  C0205447|One (qualifier value)|T081
+prior radiotherapy
+  3
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+hypertension
+  3
+  C0340274|Hypertension induced by pregnancy|T047
+  C0020538|Hypertension|T047
+  C0235220|Hypertensive disorder, systemic arterial (disorder)|T047
+Survival analysis methods
+  3
+  C0038953|Survival Analysis|T081
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+cumulative doses
+  1
+  C0719635|DOS|T109
+statistically significant greater cumulative dose
+  3
+  C0443228|Greater (qualifier value)|T081
+  C0237881|Statistical Significance|T081
+  C0178602|Dosages (qualifier value)|T081
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+log rank test
+  3
+  C0699794|Rank|T170
+  C0392366|Tests (qualifier value)|T170
+  C0335467|Logger (occupation)|T097
+Since only five patients
+  2
+  C0205451|Five (qualifier value)|T081
+  C0030705|Patients|T101
+clinical heart failure
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0018801|Heart failure NOS (disorder)|T047
+result
+  1
+  C1274040|Result (navigational concept)|T169
+clinical CHF
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0018802|Heart Failure, Congestive|T047
+median cumulative doses
+  3
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+  C0719635|DOS|T109
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+therapeutic activity
+  5
+  C0600075|Endurance of activity|T033
+  C0441655|Activities|T052
+  C0221187|Physical activity|T056
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+Long-term administration
+  3
+  C0001554|Administration|T057
+  C1262471|Administration (procedure)|T061
+  C0443252|Long-term (qualifier value)|T079
+empiric dose restriction
+  3
+  C0376548|Empiricism|T078
+  C0178602|Dosages (qualifier value)|T081
+  C0443288|Restricted (qualifier value)|T169
+patients
+  1
+  C0030705|Patients|T101
+onset
+  1
+  C0332162|Onset of (contextual qualifier) (qualifier value)|T080
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+DOX cardiomyopathy
+  4
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0027049|Cardiomyopathy|T047
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+clinical CHF
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0018802|Heart Failure, Congestive|T047
+Thirteen percent
+  1
+  C0439165|Percent (qualifier value)|T081
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+three week schedule
+  3
+  C0086960|Schedules|T170
+  C0205449|Three (qualifier value)|T081
+  C0439230|week (qualifier value)|T079
+one
+  1
+  C0205447|One (qualifier value)|T081
+subclinical cardiac injury
+  3
+  C0205041|Cardio-|T082
+  C0175677|Injury inflicted to the body by an external force|T037
+  C0205211|Subclinical (qualifier value)|T080
+CHF
+  1
+  C0018802|Heart Failure, Congestive|T047
+interruption
+  1
+  C0443239|Interrupted (qualifier value)|T080
+Several approaches
+  2
+  C0449445|Approach (attribute)|T082
+  C0443302|Several (qualifier value)|T081
+cardiotoxic effects
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0876994|Cardiotoxicity|T047
+use
+  1
+  C0042153|utilization|T081
+N acetylcysteine
+  1
+  C0001047|Acetylcysteine|T116
+large scale clinical trials
+  5
+  C0549177|Large|T080
+  C0175659|Weight measurement scales|T073
+  C0349674|Intellectual scale|T170
+  C0222045|Integumentary scale|T023
+  C0008976|Clinical Trials|T062
+liposomal encapsulation
+  2
+  C0677902|liposomal|T169
+  C0205223|Encapsulated (qualifier value)|T080
+cardiotoxicity
+  1
+  C0876994|Cardiotoxicity|T047
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+antineoplastic effects
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0003392|Antineoplastic Agents|T121
+Modification
+  1
+  C0205349|Altered (qualifier value)|T169
+cardiac injury
+  2
+  C0205041|Cardio-|T082
+  C0175677|Injury inflicted to the body by an external force|T037
+use
+  1
+  C0042153|utilization|T081
+administration
+  2
+  C0001554|Administration|T057
+  C1262471|Administration (procedure)|T061
+Two recent studies
+  4
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0332185|Recent episode (qualifier value)|T079
+  C0205448|Two (qualifier value)|T081
+used endomyocardial biopsy
+  2
+  C0042153|utilization|T081
+  C0189785|Endomyocardial biopsy (procedure)|T060
+larger total cumulative dose
+  2
+  C0443228|Greater (qualifier value)|T081
+  C0178602|Dosages (qualifier value)|T081
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+scheduling
+  2
+  C0205539|Scheduled (qualifier value)|T169
+  C0086960|Schedules|T170
+patients
+  1
+  C0030705|Patients|T101
+physicians
+  1
+  C0031831|Physicians|T097
+antitumor activity
+  3
+  C0600075|Endurance of activity|T033
+  C0441655|Activities|T052
+  C0221187|Physical activity|T056
+schedules
+  1
+  C0086960|Schedules|T170
+Development
+  2
+  C0020119|Human Development|T039
+  C0243107|development aspects|T039
+alternative approach
+  3
+  C0332270|Alternating (qualifier value)|T169
+  C0449445|Approach (attribute)|T082
+  C0919661|Heart alternation|T046
+Studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+cardiotoxicity
+  1
+  C0876994|Cardiotoxicity|T047
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+same molecular weight
+  2
+  C0026385|Molecular Weight|T081
+  C0445247|Same (qualifier value)|T080
+yet EPI
+  3
+  C0221908|Epithelial|T169
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+cardiotoxic potencies
+  2
+  C0876994|Cardiotoxicity|T047
+  C0237399|Potential|T080
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+better therapeutic index
+  2
+  C0678793|therapeutic index|T081
+  C0332272|Better (qualifier value)|T080
+optimal method
+  1
+  C0025663|Methods|T170
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+endomyocardial biopsy
+  1
+  C0189785|Endomyocardial biopsy (procedure)|T060
+therapeutic decision
+  3
+  C0039796|The science and art of healing|T061
+  C0679006|decision|T170
+  C0302350|Therapeutic|T169
+endomyocardial biopsy
+  1
+  C0189785|Endomyocardial biopsy (procedure)|T060
+probably definitive measure
+  4
+  C0750492|Probably|T078
+  C0332148|Probable diagnosis|T080
+  C0443196|Definitive (qualifier value)|T079
+  C0079809|Measures|T081
+advantage
+  1
+  C0308269|ADVANTAGE|T131
+acceptable to virtually patients
+  3
+  C0814633|acceptability|T080
+  C0030705|Patients|T101
+  C1272684|Accepted (qualifier value)|T080
+Potential selection factors
+  2
+  C0036576|Selection (Genetics)|T045
+  C0237399|Potential|T080
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+observed major therapeutic response rate
+  8
+  C0237629|Frequency of Responses|T079
+  C0700325|Patient observation|T061
+  C0878525|Cancer treatment response rate|T079
+  C0205164|Major (qualifier value)|T080
+  C0302523|Observation in research|T062
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+  C0870992|Observers|T097
+European Organization
+  4
+  C0239307|EUROPEAN|T098
+  C0029246|Organization administrative structures|T092
+  C0029237|Physiologic Organization|T039
+  C0220885|organizational|T080
+therapeutic index
+  1
+  C0678793|therapeutic index|T081
+toxic effects
+  1
+  C0600688|Toxic effect|T037
+unfavorable effects
+  1
+  C1280500|Effect (qualifier value)|T080
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+m v DOX
+  8
+  C0042306|Vanadium|T123
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0449468|Volume (property) (qualifier value)|T081
+  C0439830|Velocity (property) (qualifier value)|T169
+  C0598352|V (voltage)|T081
+  C0439502|V - volt (qualifier value)|T081
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+results
+  1
+  C1274040|Result (navigational concept)|T169
+only three patients
+  2
+  C0030705|Patients|T101
+  C0205449|Three (qualifier value)|T081
+radiotherapy actually developed CHF
+  7
+  C0020119|Human Development|T039
+  C0018802|Heart Failure, Congestive|T047
+  C0180397|Developers|T130
+  C0237400|Actual|T080
+  C0243107|development aspects|T039
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+one
+  1
+  C0205447|One (qualifier value)|T081
+two
+  1
+  C0205448|Two (qualifier value)|T081
+findings
+  1
+  C0243095|findings|T169
+improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+EPI less cardiotoxic anthracycline
+  5
+  C0282564|Anthracyclines|T109
+  C0003234|Anthracycline Antibiotics|T195
+  C0221908|Epithelial|T169
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+merely less potent anthracycline
+  3
+  C0282564|Anthracyclines|T109
+  C0003234|Anthracycline Antibiotics|T195
+  C0237399|Potential|T080
+equal doses
+  2
+  C0205163|Equal (qualifier value)|T080
+  C0719635|DOS|T109
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+equal therapeutic effects
+  4
+  C1280500|Effect (qualifier value)|T080
+  C0205163|Equal (qualifier value)|T080
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+toxicity
+  2
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+clinical assessment
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C1261322|Assessment procedure (procedure)|T058
+three prospective randomized comparison
+  2
+  C0034656|Random Allocation|T062
+  C0205449|Three (qualifier value)|T081
+partial response rates
+  5
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+  C0677924|partial response|T080
+  C0871208|Rating|T062
+  C0728938|Partial (qualifier value)|T081
+DOX arms
+  4
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0003792|Arm|T029
+  C0013089|Doxorubicin|T195
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+three weeks
+  2
+  C0205449|Three (qualifier value)|T081
+  C0439230|week (qualifier value)|T079
+equivalent degrees
+  3
+  C0439185|Eq (qualifier value)|T081
+  C0542560|Academic degree|T170
+  C0449286|Degree or extent|T080
+preplanned limitation
+  1
+  C0449295|Limitation (attribute)|T169
+coworkers
+  1
+  C0681088|coworker|T098
+equal doses
+  2
+  C0205163|Equal (qualifier value)|T080
+  C0719635|DOS|T109
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+drugs three weeks
+  3
+  C0013227|Pharmaceutical Preparations|T121
+  C0205449|Three (qualifier value)|T081
+  C0439230|week (qualifier value)|T079
+total cumulative dose
+  2
+  C0439810|Total (qualifier value)|T080
+  C0178602|Dosages (qualifier value)|T081
+two multidrug combinations
+  2
+  C0453882|Combinations (physical object)|T073
+  C0205448|Two (qualifier value)|T081
+F
+  3
+  C0441722|Force|T067
+  C0016330|Fluorine|T123
+  C0015895|Fertility|T032
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+cyclophosphamide
+  1
+  C0010583|Cyclophosphamide|T115
+C
+  1
+  C0007886|Cesium|T196
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+three weeks
+  2
+  C0205449|Three (qualifier value)|T081
+  C0439230|week (qualifier value)|T079
+total dose
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+partial response rate
+  3
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+  C0728938|Partial (qualifier value)|T081
+major response rate
+  3
+  C0237629|Frequency of Responses|T079
+  C0878525|Cancer treatment response rate|T079
+  C0205164|Major (qualifier value)|T080
+observations
+  2
+  C0700325|Patient observation|T061
+  C0302523|Observation in research|T062
+complementary data
+  1
+  C0009498|Complement|T116
+present study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0150312|Present|T169
+fixed limitation
+  2
+  C0443218|Fixed (qualifier value)|T080
+  C0449295|Limitation (attribute)|T169
+patients
+  1
+  C0030705|Patients|T101
+progression
+  1
+  C0449258|Progression (attribute)|T169
+clinical CHF
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0018802|Heart Failure, Congestive|T047
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+cumulative cardiotoxicity data
+  1
+  C0876994|Cardiotoxicity|T047
+other studies
+  3
+  C0205394|Other|T080
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+dose limits
+  1
+  C0935905|dose-limiting|T037
+provided data
+  1
+  C0359589|Provide (product)|T168
+dose effect relationships
+  1
+  C0683160|dose-effect relationship|T038
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+two
+  1
+  C0205448|Two (qualifier value)|T081
+decrease
+  1
+  C0547047|Decrease (qualifier value)|T081
+empiric dose limitation
+  2
+  C0376548|Empiricism|T078
+  C0935905|dose-limiting|T037
+none
+  1
+  C0549184|None (qualifier value)|T081
+clinical cardiac dysfunction
+  4
+  C0205210|Clinical (qualifier value)|T080
+  C0031847|physiopathological|T169
+  C0205041|Cardio-|T082
+  C0277785|Functional disorder|T046
+arm
+  2
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+present study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0150312|Present|T169
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+numbers
+  1
+  C0237753|Numbers (qualifier value)|T170
+decrease
+  1
+  C0547047|Decrease (qualifier value)|T081
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+therapy
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+arm
+  2
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+relatively good cardiac tolerance
+  4
+  C0205170|Good (qualifier value)|T080
+  C0231197|Physiologic tolerance|T039
+  C0220929|Mental tolerance|T041
+  C0205041|Cardio-|T082
+patients
+  1
+  C0030705|Patients|T101
+cumulative EPI doses
+  4
+  C0719635|DOS|T109
+  C0221908|Epithelial|T169
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+RNCA abnormalities
+  2
+  C0000769|teratologic|T169
+  C0000768|Congenital Abnormality|T019
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+C W.
+  4
+  C0007886|Cesium|T196
+  C0332797|Wounded|T169
+  C0004093|Asthenia|T184
+  C0206275|Widowhood|T099
+Young unpublished data
+  1
+  C0332239|Young (qualifier value)|T079
+New York
+  1
+  C0027976|New York|T083
+relative cardiotoxicity
+  3
+  C0080103|Relative (related person)|T099
+  C0205345|Relative|T080
+  C0876994|Cardiotoxicity|T047
+DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195
+endomyocardial biopsy
+  1
+  C0189785|Endomyocardial biopsy (procedure)|T060
+patients
+  1
+  C0030705|Patients|T101
+prior cardiac irradiation
+  5
+  C1282930|Irradiation (physical force)|T070
+  C0851346|Radiation|T070
+  C0205041|Cardio-|T082
+  C0750516|PRIOR|T078
+  C0034618|Radiation therapy|T061
+schedule
+  1
+  C0086960|Schedules|T170
+equal therapeutic potency
+  4
+  C0205163|Equal (qualifier value)|T080
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+  C0237399|Potential|T080
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+three week EPI
+  5
+  C0221908|Epithelial|T169
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+  C0205449|Three (qualifier value)|T081
+  C0439230|week (qualifier value)|T079
+RNCA abnormalities
+  2
+  C0000769|teratologic|T169
+  C0000768|Congenital Abnormality|T019
+previously described pattern
+  2
+  C0449774|Patterns (qualifier value)|T082
+  C0205156|Previous (qualifier value)|T082
+left ventricular function
+  1
+  C0080310|Ventricular Function, Left|T042
+clinical CHF
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0018802|Heart Failure, Congestive|T047
+sudden onset
+  2
+  C1272517|Sudden onset (contextual qualifier) (qualifier value)|T170
+  C1276802|Sudden onset (attribute)|T080
+manifestation
+  1
+  C0205319|Manifest (qualifier value)|T169
+assessment
+  1
+  C1261322|Assessment procedure (procedure)|T058
+results
+  1
+  C1274040|Result (navigational concept)|T169
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+therapeutic activity
+  5
+  C0600075|Endurance of activity|T033
+  C0441655|Activities|T052
+  C0221187|Physical activity|T056
+  C0039796|The science and art of healing|T061
+  C0302350|Therapeutic|T169
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+less cardiotoxic drug
+  2
+  C0013227|Pharmaceutical Preparations|T121
+  C0876994|Cardiotoxicity|T047
+cardiac function
+  1
+  C0232164|Cardiac function (observable entity)|T042
+premature discontinuation
+  2
+  C0205252|Immature (qualifier value)|T079
+  C0457454|Discontinuation (procedure)|T058
+partial responses
+  1
+  C0677924|partial response|T080
+effective treatment
+  3
+  C0205414|Effective (qualifier value)|T080
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+findings
+  1
+  C0243095|findings|T169
+encouragement
+  1
+  C0870494|Encouragement|T054
+cardiotoxic effects
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0876994|Cardiotoxicity|T047
+exploration
+  2
+  C1280903|Exploration procedure (procedure)|T061
+  C0581690|Exploration - action (qualifier value)|T058
+preliminary results
+  2
+  C1274040|Result (navigational concept)|T169
+  C0439611|Preliminary (qualifier value)|T079
+EPI
+  2
+  C0014609|Epithelium|T024
+  C0014544|Epilepsy|T047
+manuscript
+  1
+  C0600659|Manuscripts|T170
+additional patient
+  2
+  C0030705|Patients|T101
+  C0442796|Additive (qualifier value)|T080
+clinical congestive heart failure
+  2
+  C0205210|Clinical (qualifier value)|T080
+  C0018802|Heart Failure, Congestive|T047
+exploratory laparotomy
+  1
+  C0085704|Exploratory laparotomy (procedure)|T060
+patient
+  1
+  C0030705|Patients|T101
+decrease
+  1
+  C0547047|Decrease (qualifier value)|T081
+further DOX
+  3
+  C0048808|5'-deoxy-5-fluorouridine|T114
+  C0013090|Doxycycline|T195
+  C0013089|Doxorubicin|T195

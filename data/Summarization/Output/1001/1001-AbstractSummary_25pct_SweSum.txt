@@ -1,0 +1,5 @@
+PURPOSE, As previously shown, antibody treatment increased survival of patients with resected colorectal cancer of stage Dukes' C. 
+
+The intention-to-treat analysis gave a significant effect for overall survival (Cox's proportional hazard, P < .01, log-rank, P=.02) and disease-free survival (Cox's proportional hazard, P=.02, log-rank, P=.11 ). 
+
+While distant metastases were significantly reduced (Cox's proportional hazard, P=.004, log-rank, P=.004), local relapses were not (Cox's proportional hazard, P=.65, log-rank, P=.52).

@@ -1,0 +1,82 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1001\1001-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...9844 ms
+
+Chaining file data\input\1001\1001-Article-A.txt...
+Chaining completed...
+	MMTx processing time:  432719 ms
+	Chain processing time: 468 ms
+
+
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    39.43
+	Std Dev:      91.22
+	Strong Score: 221.88
+
+	T080-Qualitative Concept: 261.00
+	T081-Quantitative Concept: 407.00
+	T061-Therapeutic or Preventive Procedure: 260.00
+	T169-Functional Concept: 468.00
+
+
+Strong chains: (1 StdDev)
+-------------
+	Avg score:    39.43
+	Std Dev:      91.22
+	Strong Score: 130.66
+
+	T169-Functional Concept: 468.00
+	T081-Quantitative Concept: 407.00
+	T080-Qualitative Concept: 261.00
+	T061-Therapeutic or Preventive Procedure: 260.00
+	T079-Temporal Concept: 210.00
+	T170-Intellectual Product: 198.00
+	T116-Amino Acid, Peptide, or Protein: 189.00
+	T129-Immunologic Factor: 189.00
+	T082-Spatial Concept: 140.00
+	T078-Idea or Concept: 140.00
+
+
+Summary:
+Summary (2 StdDev, Compression=0.25,37 of 147)
+-------------
+
+0) Purpose, As previously shown, antibody treatment increased survival of patients with resected colorectal cancer of stage Dukes' C. 
+1) Primary end points were overall survival and disease-free interval. 
+2) Results, Randomization produced balanced distribution of risk factors. 
+3) After 7 years of follow-up evaluation, treatment had reduced overall mortality by 32% (Cox's proportional hazard, P < .01, log-rank, P = .01) and decreased the recurrence rate by 23% (Cox's proportional hazard, P < .04, log-rank, P = .07). 
+4) The intentionto-treat analysis gave a significant effect for overall survival (Cox's proportional hazard, P < .01, log-rank, P = .02) and disease-free survival (Cox's proportional hazard, P = .02, log-rank, P = .1 1). 
+5) This differential effect of 17-1A antibody on disseminated isolated tumor cells versus occult local satellites may explain the increased significance seen in the overall survival. 
+6) The therapeutic effect is maintained after 7 years of follow-up evaluation.
+7) In contrast to other trials aimed at patients with larger metastatic tumor masses and using regression or shrinkage as the end point, this one on colorectal cancer of stage Dukes' C required microscopically complete resection of the primary tumor for patients to be admitted.3 As the primary end point, overall-survival was determined at 5 years. 
+8) As recently shown for breast carcinoma, without regional radiation therapy, occult local metastases can give rise to distant metastases after many years and thus affect long-term survival. 6 ,7 Therefore, with no effect of antibody therapy on the local relapse at 5 years, It was of interest to know how the overall survival evolved at the 7-year follow-up evaluation. 
+9) PATIENTS AND METHODS Patient Selection and SurgeryThe multicenter study consisted of six academic centers in former West Germany A total of 189 patients were randomized, with the first patient entered in May 1985 and the last in Apnl 1990 The study was closed in December 1992, and we present here the final status with median follow-up data of 7 years Eligible patients were required to have histologically confirmed adenocarcmoma of colon or the rectum with spread to regional lymph nodes (Dukes' C or International Unimon Agamst Cancer [UICC] stage III) In addition, hlstopathologic confirmation of curative resection (R0) was secured Radical tumor resection was performed by a standardized technique agreed upon by all participating centers When located within 15 cm of the anal verge, a tumor was classified as rectal carcinoma Patients were less than 70 years old and had a Karnofsky index greater than 50% Eleven of 99 patients randomized to treatment refused their treatment assignment, but were otherwise considered eligible for the study. 
+10) Stratification and RandomizationAfter confirmation of histology and R0 resection of lymph node metastasis, patients were randomized into two groups one received 17-lA treatment, whereas the other served as observation controls. 
+11) However, a Fishers' exact test, companng the distnbutlon of patients according to all prognostic variables, showed no significant differences Randomlzation before consent was performed and evaluated according to Zelen 9 On approval by legal experts in 1985, this procedure was accepted by the ethical review board Statistical analyses were performed according to SAS (Statistical Analysis System, Cary, NC) To test for potential selection bias in the study, a retrospective analysis was performed at Medizimnische Hochschule Hannover on 67 Dukes' C colorectal cancer patients selected from 107 patients seen between 1980 and 1985 They fulfilled the entry criteria for the 17-1A clinical trial and were monitored for at least 5 years each The survival analysis was performed by the Instutut fur Medlzinische Informatlk und Blomathematlk, Umversltat Essen The overall survival according to Kaplan-Meier curve is nearly identical to the control group of the 17-1A trial (log-rank, P = 97), thus, this historical control does not show any selection bias.
+12) The study performance and protocol adherence was overseen by the trial's blometncal center located at the University of Essen. 
+13) A documented histologic or radiologic diagnosis of disease was  required to confirm local or distant recurrence, whereas abnormal CEA values were not used as evidence of relapse. 
+14) The 17-1A antibody, a munne monoclonal mmunoglobulin IgG2a antibody, orginally described by Herlyn has a distinct antitumor effect on human xenografted tumors in a nude mouse model Clnical-grade antibody was purchased from the Wistar Institute (Philadelphia, PA), with support by the German Cancer Aid (Bonn, Germany). 
+15) Four patients, two in each group (2.1%), were lost to follow-up evaluation from the start and have not been included in the trial. 
+16) The presented 7-year follow-up data may therefore be considered mature and final. 
+17) The main cause of ineligibihty (12 cases) was erroneous staging. 
+18) Thus, eight patients had Dukes' B, four had Dukes' D, three were older than 70 years, one presented with polyposis coh, and one patient had residual tumor (R2) after surgery. 
+19) However, eleven patients who refused their treatment assignment were considered eligible and were included in all statistical analyses as participants in the treatment group.
+20) Survival.
+21) Since the 5-year follow-up evaluation, four additional deaths occurred m the treated group and nine additional deaths in the control group. 
+22) Thus, treatment with antibody led to a relative reduction of mortality by 32% (hazards ratio, 0.57, 95% confidence interval, 8% to 51%). 
+23) The KaplanMeier survival curves (Fig 1A) showed a significant benefit for patients who received antibody over those who did not receive treatment (P < .01 with Cox's proportional hazard model corrected for influence of prognostic variables, and P = .01 with log-rank test for the univariate analysis). 
+24) Antibody treatment increased time to recurrence (P = .04 with Cox proportional hazards model corrected for influence of prognostic variables, and P = .07 with log-rank test for umvanate analysis). 
+25) However, when death without recurrence was considered an event (recurrence-free survival), again a significant treatment advantage with 17-1A over control was obtained (P = .03 with Cox multivariate, and P = .05 with log-rank test for the umvariate analysis). 
+26) When the analyses of recurrence-free interval and recurrence-free survival were performed including all randomized patients, ie, according to intention-to-treat, 17-1A treatment again led to significant advantage over the untreated group (Cox multivanate, P = .02, log-rank, P = .01, respectively). 
+27) Therefore, the proposition is holding up that treatment with 17-1A may preferentially act on isolated tumor cells and thus prevent outgrowth of distant metastases. 
+28) There were no late treatment-related fatalities or life-threatening conditions, or any evidence for chronic drug-related side effects.
+29) As the 7-year median follow-up data confirm the previously reported 5-year findings, the conclusion seems warranted that antibody treatment improves the chances of curatively operated patients. 
+30) Local recurrences may not affect the overall survival curve to the same degree as distant metastases do (Fig 3), therefore, survival at 7 years appears to be superior to the disease-free interval. 
+31) While after 5 years of follow-up evaluation, a significant increase in disease-free and overall survival ofpatients was evident, after 2 further years, the overall survival did not show significance. 
+32) However, this argument rests on the assumption that the antibody exerts its antitumor effect by mobilization of direct effector mechanisms that are active only as long as the antibody is bound to the target. 
+33) Interestingly, in the most recent report (median follow-up time, 6.5 years), adjuvant therapy with fluorouracil plus levamisol administered to patients with Dukes' C colon cancer had only a minimal effect on local recurrences. 
+34) Therefore, the less pronounced chemotherapeutic effect on local relapses may be due to the difference in patient populations.
+35) Direct tumoricidal effects are good candidates for the still controversial reaction mechanism of unconjugated antibodies. 
+36) Although we still think that normal epithelial cells of the intestinal mucosa are less accessible for immunoglobulin G and its effector mechanisms than for locally produced immunoglobulin A. 

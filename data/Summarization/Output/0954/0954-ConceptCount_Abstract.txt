@@ -1,0 +1,35 @@
+Methotrexate	1	T109-Organic Chemical
+Pharmacotherapy	1	T061-Therapeutic or Preventive Procedure
+premenopausal	1	T079-Temporal Concept
+Reduction (chemical)	2	T070-Natural Phenomenon or Process
+Percent (qualifier value)	4	T081-Quantitative Concept
+Chemotherapy-Oncologic Procedure	1	T061-Therapeutic or Preventive Procedure
+Human adult females	2	T098-Population Group
+Malignant neoplasm of breast	1	T191-Neoplastic Process
+Systemic (qualifier value)	1	T169-Functional Concept
+pharmacotherapeutic	1	T169-Functional Concept
+Reduction - action	2	T061-Therapeutic or Preventive Procedure
+Overall [Publication Type]	1	T170-Intellectual Product
+radiotherapeutic	5	T170-Intellectual Product
+Aspects of mortality statistics	1	T170-Intellectual Product
+lymph nodes	1	T023-Body Part, Organ, or Organ Component
+Routine (qualifier value)	1	T080-Qualitative Concept
+utilization	1	T081-Quantitative Concept
+Mastectomy, Modified Radical	1	T061-Therapeutic or Preventive Procedure
+Relapsing course	1	T079-Temporal Concept
+Mortality Vital Statistics	1	T081-Quantitative Concept
+Relative Risk	2	T080-Qualitative Concept
+Early (qualifier value)	1	T079-Temporal Concept
+Confidence Intervals	2	T081-Quantitative Concept
+Fluorouracil	1	T114-Nucleic Acid, Nucleoside, or Nucleotide
+survival aspects	1	T081-Quantitative Concept
+Result (navigational concept)	1	T169-Functional Concept
+Relapse	1	T067-Phenomenon or Process
+Methods	1	T170-Intellectual Product
+Relapse phase	1	T079-Temporal Concept
+Modified radical mastectomy (procedure)	1	T061-Therapeutic or Preventive Procedure
+Radiation therapy	5	T061-Therapeutic or Preventive Procedure
+Conclude	1	T122-Biomedical or Dental Material
+Human Females	2	T098-Population Group
+Methodology	1	T170-Intellectual Product
+Continuance of life	1	T052-Activity

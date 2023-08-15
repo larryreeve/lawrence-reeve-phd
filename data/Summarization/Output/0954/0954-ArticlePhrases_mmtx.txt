@@ -1,0 +1,966 @@
+significant reductions
+  3
+  C0301630|Reduction (chemical)|T070
+  C0750502|Significant (qualifier value)|T078
+  C0441610|Reduction - action|T061
+improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+result
+  1
+  C1274040|Result (navigational concept)|T169
+prognosis
+  1
+  C0033325|Forecast of outcome|T058
+Additional concern
+  1
+  C0442796|Additive (qualifier value)|T080
+irradiated patients
+  4
+  C1282930|Irradiation (physical force)|T070
+  C0851346|Radiation|T070
+  C0030705|Patients|T101
+  C0034618|Radiation therapy|T061
+reduced survival rates
+  2
+  C0392756|Reduced (qualifier value)|T080
+  C0038954|Survival Rate|T081
+immune suppression
+  1
+  C0021079|Therapeutic immunosuppression|T061
+cardiac complications
+  1
+  C0161816|Cardiac complication of care NOS (disorder)|T046
+adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+standard treatment
+  4
+  C0038137|standards characteristics|T170
+  C0087111|Therapeutic procedure|T061
+  C0175675|Standards of Weights and Measures|T080
+  C0039798|therapeutic aspects|T169
+use
+  1
+  C0042153|utilization|T081
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+limited value
+  2
+  C0439801|Limited (qualifier value)|T169
+  C0042295|VALUING|T080
+synergistic effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0812303|FYN Gene|T028
+radiation
+  1
+  C0851346|Radiation|T070
+eliminating bulky disease
+  3
+  C0518891|Elimination outcomes|T170
+  C0221102|Excretory function|T039
+  C0012634|Disease|T047
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+overall disease burden
+  2
+  C0282416|Overall [Publication Type]|T170
+  C0012634|Disease|T047
+adding radiation
+  2
+  C0851346|Radiation|T070
+  C0442796|Additive (qualifier value)|T080
+randomized trial
+  1
+  C0034656|Random Allocation|T062
+report
+  2
+  C0700287|Reporting|T058
+  C0684224|Report (document)|T170
+findings
+  1
+  C0243095|findings|T169
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+premenopausal women
+  3
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+  C0279752|premenopausal|T079
+II breast cancer
+  2
+  C0006142|Malignant neoplasm of breast|T191
+  C0439069|Roman numeral II|T170
+axillary node dissection
+  4
+  C1293093|Dissection procedure (procedure)|T061
+  C1306808|Dissection - action (qualifier value)|T169
+  C0012737|Dissection|T059
+  C0729594|Axillary lymph node group|T023
+one
+  1
+  C0205447|One (qualifier value)|T081
+more level I
+  2
+  C0441925|Level I (tumor staging)|T170
+  C0205172|More (qualifier value)|T081
+II lymph nodes
+  2
+  C0024204|lymph nodes|T023
+  C0439069|Roman numeral II|T170
+mastectomy
+  1
+  C0024881|Mastectomy|T061
+written informed consent
+  3
+  C0043266|Writing|T090
+  C0021430|Informed Consent|T058
+  C0341628|Writer (occupation)|T097
+patients
+  1
+  C0030705|Patients|T101
+receiving adjuvant chemotherapy
+  2
+  C0544683|Reception|T042
+  C0085533|Chemotherapy, Adjuvant|T061
+chemotherapy–radiotherapy group
+  2
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+chemotherapy group
+  5
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0441833|Groups (qualifier value)|T170
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+  C1300322|Group (social concept)|T096
+Surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+patients
+  1
+  C0030705|Patients|T101
+modified radical mastectomy
+  2
+  C0024883|Mastectomy, Modified Radical|T061
+  C1320277|Modified radical mastectomy (procedure)|T061
+II axillary lymph nodes
+  2
+  C0729594|Axillary lymph node group|T023
+  C0439069|Roman numeral II|T170
+surgery
+  3
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0038894|Surgery specialty|T091
+patients
+  1
+  C0030705|Patients|T101
+provincial cancer institute
+  4
+  C0998265|Cancer Genus|T009
+  C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+  C0006826|Malignant Neoplasms|T191
+  C0021622|Institutes|T092
+randomization
+  1
+  C0034656|Random Allocation|T062
+planning
+  1
+  C0032074|Cognitive function: planning (observable entity)|T041
+radiation treatments
+  2
+  C0851346|Radiation|T070
+  C0087111|Therapeutic procedure|T061
+Chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+methotrexate
+  1
+  C0025677|Methotrexate|T109
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+CMF regimen
+  1
+  C0055982|CMF regimen|T061
+intravenously days
+  2
+  C0439228|day (qualifier value)|T079
+  C0348016|Intravenous|T082
+patients
+  1
+  C0030705|Patients|T101
+Radiation
+  1
+  C0851346|Radiation|T070
+radiation therapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Sixteen daily treatments
+  2
+  C0087111|Therapeutic procedure|T061
+  C0332173|Daily (qualifier value)|T079
+postmastectomy chest wall
+  2
+  C0205076|Chest wall structure|T023
+  C1279035|Entire chest wall|T023
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+mid-axilla
+  1
+  C0441926|Level II (tumor staging)|T170
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+direct internal mammary field
+  5
+  C0929301|Mammary gland|T023
+  C0205102|Intrinsic|T082
+  C0700157|Direct type of resin cement|T122
+  C0439851|Direct type of relationship|T080
+  C0440042|Field's stain|T130
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+fields
+  1
+  C0440042|Field's stain|T130
+interval
+  1
+  C1272706|Interval (qualifier value)|T079
+part
+  1
+  C0449719|Part (attribute)|T082
+patients
+  1
+  C0030705|Patients|T101
+Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+7.5 mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+al
+  1
+  C0002367|Aluminum|T196
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Statistical Analysis
+  1
+  C0871424|Statistical Analysis|T062
+following end points
+  2
+  C0332282|Following (attribute)|T079
+  C0150100|ENDPOINT|T062
+relapse
+  3
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0035020|Relapse|T067
+or death
+  2
+  C0069590|ORALIT|T197
+  C0011065|Cessation of life|T040
+locoregional recurrence
+  1
+  C0034897|Recurrence|T067
+systemic recurrence
+  2
+  C0205373|Systemic (qualifier value)|T169
+  C0034897|Recurrence|T067
+supraclavicular node
+  1
+  C0229730|Structure of supraclavicular lymph node|T023
+systemic relapse
+  4
+  C0205373|Systemic (qualifier value)|T169
+  C0205336|Relapsing course|T079
+  C0580802|Relapse phase|T079
+  C0035020|Relapse|T067
+or death
+  2
+  C0069590|ORALIT|T197
+  C0011065|Cessation of life|T040
+death
+  1
+  C0011065|Cessation of life|T040
+death
+  1
+  C0011065|Cessation of life|T040
+Survival curves
+  3
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0205134|Curved (qualifier value)|T082
+Significance levels
+  2
+  C0814896|significance level|T062
+  C0441889|Levels (qualifier value)|T170
+percent confidence intervals
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+Two sided P values
+  4
+  C0879541|p-value|T081
+  C0441987|Side (qualifier value)|T082
+  C0457012|Sidedness (qualifier value)|T082
+  C0205448|Two (qualifier value)|T081
+statistical significance
+  1
+  C0237881|Statistical Significance|T081
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+one
+  1
+  C0205447|One (qualifier value)|T081
+more nodes
+  2
+  C0205172|More (qualifier value)|T081
+  C0746922|NODE|T023
+Differences
+  1
+  C0443199|Differential (qualifier value)|T080
+time
+  1
+  C0040223|Time|T079
+Eleven patients
+  3
+  C0445482|Serotype eleven|T032
+  C0030705|Patients|T101
+  C0205457|Number eleven|T081
+3.5 percent
+  1
+  C0439165|Percent (qualifier value)|T081
+1.9 percent
+  1
+  C0439165|Percent (qualifier value)|T081
+4.9 percent
+  1
+  C0439165|Percent (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+recurrences
+  1
+  C0034897|Recurrence|T067
+analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+declined radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+metastases
+  2
+  C1290850|Secondary malignant neoplastic disease (disorder)|T191
+  C0027627|Neoplasm Metastasis|T191
+postsurgical complications
+  1
+  C0742723|COMPLICATION POSTSURGICAL|T033
+Eight patients randomly
+  3
+  C0439605|Random (qualifier value)|T082
+  C0030705|Patients|T101
+  C0205454|Eight (qualifier value)|T170
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+basis
+  1
+  C0178499|Base|T120
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+Patients
+  1
+  C0030705|Patients|T101
+total
+  1
+  C0439810|Total (qualifier value)|T080
+months
+  1
+  C0439231|month (qualifier value)|T079
+months
+  1
+  C0439231|month (qualifier value)|T079
+breast cancer
+  1
+  C0006142|Malignant neoplasm of breast|T191
+patients
+  1
+  C0030705|Patients|T101
+disease
+  1
+  C0012634|Disease|T047
+additional patients
+  2
+  C0030705|Patients|T101
+  C0442796|Additive (qualifier value)|T080
+locoregional recurrences
+  1
+  C0034897|Recurrence|T067
+difference
+  1
+  C0443199|Differential (qualifier value)|T080
+months
+  1
+  C0439231|month (qualifier value)|T079
+Study Groups
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0441833|Groups (qualifier value)|T170
+results
+  1
+  C1274040|Result (navigational concept)|T169
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+values
+  1
+  C0042295|VALUING|T080
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+overall reduction
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+17-percentage-point improvement
+  4
+  C0184511|Improved (qualifier value)|T080
+  C0324413|Pointer (organism)|T015
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+events
+  1
+  C0441471|Events (event)|T051
+events
+  1
+  C0441471|Events (event)|T051
+Mortality
+  2
+  C0026565|Mortality Vital Statistics|T081
+  C0026566|Aspects of mortality statistics|T170
+relative risk
+  1
+  C0242492|Relative Risk|T080
+group
+  2
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+improvement
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+deaths
+  1
+  C0011065|Cessation of life|T040
+combined treatment
+  1
+  C0009429|Combined Modality Therapy|T061
+deaths
+  1
+  C0011065|Cessation of life|T040
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+percent improvement
+  4
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+  C0439165|Percent (qualifier value)|T081
+systemic relapses
+  2
+  C0205373|Systemic (qualifier value)|T169
+  C0035020|Relapse|T067
+Radiation also improved outcome
+  2
+  C0184511|Improved (qualifier value)|T080
+  C0851346|Radiation|T070
+relative risk
+  1
+  C0242492|Relative Risk|T080
+relative risk
+  1
+  C0242492|Relative Risk|T080
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+relative risk
+  1
+  C0242492|Relative Risk|T080
+reduction
+  2
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+more positive nodes
+  3
+  C0205172|More (qualifier value)|T081
+  C0746922|NODE|T023
+  C0205159|Positive (qualifier value)|T080
+statistically significant differences
+  2
+  C0237881|Statistical Significance|T081
+  C0443199|Differential (qualifier value)|T080
+P
+  4
+  C0518611|Poise|T033
+  C0031603|inorganic phosphate|T197
+  C0947648|Phosphorus preparation|T121
+  C0031705|Phosphorus|T196
+Side Effects
+  1
+  C0001688|adverse effects|T037
+Arm edema
+  4
+  C0013604|Edema|T046
+  C0333239|Edematous|T033
+  C0003792|Arm|T029
+  C0446516|Upper arm|T029
+Interventions
+  1
+  C0886296|Interventions|T061
+elastic sleeve
+  2
+  C0183336|Sleeves|T074
+  C0681018|elastic|T169
+pump
+  1
+  C0182537|Pump, device (physical object)|T074
+physiotherapy
+  1
+  C0949766|Physical Therapy Techniques|T058
+one
+  1
+  C0205447|One (qualifier value)|T081
+physiotherapy
+  1
+  C0949766|Physical Therapy Techniques|T058
+Limited apical lung fibrosis
+  3
+  C0034069|Pulmonary Fibrosis|T047
+  C0205111|Apical (qualifier value)|T082
+  C0439801|Limited (qualifier value)|T169
+interstitial pneumonitis requiring corticosteroids
+  2
+  C0001617|Adrenal Cortex Hormones|T125
+  C0206061|Pneumonitis, Interstitial|T047
+congestive heart failure
+  1
+  C0018802|Heart Failure, Congestive|T047
+years
+  1
+  C0439234|year (qualifier value)|T079
+event
+  1
+  C0441471|Events (event)|T051
+pleura
+  2
+  C1279036|Entire pleura|T023
+  C0032225|Pleura|T017
+cases
+  1
+  C0868928|Case (qualifier value)|T169
+incidence
+  2
+  C0021149|Incidence|T081
+  C0220856|incidence of cases|T169
+associated mortality
+  4
+  C0026565|Mortality Vital Statistics|T081
+  C0026566|Aspects of mortality statistics|T170
+  C0004083|Mental association|T041
+  C0699792|Relationship by association|T054
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+locoregional radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+systemic relapses
+  2
+  C0205373|Systemic (qualifier value)|T169
+  C0035020|Relapse|T067
+chance
+  1
+  C0237506|Chance|T080
+excess mortality
+  1
+  C0079320|Mortality, Excess|T081
+patients
+  1
+  C0030705|Patients|T101
+test
+  1
+  C0392366|Tests (qualifier value)|T170
+significant difference
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+fewer positive nodes
+  3
+  C0205388|Few (qualifier value)|T081
+  C0746922|NODE|T023
+  C0205159|Positive (qualifier value)|T080
+more positive nodes
+  3
+  C0205172|More (qualifier value)|T081
+  C0746922|NODE|T023
+  C0205159|Positive (qualifier value)|T080
+radiation
+  1
+  C0851346|Radiation|T070
+substantial protection
+  1
+  C0084201|protect|T109
+additional benefit
+  2
+  C0814225|benefits|T081
+  C0442796|Additive (qualifier value)|T080
+benefits
+  1
+  C0814225|benefits|T081
+merit comment
+  2
+  C0947611|Comment|T170
+  C0282411|Published Comment|T170
+meta-analysis
+  1
+  C0920317|Meta-Analysis|T170
+radiation trials
+  1
+  C0851346|Radiation|T070
+percent reduction
+  3
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+  C0439165|Percent (qualifier value)|T081
+percent reduction
+  3
+  C0301630|Reduction (chemical)|T070
+  C0441610|Reduction - action|T061
+  C0439165|Percent (qualifier value)|T081
+important increase
+  1
+  C0442805|Increase (qualifier value)|T169
+previous meta-analysis
+  2
+  C0920317|Meta-Analysis|T170
+  C0205156|Previous (qualifier value)|T082
+several individual trials
+  2
+  C0443302|Several (qualifier value)|T081
+  C0237401|Individual (person)|T016
+studies
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+radiation trials
+  1
+  C0851346|Radiation|T070
+older equipment
+  4
+  C0014672|Equipment|T073
+  C0677546|Old episode|T079
+  C0220824|Equipment used|T073
+  C0580836|Old|T079
+radiation techniques
+  3
+  C0025664|Methodology|T170
+  C0851346|Radiation|T070
+  C0449851|Techniques|T170
+treatment planning
+  1
+  C0599880|PLAN OF TREATMENT|T170
+age
+  1
+  C0001779|Age (qualifier value)|T079
+nodal status
+  2
+  C0443268|Nodal (qualifier value)|T082
+  C0449438|Status (attribute)|T080
+use
+  1
+  C0042153|utilization|T081
+metaanalyses
+  1
+  C0920317|Meta-Analysis|T170
+randomized trials
+  1
+  C0034656|Random Allocation|T062
+combined treatment
+  1
+  C0009429|Combined Modality Therapy|T061
+only Danish study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+benefit
+  1
+  C0814225|benefits|T081
+significant survival benefit
+  4
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+  C0814225|benefits|T081
+  C0750502|Significant (qualifier value)|T078
+patients
+  1
+  C0030705|Patients|T101
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+homogeneous group
+  3
+  C0181200|Homogenizers|T074
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+five field radiotherapy
+  4
+  C0205451|Five (qualifier value)|T081
+  C0034618|Radiation therapy|T061
+  C0440042|Field's stain|T130
+  C0034619|radiotherapeutic|T170
+other eight studies
+  4
+  C0205394|Other|T080
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0205454|Eight (qualifier value)|T170
+because number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+because radiotherapy techniques
+  4
+  C0025664|Methodology|T170
+  C0449851|Techniques|T170
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+chemotherapy schedules
+  4
+  C0086960|Schedules|T170
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+locoregional disease
+  1
+  C0012634|Disease|T047
+not only marker
+  1
+  C0005516|Biological Markers|T080
+potential source
+  2
+  C0449416|Source (attribute)|T033
+  C0237399|Potential|T080
+locoregional radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+risk
+  1
+  C0035647|Risk|T080
+interaction
+  2
+  C0037420|Social Interaction|T033
+  C0687133|Drug Interactions|T044
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+locoregional radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+secondary dissemination
+  3
+  C0205221|Disseminated (qualifier value)|T082
+  C0036525|Metastatic to|T169
+  C0175668|Secondary to|T079
+potential
+  1
+  C0237399|Potential|T080
+patients
+  1
+  C0030705|Patients|T101
+nodal radiation
+  2
+  C0443268|Nodal (qualifier value)|T082
+  C0851346|Radiation|T070
+results
+  1
+  C1274040|Result (navigational concept)|T169
+Four randomized trials
+  2
+  C0205450|Four (qualifier value)|T081
+  C0034656|Random Allocation|T062
+breast irradiation
+  5
+  C1282930|Irradiation (physical force)|T070
+  C0851346|Radiation|T070
+  C0006141|Breast|T023
+  C1268990|Entire breast|T023
+  C0034618|Radiation therapy|T061
+conservative surgery
+  4
+  C0543467|GENERAL OPERATIVE PROCEDURES|T061
+  C0038895|Surgical aspects|T169
+  C0009800|Conservatism|T078
+  C0038894|Surgery specialty|T091
+significant reductions
+  3
+  C0301630|Reduction (chemical)|T070
+  C0750502|Significant (qualifier value)|T078
+  C0441610|Reduction - action|T061
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+nodal radiation
+  2
+  C0443268|Nodal (qualifier value)|T082
+  C0851346|Radiation|T070
+adjuvant chemotherapy
+  1
+  C0085533|Chemotherapy, Adjuvant|T061
+Locoregional radiation
+  1
+  C0851346|Radiation|T070
+patients
+  1
+  C0030705|Patients|T101
+more positive nodes
+  3
+  C0205172|More (qualifier value)|T081
+  C0746922|NODE|T023
+  C0205159|Positive (qualifier value)|T080
+more positive nodes
+  3
+  C0205172|More (qualifier value)|T081
+  C0746922|NODE|T023
+  C0205159|Positive (qualifier value)|T080
+routine use
+  2
+  C0042153|utilization|T081
+  C0205547|Routine (qualifier value)|T080
+substantial shift
+  1
+  C0333051|Shift (morphologic abnormality)|T169
+locoregional disease remaining
+  1
+  C0012634|Disease|T047
+important source
+  1
+  C0449416|Source (attribute)|T033
+elimination
+  2
+  C0518891|Elimination outcomes|T170
+  C0221102|Excretory function|T039
+mortality
+  2
+  C0026565|Mortality Vital Statistics|T081
+  C0026566|Aspects of mortality statistics|T170

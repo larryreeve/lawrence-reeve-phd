@@ -1,0 +1,49 @@
+In 1985, the Gastrointestinal Tumor Study Group (GITSG; study GI 7175) reported that postoperative radiation and chemotherapy reduced the tumor recurrence rate for patients who had undergone a curative resection for rectal adenocarcinoma. Treatment was limited to patients with tumors penetrating the full thickness of the rectal wall or with metastasis to regional lymph nodes. 
+
+A two-arm study was designed using the initial radiation/chemotherapy program of the previous study (GI 7175) for both arms of the new study (GI 7180) but to offering MeCCNU to only half the patients during the postradiation period. 
+
+
+
+PATIENTS AND METHODS. Presence of ascites, peritoneal seeding, residual pelvic tumor, positive paraaortic lymph node biopsy, or distant metastases excluded patients from study, as did previous chemotherapy or pelvic irradiation or any active and significant coexistent disease that, in the judgment of the investigator, would make the risks of chemotherapy or radiation therapy prohibitive. After this 5-week period, patients received one of the two chemotherapy schedules. 
+
+
+Escalating 5-FU. 
+
+
+
+Assessment of Radiation Therapy Quality. 
+
+
+
+Patient Follow-Up. Recurrence status for patients identified as dead of recurrent disease without adequate documentation was determined by group review, with the examiners blinded to treatment assignment. All patients who died, regardless of disease status, were counted as events in the survival analysis. 
+
+
+Patient Cohort. The remaining 199 patients (95% of the registered population) are included for survival analysis in the study group to which they were randomized regardless of whether or not protocol treatment was administered. Four patients received no protocol treatment and are excluded from the toxicity analyses but are included in the survival and disease-free survival analyses. The longest delay was 82 days in a patient who developed an intestinal fistula after surgery. All of these patients are included in the analyses. 
+
+
+
+Patient Characteristics. 
+
+
+
+Treatment Administration. 
+
+
+Two patients on each treatment arm received no adjuvant therapy, and 16 patients assigned to the 5-FU and MeCCNU arm and 18 patients assigned to the escalating 5-FU regimen received no postradiation chemotherapy. Reasons for postradiation chemotherapy termination were evenly distributed between patient refusal and toxicity. As planned in the protocol design, patients on the 5-FU and MeCCNU arm were treated for a longer duration than patients who received escalating 5-FU (median, 11.3 months v 7.5 months, respectively). 
+
+
+Central review of compliance with radiation therapy confirmed that the majority of patients were treated as per protocol, with discrepancies occurring equally in each treatment arm. No patients were excluded from analysis due to deviations from the radiotherapy protocol. Life-threatening toxicities were reported in six (6%) 5-FU and MeCCNU patients and 11 (10%) escalating 5-FU patients. Platelet count depression below 20,000/UL was reported for two patients receiving 5-FU and MeCCNU. The patient died of septicemia and pneumonia 24 days after treatment initiation. This patient was free of disease by computed tomography scan, and the death is considered treatment-related. Three patients were successfully treated with nasogastric suction and supportive therapy alone and three underwent surgical reexploration. One patient developed intestinal obstruction during the radiation therapy. 
+
+
+Disease recurrence has been documented in 48% of eligible patients including 54% (51 of 95) of patient srandomized to receive 5-FU and MeCCNU and 43% (45of 104) of patients randomized to receive escalating 5-FU (Table 3). Recurrences involving local sites occurred in 17% of 5-FU and MeCCNU patients and 16% of escalating 5-FU patients. Six of the deaths unrelated to disease occurred in patients receiving escalating 5-FU and three in patients receiving 5-FU and MeCCNU. Kaplan-Meier estimates of 3-year survival probabilities for patients assigned to 5-FU and MeCCNU and escalating 5-FU are 66% and 75%, respectively (Fig 2). Median survival has not been reached in either treatment arm. 
+
+
+Figure 3 compares the survival prognosis of patients undergoing abdominal-perineal resections and patients undergoing anterior resection with distance to margin of resection (as determined by the pathologist on fresh specimen) of <= 3 cm and greater than 3 cm. 
+
+
+The results of this study indicate that treatment after surgical resection of Dukes B2 and C rectal cancer with escalating 5-FU postradiation therapy provides similar survival and recurrence outcomes as a postradiation chemotherapeutic regimen including the leukemogen MeCCNU. Because of toxicity, patients often received no therapy beyond the initial radiation treatment. The risk to the patient, however, is balanced by the expected survival benefit. To date, no patient treated with 5-FU and MeCCNU in this study has developed leukemia. 
+
+
+Results from the previous GITSG study (GI 7175) of adjuvant therapy after surgical resection of Dukes B2 or C rectal cancer demonstrated improved survival and disease-free survival in patients treated with combination radiation therapy and post radiation therapy using 5-FU and MeCCNU when compared with surgery alone, and improved disease-free survival for patients treated with this combined modality therapy compared with radiation therapy alone. Although data from the initial rectal cancer adjuvant trial conducted by the National Surgical Breast and Bowel Project (NSABP RO1) suggested improved survival and disease-free survival in patients treated with chemotherapy alone compared with surgery alone, that study did not include a combined modality treatment arm. A recent National Institutes of Health consensus conference on adjuvant therapy for patients with colon and rectal cancer concluded that combined postoperative chemotherapy and radiation therapy improved local control and survival in stage B2 and C patients with rectal cancer and that treatment with combined modality therapy in these patients is recommended. 
+
+

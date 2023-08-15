@@ -1,0 +1,80 @@
+Goals	2
+survival aspects	3
+Long-term (qualifier value)	1
+Survival Rate	1
+X-Ray Computed Tomography	1
+Two (qualifier value)	2
+Neoplasms	5
+Ability to control pelvic posture (observable entity)	1
+Disease	1
+Responses	5
+Advanced phase	1
+Carcinoma	1
+Euphoric mood	1
+Deferred (qualifier value)	1
+Dosages (qualifier value)	1
+Increased (qualifier value)	1
+Local (qualifier value)	2
+Large	1
+Failure (biologic function)	1
+Purpose (attribute)	1
+Definitive (qualifier value)	1
+Series (qualifier value)	1
+Rating	1
+Continuance of life	3
+Cellular Structures	1
+Roman numeral II	1
+Random Allocation	1
+control	1
+Result (navigational concept)	1
+Primary	1
+Scientific Study	3
+High	1
+Completeness (qualifier value)	1
+Oxygen Deficiency	1
+criteria	1
+therapeutic aspects	6
+benefits	1
+Likely	1
+Superior (qualifier value)	1
+Concurrent (qualifier value)	5
+Stage 2 upper case bee	1
+Toxicity aspects	3
+Attenuated by (contextual qualifier) (qualifier value)	1
+Carcinoma of cervix (disorder)	1
+Improving (qualifier value)	1
+Patients	10
+MOST LIKELY	1
+Negative (qualifier value)	1
+Related (finding)	1
+utilization	1
+Actuary (occupation)	1
+Pharmacotherapy	3
+Improved (qualifier value)	1
+Room of building - Study	3
+Radiation therapy	5
+Secondary to	1
+Therapeutic procedure	6
+Acuteness (qualifier value)	1
+adverse effects	1
+aspects of radiation effects	1
+Stage 2 lower case bee	1
+Planned (qualifier value)	1
+LAB ABNORMALITY	1
+Metastatic to	1
+Impact	1
+Interval (qualifier value)	1
+Patterns (qualifier value)	2
+explanation	2
+Radiation Tolerance	1
+Primary operation (qualifier value)	1
+Personal failure	1
+Effects of radiation	1
+Toxic effect	3
+Chemotherapy-Oncologic Procedure	3
+Data Analysis	1
+Equal (qualifier value)	1
+radiotherapeutic	5
+Early (qualifier value)	1
+pharmacotherapeutic	3
+Cisplatin	1

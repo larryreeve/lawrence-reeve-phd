@@ -1,0 +1,36 @@
+Neoplasms	1	T191-Neoplastic Process
+Assessment procedure (procedure)	1	T058-Health Care Activity
+Analysis of substances	1	T059-Laboratory Procedure
+Leukemia	1	T191-Neoplastic Process
+Groups (qualifier value)	1	T170-Intellectual Product
+Methotrexate	1	T109-Organic Chemical
+Evaluation	1	T169-Functional Concept
+Resistant (qualifier value)	1	T169-Functional Concept
+Analysis	1	T062-Research Activity
+Postmenopausal state (finding)	1	T079-Temporal Concept
+Manufactured form	1	T073-Manufactured Object
+Freedom	2	T078-Idea or Concept
+Current (qualifier value)	1	T079-Temporal Concept
+Menopausal	1	T169-Functional Concept
+Cyclophosphamide	1	T115-Organophosphorus Compound
+Drug-induced (qualifier value)	1	T169-Functional Concept
+findings	2	T169-Functional Concept
+More (qualifier value)	1	T081-Quantitative Concept
+Manifest (qualifier value)	1	T169-Functional Concept
+Present	1	T169-Functional Concept
+Relapsing course	2	T079-Temporal Concept
+Acuteness (qualifier value)	1	T079-Temporal Concept
+Total (qualifier value)	1	T080-Qualitative Concept
+Maximum	1	T033-Finding
+Fluorouracil	1	T114-Nucleic Acid, Nucleoside, or Nucleotide
+survival aspects	3	T081-Quantitative Concept
+Result (navigational concept)	2	T169-Functional Concept
+Cyclic (qualifier value)	1	T079-Temporal Concept
+Relapse	2	T067-Phenomenon or Process
+Relapse phase	2	T079-Temporal Concept
+increasing incidence	1	T169-Functional Concept
+Continuance of life	3	T052-Activity
+Differential (qualifier value)	1	T080-Qualitative Concept
+Combinations (physical object)	1	T073-Manufactured Object
+Toxic effect	1	T037-Injury or Poisoning
+Patients	1	T101-Patient or Disabled Group

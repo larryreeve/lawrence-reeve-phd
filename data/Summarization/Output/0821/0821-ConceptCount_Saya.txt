@@ -1,0 +1,82 @@
+Administration (procedure)	1
+trends	2
+Coitus	1
+Table - visual aid	1
+survival aspects	3
+Documents (qualifier value)	1
+High dose (qualifier value)	1
+Accident due to exposure to weather conditions	1
+performance status	1
+Therapeutic	1
+ADVANTAGE	1
+Two (qualifier value)	1
+Responses	1
+Stomach	1
+Exposure condition	1
+Methotrexate	1
+Documented (qualifier value)	1
+Grade	1
+Consistent with (qualifier value)	1
+Mechanism (attribute)	1
+Dosages (qualifier value)	2
+Median Statistical Measurement	1
+Clinical Trials, Randomized	1
+Rectum	1
+Carcinoma, Squamous Cell	1
+Entire rectum	1
+Analysis	1
+Continuance of life	3
+milligram	2
+Entire stomach	1
+Gender	1
+Intracellular	1
+synergism	2
+Result (navigational concept)	2
+Myelofibrosis	1
+Age Group Unspecified	1
+Standards of Weights and Measures	1
+standards characteristics	1
+Recurrent (qualifier value)	1
+Effect (qualifier value)	1
+therapeutic aspects	1
+Report (document)	2
+Concentration	2
+Duration	1
+Curved (qualifier value)	1
+Protoplasm	1
+Purines	1
+Human Age Group	1
+Peripheral blood (substance)	1
+Toxicity aspects	2
+Computer software	1
+Adenocarcinoma	1
+Microfilaments	1
+Median (qualifier value)	1
+purine	1
+Potential	1
+antagonism	3
+Microfibrils	1
+Administration	1
+Malignant neoplasm of stomach	1
+EFFECTS OF EXPOSURE TO EXTERNAL CAUSES	1
+Antagonist muscle action	1
+Table - furniture	1
+Magnesium	2
+Therapeutic procedure	1
+Entire neck	1
+Statistical Analysis	1
+Aluminum	1
+Case (qualifier value)	1
+antagonists	1
+statistical	1
+The science and art of healing	1
+Analysis of substances	1
+Differential (qualifier value)	3
+Toxic effect	2
+Significant (qualifier value)	1
+In Vitro	1
+Pharmaceutical Preparations	2
+Doubt	1
+Neck	1
+Major (qualifier value)	1
+Drug Interactions	1

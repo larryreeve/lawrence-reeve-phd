@@ -1,0 +1,50 @@
+survival aspects	1
+X-Ray Computed Tomography	1
+With type (attribute)	1
+Morbidity - disease rate	1
+Port - alcoholic beverage	1
+Upper arm	2
+findings	1
+Grade	1
+Excision - action (qualifier value)	2
+Part (attribute)	1
+Continuance of life	1
+Performance	1
+Overall [Publication Type]	1
+Primary	1
+Disease-Free Survival	1
+pint	1
+therapeutic aspects	1
+Effectiveness (qualifier value)	1
+Count of entities (property) (qualifier value)	1
+Adjuvants, Immunologic	1
+Effective (qualifier value)	1
+State (environment)	1
+SURGERY, PAST	3
+Peripheral Nervous System	1
+Combined (qualifier value)	1
+Toxicity aspects	1
+Preliminary (qualifier value)	1
+Levamisole	2
+Patients	2
+Related (finding)	1
+Diarrhea	2
+Abdominoperineal approach (qualifier value)	1
+Harbor	1
+Radiation therapy	1
+Therapeutic procedure	1
+Excision	2
+port-a-cath	1
+Radiodermatitis	2
+Age (qualifier value)	1
+morbidity aspects	1
+ENDPOINT	1
+Differential (qualifier value)	1
+payment	1
+Grade four rank	1
+Arm	2
+Primary operation (qualifier value)	1
+Toxic effect	1
+Significant (qualifier value)	1
+radiotherapeutic	1
+Cancer cells grading system	1

@@ -1,0 +1,156 @@
+
+
+Fifty-four patients with advanced breast cancer who had failed prior nonanthracycline combination
+chemotherapy were randomized to treatment with either epirubicin 85 mg/m2 or doxorubicin 60 mg/m2
+intravenously every three weeks. 
+
+
+The median cumulative dose at which congestive heart failure occurred was 1,134 mg/m2 of epirubicin
+compared with 492 mg/m2 of doxorubicin. 
+
+
+In retrospective studies, the incidence of symptomatic congestive heart failure (CHF) was estimated
+to be approximately 3% to 4% after a cumulative DOX dose of 450 mg/m2 and 6% to 10% after 550 mg/m2,
+the incidence of CHF rises steeply after higher cumulative doses.On the basis of these retrospective
+studies, an empiric dose limitation of 450 to 550 mg/m2 has been recommended when DOX is used on a
+standard every three week schedule.
+
+
+The two compounds have similar pharmacokinetic behavior in humans, although EPI is eliminated more
+rapidly.
+
+
+We used multigated radionuclide cineangiocardiography (RNCA) to assess cardiac toxicity in this
+prospective, randomized study comparing the efficacy, acute, and chronic toxicities of EPI with DOX
+in patients with advanced breast cancer.
+
+
+Other criteria for eligibility included a performance status of - 50% (Karnofsky scale), a WBC count
+- 4,000/14L, a platelet count >- 100,000/L, normal serum bilirubin levels ( < 1.5 mg/dL), and
+objectively evaluable or measurable disease. 
+
+
+Pretreatment Evaluation and Follow-up Studies Pretreatment evaluation of patients included complete
+history and physical examination, complete blood cell count (CBC), 12-channel biochemical profile,
+serum creatinine, chest roentgenogram, ECG, and bone scan. All evaluable or measurable parameters of
+disease were reevaluated at least every six weeks.
+
+
+Patients were stratified for performance status (Karnofsky scale < 70% v > 80%) and for estrogen
+receptor status of the primary or a metastatic lesion (positive or unknown v negative). 
+Randomization was performed using the method of random permuted blocks, which assured an equal
+number of patients in each arm at specified time points. 
+
+
+Both EPI and DOX were administered by slow (five minute) injections through an established IV line
+every three weeks. 
+
+
+Evaluation of ResponseThe criteria for evaluation of therapeutic response were based on the
+recommendations of the Breast Cancer Task Force of the National Cancer Institute (Bethesda, Md).17
+These guidelines were modified to include a minor response (MR) category for those patients with
+unequivocal therapeutic responses, but less than that required for a partial response (PR). Any
+patient who developed progressive disease within three months of starting therapy was considered to
+have progressed even if she had demonstrated transient tumor regression. 
+
+
+Statistical MethodsComparison of response rates between the two arms was made using a chi-square
+test. Several other comparisons, such as percent of projected dose, used the two-sample Wilcoxon
+test.  
+
+
+Although all patients had received prior chemotherapy which included cyclophosphamide or other
+alkylating agent, no patient had been previously treated with mitomycin C. 
+
+
+The inevaluable patient randomized to treatment with DOX refused to return for follow-up counts or
+further therapy, but was alive four months after her only dose of DOX, the patient is also excluded
+from analysis of hematologic toxicity.
+
+
+In addition, on the EPI arm, one patient experienced an MR and eight patients had stable disease. 
+
+
+Noncardiac ToxicityHematologic toxicity was similar in the two arms (Table 3). 
+
+
+Because all patients had been treated previously with chemotherapy, the degree and incidence of
+alopecia is difficult to assess, however, hair loss was noted in 50% of patients treated with EPI
+and 35% of those treated with DOX. 
+
+
+Of the 18 evaluable patients treated with DOX, seven had prior radiation exposure to the heart, two
+had hypertension, and two had both hypertension and prior radiotherapy. Of the ten remaining
+patients on the EPI arm and elevenpatients on the DOX arm who are not evaluable for laboratory
+cardiac toxicity because they did not have a second RNCA study, the total cumulative doses of EPI
+and DOX were not significantly different, whether or not myelosuppressiveequivalent doses were taken
+into consideration. 
+
+
+Nor did all patients experience a steady progressive decline in LVEF, most maintained a stable LVEF
+until there was an acute decrease. 
+
+
+Six of 11 patients who received more than 450 mg/m 2 of DOX did not develop signs or symptoms of
+CHF. Of the patients who developed symptomatic CHF on the EPI arm, one had prior radiotherapy and
+one had hypertension. 
+
+
+There was a statistically significant greater cumulative dose to CHF for patients receiving EPI (log
+rank test, P - .008) with and without adjustment for the difference in myelosuppressive potency. 
+
+
+DISCUSSIONIn this study, EPI had therapeutic activity in breast cancer similar to DOX, but produced
+less cardiotoxicity than the parent compound. 
+
+
+Thirteen percent of patients in another recent study developed CHF at a median dose of 405 mg/m 2
+when DOX was given on an every three week schedule. 22 With optimal monitoring, one might be able to
+detect subclinical cardiac injury and prevent CHF by stopping the drug, this implies, however, the
+interruption of effective antineoplastic therapy. The use of potentially cardioprotective agents
+such as vitamin E, N-acetylcysteine, and ICRF-187 has been suggested, but the data have not been
+sufficiently promising to warrant large scale clinical trials. 
+
+
+In nonrandomized trials, the use of a weekly DOX schedule has been reported to permit administration
+of a higher total dose of the drug. 
+
+
+The observed major therapeutic response rate to EPI (25%) was identical to that observed with DOX
+(25%). 
+
+
+The therapeutic index of an agent is defined by the relationship between the dosage required to
+produce therapeutic and toxic effects and by the magnitude of the favorable or unfavorable effects
+observed. Although these results could have been affected by the greater incidence of cardiac
+irradiation inpatients treated with DOX, only three patients who had received such radiotherapy
+actually developed CHF, one on the EPI arm and two on the DOX arm.
+
+
+Whether these findings reflect an improvement in therapeutic index is dependent on the two drugs'
+dose relationship for therapeutic effects. In the murine tumor model systems, equal doses of EPI and
+DOX produce equal therapeutic effects with less host toxicity in the EPI-treated mice, but a
+clinical assessment can only be based on studies in humans. In each study, the partial response
+rates of the EPI and DOX arms were equivalent. In the present study, each drug was given every three
+weeks in doses that produced equivalent degrees of myelosuppression, a preplanned limitation on the
+total cumulative dose of EPI was not used. Since the present study did not use a fixed limitation
+for dose of EPI, patients who did not have progression of tumor were treated to the point of
+laboratory cardiotoxicity or clinical CHF, therefore, this study provides cumulative cardiotoxicity
+data that are not available in the other two studies. 
+
+
+Although the numbers are small, in the Milan study three of five patients treated with DOX in whom
+RNCA was performed showed a decrease in LVEF of more than 10% (375, 450, and 525 mg/m2). 
+
+
+Most patients in our trials received less than 550 mg/m2 of EPI, however, in 11 patients receiving
+cumulative EPI doses from 550 to 1,465 mg/m2, RNCA abnormalities were observed in only four patients
+at 970, 1,180,1,190, and 1,465 mg/m2, respectively (C.W. 
+
+
+Assuming equal therapeutic potency, this analysis indicated that every three week EPI is less
+cardiotoxic than every three week DOX (P = .0005) and borderline less toxic than weekly DOX (P =
+.06). The sudden onset of clinical deterioration was also reported byBristow who considered this a
+manifestation of a nonlinear relationship between myocardial structure and function.3 6 Likewise,
+changes in LVEF in response to stress frequently accompanied a decline in LVEF, but we did not
+observe such a decline without a concommittant change in resting LVEF. 

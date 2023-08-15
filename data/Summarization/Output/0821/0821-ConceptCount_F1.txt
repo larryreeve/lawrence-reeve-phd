@@ -1,0 +1,7 @@
+Head	1
+Entire neck	1
+Entire head	1
+Improved (qualifier value)	1
+Attenuated by (contextual qualifier) (qualifier value)	1
+Neck	1
+Improving (qualifier value)	1

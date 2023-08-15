@@ -1,0 +1,39 @@
+Groups (qualifier value)	1	T170-Intellectual Product
+Radical (qualifier value)	1	T080-Qualitative Concept
+Pelvis	1	T029-Body Location or Region
+Gastrointestinal	1	T023-Body Part, Organ, or Organ Component
+Spacer (physical object)	1	T074-Medical Device
+Radiotherapy, Adjuvant	1	T061-Therapeutic or Preventive Procedure
+GENERAL OPERATIVE PROCEDURES	1	T061-Therapeutic or Preventive Procedure
+cancer recurrence	1	T191-Neoplastic Process
+Reduction (chemical)	1	T070-Natural Phenomenon or Process
+Surgery specialty	1	T091-Biomedical Occupation or Discipline
+Stroma	1	T023-Body Part, Organ, or Organ Component
+Reduction - action	1	T061-Therapeutic or Preventive Procedure
+Risk	1	T080-Qualitative Concept
+One (qualifier value)	3	T081-Quantitative Concept
+Pelvic lymphadenectomy (procedure)	1	T061-Therapeutic or Preventive Procedure
+Blood capillaries	1	T023-Body Part, Organ, or Organ Component
+Capillary, Unspecified	1	T023-Body Part, Organ, or Organ Component
+Urologic (qualifier value)	1	T091-Biomedical Occupation or Discipline
+LYMPHATIC INVOLVEMENT	1	T033-Finding
+Neurofibrillary Tangles	1	T020-Acquired Abnormality
+Tail	1	T023-Body Part, Organ, or Organ Component
+Diameter (qualifier value)	1	T032-Organism Attribute
+Two (qualifier value)	1	T081-Quantitative Concept
+Cessation of life	1	T040-Organism Function
+adverse effects	1	T037-Injury or Poisoning
+Result (navigational concept)	1	T169-Functional Concept
+Entire capillary blood vessel (organ)	1	T023-Body Part, Organ, or Organ Component
+Methods	1	T170-Intellectual Product
+Clinical (qualifier value)	1	T080-Qualitative Concept
+Radicals (chemistry)	1	T104-Chemical Viewed Structurally
+Conclude	1	T122-Biomedical or Dental Material
+Life Table Analysis	1	T057-Occupational Activity
+Surgical aspects	1	T169-Functional Concept
+Methodology	1	T170-Intellectual Product
+benefits	1	T081-Quantitative Concept
+Goals	2	T170-Intellectual Product
+Large tumor (finding)	1	T080-Qualitative Concept
+Count of entities (property) (qualifier value)	1	T081-Quantitative Concept
+Patients	1	T101-Patient or Disabled Group

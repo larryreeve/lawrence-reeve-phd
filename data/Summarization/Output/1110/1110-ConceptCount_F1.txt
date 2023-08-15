@@ -1,0 +1,8 @@
+Percent (qualifier value)	4
+Survival Rate	1
+Pharmacotherapy	1
+Overall [Publication Type]	1
+Chemotherapy-Oncologic Procedure	1
+Disease-Free Survival	1
+pharmacotherapeutic	1
+Cisplatin	1

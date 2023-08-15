@@ -1,0 +1,46 @@
+Adenocarcinoma	1	T191-Neoplastic Process
+Analysis of substances	1	T059-Laboratory Procedure
+Cisplatin	2	T197-Inorganic Chemical
+Reception	1	T042-Organ or Tissue Function
+Pharmacotherapy	1	T061-Therapeutic or Preventive Procedure
+Hydroxyurea	1	T109-Organic Chemical
+Analysis	1	T062-Research Activity
+Median Statistical Measurement	1	T081-Quantitative Concept
+Percent (qualifier value)	4	T081-Quantitative Concept
+Human adult females	2	T098-Population Group
+regimen	1	T061-Therapeutic or Preventive Procedure
+Chemotherapy-Oncologic Procedure	1	T061-Therapeutic or Preventive Procedure
+pharmacotherapeutic	1	T169-Functional Concept
+Survival Rate	1	T081-Quantitative Concept
+Teleradiotherapy procedure (procedure)	1	T061-Therapeutic or Preventive Procedure
+Iva	1	T002-Plant
+Overall [Publication Type]	1	T170-Intellectual Product
+Finding of platelet count (finding)	1	T034-Laboratory or Test Result
+One (qualifier value)	1	T081-Quantitative Concept
+Adequate (qualifier value)	1	T080-Qualitative Concept
+Random Allocation	1	T062-Research Activity
+Malignant neoplasm of cervix uteri	2	T191-Neoplastic Process
+Magnesium	2	T123-Biologically Active Substance
+Duration	1	T079-Temporal Concept
+Relative Risk	1	T080-Qualitative Concept
+Confidence Intervals	4	T081-Quantitative Concept
+month (qualifier value)	1	T079-Temporal Concept
+Carcinoma, Adenosquamous	1	T191-Neoplastic Process
+Fluorouracil	1	T114-Nucleic Acid, Nucleoside, or Nucleotide
+White Blood Cell Count procedure	1	T059-Laboratory Procedure
+Progression-Free Survival	1	T081-Quantitative Concept
+Liver function (observable entity)	1	T042-Organ or Tissue Function
+Cessation of life	1	T040-Organism Function
+Result (navigational concept)	1	T169-Functional Concept
+Median (qualifier value)	1	T082-Spatial Concept
+Methods	1	T170-Intellectual Product
+Euphoric mood	1	T041-Mental Process
+High	1	T080-Qualitative Concept
+Conclude	1	T122-Biomedical or Dental Material
+Human Females	2	T098-Population Group
+Methodology	1	T170-Intellectual Product
+Platelet Count	1	T059-Laboratory Procedure
+APC Gene	2	T028-Gene or Genome
+Rating	1	T062-Research Activity
+milligram	2	T081-Quantitative Concept
+Patients	3	T101-Patient or Disabled Group

@@ -1,0 +1,30 @@
+Active	1
+survival aspects	1
+Toxicity aspects	1
+Second (qualifier value)	2
+Median (qualifier value)	1
+Patients	2
+Related (finding)	1
+Generations	1
+Improved (qualifier value)	1
+Median Statistical Measurement	1
+month (qualifier value)	1
+Room of building - Study	1
+Additive (qualifier value)	1
+Therapeutic procedure	1
+Cessation of life	1
+Analysis	1
+Continuance of life	1
+Planned (qualifier value)	1
+year (qualifier value)	1
+Granulocyte Colony-Stimulating Factor	1
+Ifosfamide	1
+Overall [Publication Type]	1
+Disease-Free Survival	2
+Analysis of substances	1
+Scientific Study	1
+Toxic effect	1
+Most (qualifier value)	1
+therapeutic aspects	1
+Agent (attribute)	1
+Chemotherapy, Adjuvant	1

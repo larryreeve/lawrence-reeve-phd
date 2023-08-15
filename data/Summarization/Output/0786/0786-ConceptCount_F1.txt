@@ -1,0 +1,5 @@
+Severe (severity modifier) (qualifier value)	1
+Toxic effect	1
+Toxicity aspects	1
+Differential (qualifier value)	1
+disorder control	1

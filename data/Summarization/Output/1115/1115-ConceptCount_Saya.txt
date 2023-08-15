@@ -1,0 +1,138 @@
+Simile	1
+trends	1
+Bacilli	1
+survival aspects	4
+Clinical (qualifier value)	1
+Obstetric Delivery	1
+Accident due to exposure to weather conditions	1
+Late (qualifier value)	2
+Neoplasms	2
+Ability to control pelvic posture (observable entity)	1
+strategy	1
+Exposure condition	1
+Upper arm	1
+Predominate (qualifier value)	1
+Radicals (chemistry)	1
+INDEPENDENCE	1
+Dosages (qualifier value)	1
+Increased (qualifier value)	3
+Prolonged (qualifier value)	1
+Median Statistical Measurement	2
+Volume (property) (qualifier value)	1
+Rating	1
+Continuance of life	4
+Linear	1
+New (qualifier value)	1
+Overall [Publication Type]	1
+Result (navigational concept)	2
+Clinical investigation	1
+Low (qualifier value)	1
+Greater (qualifier value)	1
+day (qualifier value)	3
+standards characteristics	2
+Rank	1
+Report (document)	1
+Curved (qualifier value)	1
+Follow-up status (finding)	1
+Tests (qualifier value)	1
+Brothers	1
+Toxicity aspects	3
+Reporting	1
+Improving (qualifier value)	2
+Dose Fractionation	1
+Infusion (procedure)	1
+Serious (qualifier value)	1
+Actuary (occupation)	2
+Improved (qualifier value)	2
+EFFECTS OF EXPOSURE TO EXTERNAL CAUSES	1
+prognostic	1
+Publishing	1
+Additive (qualifier value)	3
+Probability	1
+Radiation therapy	2
+Therapeutic procedure	3
+Cox Proportional Hazards Models	1
+incidence of cases	1
+Malignant neoplasm of cervix uteri	1
+Analysis of substances	1
+Arm	1
+Effects of radiation	1
+Significant (qualifier value)	3
+In Vitro	1
+Diameter (qualifier value)	1
+Pharmaceutical Preparations	2
+hyperfractionation	2
+APPARENT	1
+pharmacotherapeutic	3
+cGy (qualifier value)	1
+Increase (qualifier value)	1
+Fractions of (qualifier value)	1
+LAB DATA	2
+Two (qualifier value)	1
+Behaviors and observations relating to behavior	1
+Disease	1
+Partial (qualifier value)	1
+Pelvis	1
+Methods	2
+Source (attribute)	1
+Radical (qualifier value)	1
+Mechanism (attribute)	1
+Procedures	1
+Behavior	1
+Incidence	1
+Conclude	1
+Radiation	11
+Schedules	1
+Analysis	1
+First (qualifier value)	1
+CONFIRMED	1
+Possible	1
+Intracavitary (qualifier value)	3
+Bathing	1
+Disease-Free Survival	3
+Standards of Weights and Measures	2
+Interested (finding)	1
+Delivery	1
+Stratified (qualifier value)	1
+cell killing	2
+Effect (qualifier value)	2
+therapeutic aspects	2
+Duration	2
+Count of entities (property) (qualifier value)	2
+Role	1
+benefits	3
+Disappointment	1
+Effective (qualifier value)	1
+Complication	1
+External (qualifier value)	1
+Enhancer	1
+Concurrent (qualifier value)	2
+Baths (medical device)	1
+One (qualifier value)	1
+Attenuated by (contextual qualifier) (qualifier value)	2
+Deoxyribose	1
+Disadvantaged	1
+Median (qualifier value)	2
+Definite time (qualifier value)	1
+Patients	4
+Related (finding)	2
+Bacillus <bacterium>	1
+prediction	1
+utilization	4
+Component (attribute)	2
+Irradiation (physical force)	2
+Pharmacotherapy	3
+Acuteness (qualifier value)	1
+More (qualifier value)	1
+treatment factors	1
+Delivery finding (finding)	1
+year (qualifier value)	1
+standard therapy	2
+Numerous (qualifier value)	1
+Cesium	2
+Variable (qualifier value)	1
+Differential (qualifier value)	2
+Toxic effect	3
+Chemotherapy-Oncologic Procedure	3
+Fractionation	1
+Cisplatin	1

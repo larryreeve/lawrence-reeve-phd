@@ -1,0 +1,415 @@
+Simultaneous (qualifier value)	1	T079-Temporal Concept
+pN1 category (finding)	1	T185-Classification
+Step (qualifier value)	1	T169-Functional Concept
+Skeletal bone	12	T021-Fully Formed Anatomical Structure
+Periodic (qualifier value)	2	T079-Temporal Concept
+statistical	2	T170-Intellectual Product
+Physical impairment	1	T046-Pathologic Function
+Underdose	1	T037-Injury or Poisoning
+Introduction (procedure)	3	T058-Health Care Activity
+Entire limb	2	T023-Body Part, Organ, or Organ Component
+Short duration (qualifier value)	1	T080-Qualitative Concept
+Patient observation	1	T061-Therapeutic or Preventive Procedure
+Tests (qualifier value)	1	T170-Intellectual Product
+Location (attribute)	1	T082-Spatial Concept
+Neutrophils	3	T025-Cell
+Result (navigational concept)	5	T169-Functional Concept
+Decrease (qualifier value)	1	T081-Quantitative Concept
+cooperative study	1	T062-Research Activity
+Clinical (qualifier value)	2	T080-Qualitative Concept
+Synchronous (qualifier value)	1	T079-Temporal Concept
+Anteroventral Thalamic Nucleus	1	T023-Body Part, Organ, or Organ Component
+Significant (qualifier value)	3	T078-Idea or Concept
+Mental association	1	T041-Mental Process
+Surgical aspects	11	T169-Functional Concept
+Differential (qualifier value)	12	T080-Qualitative Concept
+Maximum Tolerated Dose	1	T081-Quantitative Concept
+Reality	1	T078-Idea or Concept
+univariate analysis	3	T062-Research Activity
+Pharmacotherapy	6	T061-Therapeutic or Preventive Procedure
+Transfusion - action (qualifier value)	2	T061-Therapeutic or Preventive Procedure
+Relative	1	T080-Qualitative Concept
+Reduction - action	6	T061-Therapeutic or Preventive Procedure
+Disease-Free Survival	1	T081-Quantitative Concept
+Procedures	3	T058-Health Care Activity
+Excision	3	T061-Therapeutic or Preventive Procedure
+Deoxyribose	1	T123-Biologically Active Substance
+recovery from disease	2	T040-Organism Function
+First (qualifier value)	7	T081-Quantitative Concept
+High	2	T080-Qualitative Concept
+Maker NOS (occupation)	1	T097-Professional or Occupational Group
+Time	9	T079-Temporal Concept
+adjuvant therapy	2	T061-Therapeutic or Preventive Procedure
+Recent episode (qualifier value)	1	T079-Temporal Concept
+demographic characteristics	1	T102-Group Attribute
+Epithelium	2	T024-Tissue
+Genus Anemia	2	T002-Plant
+dL (qualifier value)	3	T081-Quantitative Concept
+Disease recurrence	1	T033-Finding
+Follow-up status (finding)	4	T169-Functional Concept
+Possible	2	T080-Qualitative Concept
+Roentgen Rays	1	T070-Natural Phenomenon or Process
+Fibrosarcoma	1	T191-Neoplastic Process
+pharmacotherapeutic	6	T169-Functional Concept
+Proportional (qualifier value)	1	T080-Qualitative Concept
+Administration (procedure)	1	T061-Therapeutic or Preventive Procedure
+Foundations	1	T092-Organization
+Dacarbazine	1	T109-Organic Chemical
+incidence of cases	3	T169-Functional Concept
+criteria	2	T170-Intellectual Product
+Surgical margins (body structure)	1	T023-Body Part, Organ, or Organ Component
+Correct	1	T109-Organic Chemical
+Relapsing course	9	T079-Temporal Concept
+Research Design	1	T062-Research Activity
+Filgrastim	1	T116-Amino Acid, Peptide, or Protein
+nicaraven	1	T109-Organic Chemical
+Impaired health	1	T033-Finding
+Additive (qualifier value)	2	T080-Qualitative Concept
+Toxicity aspects	6	T081-Quantitative Concept
+Sidedness (qualifier value)	2	T082-Spatial Concept
+Relapse	14	T067-Phenomenon or Process
+Methods	2	T170-Intellectual Product
+Secondary malignant neoplasm of lung (disorder)	1	T191-Neoplastic Process
+Selection Criteria	5	T080-Qualitative Concept
+Institutes	1	T092-Organization
+Specific (qualifier value)	2	T080-Qualitative Concept
+Behavior	3	T055-Individual Behavior
+Timing (attribute)	1	T079-Temporal Concept
+Negative (qualifier value)	1	T080-Qualitative Concept
+Protocols documentation	3	T170-Intellectual Product
+Leukopenia	4	T047-Disease or Syndrome
+Histology	1	T091-Biomedical Occupation or Discipline
+Nerve	1	T024-Tissue
+Radiographic procedure on chest (procedure)	1	T060-Diagnostic Procedure
+week (qualifier value)	2	T079-Temporal Concept
+regimen	1	T061-Therapeutic or Preventive Procedure
+Disease	2	T047-Disease or Syndrome
+Surgery specialty	11	T091-Biomedical Occupation or Discipline
+Cyclophosphamide	1	T115-Organophosphorus Compound
+Hydroxytryptamine	1	T124-Neuroreactive Substance or Biogenic Amine
+Overall [Publication Type]	9	T170-Intellectual Product
+One (qualifier value)	8	T081-Quantitative Concept
+Magnesium	9	T123-Biologically Active Substance
+Sarcoma, Synovial	1	T191-Neoplastic Process
+Pointer (organism)	1	T015-Mammal
+Confidence Intervals	1	T081-Quantitative Concept
+White Blood Cell Count procedure	1	T059-Laboratory Procedure
+High dose (qualifier value)	2	T081-Quantitative Concept
+Including (qualifier value)	1	T169-Functional Concept
+Positive (qualifier value)	2	T080-Qualitative Concept
+Radiation therapy	7	T061-Therapeutic or Preventive Procedure
+Failure (biologic function)	1	T169-Functional Concept
+control	3	T169-Functional Concept
+Personal failure	1	T055-Individual Behavior
+GOLD STANDARD	1	T080-Qualitative Concept
+development aspects	1	T039-Physiologic Function
+Continuance of life	3	T052-Activity
+Side (qualifier value)	2	T082-Spatial Concept
+decision	1	T170-Intellectual Product
+GENERAL OPERATIVE PROCEDURES	11	T061-Therapeutic or Preventive Procedure
+Aspartate aminotransferase assay	1	T059-Laboratory Procedure
+Analysis	6	T062-Research Activity
+Set of compartments	1	T030-Body Space or Junction
+Vomiting NOS (disorder)	1	T047-Disease or Syndrome
+Laster (occupation)	1	T097-Professional or Occupational Group
+Alopecia	1	T184-Sign or Symptom
+Episodes (qualifier value)	2	T079-Temporal Concept
+Marginal (qualifier value)	2	T082-Spatial Concept
+Increase (qualifier value)	1	T169-Functional Concept
+Preliminary (qualifier value)	1	T079-Temporal Concept
+Radiation	1	T070-Natural Phenomenon or Process
+Role	1	T054-Social Behavior
+Tumor size (observable entity)	1	T082-Spatial Concept
+Age (qualifier value)	3	T079-Temporal Concept
+Clinical examination	2	T058-Health Care Activity
+Good (qualifier value)	1	T080-Qualitative Concept
+Toxic effect	10	T037-Injury or Poisoning
+Mental disorders	1	T048-Mental or Behavioral Dysfunction
+Inflammatory disease of mucous membrane (disorder)	1	T046-Pathologic Function
+Oral (qualifier value)	1	T082-Spatial Concept
+Girdle (physical object)	1	T073-Manufactured Object
+FAVOR (product)	1	T121-Pharmacologic Substance
+Relationship by association	1	T054-Social Behavior
+Seven (qualifier value)	2	T081-Quantitative Concept
+antagonists	1	T120-Chemical Viewed Functionally
+Hemangiosarcoma	1	T191-Neoplastic Process
+pM category (observable entity)	2	T201-Clinical Attribute
+Risk	2	T080-Qualitative Concept
+Other prophylactic chemotherapy	1	T033-Finding
+Natural History	1	T090-Occupation or Discipline
+Administration	1	T057-Occupational Activity
+Treats (attribute)	1	T185-Classification
+Other	5	T080-Qualitative Concept
+adverse effects	1	T037-Injury or Poisoning
+Insertion of pack (procedure)	1	T061-Therapeutic or Preventive Procedure
+Normal Range	1	T081-Quantitative Concept
+Dates	2	T079-Temporal Concept
+Radicals (chemistry)	4	T104-Chemical Viewed Structurally
+Vincristine	1	T109-Organic Chemical
+Bone Marrow	1	T024-Tissue
+benefits	5	T081-Quantitative Concept
+Postoperative Period	3	T079-Temporal Concept
+APC Gene	4	T028-Gene or Genome
+Radical (qualifier value)	4	T080-Qualitative Concept
+Scientific Study	9	T059-Laboratory Procedure
+Closed approach	2	T082-Spatial Concept
+SPECIFIC	2	T121-Pharmacologic Substance
+New (qualifier value)	2	T079-Temporal Concept
+Absolute (qualifier value)	5	T080-Qualitative Concept
+Epilepsy	2	T047-Disease or Syndrome
+ESTIMATED	2	T078-Idea or Concept
+Stratified (qualifier value)	4	T080-Qualitative Concept
+experience	1	T041-Mental Process
+Ifosfamide	1	T115-Organophosphorus Compound
+findings	2	T169-Functional Concept
+cGy (qualifier value)	1	T081-Quantitative Concept
+Informed Consent	3	T058-Health Care Activity
+Granulocyte Colony-Stimulating Factor	1	T116-Amino Acid, Peptide, or Protein
+Amputation	2	T061-Therapeutic or Preventive Procedure
+Wilcoxon Rank Test	1	T081-Quantitative Concept
+Minute of time	1	T079-Temporal Concept
+Greater (qualifier value)	1	T081-Quantitative Concept
+Probes, Other	1	T074-Medical Device
+Booster	1	T061-Therapeutic or Preventive Procedure
+Widened structure (morphologic abnormality)	2	T082-Spatial Concept
+Cessation of life	7	T040-Organism Function
+Euphoric mood	2	T041-Mental Process
+Neoplasm Metastasis	2	T191-Neoplastic Process
+xanthosine	2	T114-Nucleic Acid, Nucleoside, or Nucleotide
+Excessive (qualifier value)	1	T080-Qualitative Concept
+Recurrent tumor (finding)	3	T191-Neoplastic Process
+V - volt (qualifier value)	2	T081-Quantitative Concept
+Compleat	2	T168-Food
+Local (qualifier value)	19	T082-Spatial Concept
+Deferoxamine	9	T123-Biologically Active Substance
+hydration	1	T033-Finding
+Thrombocytopenia	2	T047-Disease or Syndrome
+Anthracyclines	1	T109-Organic Chemical
+Groups (qualifier value)	3	T170-Intellectual Product
+Dosages (qualifier value)	7	T081-Quantitative Concept
+Staging of disease (attribute)	1	T170-Intellectual Product
+Second (qualifier value)	3	T081-Quantitative Concept
+statistical tests	1	T170-Intellectual Product
+Associated topography (attribute)	1	T082-Spatial Concept
+Writing	2	T090-Occupation or Discipline
+Cells	1	T025-Cell
+Spindle	1	T026-Cell Component
+Angiography	1	T060-Diagnostic Procedure
+Grade	8	T185-Classification
+Histology Procedure	1	T059-Laboratory Procedure
+Epirubicin	2	T109-Organic Chemical
+Complete (qualifier value)	2	T080-Qualitative Concept
+Severe (severity modifier) (qualifier value)	1	T080-Qualitative Concept
+Pulmonary function (observable entity)	1	T042-Organ or Tissue Function
+Primary	4	T080-Qualitative Concept
+structure	1	T170-Intellectual Product
+Interested (finding)	1	T041-Mental Process
+Italian language (qualifier value)	1	T171-Language
+Rating	1	T062-Research Activity
+Entire bony skeleton	1	T022-Body System
+Uncertain (qualifier value)	1	T080-Qualitative Concept
+Diagnostic interview schedule (assessment scale)	1	T170-Intellectual Product
+Anthracycline Antibiotics	1	T195-Antibiotic
+Gender	1	T022-Body System
+Infusion (procedure)	1	T061-Therapeutic or Preventive Procedure
+Demonstrator (occupation)	1	T097-Professional or Occupational Group
+Adjuvants, Immunologic	4	T129-Immunologic Factor
+Six (qualifier value)	1	T081-Quantitative Concept
+Single event (qualifier value)	1	T079-Temporal Concept
+Anemia	2	T047-Disease or Syndrome
+Fifth (qualifier value)	1	T081-Quantitative Concept
+Most (qualifier value)	1	T081-Quantitative Concept
+Same (qualifier value)	1	T080-Qualitative Concept
+month (qualifier value)	17	T079-Temporal Concept
+Attenuated by (contextual qualifier) (qualifier value)	3	T080-Qualitative Concept
+Methodology aspects	1	T170-Intellectual Product
+Annual (qualifier value)	1	T079-Temporal Concept
+exclusion	1	T169-Functional Concept
+Pregnancy	1	T040-Organism Function
+Increased (qualifier value)	1	T169-Functional Concept
+Count of entities (property) (qualifier value)	3	T081-Quantitative Concept
+Central	3	T082-Spatial Concept
+Distal (qualifier value)	1	T082-Spatial Concept
+X-Ray Computed Tomography	4	T060-Diagnostic Procedure
+Median Statistical Measurement	9	T081-Quantitative Concept
+Reversible (qualifier value)	1	T169-Functional Concept
+Percent (qualifier value)	1	T081-Quantitative Concept
+Electrocorticogram (procedure)	2	T060-Diagnostic Procedure
+Malignant Neoplasms	1	T191-Neoplastic Process
+Subcutaneous Tissue	1	T024-Tissue
+More (qualifier value)	3	T081-Quantitative Concept
+performance status	1	T033-Finding
+Rank-Sum Tests	1	T081-Quantitative Concept
+Human Development	1	T039-Physiologic Function
+Diameter (qualifier value)	7	T032-Organism Attribute
+Hematologic (qualifier value)	2	T169-Functional Concept
+Two (qualifier value)	8	T081-Quantitative Concept
+Scanning	1	T060-Diagnostic Procedure
+therapeutic aspects	14	T169-Functional Concept
+Relapse phase	9	T079-Temporal Concept
+ENDPOINT	1	T062-Research Activity
+Conclude	1	T122-Biomedical or Dental Material
+Vanadium	2	T123-Biologically Active Substance
+Pathological aspects	1	T169-Functional Concept
+activate	1	T169-Functional Concept
+Malignant neoplasm, primary (morphologic abnormality)	1	T191-Neoplastic Process
+None (qualifier value)	1	T081-Quantitative Concept
+Crisis (finding)	1	T033-Finding
+Analysis of substances	6	T059-Laboratory Procedure
+roentgenographic	1	T169-Functional Concept
+Distributing	2	T078-Idea or Concept
+Evaluation	1	T169-Functional Concept
+Commonwealth of Independent States	3	T083-Geographic Area
+[M]Fibroxanthosarcoma (morphologic abnormality)	1	T191-Neoplastic Process
+Leiomyosarcoma	1	T191-Neoplastic Process
+Erythrocytes	1	T025-Cell
+Radio (physical object)	1	T073-Manufactured Object
+Malignant neurilemmoma	1	T191-Neoplastic Process
+Reduction (chemical)	6	T070-Natural Phenomenon or Process
+Definitive (qualifier value)	1	T079-Temporal Concept
+Neutropenic fever	2	T047-Disease or Syndrome
+year (qualifier value)	2	T079-Temporal Concept
+Periodicals	1	T170-Intellectual Product
+Few (qualifier value)	1	T081-Quantitative Concept
+patient safety	1	T061-Therapeutic or Preventive Procedure
+MST	1	T109-Organic Chemical
+Three (qualifier value)	4	T081-Quantitative Concept
+Mean (qualifier value)	1	T081-Quantitative Concept
+Numerous (qualifier value)	1	T081-Quantitative Concept
+Discussion (procedure)	1	T061-Therapeutic or Preventive Procedure
+Chronic poisoning (disorder)	1	T037-Injury or Poisoning
+Mesna	1	T109-Organic Chemical
+Meta-Analysis	3	T170-Intellectual Product
+time interval	1	T079-Temporal Concept
+Epithelial	1	T169-Functional Concept
+Soft (qualifier value)	1	T080-Qualitative Concept
+Absences (finding)	2	T033-Finding
+Aggression aggravated	1	T048-Mental or Behavioral Dysfunction
+Scandium	1	T196-Element, Ion, or Isotope
+Doxorubicin	2	T195-Antibiotic
+Subcutaneous (qualifier value)	1	T082-Spatial Concept
+disease stage	1	T060-Diagnostic Procedure
+Before values (qualifier value)	1	T079-Temporal Concept
+Volume (property) (qualifier value)	2	T081-Quantitative Concept
+Liposarcoma	1	T191-Neoplastic Process
+Entire cell	1	T025-Cell
+Freedom	1	T078-Idea or Concept
+Impact	3	T168-Food
+Long (qualifier value)	1	T080-Qualitative Concept
+Nausea	1	T033-Finding
+Events (event)	5	T051-Event
+Malignant Peripheral Nerve Sheath Tumors	1	T191-Neoplastic Process
+Obstruction	1	T046-Pathologic Function
+Hemoglobin G (substance)	1	T116-Amino Acid, Peptide, or Protein
+survival aspects	3	T081-Quantitative Concept
+Sarcoma, Soft Tissue	1	T191-Neoplastic Process
+Timed (qualifier value)	1	T169-Functional Concept
+Chemotherapy, Adjuvant	2	T061-Therapeutic or Preventive Procedure
+Limb structure	2	T023-Body Part, Organ, or Organ Component
+Programs [Publication Type]	1	T170-Intellectual Product
+Restricted (qualifier value)	1	T169-Functional Concept
+Demonstrable (qualifier value)	1	T169-Functional Concept
+Function Axis	2	T185-Classification
+Bilirubin	1	T123-Biologically Active Substance
+Start (substance)	1	T168-Food
+Tumor margin status	2	T033-Finding
+QUESTIONABLE	1	T078-Idea or Concept
+Presentation (attribute)	2	T078-Idea or Concept
+Size (attribute)	1	T081-Quantitative Concept
+Improving (qualifier value)	3	T170-Intellectual Product
+Intraoperative (qualifier value)	1	T079-Temporal Concept
+Recurrence	4	T067-Phenomenon or Process
+Creatinine	1	T123-Biologically Active Substance
+Publishing	1	T057-Occupational Activity
+Rhabdomyosarcoma	1	T191-Neoplastic Process
+Conservatism	3	T078-Idea or Concept
+Therapeutic procedure	14	T061-Therapeutic or Preventive Procedure
+Routine (qualifier value)	2	T080-Qualitative Concept
+utilization	4	T081-Quantitative Concept
+Nine (qualifier value)	4	T081-Quantitative Concept
+Present	4	T169-Functional Concept
+Velocity (property) (qualifier value)	2	T169-Functional Concept
+With staging (attribute)	3	T169-Functional Concept
+Responses	1	T054-Social Behavior
+Generations	4	T079-Temporal Concept
+Critic (occupation)	1	T097-Professional or Occupational Group
+Cyclic (qualifier value)	4	T079-Temporal Concept
+Closed	2	T169-Functional Concept
+Gy (qualifier value)	1	T081-Quantitative Concept
+Sarcoma	1	T191-Neoplastic Process
+Deferred (qualifier value)	2	T079-Temporal Concept
+day (qualifier value)	8	T079-Temporal Concept
+Radio	1	T170-Intellectual Product
+Room of building - Study	9	T073-Manufactured Object
+Histologic	1	T169-Functional Concept
+Observation in research	1	T062-Research Activity
+Incidence	3	T081-Quantitative Concept
+Conflict (Psychology)	1	T055-Individual Behavior
+Figs - dietary	1	T168-Food
+trends	2	T079-Temporal Concept
+Coitus	1	T055-Individual Behavior
+Adequate (qualifier value)	3	T080-Qualitative Concept
+prognostic	1	T170-Intellectual Product
+Duration	1	T079-Temporal Concept
+majority	2	T054-Social Behavior
+Distant (qualifier value)	2	T082-Spatial Concept
+Total (qualifier value)	4	T080-Qualitative Concept
+physiological aspects	2	T039-Physiologic Function
+Control Groups	2	T096-Group
+Large	3	T080-Qualitative Concept
+Median (qualifier value)	9	T082-Spatial Concept
+hazard	1	T080-Qualitative Concept
+Arm	4	T029-Body Location or Region
+V (voltage)	2	T081-Quantitative Concept
+Previous (qualifier value)	4	T082-Spatial Concept
+Cancer cells grading system	1	T185-Classification
+Magnetic Resonance Imaging	1	T060-Diagnostic Procedure
+tyramine-deoxysorbitol	3	T109-Organic Chemical
+Ratio (property) (qualifier value)	1	T170-Intellectual Product
+Vomiting	1	T184-Sign or Symptom
+Hour	4	T079-Temporal Concept
+Function	2	T169-Functional Concept
+Antiemetics	1	T121-Pharmacologic Substance
+Indications	1	T078-Idea or Concept
+Uncontrolled (qualifier value)	1	T080-Qualitative Concept
+Soft tissues (body structure)	1	T024-Tissue
+Preoperative (qualifier value)	4	T032-Organism Attribute
+Nervousness	1	T184-Sign or Symptom
+Primary operation (qualifier value)	1	T061-Therapeutic or Preventive Procedure
+Blood Vessels	1	T023-Body Part, Organ, or Organ Component
+Veterans Alcoholism Screening Test	1	T170-Intellectual Product
+Diagnostic radiologic examination	1	T060-Diagnostic Procedure
+alone	1	T102-Group Attribute
+Group (social concept)	1	T096-Group
+Fractions of (qualifier value)	3	T081-Quantitative Concept
+Spatial Distribution	2	T082-Spatial Concept
+Science of Chemistry	1	T090-Occupation or Discipline
+chemical aspects	1	T185-Classification
+Infection	1	T047-Disease or Syndrome
+Methodology	5	T170-Intellectual Product
+Plain film (procedure)	1	T060-Diagnostic Procedure
+Excision - action (qualifier value)	3	T169-Functional Concept
+Short (qualifier value)	1	T079-Temporal Concept
+CONSIDERATION	1	T033-Finding
+cm (qualifier value)	4	T081-Quantitative Concept
+Site of primary lesion (attribute)	2	T082-Spatial Concept
+DOS	4	T109-Organic Chemical
+Chemotherapy-Oncologic Procedure	7	T061-Therapeutic or Preventive Procedure
+Cognitive function: planning (observable entity)	1	T041-Mental Process
+Radioisotope scan of bone (procedure)	1	T060-Diagnostic Procedure
+Statistical Significance	4	T081-Quantitative Concept
+radiotherapeutic	7	T170-Intellectual Product
+p-value	1	T081-Quantitative Concept
+Disease classification level	1	T185-Classification
+Cardio-	1	T082-Spatial Concept
+Persistent (qualifier value)	1	T079-Temporal Concept
+Writer (occupation)	2	T097-Professional or Occupational Group
+Relative (related person)	1	T099-Family Group
+Purpose (attribute)	1	T033-Finding
+Four (qualifier value)	6	T081-Quantitative Concept
+testimony	1	T064-Governmental or Regulatory Activity
+Started (qualifier value)	2	T080-Qualitative Concept
+Realism	1	T078-Idea or Concept
+milligram	9	T081-Quantitative Concept
+Improved (qualifier value)	3	T080-Qualitative Concept
+Patients	51	T101-Patient or Disabled Group

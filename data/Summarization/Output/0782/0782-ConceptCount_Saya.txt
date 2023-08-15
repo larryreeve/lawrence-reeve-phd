@@ -1,0 +1,74 @@
+Patient observation	1
+Risk	2
+survival aspects	2
+Increase (qualifier value)	1
+ADVANTAGE	1
+Neoplasms	1
+Started (qualifier value)	1
+Swiss (ethnic group)	2
+Ratio (property) (qualifier value)	1
+findings	1
+participation	1
+Excision - action (qualifier value)	1
+Observation in research	1
+Local (qualifier value)	1
+Mitomycins	2
+Incidence	1
+Rectum	2
+Cessation of life	1
+Entire rectum	2
+First (qualifier value)	1
+Continuance of life	2
+At risk for cognitive impairment (finding)	2
+milligram	1
+Unit	1
+Route (attribute)	1
+Disease-Free Survival	2
+QUESTIONABLE	1
+Control Groups	1
+At risk for joint contractures (finding)	2
+hazard	1
+Groups (qualifier value)	4
+Greater (qualifier value)	1
+Group (social concept)	4
+Few (qualifier value)	1
+Clinic (environment)	1
+Effectiveness (qualifier value)	1
+therapeutic aspects	1
+Chemotherapy, Adjuvant	5
+Timing (attribute)	1
+Adjuvants, Immunologic	1
+Other	1
+Effective (qualifier value)	1
+Systemic (qualifier value)	1
+Time	1
+One (qualifier value)	1
+Injection (product)	1
+Ascending (qualifier value)	1
+Events (event)	1
+Patients	3
+Secondary malignant neoplasm of liver (disorder)	3
+Infusion (procedure)	2
+Pharmacotherapy	2
+Appearance	1
+Magnesium	1
+Therapeutic procedure	1
+Excision	1
+Recurrence	1
+Descending (qualifier value)	1
+incidence of cases	1
+Injections	1
+Fluorouracil	1
+Sigmoid colon	1
+Timed (qualifier value)	1
+Duration of treatment (qualifier value)	1
+Heparin	1
+Significant (qualifier value)	1
+Personal appearance	1
+Immediate (qualifier value)	1
+Mitomycin	2
+Chemotherapy-Oncologic Procedure	2
+Pharmaceutical Preparations	1
+pharmacotherapeutic	2
+Hepatic	3
+participant	1

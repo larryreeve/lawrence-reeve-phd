@@ -1,0 +1,105 @@
+Risk	2
+Consistency finding (finding)	1
+survival aspects	3
+Aortic lymph node (body structure)	1
+regimen	1
+Hysterectomy	3
+Neoplasms	1
+Wound Healing	1
+Progression-Free Survival	2
+Carcinoma, Adenosquamous	1
+Nine (qualifier value)	2
+Cessation of life	1
+Rating	1
+Continuance of life	3
+Damage (morphologic abnormality)	1
+Stages (qualifier value)	1
+Overall [Publication Type]	1
+Result (navigational concept)	1
+Surgery specialty	1
+Previous (qualifier value)	1
+Common (qualifier value)	1
+Expanding (qualifier value)	1
+multiple regression	1
+Histopathologic Grade	1
+Several (qualifier value)	1
+Combined (qualifier value)	1
+Recognition (Psychology)	1
+Cervical (qualifier value)	1
+Radiotherapy, Intracavity	1
+Phase (qualifier value)	1
+History of (contextual qualifier) (qualifier value)	1
+In complete remission (qualifier value)	1
+Infusions, Intravenous	1
+prognostic	1
+month (qualifier value)	1
+Room of building - Study	2
+Radiation therapy	5
+Confidence Intervals	1
+Therapeutic procedure	7
+Reception	1
+Recurrence	1
+Recording of previous events	1
+Maximum	1
+Human Females	1
+Reasoning	1
+Analysis of substances	1
+Primary operation (qualifier value)	1
+Significant (qualifier value)	2
+Excretory function	1
+Human adult females	1
+radiotherapeutic	4
+Early (qualifier value)	1
+pharmacotherapeutic	1
+Cervical carcinoma stage IB	1
+Increase (qualifier value)	1
+Surgical aspects	1
+Two (qualifier value)	1
+Disease	1
+Discord	1
+Source (attribute)	1
+Elimination outcomes	1
+Euphoric mood	1
+Radiation	1
+Analysis	1
+Combinations (physical object)	1
+milligram	1
+Random Allocation	2
+Prostaglandin-Endoperoxide Synthase	1
+Primary	1
+Scientific Study	2
+High	1
+Repair - action	1
+Approach (attribute)	1
+therapeutic aspects	7
+history	1
+high-risk cancer	1
+Shapes	1
+Medical History	1
+Percent (qualifier value)	7
+External (qualifier value)	1
+Concurrent (qualifier value)	1
+GENERAL OPERATIVE PROCEDURES	2
+Adenocarcinoma	1
+Obsessive compulsive behavior	1
+Cox microbiology subtype	1
+Patients	8
+With shape	1
+utilization	1
+Irradiation (physical force)	1
+Pharmacotherapy	1
+Weekly (qualifier value)	2
+Relative Risk	2
+VALUING	2
+Magnesium	1
+Better (qualifier value)	2
+Surgical repair (procedure)	1
+More (qualifier value)	3
+Three (qualifier value)	1
+History of (present illness) (contextual qualifier) (qualifier value)	1
+ENDPOINT	1
+Differential (qualifier value)	2
+Five (qualifier value)	2
+Size (attribute)	1
+Chemotherapy-Oncologic Procedure	1
+Cisplatin	7

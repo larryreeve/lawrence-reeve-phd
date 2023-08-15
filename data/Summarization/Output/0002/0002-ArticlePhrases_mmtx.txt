@@ -1,0 +1,1745 @@
+CERVICAL cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+second most frequent cancer
+  3
+  C0205393|Most (qualifier value)|T081
+  C0332183|Frequent (qualifier value)|T079
+  C0751623|Second Cancer|T191
+most frequent cancer
+  5
+  C0998265|Cancer Genus|T009
+  C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+  C0205393|Most (qualifier value)|T081
+  C0006826|Malignant Neoplasms|T191
+  C0332183|Frequent (qualifier value)|T079
+Asia
+  1
+  C0003980|Asia|T083
+South America
+  1
+  C0037713|South America|T083
+screening
+  3
+  C1305399|Screening - procedure intent (qualifier value)|T169
+  C0220908|Screening procedure|T060
+  C0220909|Aspects of disease screening|T169
+women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+about percent
+  1
+  C0439165|Percent (qualifier value)|T081
+ability
+  1
+  C0085732|Ability|T032
+cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+doses
+  1
+  C0719635|DOS|T109
+large tumors
+  1
+  C0475278|Large tumor (finding)|T080
+limit
+  1
+  C0449205|LIM (body structure)|T029
+Efforts to
+  1
+  C0015264|Exertion|T040
+problem
+  1
+  C0033213|Problem (finding)|T033
+use
+  1
+  C0042153|utilization|T081
+use
+  1
+  C0042153|utilization|T081
+concurrent use
+  2
+  C0042153|utilization|T081
+  C0205420|Concurrent (qualifier value)|T079
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+synergistic effect
+  2
+  C1280500|Effect (qualifier value)|T080
+  C0812303|FYN Gene|T028
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+sensitivity
+  3
+  C0312418|Personality Sensitivity|T041
+  C0427965|Antimicrobial susceptibility|T033
+  C0036667|Statistical sensitivity|T081
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Concurrent chemotherapy
+  4
+  C0205420|Concurrent (qualifier value)|T079
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+repair
+  3
+  C0374711|Repair - action|T169
+  C0184985|Surgical repair (procedure)|T061
+  C0043240|Wound Healing|T040
+cells
+  1
+  C0007634|Cells|T025
+concurrent use
+  2
+  C0042153|utilization|T081
+  C0205420|Concurrent (qualifier value)|T079
+multiple drug regimens
+  3
+  C0439064|Numerous (qualifier value)|T081
+  C0013227|Pharmaceutical Preparations|T121
+  C0677937|regimen|T061
+combination therapy
+  2
+  C0556895|Combination electrotherapy|T061
+  C0009429|Combined Modality Therapy|T061
+wide acceptance
+  2
+  C0332464|Widened structure (morphologic abnormality)|T082
+  C1272684|Accepted (qualifier value)|T080
+Gynecologic Oncology Group
+  3
+  C0278596|gynecologic oncology|T091
+  C0441833|Groups (qualifier value)|T170
+  C1300322|Group (social concept)|T096
+performed several prospective randomized studies
+  4
+  C0884358|Performed (qualifier value)|T169
+  C0443302|Several (qualifier value)|T081
+  C0033522|Prospective Studies|T081
+  C0034656|Random Allocation|T062
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+Radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+concomitant therapy
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+concomitant treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+and Whitney CW
+  1
+  C0332290|Consistent with (qualifier value)|T078
+radiotherapy significantly
+  3
+  C0034618|Radiation therapy|T061
+  C0750502|Significant (qualifier value)|T078
+  C0034619|radiotherapeutic|T170
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Whitney CW
+  1
+  C0332290|Consistent with (qualifier value)|T078
+protocol
+  1
+  C0442711|Protocols documentation|T170
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+standard
+  2
+  C0038137|standards characteristics|T170
+  C0175675|Standards of Weights and Measures|T080
+combined therapy regimen
+  2
+  C0033972|Psychotherapy, Multiple|T061
+  C0677937|regimen|T061
+early analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0205085|Early (qualifier value)|T079
+  C0936012|Analysis|T062
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+improved progression free survival
+  2
+  C0184511|Improved (qualifier value)|T080
+  C0242792|Progression-Free Survival|T081
+myelosuppression
+  1
+  C0854467|Myelosuppression (finding)|T047
+limiting toxic effect
+  2
+  C0439801|Limited (qualifier value)|T169
+  C0600688|Toxic effect|T037
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+fluorouracil combination
+  2
+  C0016360|Fluorouracil|T114
+  C0205195|Combined (qualifier value)|T080
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+ribonucleotide reductase
+  1
+  C0035547|Ribonucleotide Reductase|T116
+tumor cells
+  1
+  C0431085|[M]Unspecified tumor cell NOS (morphologic abnormality)|T191
+depletion
+  1
+  C0333668|Depletion (morphologic abnormality)|T169
+compound competes
+  2
+  C0719453|Compete|T109
+  C0205198|Compound (qualifier value)|T080
+fluorodeoxyuridine monophosphate
+  1
+  C0016343|Floxuridine|T114
+responses
+  1
+  C0871261|Responses|T054
+randomized study
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0034656|Random Allocation|T062
+women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+local radiation
+  2
+  C0851346|Radiation|T070
+  C0205276|Local (qualifier value)|T082
+weekly concomitant treatment
+  3
+  C0087111|Therapeutic procedure|T061
+  C0332174|Weekly (qualifier value)|T079
+  C0039798|therapeutic aspects|T169
+combination
+  1
+  C0205195|Combined (qualifier value)|T080
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+METHODS
+  2
+  C0025664|Methodology|T170
+  C0025663|Methods|T170
+institutions
+  1
+  C1272753|Institution (social concept)|T078
+Women
+  2
+  C0043209|Human Females|T098
+  C0043210|Human adult females|T098
+adenosquamous carcinoma
+  1
+  C0206623|Carcinoma, Adenosquamous|T191
+adenocarcinoma
+  1
+  C0001418|Adenocarcinoma|T191
+localized disease
+  1
+  C0277565|Local disease (finding)|T047
+extension
+  1
+  C0231448|Extension (qualifier value)|T042
+involvement
+  1
+  C0392760|Not free of (attribute)|T169
+rectal mucosa
+  1
+  C0227395|Rectal mucous membrane structure (body structure)|T023
+cancers
+  1
+  C0006826|Malignant Neoplasms|T191
+Patients
+  1
+  C0030705|Patients|T101
+metastasis
+  1
+  C0027627|Neoplasm Metastasis|T191
+intraperitoneal disease
+  2
+  C0442120|Intraperitoneal (qualifier value)|T082
+  C0012634|Disease|T047
+patient
+  1
+  C0030705|Patients|T101
+complete physical examination
+  1
+  C0436120|Physical examination, complete (procedure)|T058
+pelvic examination
+  1
+  C0200045|Manual pelvic examination (procedure)|T060
+chest radiography
+  1
+  C0202783|Radiographic procedure on chest (procedure)|T060
+intravenous pyelography
+  1
+  C0203108|Intravenous pyelogram|T060
+abdominal computed tomography to
+  1
+  C0412620|CT of abdomen (procedure)|T060
+clinical stage
+  1
+  C0205563|Clinical staging (qualifier value)|T079
+patients
+  1
+  C0030705|Patients|T101
+undergone specific type
+  3
+  C0332307|With type (attribute)|T169
+  C0205369|Specific (qualifier value)|T080
+  C1263442|SPECIFIC|T121
+Patients
+  1
+  C0030705|Patients|T101
+Gynecologic Oncology Group performance status
+  6
+  C0278596|gynecologic oncology|T091
+  C0449438|Status (attribute)|T080
+  C0870623|Group Performance|T102
+  C0441833|Groups (qualifier value)|T170
+  C0935728|performance status|T033
+  C1300322|Group (social concept)|T096
+equivalent
+  1
+  C0439185|Eq (qualifier value)|T081
+history
+  5
+  C0019664|Recording of previous events|T090
+  C0019665|history|T170
+  C0262926|Medical History|T033
+  C1321503|History of (contextual qualifier) (qualifier value)|T033
+  C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+Other eligibility criteria
+  2
+  C0205394|Other|T080
+  C0243161|criteria|T170
+leukocyte count
+  1
+  C0023508|White Blood Cell Count procedure|T059
+platelet count
+  2
+  C0032181|Platelet Count|T059
+  C1287267|Finding of platelet count (finding)|T034
+serum creatinine level
+  1
+  C0600061|Serum creatinine level|T034
+serum bilirubin level
+  2
+  C0428441|Serum bilirubin measurement (procedure)|T059
+  C1287366|Finding of serum bilirubin level (finding)|T034
+serum aspartate aminotransferase level
+  2
+  C0201899|Aspartate aminotransferase assay|T059
+  C0456079|Disease classification level|T185
+Additional pretreatment evaluations
+  2
+  C0442796|Additive (qualifier value)|T080
+  C0220825|Evaluation|T169
+assessment
+  1
+  C1261322|Assessment procedure (procedure)|T058
+measurements
+  1
+  C0242485|Measurement|T081
+serum electrolytes
+  2
+  C0587355|Serum electrolytes NOS (procedure)|T059
+  C1287347|Finding of serum electrolyte levels (finding)|T033
+magnesium
+  1
+  C0024467|Magnesium|T123
+patients
+  1
+  C0030705|Patients|T101
+written informed consent
+  3
+  C0043266|Writing|T090
+  C0021430|Informed Consent|T058
+  C0341628|Writer (occupation)|T097
+federal regulations
+  2
+  C0851285|Regulation|T064
+  C0220905|regulatory|T089
+Radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+40.8 Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+fractions
+  1
+  C0457426|Fractions of (qualifier value)|T081
+51.0 Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+followed one
+  2
+  C0332282|Following (attribute)|T079
+  C0205447|One (qualifier value)|T081
+insertion
+  2
+  C0021107|Implantation procedure|T061
+  C0441587|Clinical act of insertion|T058
+one
+  1
+  C0205447|One (qualifier value)|T081
+two intracavitary implants
+  3
+  C0021102|Implants|T074
+  C0205448|Two (qualifier value)|T081
+  C1298613|Intracavitary (qualifier value)|T082
+total dose
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+IVA disease
+  2
+  C0012634|Disease|T047
+  C1054142|Iva|T002
+total dose
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+80.8 Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+81.0 Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+IVA disease
+  2
+  C0012634|Disease|T047
+  C1054142|Iva|T002
+total dose
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+B
+  7
+  C0337527|Brothers|T099
+  C0004927|Behavior|T055
+  C0004587|Bacillus <bacterium>|T007
+  C0677505|Behaviors and observations relating to behavior|T033
+  C1040746|Bacilli|T007
+  C0150141|Bathing|T061
+  C0175640|Baths (medical device)|T074
+pelvic wall
+  1
+  C0230284|Pelvic wall structure (body structure)|T023
+55.0 Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+60.0 Gy
+  1
+  C0556636|Gy (qualifier value)|T081
+IVA disease
+  2
+  C0012634|Disease|T047
+  C1054142|Iva|T002
+Pelvic radiation
+  1
+  C0747411|PELVIS RADIATION|T061
+posteroanterior parallel ports
+  4
+  C0452253|Port - alcoholic beverage|T168
+  C0233174|Synclitism (finding)|T033
+  C0475311|Harbor|T073
+  C0935727|port-a-cath|T074
+four field box technique
+  5
+  C0205450|Four (qualifier value)|T081
+  C0449851|Techniques|T170
+  C0440042|Field's stain|T130
+  C0179400|Boxes|T073
+  C0006080|Boxing|T056
+two lateral fields
+  4
+  C0205093|Lateral (qualifier value)|T082
+  C0331809|Fielding|T093
+  C0440042|Field's stain|T130
+  C0205448|Two (qualifier value)|T081
+pelvic field
+  2
+  C0030797|Pelvis|T029
+  C0440042|Field's stain|T130
+lowest level
+  3
+  C0441994|Lower (qualifier value)|T169
+  C0456079|Disease classification level|T185
+  C0205251|Low (qualifier value)|T080
+anterior border
+  2
+  C0205094|Anterior|T082
+  C0205284|Marginal (qualifier value)|T082
+anterior border
+  2
+  C0205094|Anterior|T082
+  C0205284|Marginal (qualifier value)|T082
+posterior border
+  2
+  C0205095|Dorsal|T082
+  C0205284|Marginal (qualifier value)|T082
+S3
+  1
+  C1179706|S3|T029
+fields
+  1
+  C0440042|Field's stain|T130
+areas
+  1
+  C0205146|Area (qualifier value)|T082
+two intracavitary applications
+  3
+  C0185125|Application (procedure)|T058
+  C0205448|Two (qualifier value)|T081
+  C1298613|Intracavitary (qualifier value)|T082
+second
+  1
+  C0205436|Second (qualifier value)|T081
+intracavitary brachytherapy
+  1
+  C0021864|Radiotherapy, Intracavity|T061
+tumor
+  1
+  C0027651|Neoplasms|T191
+high-dose brachytherapy
+  1
+  C1273556|High dose brachytherapy (regime/therapy)|T061
+duration
+  1
+  C0449238|Duration|T079
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+Radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+patient
+  1
+  C0030705|Patients|T101
+leukocyte count
+  1
+  C0023508|White Blood Cell Count procedure|T059
+genitourinary toxicity
+  3
+  C0447566|Urogenital structure|T023
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+length
+  1
+  C0439537|Lengths (qualifier value)|T081
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+Radiological Physics
+  1
+  C0018725|Health Physics|T091
+technical aspects
+  2
+  C0025664|Methodology|T170
+  C0449851|Techniques|T170
+calibration
+  1
+  C0006751|Calibration|T081
+Chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+patients
+  1
+  C0030705|Patients|T101
+one
+  1
+  C0205447|One (qualifier value)|T081
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+leukocyte count
+  1
+  C0023508|White Blood Cell Count procedure|T059
+platelet count
+  2
+  C0032181|Platelet Count|T059
+  C1287267|Finding of platelet count (finding)|T034
+levels
+  1
+  C0441889|Levels (qualifier value)|T170
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+leukocyte count
+  1
+  C0023508|White Blood Cell Count procedure|T059
+platelet count
+  2
+  C0032181|Platelet Count|T059
+  C1287267|Finding of platelet count (finding)|T034
+levels
+  1
+  C0441889|Levels (qualifier value)|T170
+Adverse effects
+  1
+  C0001688|adverse effects|T037
+required modifications
+  1
+  C0205349|Altered (qualifier value)|T169
+Statistical Analysis
+  1
+  C0871424|Statistical Analysis|T062
+primary end points
+  3
+  C0439631|Primary operation (qualifier value)|T061
+  C0150100|ENDPOINT|T062
+  C0205225|Primary|T080
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+Progression
+  1
+  C0449258|Progression (attribute)|T169
+metastasis
+  1
+  C0027627|Neoplasm Metastasis|T191
+Progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+radiographic evidence
+  1
+  C0444708|Radiographic (qualifier value)|T070
+death
+  1
+  C0011065|Cessation of life|T040
+follow-up visit
+  1
+  C0589121|Follow-up visit (procedure)|T058
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+follow-up visit
+  1
+  C0589121|Follow-up visit (procedure)|T058
+target sample size
+  2
+  C0599894|targeting|T043
+  C0242618|Sample Size|T081
+percent decrease
+  2
+  C0547047|Decrease (qualifier value)|T081
+  C0439165|Percent (qualifier value)|T081
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+disease progression
+  1
+  C0242656|Disease Progression|T046
+or death
+  2
+  C0069590|ORALIT|T197
+  C0011065|Cessation of life|T040
+control regimen
+  2
+  C0243148|control|T169
+  C0677937|regimen|T061
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+study
+  2
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+progression
+  1
+  C0449258|Progression (attribute)|T169
+patients
+  1
+  C0030705|Patients|T101
+similarity
+  1
+  C0871364|Simile|T170
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+final analysis
+  3
+  C0205088|End-stage (qualifier value)|T079
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+Randomization
+  1
+  C0034656|Random Allocation|T062
+treatment assignments
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+three clinical stages
+  2
+  C0205563|Clinical staging (qualifier value)|T079
+  C0205449|Three (qualifier value)|T081
+Life table estimates
+  1
+  C0023680|Life Table Estimates|T170
+differences
+  1
+  C0443199|Differential (qualifier value)|T080
+Cox model
+  1
+  C0010234|Cox Models|T170
+relative likelihood
+  3
+  C0080103|Relative (related person)|T099
+  C0205345|Relative|T080
+  C0750504|Likely|T078
+and percent confidence intervals
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+chi-square test
+  1
+  C0008041|Chi-Square Test|T081
+differences
+  1
+  C0443199|Differential (qualifier value)|T080
+reported P values
+  2
+  C0700287|Reporting|T058
+  C0879541|p-value|T081
+two tailed
+  2
+  C0039259|Tail|T023
+  C0205448|Two (qualifier value)|T081
+Interim analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+performance
+  1
+  C0597198|Performance|T055
+type I error
+  1
+  C0871555|Type I Errors|T033
+presentation
+  1
+  C0449450|Presentation (attribute)|T078
+P values
+  1
+  C0879541|p-value|T081
+RESULTS
+  1
+  C1274040|Result (navigational concept)|T169
+patients
+  1
+  C0030705|Patients|T101
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+concomitant chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+concomitant chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+concomitant chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+Forty nine
+  1
+  C0205455|Nine (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+patients
+  1
+  C0030705|Patients|T101
+ineligible stage
+  2
+  C0684248|Stage of Surgical Procedure|T079
+  C0027646|Diagnostic Neoplasm Staging|T060
+metastasis
+  1
+  C0027627|Neoplasm Metastasis|T191
+incorrect primary diagnosis
+  4
+  C0439631|Primary operation (qualifier value)|T061
+  C0011900|Diagnosis|T060
+  C0205225|Primary|T080
+  C0348026|Diagnostic|T169
+incomplete pretreatment testing
+  3
+  C0205257|Incomplete|T081
+  C0039593|Testing|T062
+  C0728938|Partial (qualifier value)|T081
+total
+  1
+  C0439810|Total (qualifier value)|T080
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+significant differences
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+analyses
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+Progression free Survival
+  1
+  C0242792|Progression-Free Survival|T081
+relative risk
+  1
+  C0242492|Relative Risk|T080
+death
+  1
+  C0011065|Cessation of life|T040
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+adjustment
+  4
+  C0001537|Clinical Adjustment|T058
+  C0683269|Psychological adjustment|T055
+  C0376209|Individual Adjustment|T055
+  C0456081|Adjustment Action|T058
+Patients
+  1
+  C0030705|Patients|T101
+platinum based regimens
+  4
+  C0178499|Base|T120
+  C1171558|Platinum metallicum, platinum, Homeopathic preparation|T121
+  C0032207|Platinum|T196
+  C0677937|regimen|T061
+significantly longer progression free survival
+  3
+  C0205166|Long (qualifier value)|T080
+  C0242792|Progression-Free Survival|T081
+  C0750502|Significant (qualifier value)|T078
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+multiple regression analysis
+  3
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+  C0681923|multiple regression|T080
+prognostic variables
+  2
+  C0220901|prognostic|T170
+  C0439828|Variable (qualifier value)|T080
+al
+  1
+  C0002367|Aluminum|T196
+clinical stage
+  1
+  C0205563|Clinical staging (qualifier value)|T079
+tumor size
+  1
+  C0475440|Tumor size (observable entity)|T082
+status
+  1
+  C0449438|Status (attribute)|T080
+age
+  1
+  C0001779|Age (qualifier value)|T079
+performance status
+  1
+  C0935728|performance status|T033
+relative risks
+  1
+  C0242492|Relative Risk|T080
+group given radiotherapy
+  6
+  C1136188|Gifts|T071
+  C0441833|Groups (qualifier value)|T170
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+  C0016999|Gamete Intrafallopian Transfer|T061
+  C1300322|Group (social concept)|T096
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+relative risks
+  1
+  C0242492|Relative Risk|T080
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+Survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+months
+  1
+  C0439231|month (qualifier value)|T079
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+total
+  1
+  C0439810|Total (qualifier value)|T080
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+Survival rates
+  1
+  C0038954|Survival Rate|T081
+group given radiotherapy
+  6
+  C1136188|Gifts|T071
+  C0441833|Groups (qualifier value)|T170
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+  C0016999|Gamete Intrafallopian Transfer|T061
+  C1300322|Group (social concept)|T096
+multivariate analysis
+  1
+  C0026777|Multivariate Analysis|T081
+al
+  1
+  C0002367|Aluminum|T196
+essentially identical estimates
+  3
+  C0750572|ESTIMATED|T078
+  C0205280|Identical (qualifier value)|T080
+  C0205224|Essential (qualifier value)|T080
+Site
+  1
+  C0205145|Associated topography (attribute)|T082
+Patients
+  1
+  C0030705|Patients|T101
+group given radiotherapy
+  6
+  C1136188|Gifts|T071
+  C0441833|Groups (qualifier value)|T170
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+  C0016999|Gamete Intrafallopian Transfer|T061
+  C1300322|Group (social concept)|T096
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+less local progression
+  2
+  C0205276|Local (qualifier value)|T082
+  C0449258|Progression (attribute)|T169
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+Patients
+  1
+  C0030705|Patients|T101
+lower frequency
+  1
+  C0205213|Low frequency (qualifier value)|T079
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+Chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+weeks
+  1
+  C0439230|week (qualifier value)|T079
+Radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+Eight patients
+  2
+  C0030705|Patients|T101
+  C0205454|Eight (qualifier value)|T170
+radiation therapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+only external beam treatment
+  3
+  C0205101|External (qualifier value)|T082
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+patients
+  1
+  C0030705|Patients|T101
+number
+  1
+  C0449788|Count of entities (property) (qualifier value)|T081
+point B
+  8
+  C0337527|Brothers|T099
+  C0004927|Behavior|T055
+  C0324413|Pointer (organism)|T015
+  C0004587|Bacillus <bacterium>|T007
+  C0677505|Behaviors and observations relating to behavior|T033
+  C1040746|Bacilli|T007
+  C0150141|Bathing|T061
+  C0175640|Baths (medical device)|T074
+IVA
+  1
+  C1054142|Iva|T002
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+median duration
+  3
+  C0449238|Duration|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+9.0 weeks
+  1
+  C0439230|week (qualifier value)|T079
+90th percentiles
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+9.3 weeks
+  1
+  C0439230|week (qualifier value)|T079
+90th percentiles
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+8.9 weeks
+  1
+  C0439230|week (qualifier value)|T079
+90th percentiles
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+median delay
+  3
+  C0205421|Deferred (qualifier value)|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+doses
+  1
+  C0719635|DOS|T109
+B
+  7
+  C0337527|Brothers|T099
+  C0004927|Behavior|T055
+  C0004587|Bacillus <bacterium>|T007
+  C0677505|Behaviors and observations relating to behavior|T033
+  C1040746|Bacilli|T007
+  C0150141|Bathing|T061
+  C0175640|Baths (medical device)|T074
+median delay
+  3
+  C0205421|Deferred (qualifier value)|T079
+  C0876920|Median Statistical Measurement|T081
+  C0549183|Median (qualifier value)|T082
+days
+  1
+  C0439228|day (qualifier value)|T079
+10th percentile
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+time days
+  2
+  C0439228|day (qualifier value)|T079
+  C0040223|Time|T079
+90th percentile
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+days
+  1
+  C0439228|day (qualifier value)|T079
+90th percentiles
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+days
+  1
+  C0439228|day (qualifier value)|T079
+90th percentiles
+  1
+  C1264641|Percentile (property) (qualifier value)|T081
+day
+  1
+  C0439228|day (qualifier value)|T079
+Adverse Effects
+  1
+  C0001688|adverse effects|T037
+treatment-related deaths
+  4
+  C0445223|Related (finding)|T033
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0011065|Cessation of life|T040
+types
+  1
+  C0449470|Types (qualifier value)|T170
+frequencies
+  1
+  C0439603|Frequencies (time pattern)|T079
+highest combined frequency
+  2
+  C0205212|High frequency (qualifier value)|T079
+  C0205195|Combined (qualifier value)|T080
+adverse effects
+  1
+  C0001688|adverse effects|T037
+three drug regimen
+  3
+  C0013227|Pharmaceutical Preparations|T121
+  C0677937|regimen|T061
+  C0205449|Three (qualifier value)|T081
+frequency
+  1
+  C0376249|With frequency|T081
+frequencies
+  1
+  C0439603|Frequencies (time pattern)|T079
+grade leukopenia
+  2
+  C0441800|Grade|T185
+  C0023530|Leukopenia|T047
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+frequencies
+  1
+  C0439603|Frequencies (time pattern)|T079
+frequencies
+  1
+  C0439603|Frequencies (time pattern)|T079
+grade predominantly granulocytopenia
+  3
+  C0332251|Predominate (qualifier value)|T080
+  C0441800|Grade|T185
+  C1261272|Granulocytopenia|T046
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea therapy
+  3
+  C0087111|Therapeutic procedure|T061
+  C0020402|Hydroxyurea|T109
+  C0039798|therapeutic aspects|T169
+other two groups
+  3
+  C0205394|Other|T080
+  C0441833|Groups (qualifier value)|T170
+  C0205448|Two (qualifier value)|T081
+DISCUSSION
+  1
+  C0557061|Discussion (procedure)|T061
+Pelvic radiotherapy
+  3
+  C0030797|Pelvis|T029
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+progression
+  1
+  C0449258|Progression (attribute)|T169
+techniques
+  2
+  C0025664|Methodology|T170
+  C0449851|Techniques|T170
+progression
+  1
+  C0449258|Progression (attribute)|T169
+locoregional control
+  1
+  C0243148|control|T169
+para-aortic lymph nodes
+  1
+  C0229789|Aortic lymph node (body structure)|T023
+often first site
+  3
+  C0332183|Frequent (qualifier value)|T079
+  C0205145|Associated topography (attribute)|T082
+  C0205435|First (qualifier value)|T081
+involvement
+  1
+  C0392760|Not free of (attribute)|T169
+most important prognostic factor
+  2
+  C0205393|Most (qualifier value)|T081
+  C0220901|prognostic|T170
+only patients
+  1
+  C0030705|Patients|T101
+higher rates
+  3
+  C0235146|Euphoric mood|T041
+  C0871208|Rating|T062
+  C0205250|High|T080
+progression free survival
+  1
+  C0242792|Progression-Free Survival|T081
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+Cisplatin
+  1
+  C0008838|Cisplatin|T197
+effects
+  1
+  C1280500|Effect (qualifier value)|T080
+drug
+  1
+  C0013227|Pharmaceutical Preparations|T121
+al
+  1
+  C0002367|Aluminum|T196
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+concomitant treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+radiosensitivity
+  1
+  C0034537|Radiation Tolerance|T032
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+effects
+  1
+  C1280500|Effect (qualifier value)|T080
+one advantage
+  2
+  C0308269|ADVANTAGE|T131
+  C0205447|One (qualifier value)|T081
+limited adverse effects
+  2
+  C0439801|Limited (qualifier value)|T169
+  C0001688|adverse effects|T037
+cisplatin based regimen
+  3
+  C0178499|Base|T120
+  C0008838|Cisplatin|T197
+  C0677937|regimen|T061
+results
+  1
+  C1274040|Result (navigational concept)|T169
+principal effect
+  3
+  C1280500|Effect (qualifier value)|T080
+  C0401925|Teaching principal|T097
+  C0205225|Primary|T080
+radiosensitization
+  1
+  C0279024|radiosensitization|T061
+effect
+  1
+  C1280500|Effect (qualifier value)|T080
+Two trials
+  1
+  C0205448|Two (qualifier value)|T081
+improvements
+  3
+  C0184511|Improved (qualifier value)|T080
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+mg
+  2
+  C0024467|Magnesium|T123
+  C0439210|milligram|T081
+long-term improvement
+  4
+  C0184511|Improved (qualifier value)|T080
+  C0443252|Long-term (qualifier value)|T079
+  C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+  C1272745|Improving (qualifier value)|T170
+Many combinations
+  2
+  C0439064|Numerous (qualifier value)|T081
+  C0453882|Combinations (physical object)|T073
+patients
+  1
+  C0030705|Patients|T101
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+concomitant chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+Whitney CW
+  1
+  C0332290|Consistent with (qualifier value)|T078
+two-drug regimen
+  3
+  C0013227|Pharmaceutical Preparations|T121
+  C0677937|regimen|T061
+  C0205448|Two (qualifier value)|T081
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+relative risk
+  1
+  C0242492|Relative Risk|T080
+percent confidence interval
+  2
+  C0009667|Confidence Intervals|T081
+  C0439165|Percent (qualifier value)|T081
+radiotherapy
+  2
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+fluorouracil significantly
+  2
+  C0016360|Fluorouracil|T114
+  C0750502|Significant (qualifier value)|T078
+overall survival
+  3
+  C0282416|Overall [Publication Type]|T170
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+ability
+  1
+  C0085732|Ability|T032
+less toxic analogue
+  2
+  C0243071|analog|T104
+  C0600688|Toxic effect|T037
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+carboplatin
+  1
+  C0079083|Carboplatin|T109
+results
+  1
+  C1274040|Result (navigational concept)|T169
+Hematologic toxicity
+  3
+  C0205488|Hematologic (qualifier value)|T169
+  C0040539|Toxicity aspects|T081
+  C0600688|Toxic effect|T037
+principal adverse effect
+  3
+  C0879626|adverse effect|T037
+  C0401925|Teaching principal|T097
+  C0205225|Primary|T080
+frequencies
+  1
+  C0439603|Frequencies (time pattern)|T079
+leukopenia
+  1
+  C0023530|Leukopenia|T047
+significant differences
+  2
+  C0443199|Differential (qualifier value)|T080
+  C0750502|Significant (qualifier value)|T078
+al
+  1
+  C0002367|Aluminum|T196
+used radiotherapy concurrently
+  4
+  C0042153|utilization|T081
+  C0205420|Concurrent (qualifier value)|T079
+  C0034618|Radiation therapy|T061
+  C0034619|radiotherapeutic|T170
+patients
+  1
+  C0030705|Patients|T101
+high rate
+  3
+  C0235146|Euphoric mood|T041
+  C0871208|Rating|T062
+  C0205250|High|T080
+percent
+  1
+  C0439165|Percent (qualifier value)|T081
+severe late gastrointestinal complications
+  3
+  C0205087|Late (qualifier value)|T079
+  C0205082|Severe (severity modifier) (qualifier value)|T080
+  C0161819|Gastrointestinal complication (disorder)|T046
+Closer analysis
+  2
+  C0002778|Analysis of substances|T059
+  C0936012|Analysis|T062
+dose dependent effect
+  3
+  C1280500|Effect (qualifier value)|T080
+  C0851827|Dependent (qualifier value)|T098
+  C0178602|Dosages (qualifier value)|T081
+Adverse urologic effects
+  2
+  C0205479|Urologic (qualifier value)|T091
+  C0001688|adverse effects|T037
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+increased rates
+  2
+  C0205217|Increased (qualifier value)|T169
+  C0871208|Rating|T062
+radiation protocol
+  2
+  C0442711|Protocols documentation|T170
+  C0851346|Radiation|T070
+total dose
+  1
+  C0172161|tyramine-deoxysorbitol|T109
+total treatment time
+  4
+  C0439810|Total (qualifier value)|T080
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+  C0040223|Time|T079
+Several studies
+  3
+  C0947630|Scientific Study|T059
+  C0557651|Room of building - Study|T073
+  C0443302|Several (qualifier value)|T081
+total length
+  2
+  C0439537|Lengths (qualifier value)|T081
+  C0439810|Total (qualifier value)|T080
+duration
+  1
+  C0449238|Duration|T079
+dose
+  1
+  C0178602|Dosages (qualifier value)|T081
+differences
+  1
+  C0443199|Differential (qualifier value)|T080
+survival
+  2
+  C0220921|survival aspects|T081
+  C0038952|Continuance of life|T052
+results
+  1
+  C1274040|Result (navigational concept)|T169
+superiority
+  1
+  C0680218|superiority|T054
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+fluorouracil
+  1
+  C0016360|Fluorouracil|T114
+hydroxyurea
+  1
+  C0020402|Hydroxyurea|T109
+cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
+IVA
+  1
+  C1054142|Iva|T002
+Treatment
+  2
+  C0087111|Therapeutic procedure|T061
+  C0039798|therapeutic aspects|T169
+cisplatin
+  1
+  C0008838|Cisplatin|T197
+chemotherapy
+  3
+  C0392920|Chemotherapy-Oncologic Procedure|T061
+  C0013217|pharmacotherapeutic|T169
+  C0013216|Pharmacotherapy|T061
+cervical cancer
+  1
+  C0007847|Malignant neoplasm of cervix uteri|T191
