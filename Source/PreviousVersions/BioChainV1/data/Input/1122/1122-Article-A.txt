@@ -1,0 +1,192 @@
+The preferred treatment of women with early-stage cervical cancer (FIGO IA2ñIIA) is radical hysterectomy with 
+bilateral pelvic lymphadenectomy. The procedure is well tolerated, with minimal associated morbidity and rare mortality. The overall prognosis for patients undergoing radical hysterectomy is good, with reported 5-year survival 
+rates ranging from 75 to 90%. However, among patients 
+with a clinically early cancer, there are prognostic features 
+which identify patients at increased risk for recurrence; recurrent cervical cancer after initial radical hysterectomy and 
+pelvic lymphadenectomy has a poor prognosis, with a reported 5-year survival rate of 5% or less. 
+
+The clinicopathologic factors which predict a poorer prognosis for patients with an early carcinoma of the cervix 
+have been well established. A retrospective study of patients 
+undergoing radical hysterectomy at Memorial SloanñKettering Cancer Center (MSKCC) from 1939 to 1977 identified 
+the following risk factors: metastatic tumor to the pelvic 
+lymph nodes, large cervical tumor, parametrial extension of 
+disease, nonsquamous or grade 3 histology, and deep 
+(.75%) cervical stromal invasion. These factors have 
+been shown to be associated with a high risk of recurrence 
+in other studies, both from single institutions and from cooperative groups. 
+
+There have been multiple studies published which have 
+retrospectively analyzed the outcome of patients at risk for 
+recurrence who received adjuvant therapy compared to those 
+patients not receiving adjuvant therapy. Whole pelvic postoperative radiation therapy has been found to possibly decrease the incidence of local/regional recurrence with little 
+or no effect on overall survival. Chemotherapy plus 
+pelvic radiation has been studied in our institution in a prospective Phase II trial, with an apparent improvement in 
+survival rates when compared to historical controls. 
+Preoperative neoadjuvant chemotherapy has been reported 
+as another approach to management of women with early 
+cervical cancer and high-risk features. Few reports 
+have utilized adjuvant postoperative chemotherapy alone 
+after radical surgery for invasive cervical cancer. In an 
+effort to determine whether the improved survival in the 
+Memorial Hospital Phase II trial was due to the combination 
+of chemotherapy plus pelvic radiation therapy or due to the 
+effect of the chemotherapy alone, a multicenter randomized 
+Phase III clinical trial was designed. This report summarizes 
+the preliminary results of the trial which closed to patient 
+accrual in June 1994. 
+
+MATERIALS AND METHODS 
+
+Patients with clinical Stage IBñIIA cancer of the uterine 
+cervix treated by radical hysterectomy, bilateral pelvic 
+lymphadenectomy, and aortic lymph node sampling were 
+eligible for entry into this prospective study if they had one 
+or more of the following risk factors: (1) metastatic disease 
+to pelvic lymph nodes, (2) large primary tumors greater than 
+or equal to 4 cm in diameter, (3) deeply invasive lesions with 
+75% or greater stromal invasion, (4) nonsquamous histology, 
+and/or (5) occult parametrial involvement or positive surgical margins. Patients who met the entry criteria were given 
+the opportunity to participate in this clinical trial; entry and 
+initiation of therapy had to be within 6 weeks of the date of 
+radical hysterectomy. Patients were assigned a stage based 
+on International Federation of Gynecologists and Obstetricians (FIGO) criteria. After signing an IRB-approved 
+informed consent form, patients were randomized to receive 
+one of two treatments. One arm consisted of 2 cycles of 
+chemotherapy (given 3ñ4 weeks apart) utilizing bleomycin 
+20 U/m2/day via continuous 24-hr infusion on Days 1ñ3 
+after an initial intravenous bolus of 20 U/m2 followed by 
+cisplatin 75 mg/m2 by iv infusion on Day 4. Following recovery from the second cycle of chemotherapy, patients received 
+a course of whole pelvic radiation therapy to a dose of 45 
+Gy, delivered in 20 fractions via a four-field technique; patients did not receive intravaginal therapy. Two additional 
+cycles of cisplatin alone (75 mg/m2) were prescribed after 
+completion of the pelvic radiation therapy. In the second 
+arm of the study, patients were randomized to treatment 
+with a similar regimen of chemotherapy as described above 
+without pelvic radiation; following the first two cycles of 
+cisplatin and bleomycin, the patient then received the third 
+and fourth treatment of cisplatin alone at 3-to 4-week intervals. 
+
+Four centers participated in this clinical trial. At each 
+institution, the protocol was approved by the institutional 
+review board prior to entry of patients; all patients signed 
+an informed consent prior to entry. Central pathology review 
+was not required, although at each institution the specific 
+pathologic criteria for determining depth of invasion were 
+carried out according to written guidelines. Randomization 
+
+was performed at Memorial SloanñKettering Cancer Center 
+by the Department of Biostatistics using an envelope system. 
+Data forms were maintained in a central location, also at 
+MSKCC. 
+
+Additional entry criteria included histologic confirmation 
+of negative para-aortic lymph nodes, normal renal function 
+(creatinine clearance of greater than 60 ml/min), normal liver 
+function tests, hemoglobin of greater than 8.0 g/dl, and a 
+normal DLCO pulmonary function test. 
+
+At the completion of treatment, patients were followed 
+according to the individual surgeonsí preference. Patients 
+with recurrent disease were classified by the site of recurrence and the interval from the date of radical hysterectomy 
+to the date of recurrence. 
+
+The initial accrual goal of the trial was 160 patients, with 
+80 patients randomized to each of the two treatment arms. 
+The null hypothesis considered that the two treatment arms, 
+chemotherapy alone and chemotherapy plus radiation, would 
+both result in 5-year disease-free survival of 70%. The alternative hypothesis considered that chemotherapy alone would 
+result in a 5-year disease-free survival of 20% less or 50% 
+(significance level of 0.05 and a power of 0.80). The estimated duration of the trial when it opened in 1987 was 4ñ 
+5 years. The trial was closed to patient entry in June 1994 
+due to less than optimal accrual. 
+
+Overall and disease-free survival curves were computed 
+using the method of KaplanñMeier and the differences 
+in survival were compared by the log-rank method. 
+
+RESULTS 
+
+Between 1987 and 1994, a total of 89 patients were entered 
+into the trial; 45 patients were entered at MSKCC, 24 from 
+
+the Mayo Clinic, and 10 each from the Uniform Services Health undergone a radical hysterectomy, bilateral pelvic lymphade-
+Center and the University of Miami. The average age of the nectomy, and periaortic lymph node sampling within 6 weeks 
+patients was 45 years and patients ranged in age from 23 to of entry into the trial. Twenty-five patients had 3 or more high70 years. Seventy-five patients had a Stage IB cervical cancer risk factors and 64 had 1 to 2 risk factors; 33 of these patients 
+and the remaining 14 patients had a Stage IIA cancer. All had 1 risk factor. Additional histopathologic features of the 
+patients met the entry criteria for surgical procedures and had patients are presented in Table 1. 
+
+Forty-five patients were randomized to the chemotherapy withdrawn by the institutional principal investigator due to 
+plus radiation therapy treatment arm and 44 patients received poor medical condition of the patient (n Å 1). Five of 12 
+chemotherapy alone. There were 12 major protocol viola-patients received only a portion of the proscribed treatment; 
+tions, including 7 patients who were randomized (6 to che-one patient, randomized to chemotherapy, withdrew after 
+motherapy plus radiation therapy and 1 patient to chemother-experiencing an allergic bleomycin reaction during the initial 
+apy alone) and then either refused treatment (n Å6) or were infusion of bleomycin during cycle 1. Four patients randomized to chemotherapy plus radiation refused either the radia-to follow-up or had no follow-up data available for analysis. 
+tion therapy (n Å3) or had a major violation in the radiation Thus, there were 33 patients who received the combination 
+therapy treatment plan when intravaginal radiation therapy of chemotherapy and pelvic radiation and 39 who received 
+was administered, and she did not receive the last 2 cycles chemotherapy alone who could be evaluated for disease-
+of cisplatin (n Å1). free and overall survival. Overall survival and disease-free 
+Among the 77 patients evaluable for response, 5 were lost survival curves are presented in Fig. 1. At a median follow
+up of 36 months (range 4ñ81 months), 19 patients have planned dose when treatment was stopped due to a severe 
+histologic documentation of recurrent cervical cancer. There skin reaction. One patient developed radiation proctitis re-
+has been no significant difference in disease-free survival quiring a colostomy after completion of the prescribed dose 
+between the two treatment groups (Fig. 2); 10 patients in of pelvic radiation therapy. 
+the chemotherapy plus pelvic radiation therapy arm have 
+experienced recurrences compared to 9 recurrences in the DISCUSSION 
+group of patients treated with chemotherapy alone. Among 
+patients with 3 or more risk factors, there was also no differ-The debate regarding the role of adjuvant therapy for paence in the disease-free survival or overall survival when tients at high risk for recurrence after radical hysterectomy 
+compared to patients with 1ñ2 risk factors (Fig. 3). Patterns for an early-stage cervical cancer has generally focused on 
+of recurrence did not appear to be significantly different, as whether radiation therapy alone is beneficial in reducing 
+presented in Table 2. recurrence rates. Radiation therapy alone probably reduces 
+
+Toxicity was tolerable in the two treatment arms. Most the incidence of local and regional recurrences but does 
+acute toxicity was generally of a minor level related to antici-not affect the overall survival. Monk and colleagues 
+pated toxicity of cisplatin and bleomycin. Major toxicity suggest that a 65% 5-year survival rate after therapy combinincluded one patient who did not receive the second cycle ing radical hysterectomy, pelvic lymphadenectomy, and 
+of bleomycin due to the onset of pulmonary symptoms and postoperative pelvic radiotherapy for patients with pelvic 
+a significant decrease in pulmonary function compared to a lymph node metastases is an improvement compared to his-
+pretreatment study. One patient had the fourth cycle of cis-torical controls. However, many patients who have these 
+platin held due to persistent grade 3 neutrophil toxicity risk factors are at an increased risk for early, subclinical 
+(grade 3 Å neutrophil count . 1000 cells/mm3). Two pa-dissemination of disease which will not be affected by radiatients experienced significant toxicity secondary to the pelvic tion therapy directed to the pelvis. The rationale for adding 
+radiation therapy; 1 patient received 3780 cGy of 4500 cGy chemotherapy to the pelvic radiation is to provide systemic 
+cytotoxic agents active against cervical cancer with the potential to eradicate micrometastasis. In the Memorial Hospital pilot trial of the combination of chemotherapy plus pelvic 
+radiation, there was a promising improvement in outcome 
+when compared to historical controls who had received pelvic radiation alone. Killackey et al. reported no 
+recurrences among 22 patients with cervical cancer at high 
+risk after radical hysterectomy utilizing a similar treatment 
+regimen consisting of chemotherapy plus pelvic radiation 
+therapy. Tattersall et al. were unable to demonstrate a 
+difference in disease-free or overall survival in 71 patients 
+randomized to either pelvic radiation versus chemotherapy 
+plus pelvic radiation after radical hysterectomy for Stage 
+IBñIIA cervical cancer. 
+
+The rate or recurrences among all the patients in the trial 
+validates the selection of the entry criteria as high-risk factors. The risk factors did not appear to be additive, since the 
+disease-free and overall survival were similar when patients 
+with 1ñ2 risk factors were compared to those patients with 
+3 or more risk factors. Twelve of the 19 recurrences were 
+either local recurrences only or local plus distant metastases, 
+with no difference in the number of local occurrences between the two treatment arms. This finding is somewhat 
+surprising since there was no apparent effect of the addition 
+of pelvic radiation to the treatment regimen. 
+
+The closure of this clinical trial prior to completion of 
+the accrual goal was disappointing. The initial statistical 
+prediction was that in order to show a 20% improvement in 
+survival of one treatment over the other, 80 patients were 
+needed in each treatment arm. The analysis of the data from 
+the 89 patients entered is not able to document that the two 
+treatments are equivalent, but must be taken to suggest that 
+the likelihood of finding a significant difference between 
+these two treatment modalities in a full trial of 160 patients 
+is small. The investigators hope that future cooperative group 
+trials will consider a chemotherapy-only treatment arm in 
+any studies addressing the role of adjuvant therapy after 
+radical hysterectomy for patients at high risk for recurrence. 
+The advantages of eliminating the radiation therapy component of postoperative therapy are apparent in that the duration of treatment is shorter, costs are reduced, and the long-
+term side effects of pelvic radiotherapy after radical pelvic 
+surgery are eliminated. Additionally, if the patient does experience a local or regional recurrence after chemotherapy, 
+pelvic radiation therapy still has curative potential. Investigators who design adjuvant trials for patients at high risk for 
+recurrence after radical hysterectomy for invasive cervical 
+cancer must balance the potential benefit to be gained by a 
+minority of patients against the risks inherent in treating all 
+patients. 

@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="15" version="2.0">
+<workbenchAdvisor/>
+<window height="768" maximized="true" width="1024" x="0" y="0">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout locked="0">
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="133" y="22"/>
+<coolItem id="org.eclipse.jdt.ui.JavaElementCreationActionSet" itemType="typeToolBarContribution" x="99" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="59" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="196" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ant.ui.internal.editor.AntEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.ClassFileEditor" itemType="typePlaceholder" x="-1" y="-1"/>
+<coolItem id="org.eclipse.jdt.ui.CompilationUnitEditor" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page focus="true" label="Workspace - Java">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainMain.java" partName="LexChainMain.java" path="C:/Data/BioChainV1/project/src/edu/drexelist/biochain/LexChainMain.java" title="LexChainMain.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainMain.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BioChain/src/edu/drexelist/biochain/LexChainMain.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainEvaluatorStandardForAri.java" partName="LexChainEvaluatorStandardForAri.java" path="C:/Data/BioChainV1/project/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri.java" title="LexChainEvaluatorStandardForAri.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainOutputStrongChains.java" partName="LexChainOutputStrongChains.java" path="C:/Data/BioChainV1/project/src/edu/drexelist/biochain/LexChainOutputStrongChains.java" title="LexChainOutputStrongChains.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainOutputStrongChains.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BioChain/src/edu/drexelist/biochain/LexChainOutputStrongChains.java"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainMMTx.java" partName="LexChainMMTx.java" path="C:/Data/BioChainV1/project/src/edu/drexelist/biochain/LexChainMMTx.java" title="LexChainMMTx.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainMMTx.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BioChain/src/edu/drexelist/biochain/LexChainMMTx.java"/>
+</editor>
+<editor focus="true" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainEvaluatorStandardForAri2.java" partName="LexChainEvaluatorStandardForAri2.java" path="C:/Data/BioChainV1/project/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri2.java" title="LexChainEvaluatorStandardForAri2.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri2.java" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri2.java"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState>
+<view IMemento.internal.id=""/>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.MembersView" partName="Members"/>
+<view id="org.eclipse.jdt.ui.JavadocView" partName="Javadoc"/>
+<view id="org.eclipse.jdt.ui.PackagesView" partName="Packages"/>
+<view id="org.eclipse.jdt.ui.ProjectsView" partName="Projects"/>
+<view id="org.eclipse.jdt.ui.SourceView" partName="Declaration"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer" partName="Package Explorer">
+<viewState layout="2" org.eclipse.jdt.ui.packages.linktoeditor="0" rootMode="1" workingSetName="">
+<customFilters userDefinedPatternsEnabled="false">
+<xmlDefinedFilters>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.FieldsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_.*" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LocalTypesFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer_patternFilterId_*$*.class" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonPublicFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyPackageFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.LibraryFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ImportDeclarationFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.StaticsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonSharedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.internal.ui.PackageExplorer.EmptyInnerPackageFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.SyntheticMembersFilter" isEnabled="true"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.NonJavaElementFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.ClosedProjectsFilter" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.CuAndClassFileFilter" isEnabled="false"/>
+<child filterId="org.eclipse.pde.ui.BinaryProjectFilter1" isEnabled="false"/>
+<child filterId="org.eclipse.jdt.ui.PackageExplorer.PackageDeclarationFilter" isEnabled="true"/>
+</xmlDefinedFilters>
+</customFilters>
+</viewState>
+</view>
+<view id="org.eclipse.jdt.ui.TypesView" partName="Types"/>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState columnWidth0="19" columnWidth1="701" columnWidth2="75" columnWidth3="150" columnWidth4="60" horizontalPosition="0" verticalPosition="7">
+<selection/>
+</viewState>
+</view>
+</views>
+<perspectives activePart="org.eclipse.jdt.ui.PackageExplorer" activePerspective="org.eclipse.jdt.ui.JavaPerspective">
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.JavaPerspectiveFactory" id="org.eclipse.jdt.ui.JavaPerspective" label="Java"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<view id="org.eclipse.jdt.ui.PackageExplorer"/>
+<view id="org.eclipse.ui.views.ProblemView"/>
+<view id="org.eclipse.jdt.ui.JavadocView"/>
+<view id="org.eclipse.jdt.ui.SourceView"/>
+<view id="org.eclipse.search.ui.views.SearchView"/>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder activePageID="org.eclipse.jdt.ui.PackageExplorer" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="Package Explorer"/>
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.junit.ResultView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496403" ratioLeft="1042" ratioRight="348" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24369141" ratioLeft="338" ratioRight="1049" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.65030676" ratioLeft="424" ratioRight="228" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="Javadoc"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="Declaration"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="Search"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@127a3f" ratio="0.8309706" ratioLeft="762" ratioRight="155" relationship="2" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.eclipse.jdt.internal.ui.browsing.JavaBrowsingPerspectiveFactory" id="org.eclipse.jdt.ui.JavaBrowsingPerspective" label="Java Browsing"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.openExternalFile"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.externaltools.ExternalToolsSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.update.ui.softwareUpdates"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.ui.JavaElementCreationActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.debug.ui.JDTDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.jdt.junit.JUnitActionSet"/>
+<show_view_action id="org.eclipse.jdt.ui.TypeHierarchy"/>
+<show_view_action id="org.eclipse.jdt.ui.PackageExplorer"/>
+<show_view_action id="org.eclipse.jdt.ui.ProjectsView"/>
+<show_view_action id="org.eclipse.jdt.ui.PackagesView"/>
+<show_view_action id="org.eclipse.jdt.ui.TypesView"/>
+<show_view_action id="org.eclipse.jdt.ui.MembersView"/>
+<show_view_action id="org.eclipse.jdt.ui.SourceView"/>
+<show_view_action id="org.eclipse.jdt.ui.JavadocView"/>
+<show_view_action id="org.eclipse.search.ui.views.SearchView"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.ResourceNavigator"/>
+<show_view_action id="org.eclipse.ant.ui.views.AntView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewPackageCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewClassCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewInterfaceCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewEnumCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewAnnotationCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSourceFolderCreationWizard"/>
+<new_wizard_action id="org.eclipse.jdt.ui.wizards.NewSnippetFileCreationWizard"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.eclipse.jdt.junit.wizards.NewTestCaseCreationWizard"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective_action id="org.eclipse.jdt.ui.JavaPerspective"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<view id="org.eclipse.jdt.ui.ProjectsView"/>
+<view id="org.eclipse.jdt.ui.PackagesView"/>
+<view id="org.eclipse.jdt.ui.TypesView"/>
+<view id="org.eclipse.jdt.ui.MembersView"/>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@581bbe">
+<folder activePageID="org.eclipse.jdt.ui.ProjectsView" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.ProjectsView" label="Projects"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496403" ratioLeft="1042" ratioRight="348" relationship="2" relative="org.eclipse.ui.internal.ViewStack@581bbe">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="left" ratio="0.25" ratioLeft="218" ratioRight="654" relationship="4" relative="org.eclipse.ui.internal.ViewStack@581bbe">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.TypeHierarchy" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.PackageExplorer" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ResourceNavigator" label="LabelNotFound"/>
+<page content="org.eclipse.ant.ui.views.AntView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.24964029" ratioLeft="347" ratioRight="1043" relationship="2" relative="left"/>
+<info folder="true" part="bottom" ratio="0.74923545" ratioLeft="490" ratioRight="164" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.BookmarkView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.SourceView" label="LabelNotFound"/>
+<page content="org.eclipse.jdt.ui.JavadocView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProgressView" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@857b06" ratio="0.24964029" ratioLeft="347" ratioRight="1043" relationship="2" relative="org.eclipse.ui.internal.ViewStack@581bbe">
+<folder activePageID="org.eclipse.jdt.ui.PackagesView" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.PackagesView" label="Packages"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@14fe908" ratio="0.32981783" ratioLeft="344" ratioRight="699" relationship="2" relative="org.eclipse.ui.internal.ViewStack@857b06">
+<folder activePageID="org.eclipse.jdt.ui.TypesView" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.TypesView" label="Types"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@14c31d2" ratio="0.49928468" ratioLeft="349" ratioRight="350" relationship="2" relative="org.eclipse.ui.internal.ViewStack@14fe908">
+<folder activePageID="org.eclipse.jdt.ui.MembersView" appearance="2" expanded="2">
+<page content="org.eclipse.jdt.ui.MembersView" label="Members"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BioChain/src/edu/drexelist/biochain/LexChainMain.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BioChain/src/edu/drexelist/biochain/LexChainOutputStrongChains.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BioChain/src/edu/drexelist/biochain/LexChainTerm.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BioChain/src/edu/drexelist/biochain/LexChainTermList.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BioChain/src/edu/drexelist/biochain/LexChainMMTx.java"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" path="/BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri2.java"/>
+</editors>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position/>
+</item>
+<item historyLabel="LexChainTerm.java" index="3">
+<position/>
+</item>
+<item historyLabel="LexChainTermList.java" index="4">
+<position/>
+</item>
+<item historyLabel="LexChainTerm.java" index="3">
+<position/>
+</item>
+<item historyLabel="LexChainMain.java" index="0">
+<position info="not_deleted" x="6411" y="0"/>
+</item>
+<item historyLabel="LexChainMMTx.java" index="5">
+<position/>
+</item>
+<item historyLabel="LexChainTermList.java" index="4">
+<position info="not_deleted" x="6881" y="0"/>
+</item>
+<item historyLabel="LexChainMMTx.java" index="5">
+<position/>
+</item>
+<item historyLabel="LexChainTerm.java" index="3">
+<position/>
+</item>
+<item historyLabel="LexChainTermList.java" index="4">
+<position info="not_deleted" x="6881" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position/>
+</item>
+<item historyLabel="LexChainMain.java" index="0">
+<position info="not_deleted" x="6411" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position/>
+</item>
+<item historyLabel="LexChainTerm.java" index="3">
+<position/>
+</item>
+<item historyLabel="LexChainTermList.java" index="4">
+<position info="not_deleted" x="7175" y="111"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="2808" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="2818" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="3043" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="3102" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="3212" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="3213" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="3757" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="3719" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="2382" y="0"/>
+</item>
+<item historyLabel="LexChainMain.java" index="0">
+<position info="not_deleted" x="6411" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="2382" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="10519" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="6564" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="8342" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="9471" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="9309" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="8983" y="0"/>
+</item>
+<item historyLabel="LexChainOutputStrongChains.java" index="2">
+<position info="not_deleted" x="2382" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="8983" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="8753" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri2.java" index="6">
+<position/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="0" y="10526"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri2.java" index="6">
+<position/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="10519" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri2.java" index="6">
+<position/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri.java" index="1">
+<position info="not_deleted" x="1681" y="20"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri2.java" index="6">
+<position info="not_deleted" x="2376" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri2.java" index="6">
+<position info="not_deleted" x="2848" y="0"/>
+</item>
+<item historyLabel="LexChainEvaluatorStandardForAri2.java" index="6">
+<position info="not_deleted" x="3228" y="0"/>
+</item>
+<item historyLabel="LexChainMain.java" index="0">
+<position info="not_deleted" x="1831" y="0"/>
+</item>
+<item active="true" historyLabel="LexChainEvaluatorStandardForAri2.java" index="6">
+<position info="not_deleted" x="2507" y="0"/>
+</item>
+</navigationHistory>
+<stickyState>
+<perspective IMemento.internal.id="org.eclipse.jdt.ui.JavaBrowsingPerspective"/>
+<perspective IMemento.internal.id="org.eclipse.jdt.ui.JavaPerspective"/>
+</stickyState>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainEvaluatorStandardForAri2.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri2.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri2.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainMMTx.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainMMTx.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainMMTx.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainTermList.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainTermList.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainTermList.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainTerm.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainTerm.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainTerm.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainOutputStrongChains.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainOutputStrongChains.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainOutputStrongChains.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainEvaluatorStandardForAri.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandardForAri.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainMain.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainMain.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainMain.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ILexChainEvaluator.java" tooltip="BioChain/src/edu/drexelist/biochain/ILexChainEvaluator.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/ILexChainEvaluator.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ant.ui.internal.editor.AntEditor" name="build.xml" tooltip="BioChain/build.xml">
+<persistable path="/BioChain/build.xml"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainOutputAllSentences.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainOutputAllSentences.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainOutputAllSentences.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainOutputChainConcepts.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainOutputChainConcepts.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainOutputChainConcepts.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainEvaluatorStandard.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandard.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainEvaluatorStandard.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="main.java" tooltip="BioChain/src/edu/drexelist/biochain/main.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/main.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="LexChainOutputSummary.java" tooltip="BioChain/src/edu/drexelist/biochain/LexChainOutputSummary.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/LexChainOutputSummary.java"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.jdt.ui.CompilationUnitEditor" name="SemanticType.java" tooltip="BioChain/src/edu/drexelist/biochain/SemanticType.java">
+<persistable path="/BioChain/src/edu/drexelist/biochain/SemanticType.java"/>
+</file>
+</mruList>
+</workbench>

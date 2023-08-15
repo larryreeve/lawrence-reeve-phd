@@ -1,0 +1,106 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1001\1001-Abstract-A.txt data\input\1001\1001-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...72234 ms
+
+Chaining summary file data\input\1001\1001-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  57953 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\1001\1001-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  356297 ms
+	Chain processing time: 31 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.50
+	Std Dev:      3.75
+	Strong Score: 9.00
+
+	T081-Quantitative Concept: 12.00
+	T169-Functional Concept: 10.00
+	T170-Intellectual Product: 15.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    20.42
+	Std Dev:      79.77
+	Strong Score: 179.97
+
+	T061-Therapeutic or Preventive Procedure: 260.00
+	T081-Quantitative Concept: 407.00
+	T169-Functional Concept: 468.00
+	T170-Intellectual Product: 198.00
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 4
+	Number of concepts in Summary: 19
+
+	Number of strong chains in Full-text with concepts from Summary: 4
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 19
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 12)
+-------------
+
+0) PURPOSE, As previously shown, antibody treatment increased survival of patients with resected colorectal cancer of stage Dukes' C. 
+1) Primary end points were overall survival and disease-free interval. 
+2) After 7 years of follow-up evaluation, treatment had reduced overall mortality by 32% (Cox's proportional hazard, P < .01, log-rank, P=.01) and decreased the recurrence rate by 23% (Cox's proportional hazard, P < .04, log-rank, P=.07). 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,37 of 147)
+-------------
+
+0) THE CURRENT PESSIMISTIC VIEW of unconjugated monoclonal antibodies as cancer therapeutics has been largely influenced by the negative outcome of multiple clinical trials initiated shortly after introduction of the hybridoma technology. 
+1) In contrast to other trials aimed at patients with larger metastatic tumor masses and using regression or shrinkage as the end point, this one on colorectal cancer of stage Dukes' C required microscopically complete resection of the primary tumor for patients to be admitted.3 As the primary end point, overall-survival was determined at 5 years. 
+2) However, local metastases may not be as innocuous as generally thought. 
+3) As recently shown for breast carcinoma, without regional radiation therapy, occult local metastases can give rise to distant metastases after many years and thus affect long-term survival. 6 ,7 Therefore, with no effect of antibody therapy on the local relapse at 5 years, It was of interest to know how the overall survival evolved at the 7-year follow-up evaluation. 
+4) PATIENTS AND METHODS Patient Selection and SurgeryThe multicenter study consisted of six academic centers in former West Germany A total of 189 patients were randomized, with the first patient entered in May 1985 and the last in Apnl 1990 The study was closed in December 1992, and we present here the final status with median follow-up data of 7 years Eligible patients were required to have histologically confirmed adenocarcmoma of colon or the rectum with spread to regional lymph nodes (Dukes' C or International Unimon Agamst Cancer [UICC] stage III) In addition, hlstopathologic confirmation of curative resection (R0) was secured Radical tumor resection was performed by a standardized technique agreed upon by all participating centers When located within 15 cm of the anal verge, a tumor was classified as rectal carcinoma Patients were less than 70 years old and had a Karnofsky index greater than 50% Eleven of 99 patients randomized to treatment refused their treatment assignment, but were otherwise considered eligible for the study. 
+5) Stratification and RandomizationAfter confirmation of histology and R0 resection of lymph node metastasis, patients were randomized into two groups one received 17-lA treatment, whereas the other served as observation controls. 
+6) Protocol Management.
+7) In brief, patients were staged after surgery and had a chest radiogram and abdominal ultrasound or computed tomography scan. 
+8) A documented histologic or radiologic diagnosis of disease was  required to confirm local or distant recurrence, whereas abnormal CEA values were not used as evidence of relapse. 
+9) Antibody and Antigen.
+10) During the last phase of the study, 17-IA antibody was provided by Centocor (Leiden, the Netherlands). 
+11) Four patients, two in each group (2.1%), were lost to follow-up evaluation from the start and have not been included in the trial. 
+12) A final status of 185 patients could be obtained for this analysis. 
+13) After 7 years, a total of 87 deaths were observed in 166 eligible patients. 
+14) Thus, treatment with antibody led to a relative reduction of mortality by 32% (hazards ratio, 0.57, 95% confidence interval, 8% to 51%). 
+15) Among all deaths recorded, six patients died without recurrence or secondary colorectal cancer and one observed patient of the control group died of secondary colon carcinoma, which was not counted as a recurrence. 
+16) When cancer-related mortality was assessed, ie, death without recurrence was not counted as event, the benefit of treatment remained significant at P < .01 by Cox's multivariate analysis and P = .01 by log-rank test for the univariate analysis. 
+17) According to the disease-free interval analysis, tumor recurred in 96 of 166 eligible patients after 7 years of follow-up evaluation, thus, three more recurrences were recorded m the treatment group and one more in the observation arm. 
+18) The calculated recurrence rate was 68% (49 of 76, 95% CI, range, 53 to 82) m the control group and 52% (47 of 90, 95% CI, range, 39 to 67) in the 17-1A group. 
+19) Antibody treatment increased time to recurrence (P = .04 with Cox proportional hazards model corrected for influence of prognostic variables, and P = .07 with log-rank test for umvanate analysis). 
+20) However, when death without recurrence was considered an event (recurrence-free survival), again a significant treatment advantage with 17-1A over control was obtained (P = .03 with Cox multivariate, and P = .05 with log-rank test for the umvariate analysis). 
+21) When the analyses of recurrence-free interval and recurrence-free survival were performed including all randomized patients, ie, according to intention-to-treat, 17-1A treatment again led to significant advantage over the untreated group (Cox multivanate, P = .02, log-rank, P = .01, respectively). 
+22) In summary, 46% of patients (41 of 90) in the treatment group are at nsk at 7 years and only 29% of patients (22 of 76) m the observed group are alive without recurrence. 
+23) Pattern of Recurrence. 
+24) As shown in Table 2, there is an excess of local recurrences in the treatment group, which may partially be explained by the longer survival of treated patients. 
+25) Toxicity.
+26) Since only acute and no chronic adverse effects were seen, the toxicity profile was not changed during the last observation penod. 
+27) There were no late treatment-related fatalities or life-threatening conditions, or any evidence for chronic drug-related side effects.
+28) Patients who developed recurrences and those who remained tumorfree did not show a difference in antibody titers. 
+29) The kinetics of the HAMA response in the two subgroups have been described in the 5-year report. 
+30) In brief, after the first two infusions, antibody titers were low and reached their maximum only after a fifth nfusion at 18 to 20 weeks after surgery, but remained detectable for 2 more years. 
+31) The conclusion seems warranted that some of the treated patients, who have not yet recurred, may indeed be cured. 
+32) The observed reduction of approximately 30% is clearly lower than expected, but still in the order of that obtained by Moertel et al and Krook et al after a similar follow-up period.
+33) Since these forms of therapy were administered only to the control group, a bias may have been introduced that influenced the outcome against the antibody treatment, which explains the apparent difference seen m the local recurrence rate (Table 2).
+34) This finding lends some support to the concept of long-lasting dormancy in early disseminated tumor cells. 
+35) The dose of antibody chosen deserves a special comment. 
+36) We therefore resorted to a large, first intravenous dose that consisted of 500 mg highly soluble monomeric mmunoglobulin G2a to induce tolerance to mouse mmunoglobulin G. 

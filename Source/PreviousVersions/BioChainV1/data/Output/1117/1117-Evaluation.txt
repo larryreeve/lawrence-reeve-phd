@@ -1,0 +1,105 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1117\1117-Abstract-A.txt data\input\1117\1117-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...140657 ms
+
+Chaining summary file data\input\1117\1117-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  35906 ms
+	Chain processing time: 16 ms
+
+Chaining full-text file data\input\1117\1117-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  278078 ms
+	Chain processing time: 16 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    2.82
+	Std Dev:      6.87
+	Strong Score: 16.56
+
+	T061-Therapeutic or Preventive Procedure: 20.00
+	T170-Intellectual Product: 28.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    39.48
+	Std Dev:      142.94
+	Strong Score: 325.36
+
+	T061-Therapeutic or Preventive Procedure: 594.00
+	T081-Quantitative Concept: 442.00
+	T169-Functional Concept: 616.00
+	T170-Intellectual Product: 589.00
+Summary concept interpretation (attribute):T170 has no match
+Summary concept adjuvant therapy:T061 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 4
+	Number of concepts in Summary: 14
+
+	Number of strong chains in Full-text with concepts from Summary: 4
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 12
+	  Precision: 0.86
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,4 of 13)
+-------------
+
+0) Background Stage Ib and IIa cervical carcinoma can be cured by radical surgery or radiotherapy. 
+1) After a median follow-up of 87 (range 57–120) months, 5-year overall anddisease-free survival were identical in the surgery and radiotherapy groups (83% and 74%, respectively, for bothgroups). 86 women developed recurrent disease, 42 (25%) in the surgery group and 44 (26%) in the radiotherapygroup. 
+2) Significant factors for survival in univariate and multivariate analyses were, cervical diameter, positivelymphangiography, and adeno-carcinomatous histotype. 48(28%) surgery-group patients had severe morbidity compared with 19 (12%) radiotherapy-group patients (p=0·0004).
+3) The combination of surgery and radiotherapy has the worst morbidity, especially urological complications.
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,34 of 135)
+-------------
+
+0) The clinical evaluation of the patients was done by thegynaecological surgeon together with the radiation oncologist toavoid bias in the randomisation, in fact, patients withunfavourable clinical characteristics are usually treated byradiotherapy alone.
+1) The patients were randomly assigned radical surgery (n=172)or radical radiotherapy (n=171). 
+2) Patients were also stratified bycervical diameter (4 cm or >4 cm). 
+3) The codes were revealed afterwe had obtained the patient’s informed consent.
+4) Themedian total dose of radiation was 47 (range 40–53) Gy during3–5 weeks, depending on the tumour volume and nodal status.
+5) A boost of 5–10 Gywas given to the positive nodes.
+6) Dissection of thepelvic lymph node consisted of removal of all fatty lymph-nodebearing tissue anterior, lateral, and posterior to the common,external, and internal iliac vessels, and anterior to the obturatornerve. 
+7) Adjuvant radiotherapyconsisted of external pelvic irradiation (18 MV X-rays) with themultiportal technique, one fraction of 1·8–2·0 Gy daily, with atotal dose of 50·4 Gy over 5–6 weeks. 
+8) We used 2 test with Yates’ continuitycorrection to test the association between discrete variables. 
+9) Of the 468 patients with FIGO stage Ib or IIacervical cancer, 125 were excluded because of age (<30years, >70 years, n=43), medical illness (n=54), previousor concurrent malignant disease (n=21), or the referringphysician’s or patient’s preference for surgery,radiotherapy, or chemoradiotherapy (n=7).
+10) After randomisation,there were six protocol violations, two in the surgerygroup (one progression before operation and one refusalof any therapy after randomisation) and four in theradiotherapy group (two patients whose cancer wasincorrectly staged and two with synchronous neoplasia).
+11) Five patients in the radiotherapy group did notreceive brachyradiotherapy after external irradiationbecause of unfavourable anatomy and subsequentlyunderwent radical surgery. 
+12) There were no significant between-group differences inthe distribution of factors affecting prognosis (table 1).
+13) Of the 145 surgery-group patients withnegative lymphangiography, 27 had nodal metastases,which accounted for a specificity of 95% and a sensitivityof 40%.
+14) Theoverall crude survival for all patients included in theintention-to-treat analysis was 76·5% (258 of 337). 
+15) The overall and disease-free actuarial 5-year survival forall patients were 83% and 74%, respectively, and did notdiffer significantly between the groups (figure 2).
+16) Six patients were still alive with disease4–18 months after the diagnosis of relapse. 
+17) Three patientswith recurrence died of intercurrent disease (one aftersuccessful treatment of the recurrence). 
+18) The median time to recurrence did not differsignificantly between the surgery and radiotherapy groups(20 vs 18 months, p=0·24).
+19) However, when cervical diameter was takeninto account, there were substantial between-groupdifferences in pelvic recurrence. 
+20) Inaddition, among women with a cervical diameter largerthan 4 cm, there was a significantly higher rate of pelvicrelapse among those who had radiotherapy than amongthose who had surgery plus adjuvant irradiation (16[70%] vs 9 [53%], p=0·46).
+21) Complications were classified accordingto the glossary of Chassagne and colleagues.10 In thesurgery group, 48 (28%) patients showed severe (grade2–3) morbidity that required medical or surgicaltreatment, compared with 19 (12%) patients in theradiotherapy group, (p=0·0004, table 3). 
+22) Three (1·7%) surgery-group patients had perioperative complications, onevascular lesion during lymphadenectomy, onepostoperative ureterovaginal fistula, and one fatalpulmonary embolism.
+23) Other vesicalcomplications (severe actinic cystitis, stress incontinence,high-pressure bladder) were recorded in two (3%)patients after surgery, 11 (10%) after surgery plusradiotherapy, and in eight (5%) after radiotherapy alone.
+24) Pelvic lymphocystoccurred in five (8%) patients after surgery and in five(15%) after surgery plus radiotherapy. 
+25) These rates suggest that both treatments are equallyeffective for early-stage cancers (Ib and IIa).
+26) In our study, 5-year actuarial survival was the same inthe surgery and radiation groups (83%), which suggeststhat there is no treatment of choice with respect to localcontrol of disease. 
+27) Age is also an important factor, in most cases, cervicalcarcinomas occur in middle-aged women. 
+28) Radicalhysterectomy allows the gonadal function of at least oneovary to be saved, thereby avoiding the effects of earlymenopause in younger women. 
+29) Shortening and fibrosis ofthe vagina can be limited if the woman is sexually active.
+30) Surgery alsooffers other advantages, pelvic relapses can be successfullycured by radiotherapy, whereas salvage surgery afterprimary irradiation carries a high rate of failures andsevere morbidity. 
+31) Furthermore, surgery allows the statusof the lymph nodes, the most dependent variableassociated with survival, to be assessed accurately.
+32) By contrast, radiotherapy is easier to deliver for patientswho are obese, are elderly, or have severe illness—majorcontraindications to the surgical approach. 
+33) Radiotherapyalso avoids the risks of anaesthesia and the laparotomyscar, and iatrogenic mortality is rare. 

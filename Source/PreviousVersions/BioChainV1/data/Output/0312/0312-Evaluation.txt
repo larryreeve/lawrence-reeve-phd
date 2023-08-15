@@ -1,0 +1,119 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\0312\0312-Abstract-A.txt data\input\0312\0312-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...251750 ms
+
+Chaining summary file data\input\0312\0312-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  23359 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\0312\0312-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  375531 ms
+	Chain processing time: 31 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.86
+	Std Dev:      2.58
+	Strong Score: 6.03
+
+	T061-Therapeutic or Preventive Procedure: 9.00
+	T169-Functional Concept: 9.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    15.79
+	Std Dev:      84.00
+	Strong Score: 183.78
+
+	T081-Quantitative Concept: 697.00
+	T169-Functional Concept: 190.00
+	Recall: Chain with no concepts from Summary: T081-Quantitative Concept
+Summary concept hormone therapy (procedure):T061 has no match
+Summary concept chemotherapy-oncologic procedure:T061 has no match
+Summary concept adjuvant therapy:T061 has no match
+Summary concept pharmacotherapy:T061 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 2
+	Number of concepts in Summary: 8
+
+	Number of strong chains in Full-text with concepts from Summary: 1
+	  Recall: 0.50
+
+	Number of summary concepts having strong chains in full-text: 4
+	  Precision: 0.50
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,2 of 7)
+-------------
+
+0) In a prospective, randomized trial Cancer and Leukemia Group B (CALGB) evaluated CAF chemotherapy (cyclophosphamide + doxorubicin + 5-fluorouracil [5-FU]) v CAF plus tamoxifen (TCAF) in advanced breast cancer. 
+1) This lack of differential response implies that chemotherapy and hormonal therapy may compete for the same pool of ER + cells. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,49 of 194)
+-------------
+
+0) Nencialso found that positivity of 20% of the cells was sufficient to give a positive ER by cytosolic assay.
+1) The rationale for combining hormonal therapywith cytotoxic chemotherapy is based on the assumptionthat breast cancers are heterogeneousin terms of ER content, and that there is a differentialresponsiveness of ER + and ER - cellsto hormonal and chemotherapy. 
+2) Tamoxifenwas chosen as the hormonal agent because of itsdemonstrated efficacy in postmenopausal womenwith breast cancer and its relative lack oftoxicity. 14,15Patients were prospectively randomized afterstratification by ER content, menopausal status,dominant site of metastatic disease, and prioradjuvant chemotherapy. 
+3) Preliminary data have beenpreviously reported. 16 This constitutes the finalreport.
+4) MATERIALS AND METHODSPatient EligibilityEligibility requirements for this study included histologicallydocumented carcinoma of the breast that was locally recurrent,metastatic or surgically incurable (stage III or IV), measurabledisease, a CALGB performance score of 3 or less, and age < 75years. 
+5) Any radiation therapy must have been completed at least3 weeks earlier. 
+6) Radiationtherapy to 50% or more of the bony pelvis and lumbarspine or palliative radiotherapy to more than two sites of metastaticdisease also rendered a patient ineligible. 
+7) Patients who relapsed while receiving adjuvant therapy or whohad been previously treated with chemotherapy or tamoxifen formetastatic disease were ineligible.
+8) If this were not possible, patients werestratified according to the ER determination made on the primarytumor. 
+9) Patients were classified as having either visceral or other(osseous or soft tissue) dominant sites of disease on study entry. 
+10) Osseous diseaseindicated metastases in bone. 
+11) Soft tissue disease was defined aslocal recurrence in the skin or lymph nodes or inoperable (stageIV) breast cancer. 
+12) After a total cumulative dose of450 mg/m 2 of doxorubicin had been reached, methotrexate wassubstituted at a dose of 40 mg/m 2 (30 mg/m 2 for patients olderthan 60 years).
+13) Reductions were also made for elevationsof serum bilirubin and SGOT and for the occurrence of stomatitis,diarrhea, or cystitis.
+14) Ancillary TherapyPalliative radiation was not permitted for patients on protocol,with the exception of cranial irradiation for documented intracranialmetastases. 
+15) Chemotherapy was not withheld when patientsrequired such irradiation.
+16) Response CriteriaA complete response (CR) required disappearance of all signsand symptoms attributable to the tumor, including the disappearanceof all lesions for at least 1 month. 
+17) No new lesions could appear. 
+18) For bony disease, CR meant recalcification of all osteolyticlesions.
+19) A partial response (PR) indicated a > 50% reduction in thesum of the products of the two largest perpendicular diameters ofall measured lesions without deterioration in performance. 
+20) Stable disease (stable) was a reduction in tumor size of < 50%or an increase < 25% over the original measurements. 
+21) Progressive disease (PD) indicated the appearance of newlesions subsequently proven to be metastases. 
+22) Patients were evaluated after two courses (8 weeks) of therapy.
+23) Respondingpatients and those with stable disease continued on therapy untilthere was evidence of tumor progression or prohibitive drugtoxicity.
+24) Of the 451 evaluable cases, 46 had prior adjuvantchemotherapy (completed >6 months beforeprotocol entry), and 26 had evaluable but nonmeasurablebone disease. 
+25) The adjuvant groupwill be analyzed separately.
+26) Comparability of Groups (PatientCharacteristics), Measurable DiseaseThe treatment groups were comparable on allbaseline characteristics (Table 3). 
+27) Approximatelythree quarters of the patients on this study werepostmenopausal, with a median age of 56 years.
+28) Seventysevenpercent of the patients on the CAF regimenand 75% of those on the TCAF regimen had aperformance score of 0 or 1.
+29) Among 375 patients,CRs were seen in 47 (25%) of patients treatedwith TCAF and 34 (18%) of patients treated withCAF (Table 4). 
+30) PRs were seen in 71 (38%) TCAF patients and 71 (37%) patients onCAF. 
+31) Themedian durations of response were 12.3 (TCAF)and 11.3 (CAF) months, respectively (P = .81).
+32) Median durations of response were16.5, 15.8, and 8.5 months, respectively, with aP value of .004. 
+33) There was no significant difference in durationof response by treatment (TCAF v CAF) inER + patients. 
+34) However, TTF,response duration, and survival of ER + patientswere significantly longer than those of ER - patients(P = .017, .0074, and .0057, respectively)(Fig 7).
+35) ToxicityToxicity data were available on 375 of 379cases (98.9% of cases entered) and are displayedin Table 8. 
+36) Theother lethal toxicity was congestive heart failure. 
+37) The secondary question asked by this studywas whether there is a differential response ofER + v ER- tumors to chemotherapy. 
+38) Hug et al have confirmedthat tamoxifen attenuates the cytotoxicpotential of 5-FU and doxorubicin in humanbreast cancer cell lines.
+39) The postoophorectomystudies of VanDyke and Falkson did showan enhanced response rate to combination treatment,but response rates were not greater thanthat reported for chemotherapy alone. 
+40) Neitherof these trials stratified patients by receptor status.
+41) However,each of these trials was designed to evaluate hormonaltherapy with or without chemotherapy,rather than chemotherapy with or without hormonaltherapy. 
+42) In the first of these trials, Glick etal randomized 89 ER + or ER? postmenopausalwomen to tamoxifen with CMF or to tamoxifen(with CMF on progression), and were unable todocument benefit of the combined therapy overtamoxifen alone. 
+43) They also randomized 31 ER - patients toCF - DES, but were unable to demonstrate anyadvantage to combined treatment.
+44) Segaloff4 includedsclerosis and eventual disappearance of pure osteolyticlesions as an objective response in the response criteria for the Cooperative BreastGroup. 
+45) Serial bone scans may be helpful,but bone scans improve slowly, thus renderingthis technique of greater value in documentingtreatment failure rather than response.
+46) Scans also may appear "worse" as healing occurs.
+47) As documented in this study, TTF is an excellentand probably the only means of evaluatingresponse in bone only patients. 
+48) TTF is not dependenton objective response criteria such as thehealing of a lytic lesion. 

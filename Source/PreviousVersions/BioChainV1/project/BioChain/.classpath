@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry output="classes" kind="src" path="src"/>
+	<classpathentry sourcepath="JRE_SRC" kind="var" path="JRE_LIB"/>
+	<classpathentry kind="lib" path="C:/Data/umls/mmtx/nls/mmtx/lib/utils.jar"/>
+	<classpathentry kind="lib" path="C:/Data/umls/mmtx/nls/mmtx/lib/mmtx.jar"/>
+	<classpathentry kind="lib" path="C:/Data/umls/mmtx/nls/mmtx/lib/mmtxProject.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

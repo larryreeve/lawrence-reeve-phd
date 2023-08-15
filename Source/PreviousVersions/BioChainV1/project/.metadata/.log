@@ -1,0 +1,241 @@
+!SESSION 2005-07-14 21:16:05.296 -----------------------------------------------
+eclipse.buildId=I20050627-1435
+java.version=1.5.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.debug.core 4 2 2005-07-14 22:23:06.875
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.debug.core".
+!STACK 0
+java.lang.IllegalStateException: zip file closed
+	at java.util.zip.ZipFile.ensureOpen(Unknown Source)
+	at java.util.zip.ZipFile.entries(Unknown Source)
+	at org.eclipse.debug.core.sourcelookup.containers.ExternalArchiveSourceContainer.detectRoot(ExternalArchiveSourceContainer.java:166)
+	at org.eclipse.debug.core.sourcelookup.containers.ExternalArchiveSourceContainer.getRoot(ExternalArchiveSourceContainer.java:147)
+	at org.eclipse.debug.core.sourcelookup.containers.ExternalArchiveSourceContainer.findSourceElements(ExternalArchiveSourceContainer.java:83)
+	at org.eclipse.debug.core.sourcelookup.containers.CompositeSourceContainer.findSourceElements(CompositeSourceContainer.java:78)
+	at org.eclipse.debug.core.sourcelookup.containers.CompositeSourceContainer.findSourceElements(CompositeSourceContainer.java:45)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupParticipant.findSourceElements(AbstractSourceLookupParticipant.java:67)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector$SourceLookupQuery.run(AbstractSourceLookupDirector.java:126)
+	at org.eclipse.core.internal.runtime.InternalPlatform.run(InternalPlatform.java:1044)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:783)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector.doSourceLookup(AbstractSourceLookupDirector.java:461)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector.getSourceElement(AbstractSourceLookupDirector.java:711)
+	at org.eclipse.debug.internal.ui.sourcelookup.SourceLookupFacility.lookup(SourceLookupFacility.java:138)
+	at org.eclipse.debug.ui.DebugUITools.lookupSource(DebugUITools.java:658)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$SourceLookupJob.run(LaunchView.java:176)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:76)
+
+!ENTRY org.eclipse.debug.core 4 120 2005-07-14 22:23:06.875
+!MESSAGE Error logged from Debug Core: 
+!STACK 0
+java.lang.IllegalStateException: zip file closed
+	at java.util.zip.ZipFile.ensureOpen(Unknown Source)
+	at java.util.zip.ZipFile.entries(Unknown Source)
+	at org.eclipse.debug.core.sourcelookup.containers.ExternalArchiveSourceContainer.detectRoot(ExternalArchiveSourceContainer.java:166)
+	at org.eclipse.debug.core.sourcelookup.containers.ExternalArchiveSourceContainer.getRoot(ExternalArchiveSourceContainer.java:147)
+	at org.eclipse.debug.core.sourcelookup.containers.ExternalArchiveSourceContainer.findSourceElements(ExternalArchiveSourceContainer.java:83)
+	at org.eclipse.debug.core.sourcelookup.containers.CompositeSourceContainer.findSourceElements(CompositeSourceContainer.java:78)
+	at org.eclipse.debug.core.sourcelookup.containers.CompositeSourceContainer.findSourceElements(CompositeSourceContainer.java:45)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupParticipant.findSourceElements(AbstractSourceLookupParticipant.java:67)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector$SourceLookupQuery.run(AbstractSourceLookupDirector.java:126)
+	at org.eclipse.core.internal.runtime.InternalPlatform.run(InternalPlatform.java:1044)
+	at org.eclipse.core.runtime.Platform.run(Platform.java:783)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector.doSourceLookup(AbstractSourceLookupDirector.java:461)
+	at org.eclipse.debug.core.sourcelookup.AbstractSourceLookupDirector.getSourceElement(AbstractSourceLookupDirector.java:711)
+	at org.eclipse.debug.internal.ui.sourcelookup.SourceLookupFacility.lookup(SourceLookupFacility.java:138)
+	at org.eclipse.debug.ui.DebugUITools.lookupSource(DebugUITools.java:658)
+	at org.eclipse.debug.internal.ui.views.launch.LaunchView$SourceLookupJob.run(LaunchView.java:176)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:76)
+!SESSION 2005-07-15 17:08:56.546 -----------------------------------------------
+eclipse.buildId=I20050627-1435
+java.version=1.5.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.ui 4 4 2005-07-15 19:38:29.765
+!MESSAGE Unhandled event loop exception
+
+!ENTRY org.eclipse.ui 4 0 2005-07-15 19:38:30.125
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.corext.util.JavaModelUtil.isExcludedPath(JavaModelUtil.java:1020)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathBasePage.addToExclusions(BuildPathBasePage.java:78)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathBasePage.addExclusionPatterns(BuildPathBasePage.java:67)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathBasePage.fixNestingConflicts(BuildPathBasePage.java:51)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.askForAddingExclusionPatternsDialog(LibrariesWorkbookPage.java:271)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.libaryPageCustomButtonPressed(LibrariesWorkbookPage.java:258)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.access$0(LibrariesWorkbookPage.java:218)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage$LibrariesAdapter.customButtonPressed(LibrariesWorkbookPage.java:173)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.buttonPressed(TreeListDialogField.java:167)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.doButtonSelected(TreeListDialogField.java:385)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.access$2(TreeListDialogField.java:381)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField$2.widgetSelected(TreeListDialogField.java:346)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:90)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:843)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3080)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2713)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:809)
+	at org.eclipse.jface.window.Window.open(Window.java:787)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:157)
+	at org.eclipse.ui.internal.ide.actions.ProjectPropertyDialogAction.run(ProjectPropertyDialogAction.java:76)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:996)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:538)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:488)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:400)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:843)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3080)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2713)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1699)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1663)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:367)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:143)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:103)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:226)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:376)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:163)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:334)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:278)
+	at org.eclipse.core.launcher.Main.run(Main.java:973)
+	at org.eclipse.core.launcher.Main.main(Main.java:948)
+
+!ENTRY org.eclipse.ui 4 4 2005-07-15 19:38:38.78
+!MESSAGE Unhandled event loop exception
+
+!ENTRY org.eclipse.ui 4 0 2005-07-15 19:38:38.93
+!MESSAGE java.lang.NullPointerException
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.corext.util.JavaModelUtil.isExcludedPath(JavaModelUtil.java:1020)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathBasePage.addToExclusions(BuildPathBasePage.java:78)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathBasePage.addExclusionPatterns(BuildPathBasePage.java:67)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathBasePage.fixNestingConflicts(BuildPathBasePage.java:51)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.askForAddingExclusionPatternsDialog(LibrariesWorkbookPage.java:271)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.libaryPageCustomButtonPressed(LibrariesWorkbookPage.java:258)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.access$0(LibrariesWorkbookPage.java:218)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage$LibrariesAdapter.customButtonPressed(LibrariesWorkbookPage.java:173)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.buttonPressed(TreeListDialogField.java:167)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.doButtonSelected(TreeListDialogField.java:385)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.access$2(TreeListDialogField.java:381)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField$2.widgetSelected(TreeListDialogField.java:346)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:90)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:843)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3080)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2713)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:809)
+	at org.eclipse.jface.window.Window.open(Window.java:787)
+	at org.eclipse.ui.dialogs.PropertyDialogAction.run(PropertyDialogAction.java:157)
+	at org.eclipse.ui.internal.ide.actions.ProjectPropertyDialogAction.run(ProjectPropertyDialogAction.java:76)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:996)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:538)
+	at org.eclipse.jface.action.ActionContributionItem.access$2(ActionContributionItem.java:488)
+	at org.eclipse.jface.action.ActionContributionItem$5.handleEvent(ActionContributionItem.java:400)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:66)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:843)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:3080)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:2713)
+	at org.eclipse.ui.internal.Workbench.runEventLoop(Workbench.java:1699)
+	at org.eclipse.ui.internal.Workbench.runUI(Workbench.java:1663)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:367)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:143)
+	at org.eclipse.ui.internal.ide.IDEApplication.run(IDEApplication.java:103)
+	at org.eclipse.core.internal.runtime.PlatformActivator$1.run(PlatformActivator.java:226)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:376)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:163)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.core.launcher.Main.invokeFramework(Main.java:334)
+	at org.eclipse.core.launcher.Main.basicRun(Main.java:278)
+	at org.eclipse.core.launcher.Main.run(Main.java:973)
+	at org.eclipse.core.launcher.Main.main(Main.java:948)
+
+!ENTRY org.eclipse.jdt.launching 4 150 2005-07-15 19:46:00.140
+!MESSAGE The archive: /BioChain/classes/edu/drexelist/util which is referenced by the classpath, does not exist.
+
+!ENTRY org.eclipse.ui.ide 4 4 2005-07-15 20:05:35.156
+!MESSAGE Error accessing marker type
+
+!ENTRY org.eclipse.core.resources 4 376 2005-07-15 20:05:35.187
+!MESSAGE Marker id: 381 not found.
+
+!ENTRY org.eclipse.ui.ide 4 4 2005-07-15 20:05:35.187
+!MESSAGE Error accessing marker type
+
+!ENTRY org.eclipse.core.resources 4 376 2005-07-15 20:05:35.187
+!MESSAGE Marker id: 381 not found.
+
+!ENTRY org.eclipse.ui.ide 4 4 2005-07-15 20:09:11.531
+!MESSAGE Error accessing marker type
+
+!ENTRY org.eclipse.core.resources 4 376 2005-07-15 20:09:11.531
+!MESSAGE Marker id: 395 not found.
+
+!ENTRY org.eclipse.ui.ide 4 4 2005-07-15 20:09:11.531
+!MESSAGE Error accessing marker type
+
+!ENTRY org.eclipse.core.resources 4 376 2005-07-15 20:09:11.531
+!MESSAGE Marker id: 395 not found.
+!SESSION 2005-08-23 15:54:58.671 -----------------------------------------------
+eclipse.buildId=I20050627-1435
+java.version=1.5.0_03
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 2 10035 2005-08-23 15:55:07.187
+!MESSAGE A workspace crash was detected. The previous session did not exit normally.
+!SESSION 2006-02-24 10:37:37.78 ------------------------------------------------
+eclipse.buildId=M20050929-0840
+java.version=1.5.0_06
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.core.resources 4 4 2006-02-24 10:42:21.843
+!MESSAGE Exception occurred while saving project preferences: /BioChain/.settings/org.eclipse.jdt.ui.prefs.
+!STACK 1
+org.eclipse.core.internal.resources.ResourceException: Resource is out of sync with the file system: /BioChain/.settings/org.eclipse.jdt.ui.prefs.
+	at org.eclipse.core.internal.localstore.FileSystemResourceManager.write(FileSystemResourceManager.java:767)
+	at org.eclipse.core.internal.resources.File.internalSetContents(File.java:326)
+	at org.eclipse.core.internal.resources.File.setContents(File.java:370)
+	at org.eclipse.core.internal.resources.ProjectPreferences$2.run(ProjectPreferences.java:297)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:1719)
+	at org.eclipse.core.internal.resources.ProjectPreferences.save(ProjectPreferences.java:319)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.flush(EclipsePreferences.java:351)
+	at org.eclipse.core.internal.resources.ProjectPreferences.flush(ProjectPreferences.java:585)
+	at org.eclipse.jdt.internal.ui.preferences.formatter.ProfileManager$1.run(ProfileManager.java:565)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:113)
+!SUBENTRY 1 org.eclipse.core.resources 4 274 2006-02-24 10:42:21.843
+!MESSAGE Resource is out of sync with the file system: /BioChain/.settings/org.eclipse.jdt.ui.prefs.
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2006-02-24 10:42:21.937
+!MESSAGE Internal Error
+!STACK 0
+java.lang.reflect.InvocationTargetException
+	at org.eclipse.jdt.internal.ui.preferences.formatter.ProfileManager$1.run(ProfileManager.java:567)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:113)
+Caused by: org.osgi.service.prefs.BackingStoreException: Exception occurred while saving project preferences: /BioChain/.settings/org.eclipse.jdt.ui.prefs.
+	at org.eclipse.core.internal.resources.ProjectPreferences.save(ProjectPreferences.java:327)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.flush(EclipsePreferences.java:351)
+	at org.eclipse.core.internal.resources.ProjectPreferences.flush(ProjectPreferences.java:585)
+	at org.eclipse.jdt.internal.ui.preferences.formatter.ProfileManager$1.run(ProfileManager.java:565)
+	... 1 more
+Root exception:
+org.osgi.service.prefs.BackingStoreException: Exception occurred while saving project preferences: /BioChain/.settings/org.eclipse.jdt.ui.prefs.
+	at org.eclipse.core.internal.resources.ProjectPreferences.save(ProjectPreferences.java:327)
+	at org.eclipse.core.internal.preferences.EclipsePreferences.flush(EclipsePreferences.java:351)
+	at org.eclipse.core.internal.resources.ProjectPreferences.flush(ProjectPreferences.java:585)
+	at org.eclipse.jdt.internal.ui.preferences.formatter.ProfileManager$1.run(ProfileManager.java:565)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:113)

@@ -1,0 +1,395 @@
+Introduction
+Nausea and vomiting are significant side effects in bone
+marrow transplant (BMT) patients who receive high-dose
+preparative regimens. Owing to the higher doses of chemotherapy
+given in preparation for BMT and to the combinations
+of agents administered, chemotherapy-based preparative
+regimens have the potential to produce more nausea
+and vomiting than high-dose cisplatin. In one series,
+nausea and vomiting was reported in 100% of BMT patients. In another series of autologous BMT patients,
+Antman et al. observed moderate to severe nausea and
+vomiting despite the administration of prophylactic antiemetics . Because of the success rate of ondansetron
+in controlling cisplatin-induced nausea and vomiting,
+its use has been evaluated in the BMT setting.
+Most studies evaluating ondansetron for BMT preparative
+regimens prior to the initiation of this study were
+small and nonrandomized [6, 8, 19, 25]. Overall response
+rates in these chemotherapy-based preparative regimens
+ranged from 9% to 82%, with complete responses varying
+from 9% to 67%. Dosing regimens varied from intermittent
+doses (0.15 mg/kg q 2 h´3 daily doses) to continuous
+infusions (1–3 mg/h) preceded by loading doses of 8–12
+mg.
+Several European studies evaluated ondansetron administered
+as an i.v. loading dose (8–12 mg i.v.) followed
+by continuous infusion of 1–4 mg/h (daily ondansetron
+dose ranged from 32 to 108 mg) in non-BMT patients receiving
+cisplatin-based chemotherapy. Complete plus
+major response rates (0–2 emetic episodes) were similar
+(50–60%) over the entire dosage range. Marty et al. observed
+similar response rates between a single 32-mg i.v.
+dose and an 8-mg i.v. loading dose followed by a 1 mg/h
+continuous infusion of ondansetron in acute cisplatin-induced
+nausea and vomiting (76% vs 72% complete or major
+response in the single dose arm vs the continuous infusion
+arm).
+Despite the similar results observed regarding both the
+method of ondansetron administration (bolus vs continuous
+infusion) and the actual dosage administered (1 vs up
+to 4 mg/h), it was believed that higher than conventional
+ondansetron dosage regimens and, perhaps, continuous administration
+might be needed in the BMT setting. This is
+due to the higher than standard doses and the combinations
+of chemotherapy utilized, and also to the known variances
+in emetogenicity patterns. To date, no dose-limiting
+adverse events have been reported with ondansetron.
+Although many institutions utilize ondansetron in the
+prevention of nausea and vomiting associated with preparative
+regimens prior to BMT, minimal data existed upon
+initiation of this study on the appropriate dose and schedule
+of ondansetron in this setting. Data from a large, randomized
+trial were needed to determine an efficacious
+dosing method of ondansetron in BMT patients and to assess
+the safety of higher doses. We wanted to evaluate a
+patient population receiving the same chemotherapy drugs
+(and hence the same emetogenic potential) on the same
+schedule to avoid difficulty in interpretation of results.
+Therefore, our objective was to conduct a prospective, randomized,
+non-blinded, controlled study comparing two
+different administration methods for high-dose
+ondansetron during a BMT preparative regimen in breast
+cancer patients.
+Patients and methods
+Patients were eligible for participation in this IRB-approved study if
+they met the following criteria: more than 18 but less than 65 years
+of age; non-pregnant female, with a histologically confirmed diagnosis of breast cancer, undergoing high-dose chemotherapy in preparation
+for autologous bone marrow transplantation; and provision of
+written informed consent.
+Patients were excluded for the following reasons: a Karnofsky
+performance status of <60%; chronic nausea and/or vomiting or nausea
+and/or vomiting of other etiologies, including, but not limited to:
+gastric outlet obstruction, increased intracranial pressure or brain
+metastases; documented vomiting or retching episodes or uncontrolled
+nausea in the 12 h prior to the first dose of i.v. ondansetron;
+radiation therapy administered as part of the preparative regimen; or
+medications with known or potential antiemetic activity administered
+in the 12 h prior to the initiation of i.v. ondansetron. The restricted
+medications included benzodiazepines, butyrophenones, corticosteroids,
+cannabinoids, phenothiazines, antihistamines, tricyclic
+antidepressants, monoamine oxidase inhibitors, metoclopramide, trimethobenzamide,
+scopolamine, fluoxetine, dipravan, paroxetine and
+sertraline. Patients were also excluded if they required any of the restricted
+medications during the study period. Benzodiazepines other
+than lorazepam were allowed both 24 h prior to and during the study,
+but only when used for indications such as anxiety or to induce
+sleep. Premedications for transfusions, such as diphenhydramine or
+hydrocortisone, were not excluded.
+All patients received a preparative regimen consisting of cyclophosphamide
+1500 mg/m2 i.v. q 24 h´4 doses, thio-TEPA 125 mg/m2
+i.v. q 24 h´4 doses and carboplatin 200 mg/m2 i.v. q 24 h´4 doses
+(Fig. 1). All three chemotherapy agents were administered as a continuous
+infusion from day –7 through day –4. Recently, Hesketh et
+al. classified the acute emetogenicity of antineoplastic agents.
+According their guidelines, the emetogenic potential of cyclophosphamide
+or carboplatin as a single agent was graded as a level 4
+(60–90% emesis frequency without effective antiemetic prophylaxis;
+Fig. 1). Although thio-TEPA’s emetogenicity is not ranked by
+Hesketh et al. [14], the formula he proposed to rank the emetogenicity
+of combination chemotherapy indicates the maximum level 5
+(>90% emesis frequency without effective antiemetic prophylaxis)
+for this regimen.
+Antiemetic therapy
+Upon enrollment, patients were randomized to either an intermittent
+(INT) or a continuous intravenous infusion (CIV) ondansetron regimen
+using a 1:1 block randomization scheme. Ondansetron was administered
+as 24 mg i.v. q 12 h on each day of chemotherapy for the
+INT arm, or as an 8-mg i.v. loading dose on day 1 only, followed by
+a continuous infusion at 2 mg/h per day on each day of chemotherapy
+for the CIV arm. Ondansetron therapy was initiated 30 min before
+the first dose of chemotherapy for both study arms. For the INT
+regimen, doses were administered over 15 min in 50 ml of normal
+saline for injection (NS). The 8 mg loading dose was administered
+over 15 min in 50 ml of NS.
+Clinical assessment
+Patients provided a medical history and medication history and underwent
+a complete physical examination at the time of screening. The history included a review of demographic information and historical
+status of cancer. Laboratory analysis, including blood chemistries,
+was conducted within 24 h before and after the study.
+An episode of vomiting was defined as expulsion of any stomach
+contents through the mouth. An episode of retching was defined as
+an attempt to vomit that was unproductive of stomach contents. An
+emetic episode was defined as a single vomit or retch or any number
+of continuous vomits and/or retches. Continuous vomiting and/or
+retching was defined as two or more vomits and/or retches within 1
+min of each other. Nausea was assessed by a numerical visual analogue
+scale ranging from 0 to 100 mm, with 0 mm representing no
+nausea and 100 mm representing the worst nausea ever experienced.
+Patients were asked at each 24-h interval, from day 1 of chemotherapy
+(day –7) through 24 h after completion of chemotherapy (day –2),
+to rate the degree of nausea experienced over the last 24 h. Patients,
+assisted by nurses when necessary, were responsible for recording
+the number of vomits and retches. Control of emesis was graded daily
+for each 24-h period as complete (zero emetic episodes); major
+(one to two emetic episodes); minor (three to four emetic episodes)
+and failure (five or more emetic episodes or the requirement of rescue
+therapy). The need for rescue therapy was left to the discretion
+of the patient and/or investigator. At the end of each 24-h period of
+therapy, emetic episodes were graded. If the patient required rescue
+therapy on 1 day, the day was graded as a failure; however, she was
+eligible for the next day of therapy. The number and frequency of
+rescue medications were documented.
+Patients could be withdrawn from the study at any time at the investigator’s
+discretion or their own request. Possible reasons for discontinuation
+included: unacceptable side effects associated with the
+study drug, discontinuation of chemotherapy because of changes in
+the patient’s underlying disease status, and an unacceptable level of
+nausea and/or vomiting during the study. Patients were allowed to
+receive rescue medications for nausea and or vomiting if requested.
+Clinical analysis
+Each patient was evaluated as having been a “success” or “failure.”
+Success was defined as complete control, major control (1–2 emetic
+episodes), or minor control (3–4 emetic episodes). A failure was defined
+as 5 or more emetic episodes or a requirement for rescue therapy.
+The proportion of successes and failures in each arm for each day
+of the study was compared. Nausea scores, number of vomits, and
+number of retches were also compared between study groups. The
+percentage of patients requiring rescue antiemetics and the number
+of rescue antiemetic doses administered each day were evaluated.
+The incidence of adverse effects were recorded.
+Statistical analysis
+Statistical analysis was performed using a Chi-square test or a Fisher’s
+exact test when comparing means. A Fisher’s exact test was used if half of the cells had expected counts less than 5, which
+makes the Chi-square test invalid. The Wilcoxon signed-rank test
+was used for nonparametric variables. The t-test was used to compare
+means for demographic data and number of rescue medications.
+The study had approximately a 70% power to detect a 30% difference
+in efficacy between the two arms (a 15% success rate with one
+group compared with a 45% success rate in the other group). Differences
+were considered to be statistically significant at P£0.05.
+Results
+Sixty-six non-chemotherapy-naive patients were enrolled
+in the study from January 1994 through October 1995.
+Two patients in the INT arm withdrew because of intractable
+headaches. Data were analyzed for these two patients
+up until the time they withdrew from the study (day –5
+and day –4). There were no significant differences in study
+results (data not shown) whether the remaining results
+were included or not. Thirty-four patients were randomized
+to INT ondansetron and 32 to CIV ondansetron. Mean
+age, age range, ethnicity and disease status were evenly
+distributed between treatment arms, as illustrated in Table 1.
+Means were compared with a t-test, and categorical variables
+were compared with the Chi-square test. The only
+significant difference (P=0.05) detected between treatment
+arms in Table 1 was the mean age. This difference was not
+felt to be clinically significant.
+The worst grade of emesis was determined for each patient
+over the entire study period. There was no statistical
+difference between treatment groups in the worst grade of
+emesis (P=0.49, 2-tail Fisher’s exact test). All 32 (100%)
+patients in the CIV arm and 32 (94%) patients in the INT
+arm had failure as their worst grade of emesis. Two (6%)
+patients in the INT arm had complete control of emesis
+throughout the study. Figure 2 illustrates the percentage of
+patients experiencing success (complete, major, or minor
+control) of emesis control per day. There was no significant
+difference between treatment arms in grade of emesis
+per day for the entire study period. The complete control and complete plus major control of emesis per day ranged
+from 8% to 85% and 11% to 91%, respectively.
+Table 2 illustrates the median numbers of vomits and
+retches and the nausea score per day. No significant differences
+were detected between study arms for these three
+variables. Documentation of the number of retches was
+poor, with only 43% of 386 possible values recorded.
+Vomiting and nausea scores were missing in 5% and 24%,
+respectively.
+From day –7 through day –2, the INT group received a
+mean (±SEM) of 11.9 (±1.4) rescue medications and the
+CIV group received a mean (±SEM) of 14.4 (±1.9) rescue
+medications (P=0.30). There was no statistical difference
+in the mean number of rescue medications administered
+between treatment groups (P=0.30). Figure 3 demonstrates
+the percentages of patients requiring rescue antiemetics
+each day. There were no significant differences noted between
+study arms. Additionally, no significant differences
+were detected in the median number of rescue antiemetic
+doses administered per day (range 0–4). The most common
+rescue antiemetics used as single agents were
+lorazepam and prochlorperazine. When more than one antiemetic
+was used per day, either lorazepam plus
+prochlorperazine or lorazepam plus diphenhydramine and
+haloperidol was prescribed. The third most common antiemetic
+combination utilized was lorazepam, diphenhydramine,
+and haloperidol. Although antihistamines were restricted during this
+study, several patients received one or more antihistamine
+doses during the study period (most often for itching or
+sleep). Of the 2 patients who had an overall CR rate, 1 had
+received diphenhydramine and 1 had not. Other medications
+from the restricted list (i.e., nortriptyline and sertraline)
+were also inadvertently administered for treatment
+of nonrelated ailments. However, exclusion of these patients
+did not affect statistical analysis and study outcomes.
+The most common adverse effects occurring during the
+study period are outlined in order of decreasing frequency
+in Table 3. Diarrhea was most common, followed by headache
+and elevated transaminases. The majority of the elevated
+transaminases were grade 0 (<2´normal) or grade 1
+(2–5´normal). Other common adverse effects included
+constipation, musculoskeletal pain, indigestion and pruritis.
+There were no significant differences in the incidence
+of side effects between treatment groups. It was interesting
+to note that although the incidence of constipation was not
+statistically different (P=0.53) at 12% vs 31% for the INT
+and CIV arms, respectively, this finding may be clinically
+significant. Other adverse effects occurring in less than
+5% of patients included: chest pain, shortness of breath,
+tachycardia, cough, hiccups and syncope. No extrapyramidal
+symptoms were reported. Owing to the complexity of
+drug regimens prescribed in the BMT setting, it is difficult to attribute many of these side effects directly to
+ondansetron. For example, BMT preparative regimens can
+also be associated with diarrhea, elevated transaminases
+and congestion.
+Discussion
+During the entire study period, almost all patients (62/64)
+had 1 or more days rated as a failure for grade of emesis.
+No significant differences in efficacy or toxicity were detected
+between the CIV and INT ondansetron groups.
+Evaluation of these results by study day did not show significant
+differences between the two study arms. Similarly,
+Lazarus et al. recently compared bolus and continuous infusion
+granisetron (10 mcg/kg per day) in combination
+with dexamethasone in 43 BMT patients and found no significant
+differences in emetic control [20]. This study confirms
+our study results and suggests there are no advantages
+of continuous infusion 5HT3 antagonists over intermittent
+bolus doses.
+Our success rates were high on the 1st day of chemotherapy
+(day –7), at 97% and 88% for the INT and CIV
+arms, respectively (Fig. 2). Interestingly, the success rate
+dropped to 56% and 50%, respectively, for the 2nd day of
+chemotherapy (day –6), and continued to decline to approximately
+a third of patients having success of emesis
+control on day –5. By the last 2 days of the study period
+(day –3 and –2), success rates ranged from only 10% to
+16%. Barbonis et al. and Frakes et al. also identified a decline
+in emesis control from the 1st day of chemotherapy
+to the last day of chemotherapy administration. The
+inability to sustain high levels of emetic control beyond
+day 1 of chemotherapy suggests that nonserotonergic
+mechanisms associated with nausea and vomiting may
+contribute significantly from day 2 onward. Therefore,
+combinations of antiemetic agents with different
+mechanisms of action may be necessary for improved control
+of emesis. Many studies have demonstrated that a serotonin
+antagonist in combination with dexamethasone
+yields better emesis control than a serotonin antagonist
+alone. Steroids were excluded in this study by
+other investigational protocols and the concern of increased
+infection risk. However, Crenier et al. compared
+ondansetron (8 mg i.v. q.d.-b.i.d.), granisetron (3 mg i.v.
+q.d.-b.i.d.), and tropisetron (5 mg i.v. q.d.) with or without
+dexamethasone in 34 patients receiving peripheral blood
+stem cell transplantation. Overall, ondansetron and
+granisetron were more effective than tropisetron for controlling
+emesis, but the best control occurred when these
+agents were used in combination with dexamethasone. The
+addition of a third prophylactic antinausea medication may
+also be necessary in the BMT setting.
+When interpreting the success rates in our study, it is
+important to consider the actual number of vomits and
+retches that occurred per day. Failure was defined as either
+five or more emetic episodes per day or the need for one
+or more doses of rescue antiemetic therapy. The median number of vomits and retches per day was below five
+throughout the entire study period (Table 2). Although the
+percentage of patients receiving rescue antiemetics was
+less than 10% on the initial day of chemotherapy, this
+number increased over the next 2 days of chemotherapy
+and plateaued such that approximately 80% of patients required
+rescue antiemetics during the last 3 days of the
+study period (Fig. 3). Of those patients requiring rescue
+antiemetics, the median number of doses administered per
+day ranged from zero to 4 over the study period. Therefore,
+the majority of failures occurring in our study were
+due to the requirement for rescue antiemetics and not because
+patients experienced five or more emetic episodes.
+When chemotherapy is given over multiple days, both
+an acute phase (occurring within 24 h of chemotherapy)
+and a delayed phase (occurring 24–72 h after chemotherapy)
+of nausea and vomiting may occur. For example, on
+day 3 (day –5) of the preparative regimen utilized for this
+study, patients probably experienced both “acute” nausea
+and vomiting from the chemotherapy agents administered
+on day 3 (day –5), and “delayed” nausea and vomiting
+from cyclophosphamide administered on days 1 and 2
+(days –7 and –6). The addition of dexamethasone and/or
+metoclopramide may help control the delayed phase of
+nausea and vomiting. Anticipatory nausea and vomiting,
+a conditioned response resulting from poor control of
+emesis with previous chemotherapy, may also contribute.
+Lorazepam may be effective in minimizing this type of
+nausea and vomiting. Other potential mechanisms to
+target may include the effect of chemotherapy metabolites
+on the central and enteric nervous systems as well as disruption
+of gut motility.
+Nausea score assessments based on the 100-mm visual
+analogue scale ranged from a median of 0 on the first day
+of chemotherapy to a maximum median of 46 on day –3
+(Table 2). Beginning with the 2nd day of chemotherapy, at
+least 1 patient reported a daily nausea score of 98 or higher.
+These results are similar to the low success rates for
+emesis control discussed above and support the need for
+additional antiemetic therapy in combination with
+ondansetron. The mechanism of nausea is related to that
+for vomiting, but has different characteristics. Dexamethaone
+has demonstrated some efficacy for control of
+delayed nausea and its addition to this antiemetic regimen
+might have improved outcomes. The missing values
+for number of vomits, number of retches, and nausea score
+emphasize the difficulty of conducting an antiemetic clinical
+trial. As the study progressed and patients became
+sicker, the compliance rate for completing study forms declined.
+Overall, response rates in our study did not differ significantly
+from trials using more standard doses of
+ondansetron. Agura et al. found similar results when he
+compared two dose levels of ondansetron (0.1 mg/kg LD
+followed by 0.035 mg/kg per h vs 0.2 mg/kg LD followed
+by 0.07 mg/kg per h) with metoclopramide plus droperidol
+in 60 BMT patients. Ondansetron provided better emesis
+control than metoclopramide plus droperidol; however, on the day of worst emesis control, the low-dose
+ondansetron provided significantly better control than the
+high-dose ondansetron. This study also suggests that higher
+doses of 5HT3 receptor antagonists may not be necessary
+in the BMT population.
+Although several other antiemetic studies in BMT patients
+have been reported since the initiation of this trial, it
+is difficult to compare them because: (1) patient populations
+vary with respect to history of prior chemotherapy
+exposure, (2) preparative regimens differ in combinations
+of drugs used, inclusion or exclusion of radiation therapy,
+and in the schedule of drug administration, (3) antiemetic
+combinations, dosages and duration of administration are
+not consistent, and (4) definitions of outcomes are not
+standardized. Table 4 outlines several of these trials. Overall,
+response rates were similar to or within the range of
+our study. However, overall control of emesis had a wider
+range in our study than seen in other studies. This may
+have been due to the limitation of excluding dexamethasone
+as a component of the antiemetic regimen. The effect
+of gender should also be considered. The incidence and severity
+of nausea and vomiting is higher in women, so
+that the results of this study performed in breast cancer patients should be evaluated with caution when they are
+compared with those of studies in other BMT populations.
+Conclusions
+There were no differences between ondansetron given as a
+continuous infusion (8 mg LD i.v., then 2 mg/h i.v.) or intermittent
+bolus dosing (24 mg i.v. b.i.d.) for the control of
+nausea and vomiting in breast cancer patients undergoing
+autologous BMT. Ondansetron as a single agent was not
+adequate to sustain the control seen on day 1 of chemotherapy-
+induced nausea and vomiting in this population. A
+combination of antiemetics targeting various mechanisms
+of chemotherapy-induced nausea and vomiting may be
+necessary to improve response rates. Additional study of
+various combinations of antiemetics in BMT recipients is
+needed to help determine the most efficacious regimen in
+these patients.

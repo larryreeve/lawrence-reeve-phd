@@ -1,0 +1,125 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1115\1115-Abstract-A.txt data\input\1115\1115-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...150594 ms
+
+Chaining summary file data\input\1115\1115-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  37344 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\1115\1115-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  323875 ms
+	Chain processing time: 31 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.11
+	Std Dev:      3.22
+	Strong Score: 7.55
+
+	T061-Therapeutic or Preventive Procedure: 12.00
+	T081-Quantitative Concept: 12.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    19.67
+	Std Dev:      88.16
+	Strong Score: 196.00
+
+	T081-Quantitative Concept: 672.00
+	T169-Functional Concept: 224.00
+	Recall: Chain with no concepts from Summary: T169-Functional Concept
+Summary concept bathing:T061 has no match
+Summary concept multivariate analysis:T081 has no match
+Summary concept exploration procedure (procedure):T061 has no match
+Summary concept radiation therapy:T061 has no match
+Summary concept hyperfractionation:T061 has no match
+Summary concept therapeutic procedure:T061 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 2
+	Number of concepts in Summary: 18
+
+	Number of strong chains in Full-text with concepts from Summary: 1
+	  Recall: 0.50
+
+	Number of summary concepts having strong chains in full-text: 12
+	  Precision: 0.67
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,4 of 13)
+-------------
+
+0) The objective of this study was to determine whether the addition of concurrent 5-fluorouracil (5-FU) and/or a change in radiationfractionation improves pelvic control and survival or decreases complications in advanced cervical cancer, FIGO stagesIB/IIA (Ä5 cm) to IVA inclusive. 
+1) After stratification by pelvic disease extent, 234 of a planned 292 patients were randomized toreceive one of four possible treatments, (a) standard external beam pelvic irradiation (RT) 5000 cGy in 25 fractions versus (b) RT asin arm (a) with infusional IV 5-FU 1g/m2 daily in the first and last 4 days of RT, (c) partially hyperfractionated RT, 5280 cGy in 33fractions, two fractions per day on the first and last 4 days of RT, or (d) arm (c) with the same FU. 
+2) All were followed with a linearsource of intracavitary RT to deliver 40 Gy. 
+3) The median duration of follow-up for the 221 evaluable patients was 59 months. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,51 of 201)
+-------------
+
+0) Theoreticaldisadvantages of concurrent administration includeincreased acute toxicity which might limit or delay the deliveryof definitive irradiation or increased late toxicity particularly ifthe drugs and radiation do not exhibit ‘‘toxicity’’ independence. 
+1) Last, it is unlikely that concurrent chemotherapy usuallygiven as only one or two doses would significantly reduceestablished distant micrometastases. 
+2) Whilethese studies suggested some benefit for patients with FIGOstage IIIB cancer, methodological problems in the study havenot resulted in wide acceptance of the conclusion of benefitfrom concurrent hydroxyurea and its concurrent use has notentered standard practice.
+3) The success of concurrentregimens with these agents in patients with squamous cellcarcinomas of other sites such as the anal canal andesophagus suggested that similar regimens were worthy ofexploration in carcinomas of the cervix.
+4) In vitro data suggested that the addition of infusional 5-FUto radiation therapy would enhance the radiation effect.
+5) An earlier extensive phase I/II study of radical irradiationand infusional 5-FU based on the in vitro information establisheda safe regimen with acceptable toxicity for comparisonin this randomized study.
+6) MATERIALS AND METHODSBetween May of 1987 and August of 1995, 234 patientspredominantly from two centers, with others participating,were stratified by their extent of pelvic disease and randomizedto receive one of four possible treatments. 
+7) The original statisticaldesign required 292 patients but the study was closedearly due to poor accrual. 
+8) Stratification was based on a retrospectiveanalyses which defined subgroups with different prognosesbased on a combination of FIGO stage and pelvic diseasevolume. 
+9) All patients were to have tumors 5 cm or greaterregardless of FIGO stage (stages IB, II, IVA). 
+10) Stratum 1included those with FIGO stage IB/IIA or stage IIB withparametrial involvement limited to one or both medial parametria.
+11) Stratum 3 included those withFIGO stage IIIB and bilateral pelvic wall involvement or stageIVA. 
+12) Patients were randomized to receive either (a) standardexternal beam pelvic irradiation (EBRT) in a dose of 5000 cGyin 25 fractions defined at 100% versus, (b) RT as in arm (a)with infusional intravenous 5-FU in a dose of 1 g/m2 daily onthe first and last 4 days of RT, (c) partially hyperfractionatedRT, 5280 cGy in 33 fractions, 2 fractions per day on the firstand last 4 days of RT, or (d) arm (c) with the same infusional5-FU. 
+13) The radiation energy to be used was 6 MeV or greater.
+14) A posterior midline attenuator oftwo half value layers, 3 cm in width at the midplane of thepelvis was used to reduce the dose to the bladder and rectum.
+15) The attenuator was used throughout the treatment course inthose treated with a box technique and for half the fractions inthose treated with a parallel pair. 
+16) Intracavitaryirradiation was to be delivered as soon after external beamtherapy as possible using a linear source without colpostats,usually of cesium-137. 
+17) It was loaded to extend at least 2 cmabove the clinically identified superior extent of disease andinferiorly to 1 cm below the cervix or 1 cm below the lowestextent of vaginal disease identified after external therapy. 
+18) Forrare patients with disease extension to the lower one-third ofvagina, the first application to the cervix and uterus was modified to deliver 30 Gy at 2 cm from the center of the sources anda second application as a line source in the vagina, was used todeliver a further 20 Gy at 0.5 cm depth from the surface of thevagina. 5-FU was given as an infusion from days 1 to 4inclusive and on treatment days 22 to 25 inclusive. 
+19) Wherepossible, chemotherapy infusion was given on four consecutivedays without a weekend break. 
+20) If a weekend break was necessary,the infusion was only given on radiotherapy treatmentdays. 
+21) Appropriate guidelines for 5-FU dosage reduction or eliminationwere recommended for hematologic or mucosal toxicity,but RT interruptions were not.
+22) Figure 1 demonstrates the study design, thefour-arm study was designed to determine whether any significantdifferences in outcome were evident between arms (a)and (d) and to be explanatory with respect to causation. 
+23) Assuming that the magnitude and direction of the 5-FUeffects were similar in arms (b) and (d) then the effect of theaddition of 5-FU could be tested by comparing arms (b) and (d)with arms (a) and (c). 
+24) Additionally, the changed fractionationscheme with delivery of two fractions daily at thebeginning and end of therapy was designed to maximize thepotential for interaction between 5-FU and radiation and topotentially reduce complication rates. 
+25) The effect of thefractionation was to be tested by comparing arms (c) and (d)with arms (a) and (b) (Fig. 1). 
+26) In order to detect a 20%improvement in pelvic control rate from an expected 50% forarm (a) to 70% for arm (d) assuming an alpha of 0.05 and betaof 0.20, 73 patients in each of four treatment arms would berequired for a total of 292 patients. 
+27) This procedure uses the Kaplan–Meiermethod that calculates the ranked test pooled across the strataadjusting for strata differences. 
+28) Additionally, statistics testinghomogeneity over strata were computed and checked. 
+29) TheKaplan–Meier method was used to calculate median follow-upduration, censoring patients who died. 
+30) Cox’s proportional hazardsmodel was used to examine the variables which mightcontribute to pelvic control or survival within stratum 1. 
+31) Whereinformation was missing for some parameters, single modelswere fitted for these parameters. 
+32) Because patient accrual slowed considerably in the latteryears of the study due to multiple factors including a decline ineligible patients, the study was terminated prior to reaching theplanned accrual goal.
+33) ComplicationsComplications were considered acute and severe if occurringduring or within 3 months from the end of radiation therapyand requiring hospitalization, e.g., diarrhea. 
+34) Severe late orchronic bowel symptoms were those of fistula, perforation,stricture, or obstruction requiring hospitalization or surgeryand bleeding requiring transfusion. 
+35) Cytopenias wereclassed as grade 3 if bleeding or infection/fever occurred due tolow blood counts and grade 2 if neutrophils were less than1000 units/L or platelets less than 50,000 units/L.
+36) RESULTSOf the 234 patients randomized, 221 were evaluable. 
+37) The median age of the patients was 48 years with arange of 23 to 85 years. 
+38) For strata 1 and 2 the distribution ofFIGO stage, tumor size, nodal involvement on lymphography,tumor grade, and capillary lymphatic space involvement (CLS)for each treatment are shown in Tables 1 and 2. 
+39) Whereas there was once again a trendin favor of concurrent 5-FU, particularly in combination withstandard radiation, the difference was not statistically significant.
+40) The disease-free survival by treatment arm for the 99 patientsin stratum 1 is shown in Fig. 5. 
+41) There was a significantimprovement in 5-year survival and disease-free survival forthose treated with standard radiation and 5-FU compared to theother treatments (log rank test P 5 0.05). 
+42) The 5-year Kaplan–Meier disease-freesurvival for those irradiated without 5-FU was 48% versus71% for those who received 5-FU (log rank P 5 0.02) (Fig. 6).
+43) When the radiationfraction size is reduced as in this altered fractionation schemea compensatory increase in total dose over the same overalltime is required to reach a biologically similar dose. 
+44) Sevenoccurred in the group receiving 5-FU and six in thosewithout 5-FU. 
+45) Serious complications resolved (obstructionresolved or colostomy closed) in all but four of the patients.
+46) Given the low incidence of late complications it is notpossible to establish an actuarial probability of risk withthese regimens. 
+47) The median duration offollow up on this series at 59 months is sufficient to observeapproximately 80% of expected events.
+48) However, in stratum 1 constituted of patients with stage IB/IIAand those IIB tumors with medial parametrial involvement, asignificant improvement in both pelvic control and disease-freesurvival in favor of standard radiation with concurrent 5-FUwas observed (Figs. 5 and 6). 
+49) A similar analysis compared all those treated with standardradiation to those treated with hyperfractionated irradiation.
+50) The direction of benefit in favor of 5-FU with standardradiation compared to the other treatments was the samein strata 1 and 2. 

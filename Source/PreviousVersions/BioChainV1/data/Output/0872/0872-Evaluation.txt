@@ -1,0 +1,131 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\0872\0872-Abstract-A.txt data\input\0872\0872-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...136406 ms
+
+Chaining summary file data\input\0872\0872-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  33328 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\0872\0872-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  432078 ms
+	Chain processing time: 31 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.62
+	Std Dev:      1.90
+	Strong Score: 4.42
+
+	T081-Quantitative Concept: 8.00
+	T170-Intellectual Product: 6.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    27.67
+	Std Dev:      125.32
+	Strong Score: 278.30
+
+	T081-Quantitative Concept: 924.00
+	T170-Intellectual Product: 390.00
+Summary concept changed status:T081 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 2
+	Number of concepts in Summary: 9
+
+	Number of strong chains in Full-text with concepts from Summary: 2
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 8
+	  Precision: 0.89
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 10)
+-------------
+
+0) Patients received fluorouracil, doxorubicin, and cyclophosphamide (FAC) with either DZR (DZR-to-doxorubicin ratio, 10,1) or placebo (PLA) every 3 weeks and were monitored with serial multiplegated acquisition (MUGA) scans.
+1) Results, The hazards ratio (HR) of PLA to DZR for a carci-c event, which was predefined ejection fraction changes or congestive heart failure (CHF), was 2.63 (95% confidence interval [Cl], 1.61 to 4.27, P < .001) for 088001 and 2.00 (95% CI, 1.01 to 3.96, P = .038) for088006. 
+2) Time to progressionand survival were not significantly different between treatment arms in either study. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,64 of 256)
+-------------
+
+0) The use of doxorubicin in different schedules to alleviatecardiotoxicity has also been evaluated. 
+1) Both a weeklyschedule and continuous infusion were associatedwith a significantly lower incidence of cardiotoxicity,which suggests an association with lower peak plasmalevels. 
+2) Further attempts to decrease cardiotoxicity are basedon a mechanistic approach. 
+3) Myers et al found that thecardiomyopathy induced by doxorubicin is related to anthracycline-derived free-radical formation. 
+4) Originallysynthesized for its antitumor effects,'s dexrazoxane(DZR, ADR-529, ICRF-187, NSC 169780, Zinecard,Pharmacia & Upjohn Inc) has been shown to reduce thecardiotoxicity produced in animals by anthracyclines suchas doxorubicin. 
+5) DZR is a bis-dioxopiperazine compoundthat is hydrolyzed to form a chelating agent similarin structure to EDTA. 
+6) DZRdoes not interfere with the antitumor effect of doxorubicinagainst the MX-I human breast tumor line at dose ratiosup to 20,1.
+7) Also, DZR did not alter the rate of response todoxorubicin or increase the toxicity of the regimen. 
+8) The primaryobjective was to confirm the cardioprotective effectof DZR when used in a doxorubicin-based combinationregimen in patients with advanced breast cancer. 
+9) Patients were required to have an LVEF ator above the lower limit of normal (LLN) percentage for the participatinginstitution, obtained within 4 weeks before study entry. 
+10) Patientswith a documented history of CHF or cardiomyopathy, currentarrhythmia, or myocardial infarction (MI) within 6 months beforeentry were excluded. 
+11) They were also stratified on the basis of measurable versusnonmeasurable disease. 
+12) All assignments to treatment and subsequent clinical assessmentswere made under double-blind conditions.
+13) Drug TreatmentChemotherapy consisted of 500 mg/m2 fluorouracil, 50 mg/m2doxorubicin, and 500 mg/m2 cyclophosphamide, which were administeredintravenously (IV) on the first day of each treatment courseDZR or PLA, designated as the blinded study drug, was administeredin a volume of 50 mL/m2 (10,1 ratio of study drug to doxorubicin)by slow IV push or rapid-drip IV infusion. 
+14) Treatment was repeated every 3 weeks, providedrecovery from toxicity had occurred.
+15) Duringthe first 9 months of the study, six deaths occurred on the DZR armof 088001, five deaths occurred on the DZR arm of a parallel study(088002, a small-cell lung cancer study using a 20,1 dose). 
+16) Duringthis interval, there was one death on the PLA arm of study 088002.
+17) Dose ModificationsA computer-based expert system was developed to ensure compliancewith scheduled evaluations and dose modifications. 
+18) The investigatortransmitted specified data by facsimile to a central data site atthe time of a patient's registration in the study and before eachcourse of therapy. 
+19) A computer-generated program calculated thepatient's body-surface area and recommended initial doses, dates forfuture treatments, and dose modifications or delays based on thetoxicity observed for each course Toxicity was graded using ECOGguidelines. 24 In addition, follow-up tests were recommended at theappropriate times. 
+20) Treatment was delayed for 7 days if on day 22 thegranulocyte count was less than 1.5 x 109/L or the platelet countless than 90 x 109/L. 
+21) The doses of fluorouracil and cyclophosphamidewere reduced by 100 mg/m2 if the absolute neutrophil count(ANC) was less than 500 cells/pL and fever occurred during acourse, if the day-22 granulocyte count was less than 1.5 x 109/L,or if the day-22 platelet count was less than 90 x 109 /L. 
+22) Subsequentdoses of fluorouracil and cyclophosphamide were reduced by 50mg/m2 . 
+23) Dose reductions for other toxicities were not permitted. 
+24) Adose delay was defined as a period of at least 28 days since theprevious cycle of treatment. 
+25) The studies had no predetermined cumulativedose for discontinuation of doxorublcin.
+26) CBC counts were repeated weekly followingcourses I through 4, and subsequently before each course. 
+27) Cardiac evaluationincluded baseline physical examination, ECG, and determinationof the resting LVEF by multiple-gated acquisition (MUGA) nuclear scan. 
+28) Off-Study CriteriaPatients were removed from the study if they developed progressivedisease, a cardiac event, or other toxicity that precluded furthertreatment. 
+29) There wasno predetermined cumulative stopping dose of doxorubicin.
+30) The case report forms of patients reported to have CHF on or offstudy by December 31, 1993 were independently evaluated by areferee cardiologist who was blinded to the treatment arm the patienthad received. 
+31) Based on the patient's clinical manifestations and theLVEF levels, the reviewer made a determination of whether, and inwhich course, CHF occurred.
+32) Assessment of Tumor ResponseTumor response was assessed using standard ECOG criteria.24Complete response (CR) was defined as the complete disappearanceof all evidence of tumor, partial response (PR) as 50% decreasein the sum of the products of two perpendicular diameters of allmeasurable disease compared with baseline and no new diseaseactivity, stable disease (SD) as a less than 50% decrease in measurabledisease (sum of bidimensional products) or less than 25% increasein measurable disease over baseline measurements and nonew lesions, and progressive disease (PD) as 2 25% increase ofmeasurable disease (sum of bidimensional products) over baseline,new lesions, or unequivocal progression of nonmeasurable disease.
+33) Complete regression of bone disease was defined as remineralizationof all lytic lesions or disappearance of all areas of positive uptakeon bone scan, partial regression was defined as remineralization of2 50% of lytic lesions without an increase in size of any lytic lesionor the appearance of new lesions. 
+34) SD was defined as remineralizationof less than 50% of lytic lesions and no new lesions, and PD as ameasurable increase in size of any lytic lesions or the appearanceof new lesions. 
+35) Statistical AnalysisThe analyses presented in this report focus on 534 patients (349on study 088001 and 185 on study 088006) who received the 10,1dose ratio of DZR or PLA to doxorubicin and were randomizedbefore January 14, 1991. 
+36) The 53 patients on the PLA arm who werestill receiving treatment on January 14, 1991 and crossed over toopen-label DZR were not censored after crossing over. 
+37) Allanalyses performed were intent-to-treat analyses. 
+38) An HR greater than 1.0 means an event isless likely on the DZR arm, whereas an HR less than 1.0 means anevent is less likely on the PLA arm. 
+39) The study was designed so that if the true HR of doxorubicindose at cardiac event was 3.0 in favor of the DZR group, the powerto detect this difference would be .80 using a one-sided log-ranktest, setting the alpha level at .05. 
+40) The time to disease progression and survival were plotted usingKaplan-Meier curves and compared using both the log-rank and thegeneralized Wilcoxon tests. 
+41) The Cox proportional hazards modelwas used to estimate the HR both for time to progression and forsurvival, both before and after controlling for three prognostic factors.
+42) Survival wasdefined as the time from randomization to death, and patients whohad not died were censored at their last known date alive.
+43) Noncardlac toxicities, including hematologic and nonhematologictoxicities, were separately tabulated for each study. 
+44) Between May 1989 and December 1992, 326 patientsfrom 65 institutions entered study 088006 and were randomizedto receive FAC plus DZR or FAC plus PLA.
+45) They include patients randomized to the 20,1 dose ratio (study drug to doxorubicin) before the dose change.
+46) These patients received one or more cycles at the 20,1dose ratio. 
+47) The median follow-up time on study088001 was 532 days (range, 1 to 1,863) for the 168patients who received DZR and 511 days (range, 1 to1,652) for the 181 patients who received PLA. 
+48) There were 34 patients taken off studies 088001and 088006 for protocol violations, including one patientwho was never treated. 
+49) There were eight on the DZR armand 15 on the PLA arm in study 088001, and six on theDZR arm and five on the PLA arm in study 088006.
+50) Reasons for protocol violations included ineligibility forstudy entry (n = 8), study drug scheduling, recording, ordosing problems (n = 18), ejection fraction changes thatdid not fulfill criteria for cardiac event, but patient takenoff study by investigator (n = 7), and an 8-week treatmentdelay (n = 1).
+51) The log-rank testshowed this difference between groups to be highly statisticallysignificant (P < .001), but the generalized Wilcoxontest indicated borderline significance (P = .068).
+52) In study 088006, the HR was 2.00 (95% CI, 1.01 to 3.96)and was statistically significant according to the log-ranktest (P = .038), but not statistically significant accordingto the generalized Wilcoxon test (P = .42). 
+53) Five of these patients were alive, and in follow-up evaluation, 11 died of PD, three died of unknown causes, one died of a cerebrovascular accident, two died of CHF, and two died of PD with CHF. 
+54) In study 088006, 821 scans were performed and the compliance rate was 90% and 88% in the PLA and DZR groups, respectively. 
+55) Response Rate Results of the initial review of objective response rates (CRs and PRs) for patients with bidimensional measurable disease demonstrated a significantly higher objective response rate in patients on study 088001 who received PLA (63%) than in those who received DZR (48%) (P = .007, Pearson x2 test). 
+56) Time to Progression and SurvivalFigure 2A presents Kaplan-Meier curves comparingthe DZR and PLA groups in study 088001 with regardto time to PD. 
+57) Figure 2B is similar to Fig 2A, but presents the timeto progression data in study 088006. 
+58) Dose ModificationBeginning with cycle 2 and ending with cycle 7, theproportion of cycles with dose reductions (doses of fluorouraciland cyclophosphamide < 500 mg/m2) or delays(at least 28 days since previous cycle) for patients in eacharm of both studies is listed in Table 6, there were nosignificant differences between arms. 
+59) Toxicities were separatelyanalyzed for each study and yielded essentially the sameresults as a combined analysis. 
+60) Granulocyte countswere significantly lower at nadir for the patients on theDZR arms (P = .009). 
+61) Plateletcounts at nadir were significantly lower for the DZRarms (P = .004), but the differences consisted largely ofgrade 1 toxicity. 
+62) Patients on the DZR arms had a 47%incidence of grade 1 thrombocytopenia, whereas patientson the PLA arms had a 29% incidence. 
+63) The likelihood of developing a cardiac event was 2.0 to 2.6 times greater without the addition of DZR. 

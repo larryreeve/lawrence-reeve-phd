@@ -1,0 +1,116 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1154\1154-Abstract-A.txt data\input\1154\1154-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...136625 ms
+
+Chaining summary file data\input\1154\1154-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  21829 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\1154\1154-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  328891 ms
+	Chain processing time: 31 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.44
+	Std Dev:      2.91
+	Strong Score: 7.26
+
+	T081-Quantitative Concept: 8.00
+	T169-Functional Concept: 9.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    28.21
+	Std Dev:      120.63
+	Strong Score: 269.47
+
+	T061-Therapeutic or Preventive Procedure: 594.00
+	T081-Quantitative Concept: 738.00
+	T169-Functional Concept: 408.00
+	T170-Intellectual Product: 336.00
+Summary concept common (qualifier value):T081 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 4
+	Number of concepts in Summary: 9
+
+	Number of strong chains in Full-text with concepts from Summary: 4
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 8
+	  Precision: 0.89
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,4 of 13)
+-------------
+
+0) Background, Surgical or medical castration and antiestrogenic treatment with tamoxifen are common endocrine treatments for premenopausal women with breast cancer. 
+1) However, tamoxifen therapy induces high levels of plasma estradiol, with unknown long-term effects. 
+2) The median follow-up was 7.3 years, during which 76% of the patientsdied, all of breast cancer. 
+3) Results, Combined treatment withbuserelin and tamoxifen was superior to treatment with buserelin or tamoxifen alone by objective response rate (48%, 34%, and 28% of patients who could be evaluated, respectively, P = .11 [x2 test]), median progression-free survival(9.7 months, 6.3 months, and 5.6 months, P = .03), and overall survival (3.7 years, 2.5 years, and 2.9 years, P = .01). 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,46 of 182)
+-------------
+
+0) However, the group of premenopausal womentreated with tamoxifen had very high levels of plasma estradiol,sometimes for many years, because of the tamoxifen-inducedstimulation of pituitary–ovarian functions. 
+1) Thepossible deleterious effects of these high levels of plasma estradiol,which can compete with tamoxifen for binding to estrogenreceptors, have been debated for many years. 
+2) In contrast,for hormone-dependent breast cancer cells, in vitro studieshave shown that long-term withdrawal of estrogens increasedthe sensitivity of these cells to estradiol, suggesting thatthe addition of an antiestrogen might be valuable.
+3) Endocrine studies showed that an LHRHagonist given subcutaneously completely suppressed the tamoxifenstimulation of pituitary and ovarian functions and resulted inplasma estrogen levels that were comparable to normal postmenopausallevels. 
+4) To our knowledge, this study is the only three-arm, randomizedstudy to investigate these treatments for metastaticbreast cancer in premenopausal women.
+5) PATIENTS AND METHODSPatients and TreatmentDuring the period from 1988 through 1995, a total of 161 patients wererecruited by 17 centers from nine countries. 
+6) The patients were premenopausal and had metastatic or locally advanced breast cancer. 
+7) All patients had histologically provedbreast cancer with at least one measurable lesion or a lesion that could beevaluated at the start of treatment. 
+8) Patients were randomly assigned by the EORTCData Center to receive one of three first-line treatments (Table 1). 
+9) These treatmentswere 1) buserelin implants (6.6 mg implanted subcutaneously every 8weeks, during the first 12 weeks, every 6 weeks), 2) a daily dose of tamoxifen(40 mg administered orally), or 3) a combination of both drugs at the samedosages. 
+10) When disease progression was detected, a crossover of drugs (tamoxifenafter buserelin or buserelin after tamoxifen) in the single-treatment arms wasadvised but was not mandatory. 
+11) Objective clinical assessmentincluded specific x-rays, computed tomography scans of liver lesions, and photographsof skin metastasis every 8–16 weeks, as appropriate, and bone scansevery 6 months. 
+12) Values below the detection level of the respective estradiolassays were given the limiting value of the assay. 
+13) Between centers, the upperlevels of normal postmenopausal plasma concentrations varied from 19 pg/mL to38 pg/mL. 
+14) Steroid receptor determinations were performed by aligand-binding assay according to guidelines of the EORTC Biomarker StudyGroup (30), by enzyme immunoassays (31), or infrequently by immunohistochemistry.
+15) For patients with bone metastases anda complete response, complete remineralization of lytic lesions in the bone wasrequired, or, for a partial response, a clear improvement accompanied by adecrease in pain was required. 
+16) Bisphosphonates were not used in this study. 
+17) The three treatment arms were also comparedpairwise by the x2 test. 
+18) Again, each pairwise comparison was tested at thestatistical significance level of .02. 
+19) A separate but similar analysis was performedafter adding data from patients who had had stable disease for more than6 months to the objective response category (complete remission, partial remission,and no change for >6 months). 
+20) If astatistically significant effect was obtained, a logistic regression model with andwithout the interaction term was fitted, and the two models were again comparedby the likelihood ratio test corresponding to a test for interaction. 
+21) The patient and tumorcharacteristics were well balanced over the three treatmentgroups (Table 2). 
+22) Thirty-five (66%) of the 53 patients in the combinedtreatmentgroup died, 43 (80%) of the 54 patients in the grouptreated with buserelin alone died, and 44 (81%) of the 54patients in the group treated with tamoxifen alone died. 
+23) Even when additional stratified log-rank tests were done, becauseof a slight imbalance in performance status (in favor of thetamoxifen treatment group), the results and conclusions did notchange, indicating that the combined treatment was always betterthan the single-drug treatments.
+24) Forsurvival after disease progression, comparison ofthe single-treatment arms with the combinedtreatmentarm showed differences, with unadjustedP values of .03 for buserelin alone and .088 fortamoxifen alone. 
+25) Survival values for the grouptreated with buserelin alone and for the grouptreated with tamoxifen alone were very similar(P 4 .41).
+26) Patients with a disease-freeinterval of 2 years or longer had a median time todisease progression of 8.3 months, and patientswith a disease-free interval of less than 2 years hada median time to disease progression of 6.4months. 
+27) The dominant site of disease was the only prognosticfactor that had a statistically significant effecton the objective response rate (P4.021). 
+28) Theobjective response rate was 59% for patients withsoft-tissue disease, 27% for patients with bone metastases,and 39% for patients with visceral metastases.
+29) The interaction between treatment and dominantsite, however, was not statistically significant(P 4 .078), although this interaction test is notpowerful and is based on a restricted number ofpatients in each subgroup.
+30) Endocrine Effects on Plasma Estradiol Levelsand Menstrual Cycle and Side Effects All patients with at least one estradiol measurementresult before and/or during treatment were included in theendocrine study. 
+31) Some patients could not be evaluated for amenorrhea and/orhot flashes because of a short period of treatment caused by earlyprogressive disease, a prior hysterectomy without ovariectomy,or missing data. 
+32) Hot flashes occurred less frequently (P<.001)during treatment with tamoxifen alone (17 of 43 patients, 40%)than during treatment with buserelin alone (38 of 43 patients,88%) or during the combination treatment (41 of 47 patients,87%). 
+33) Nausea in the group treatedwith tamoxifen alone might have been partlyrelated to the high plasma levels of estradiolthat were comparable to those observed duringpregnancy. 
+34) In addition, no differences with respect to survival and the results of surgical castration were observed. 
+35) However, within the subgroup of 115 patients with skeletal metastasesonly, statistically significant differences in favor ofcombination therapy were seen for the objective response rate,time to disease progression, and survival. 
+36) Unfortunately, a meta-analysis on comparisonsbetween a combined-treatment arm and treatment withtamoxifen alone is not possible because of the lack of suchstudies.
+37) Probably because we excludedsteroid receptor-negative patients, visceral metastasiswas not an important prognostic factor for progression-free survivaland overall survival, but a relative high overall responserate of 39% for all treatment groups together was found (evenabout 60% during combined treatment).
+38) Thus, our unexpectedobservation that patients receiving the combined first-lineendocrine treatment tended to survive longer after disease progression(Fig. 3) is important—this in spite of the fact that feweroptional endocrine treatments were available for this group fromthe time of detection of progressive disease during first-lineendocrine therapy.
+39) The results of our study may also aid in the interpretation ofresults from published and ongoing (adjuvant) studies on standard-dose and high-dose chemotherapy. 
+40) Adjuvant chemotherapyis more effective in premenopausal women than in postmenopausalwomen , and this effect is positively associated withchemotherapeutically induced castration in nearly all trials. 
+41) Ablation of functioning ovaries and combination chemotherapywith cyclophosphamide, methotrexate, and 5-fluorouracil(CMF) have similar effects on disease-free survival andoverall survival. 
+42) High-dose chemotherapy induces chemicalcastration in nearly 100% of the patients, in contrast to standarddosechemotherapy, and high-dose chemotherapy is followed byadjuvant tamoxifen therapy in nearly all trials. 
+43) Thus, the combinationof high-dose chemotherapy and tamoxifen can also indirectlyresult in “complete estrogen blockade” in (nearly) allpatients, in contrast to standard treatment. 
+44) Consequently, asmall difference in survival in favor of high-dose chemotherapycan (at least partly) be explained by differences in indirect endocrineeffects. 
+45) Recently, in addition to combination chemotherapywith cyclophosphamide, doxorubicin, and 5-fluorouracil (CAF),combined treatment with goserelin and tamoxifen was shown tostatistically significantly improve the disease-free survival (from67% to 78%), but treatment with goserelin alone did not.

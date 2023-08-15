@@ -1,0 +1,113 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\UNK1\UNK1-Abstract-A.txt data\input\UNK1\UNK1-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...138844 ms
+
+Chaining summary file data\input\UNK1\UNK1-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  19234 ms
+	Chain processing time: 16 ms
+
+Chaining full-text file data\input\UNK1\UNK1-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  266531 ms
+	Chain processing time: 32 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.63
+	Std Dev:      4.07
+	Strong Score: 9.76
+
+	T061-Therapeutic or Preventive Procedure: 10.00
+	T081-Quantitative Concept: 16.00
+	T170-Intellectual Product: 12.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    18.82
+	Std Dev:      73.54
+	Strong Score: 165.90
+
+	T061-Therapeutic or Preventive Procedure: 240.00
+	T081-Quantitative Concept: 330.00
+	T169-Functional Concept: 375.00
+	T170-Intellectual Product: 270.00
+Summary concept measures:T081 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 4
+	Number of concepts in Summary: 20
+
+	Number of strong chains in Full-text with concepts from Summary: 4
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 19
+	  Precision: 0.95
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 12)
+-------------
+
+0) In the Pittsburgh sample,using a repeated measures multivariate analysis of covariance (MANCOVA) analysis, after adjusting for menopausal status and radiotherapy and chemotherapy toxicity, the conservation group was psychologically worse off (F - 2.7, P < .03). 
+1) Using Karnofsky ratings, the two groupswere identical in terms of disability at 3-month's follow-up. 
+2) In contrast, for the NCI patients participating in the randomized trial, after adjusting for chemotherapy and radiotherapy treatments, reported overall distress decreased over time (F = 17.4, P < .0001) for all patients, irrespective of treatment group, and the between-groups MANCOVA was not significant. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,43 of 170)
+-------------
+
+0) Although no prospectivefollow-up was reported for these patients, therewas a clear assumption that the lumpectomypatients were psychologically better off, bothpre- and postsurgery.
+1) Our research group, first at the NationalCancer Institute (NCI) and now at the Universityof Pittsburgh School of Medicine, has beenfollowing two samples of early-stage breast cancerpatients, a proportion of each having receivedbreast-sparing procedures. 
+2) At Pittsburgh, approximately 100 stage I andII patients, recruited primarily from the practicesof four university-based surgeons, have beenenrolled in a prospective study, examining behavioraland immunological predictors of time torecurrence of disease. 
+3) As the National SurgicalAdjuvant Breast and Bowel Project (NSABP)B-06 trial had ended 4 months before patientsstarted being accrued to this present study,patients "elected" (ie, were not randomized, but"negotiated" in some sense) their treatmentmodality. 
+4) These arethe patients who will be reported on here.
+5) There were no differencesbetween the two samples in terms of age, educational status,or racial composition. 
+6) A somewhat higher, but nonsignificantproportion of the sample at Pittsburgh had at least somepositive axillary lymph nodes. 
+7) Approximately half of the NCIsample received excisional biopsy (a reflection of the randomizationprocedure used in that trial), whereas a larger proportionof the Pittsburgh stage I and II breast cancer sampleelected excisional biopsy. 
+8) Based on previous data,"6 approximately two thirds ofstage I and II patients may be eligible for conservativetreatment. 
+9) Patients with centrally located tumors, multifocalor bilateral tumors, or patients who have previously undergonecontralateral mastectomy are typically ineligible forbreast-sparing surgery. 
+10) Given that approximately 70% of thePittsburgh sample actually received an excisional biopsy plusradiation, it is apparent that most, if not all, of the patientsoffered a breast-sparing technique accepted this option. 
+11) Thus, treatment plans for thePittsburgh sample were not made by a process of randomization,but by a clinical decision process involving discussionbetween physician and patient.
+12) The assessment schedule for the two study siteswas identical, and the test battery was similar for both thePittsburgh and NCI samples. 
+13) Test-retest reliability over a 3-month period forsubscales ranged from r = .5 (perceived support from afamily member) to r = .62 (perceived support from a spouse).
+14) RESULTSUsing repeated measures two-way analysis ofcovariance (ANCOVA) tests,26 we analyzed differencesin psychological distress and functionalstatus, stratifying by type of surgery (excisionalbiopsy v mastectomy) and time of measurement(baseline v 3-month follow-up). 
+15) For both samples, menopausal status andchemotherapy and radiotherapy treatment wereco-varied at follow-up. 
+16) Anxiety tended to decreaseover time for all patients, although less so for theexcisional biopsy patients (F = 3.5, P < .06), andfatigue tended to increase over the 3-monthfollow-up period, again with excisional biopsypatients reporting higher average levels offatigue than mastectomy patients (F = 6.5, P <.01). 
+17) Again, it should be kept in mind that weco-varied chemotherapy and radiotherapy dosing.
+18) In every case, the excisionalbiopsy group emerged as the most distressedoverall, compared with the mastectomygroup. 
+19) Specifically, they reported higher symptomsof confusion (F = 5.8, P < .02), more anger(F = 10.2, P < .003), and more depression (F =9.2, P < .005) than the mastectomy group, andhad higher overall total distress scores (F = 5.5,P < .02). 
+20) Again, although there were no significantinteractions between surgery group and time on these mood factors, an examination ofthe subgroup means showed that the excisionalbiopsy patients tended to look more "stressed" ordysphoric over the 3-month follow-up period.
+21) In addition to controlling for the effects oftherapy in these data, we also compared patientsin terms of disability ratings. 
+22) However, there were also significant main effectsby surgery group, with the excisional biopsygroup reporting overall less social support from afriend (F = 4.4, P < .04) and from people ingeneral over the follow-up period (F = 7.5,P < .01). 
+23) In fact, there was a group x timeinteraction on this latter variable, with biopsypatients reporting a significant decrease in emotional support from people in general over the3-month follow-up period compared with mastectomypatients (F = 5.4, P < .02).
+24) However, the report ofanger (F = 8.5, P < .005), confusion (F = 6.2,P < .01), and fatigue (F = 35.8, P < .0001)increased over time. 
+25) As there wereno significant differences in disease status, age,or educational levels, one major difference at thispoint was the experience of being randomized tosurgical treatment or not.
+26) As can be seen, there were no significantdifferences between mastectomy patients at thetwo research sites on distress scores. 
+27) Thus, again, differentialemotional distress scores may more likely beattributable to the significance of the treatmentchoice within the immediate healthcare context,rather than to differences in treatment technologyor extent of disease at baseline.
+28) DISCUSSIONThere are at least three conclusions that can bedrawn from these data. 
+29) Have you felt isolatedfrom others? 
+30) Because these studies were not planned withthese comparisons in mind, there clearly aresome unknowns in the data. 
+31) First, in the Pittsburghsample, we do not know what proportion ofearly-stage breast cancer patients who received amastectomy could have chosen a lumpectomy ifthey had preferred the latter breast-sparing technique.
+32) Excisional biopsy, plus radiation, is notappropriate for all early-stage patients (forexample, those with a relatively large, centrallylocated lesion). 
+33) However,despite this unknown, if there were any biologicaladvantage in the data, it would have favored thelumpectomy patients. 
+34) In contrast, women in the community didhave to consider options. 
+35) A hint regardingstable personality characteristics in the Pittsburghsample was reflected in the coping strategyendorsed by these women. 
+36) Caution needs to be raised in terms of datainterpretation and methodological limits inherentin this study. 
+37) First, emotional distress symptoms that were reported were not of psychopathologicalseverity. 
+38) If narcissism plays any role, such women may beparticularly vulnerable to distress faced with thepostsurgery reality of cosmetic compromise.
+39) Finally, educational implications can bedrawn from these data regarding the erosion ofsocial support coincident with higher distresslevels in the excisional biopsy group. 
+40) Although perhaps the assumption hasbeen that this group needs less support than thewoman who has had a mastectomy, these datawould suggest that this may not be the case. 
+41) We believe that the verdict is not in.
+42) What we are suggesting is that this optionis not a panacea. 

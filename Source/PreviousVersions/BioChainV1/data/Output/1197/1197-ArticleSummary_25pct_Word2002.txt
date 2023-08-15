@@ -1,0 +1,101 @@
+Purpose, Adjuvant chemotherapy for soft tissue sarcoma is controversial because previous trials reported conflicting results. 
+
+Patients and Methods,Patients between 18 and 65 years of age with grade 3 to 4 spindle-cell sarcomas (primary diameter >= 5 cm or any size recurrent tumor) in extremities or girdles were eligible. 
+
+Results,After a median follow-up of 59 months, 60 patients had relapsed and 48 died (28 and 20 in the treatment arm and 32 and 28 in the control arm, respectively). 
+
+The median disease-free survival (DFS) was 48 months in the treatment group and 16 months in the control group (P = .04), and the median overall survival (OS) was 75 months for treated and 46 months for untreated patients (P = .03). 
+
+Conclusion,Intensified adjuvant chemotherapy had a positive impact on the DFS and OS of patients with high-risk extremity soft tissue sarcomas at a median follow-up of 59 months. PATIENTS AND METHODS 
+
+Study Design and Staging 
+
+After a positive biopsy for sarcoma, all patients underwent complete staging and programmed local treatment. 
+
+The patients who satisfied all the selection criteria were then stratified and subsequently randomized to a control or chemotherapy group. 
+
+All the patients gave their informed written consent before the randomization. Selection Criteria 
+
+Local Treatment 
+
+Patients were treated with radical surgery, wide resection followed by postoperative radiation therapy, or pre-operative radiation therapy. Adjuvant Treatment 
+
+In the case of incomplete hematologic recovery (defined as WBC < 4,000/mL and platelets [PLTS] < 100.000/mL), treatment was postponed by one or more weeks, furthermore, on complete hematologic recovery, a dose reduction of EPI was applied depending on the observed nadirs (WBC > 1,000/mL and PLTS > 75.000/mL, IFO and EPI doses both 100%, WBC > 500/mL and PLTS < 50.000/mL, IFO dose 100% and EPI dose 75%, WBC < 500/mL and PLTS < 50.000/mL, IFO dose 100% and EPI dose 50%). 
+
+On the basis of the estimated proportions of patients free from metastatic disease 2 years after diagnosis (60% in the treated group v 40% in the control group), it was estimated that 95 patients were required per arm (beta = 0.80, alpha = 0.05). 
+
+An interim analysis was planned when half of the patients had been enrolled. 
+
+A difference of P <= .001 (two sided) in DFS between the two groups was considered sufficient to stop patient accrual. 
+
+RESULTS 
+
+Table 1 lists the demographic characteristics, features of the disease, center of surgery and stratification of the randomized patients. Local Treatment 
+
+The remaining 68 patients (65%) were treated using a limb-sparing procedure involving radiation therapy and surgery, 45 underwent surgery and postoperative radiation therapy, and 24 underwent preoperative radiation therapy and conservative surgery (Table 1). 
+
+Chemotherapy and Toxicity 
+
+Seven patients (13%) did not start adjuvant treatment. 
+
+Of the 46 patients that started chemotherapy, four did not complete the treatment. 
+
+At the time of statistical analysis (November 1999), the median follow-up for the 104 patients included in the study was 59 months, 61 months in the treatment arm and 55 months in the control arm. 
+
+During the follow-up period, disease recurrences were recorded in 28 of the 53 treated patients and in 32 of the 51 patients who did not undergo adjuvant therapy, 20 treated patients and 28 untreated patients died. Overall DFS 
+
+Sixty first events (local, distant only, and synchronous distant and local) were observed overall (32 in the control arm and 28 in the treatment arm). 
+
+In four patients, the first event was a synchronous local relapse with metastases (one patient in the control arm and three patients in the treatment arm). 
+
+Furthermore, nine patients developed metachronous relapse at a different site (three were local relapse after a metastasis and six were distant relapses after a previous local relapse). 
+
+The median overall DFS was 48 months among treated patients and 16 months in the control group. 
+
+Patients in the treated arm experienced a 41% reduction in the risk of disease relapse (HR, 0.59, 95% CI, 0.36 to 0.99, P = .04) (Fig 2). Local DFS 
+
+Overall, 13 patients had a local recurrence of disease as the first relapse without simultaneous distant metastases (four patients in the treatment arm and nine patients in the control arm, Table 4). 
+
+Overall, patients in the treatment arm had an indication of reduction in the risk of local recurrence (P = .07). 
+
+Four patients had local relapses simultaneously with metastasis (one patient in the control arm and three in the treatment arm), and another three patients developed a local relapse as the second relapse after a distant metastasis (two patients in the treatment arm and one patient in the control arm). 
+
+Taking into account the overall local relapse rate (all local events observed), 11 patients in the control group and nine in the treatment group experienced local failure. 
+
+The distribution between the different local treatment modalities (radical surgery, surgery and postoperative radiation therapy, and preoperative radiation therapy and surgery) was respectively, two of 16 patients, seven of 20, and two of 15 for the control group and three of 20 patients, six of 24, and zero of nine for the treatment group. 
+
+Metastasis-Free Survival 
+
+As the first event, a total of 47 distant relapses were observed (22 single distant events in the control group and 21 in the treatment group, one synchronous distant and local event in the control group and three in the treatment group Table 4). 
+
+(Table 5). 
+
+Six additional patients (four in the control arm and two in the treatment arm) had a distant metastasis as a second relapse after a local relapse. 
+
+Patients died from uncontrolled metastatic disease. 
+
+One patient in the control group died without evidence of disease at 28 months and was considered as censored for overall survival. 
+
+The median survival time was higher among patients who underwent adjuvant therapy (75 months), compared with untreated patients (46 months) (Fig 4). 
+
+The reduction in risk in favor of treated patients was statistically significant (HR, 0.52, 95% CI, 0.29 to 0.93, P = .03). 
+
+Furthermore, in the subgroup of 886 patients  affected by extremity sarcomas, the difference in OS between treated and untreated patients was significant (P = .029), and the absolute benefit after 10 years increased to 7%. 
+
+The regimen used in the present study represents the highest dose-intensity ever tried in an adjuvant setting for soft tissue sarcomas.
+
+The main finding of the intention-to-treat analysis in this study is the beneficial impact of chemotherapy on the DFS (P = .04) and OS (P = .03) for patients affected by high-risk extremity soft tissue sarcomas and treated with chemotherapy. 
+
+Furthermore, the univariate analysis performed at interim analysis and repeated yearly thereafter for all characteristics reported in Table 1 did not reveal any statistically significant differences between the two patient groups, except for chemotherapy. 
+
+However, only high-risk patients were selected for this study. Therefore, other more favorable groups of patients have not been considered for this treatment. 
+
+The protocol methodology included an interim analysis after half of the predefined patient population was randomized. 
+
+The outcome results at 4 years revealed a 23% overall local relapse, with a trend in favor of the treatment group. 
+
+The outcome of the untreated patient group was worse than that of previous trials. 
+
+Only two previous studies, the Rizzoli17,18 and the Foundation Bergonie trials,19 used similar patient selection criteria. 
+
+Adjuvant treatment of soft tissue sarcomas is still strongly debated35,36, despite 14 published trials and one meta-analysis performed on 1,568 randomized patients. 

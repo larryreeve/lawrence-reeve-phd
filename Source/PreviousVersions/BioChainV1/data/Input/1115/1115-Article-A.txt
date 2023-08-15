@@ -1,0 +1,514 @@
+INTRODUCTION
+Radical external beam plus intracavitary radiation continues
+to be the standard therapy for advanced cervical cancer to
+which all new therapies must be compared. While this treatment
+is relatively effective in small volume tumors, tumor
+control and survival decline as the bulk of pelvic disease and
+FIGO stage advance. Overall 5-year survival rates are reported
+for stage IIB cancers between 50 and 80% and from 25 to 50%
+for stage III. No substantial improvements have been
+made in the treatment of advanced cervical cancer in the past
+two decades. An analysis of the patterns of failure after radiation
+therapy in locally advanced cervical cancer reveals that of
+those who recur over 70% have some component of pelvic
+failure as the first site of relapse and two-thirds develop some
+component of distant disease. As the bulk of pelvic disease
+increases, the proportion of patients with disease recurrent or
+persistent in the pelvis as the only site of failure increases
+compared to the proportion developing distant metastases. The
+problem of enhancing pelvic control and survival cannot be
+approached simply by increasing conventionally delivered radiation
+dose since late complications produced by radiation are
+at the upper limit of acceptability with currently employed
+doses.
+Many investigations are ongoing to identify more effective
+treatment. These include modifications of radiation treatment
+volume or fractionation including extended field radiation, hyperfractionated RT, strategies to overcome the negative
+impact of tumor hypoxia such as hyperbaric oxygen, or hypoxic cell radiation sensitizers. In addition to
+modifications of radiation therapy multiple studies have investigated,
+and are investigating, strategies that combine radiation
+with chemotherapy either as neoadjuvant or concurrent administration. The results reported for trials of neoadjuvant
+cisplatin-containing chemotherapy prior to radiation have been
+disappointing with six randomized trials,
+showing no advantage in local control or survival and possibly
+some detrimental effect.
+Concurrent chemotherapy with radiation offers a number of
+theoretical advantages over those of the neoadjuvant strategy.
+These advantages include no delay in the start of definitive
+irradiation, no prolongation of overall treatment time (thus
+minimizing the theoretical risk of accelerated clonogen proliferation
+during the antineoplastic course), and possible interaction
+of the concurrently administered chemotherapy with radiation
+through such mechanisms as inhibition of repair of
+radiation damage, cell synchronization, recruitment of nonproliferating cells into cell cycle, and reduction of the hypoxic
+fraction. Chemotherapy may also, as in the neoadjuvant
+strategy, have an independent, additive cytotoxic effect. Theoretical
+disadvantages of concurrent administration include
+increased acute toxicity which might limit or delay the delivery
+of definitive irradiation or increased late toxicity particularly if
+the drugs and radiation do not exhibit ‘‘toxicity’’ independence. Last, it is unlikely that concurrent chemotherapy usually
+given as only one or two doses would significantly reduce
+established distant micrometastases. To date, the only reported
+randomized studies of concurrent therapy are those of hydroxyurea
+and radiation versus radiation alone. While
+these studies suggested some benefit for patients with FIGO
+stage IIIB cancer, methodological problems in the study have
+not resulted in wide acceptance of the conclusion of benefit
+from concurrent hydroxyurea and its concurrent use has not
+entered standard practice.
+Interest in infusional 5-fluorouracil (5-FU) with or without
+other agents such as mitomycin C and cisplatin, developed
+from both laboratory data suggesting enhanced tumor cell kill
+over radiation alone and clinical data. The success of concurrent
+regimens with these agents in patients with squamous cell
+carcinomas of other sites such as the anal canal and
+esophagus suggested that similar regimens were worthy of
+exploration in carcinomas of the cervix.
+In vitro data suggested that the addition of infusional 5-FU
+to radiation therapy would enhance the radiation effect.
+Nakajima et al. also had shown that enhancement could be
+improved by increasing the concentration of 5-FU. The
+optimal dosing schedule for maximizing cell kill with infusional
+5-FU and radiation remains undefined, but laboratory
+data suggested greater effects with increasing dose and prolonged
+exposure to 5-FU and when drug was present for
+intervals in excess of 48 h after radiation.
+An earlier extensive phase I/II study of radical irradiation
+and infusional 5-FU based on the in vitro information established
+a safe regimen with acceptable toxicity for comparison
+in this randomized study.
+MATERIALS AND METHODS
+Between May of 1987 and August of 1995, 234 patients
+predominantly from two centers, with others participating,
+were stratified by their extent of pelvic disease and randomized
+to receive one of four possible treatments. The original statistical
+design required 292 patients but the study was closed
+early due to poor accrual. Stratification was based on a retrospective
+analyses which defined subgroups with different prognoses
+based on a combination of FIGO stage and pelvic disease
+volume. All patients were to have tumors 5 cm or greater
+regardless of FIGO stage (stages IB, II, IVA). Stratum 1
+included those with FIGO stage IB/IIA or stage IIB with
+parametrial involvement limited to one or both medial parametria.
+Stratum 2 included those with FIGO stage IIB disease with
+any lateral parametrial involvement or stage IIIB with involvement
+of one pelvic sidewall. Stratum 3 included those with
+FIGO stage IIIB and bilateral pelvic wall involvement or stage
+IVA. Eligible patients were to have biopsy proven invasive
+carcinoma of the cervix of any pathological type excluding
+small cell carcinoma and to have primary radiotherapy with
+curative intent selected as their definitive treatment. Exclusion
+criteria included preexisting malignancy except basal or squamous
+cell carcinoma of the skin. A screening chest X-ray was
+to be negative for metastases and if lymphography or abdominal
+CT scanning was performed, there should be no apparent
+evidence of involvement of the para-aortic nodes. The protocol
+was reviewed by the ethics committees of the involved universities
+and hospitals and patients gave informed consent for
+study. Patients were randomized to receive either (a) standard
+external beam pelvic irradiation (EBRT) in a dose of 5000 cGy
+in 25 fractions defined at 100% versus, (b) RT as in arm (a)
+with infusional intravenous 5-FU in a dose of 1 g/m2 daily on
+the first and last 4 days of RT, (c) partially hyperfractionated
+RT, 5280 cGy in 33 fractions, 2 fractions per day on the first
+and last 4 days of RT, or (d) arm (c) with the same infusional
+5-FU. After EBRT all patients were planned to receive low
+dose rate intracavitary irradiation to deliver a dose of 40 Gy at
+point A.
+The radiation energy to be used was 6 MeV or greater.
+Patients were treated prone preferably using a four-field box
+technique, or a parallel pair. A posterior midline attenuator of
+two half value layers, 3 cm in width at the midplane of the
+pelvis was used to reduce the dose to the bladder and rectum.
+The attenuator was used throughout the treatment course in
+those treated with a box technique and for half the fractions in
+those treated with a parallel pair. The partially hyperfractionated
+radiation fractionation schedule used equal fraction sizes
+of 160 cGy. Twice daily treatments on days 1 to 4 and 22 to 25
+were delivered at least at 6 h apart. The superior border of the
+radiation treatment volume was the L5/S1 junction, the inferior,
+the bottom of the obdurator foramina, or 2 cm below the
+lowest identified extent of vaginal disease. Laterally the fields
+included, with a 1-cm margin, the pelvic sidewall lymph nodes
+visualized by lymphography. Where lymphography was not
+performed, the lateral margins were 2 to 2 1
+2 cm wider than the
+bony pelvis. The anterior border of the lateral fields was in
+front of the symphysis pubis, while the posterior border was
+tailored to the clinical evaluation of the presence or absence of
+utero sacral disease extension. If necessary to encompass disease,
+the volume could include the entire rectum. Intracavitary
+irradiation was to be delivered as soon after external beam
+therapy as possible using a linear source without colpostats,
+usually of cesium-137. It was loaded to extend at least 2 cm
+above the clinically identified superior extent of disease and
+inferiorly to 1 cm below the cervix or 1 cm below the lowest
+extent of vaginal disease identified after external therapy. For
+rare patients with disease extension to the lower one-third of
+vagina, the first application to the cervix and uterus was modified to deliver 30 Gy at 2 cm from the center of the sources and
+a second application as a line source in the vagina, was used to
+deliver a further 20 Gy at 0.5 cm depth from the surface of the
+vagina. 5-FU was given as an infusion from days 1 to 4
+inclusive and on treatment days 22 to 25 inclusive. Where
+possible, chemotherapy infusion was given on four consecutive
+days without a weekend break. If a weekend break was necessary,
+the infusion was only given on radiotherapy treatment
+days. In the latter years of the study, the 5-FU infusion was
+given in the outpatient setting by continuous infusion pump.
+Appropriate guidelines for 5-FU dosage reduction or elimination
+were recommended for hematologic or mucosal toxicity,
+but RT interruptions were not.
+Statistical Methods and Study Design
+The outcomes of interest in this study were pelvic control,
+survival, and disease-free survival, as well as the serious late
+complication rate. Figure 1 demonstrates the study design, the
+four-arm study was designed to determine whether any significant
+differences in outcome were evident between arms (a)
+and (d) and to be explanatory with respect to causation. Two
+factors were altered in arm (d) compared to standard arm (a):
+(1) the addition of 5-FU,
+(2) the change in radiation fractionation scheme.
+If differences were to be observed in pelvic control and survival
+in arm (d) versus arm (a), this could be due to a change
+in either or both factors. A factorial design was planned to test
+to what degree observed differences were attributable to either
+factor. Assuming that the magnitude and direction of the 5-FU
+effects were similar in arms (b) and (d) then the effect of the
+addition of 5-FU could be tested by comparing arms (b) and (d)
+with arms (a) and (c). The reduced fraction size in arms (c) and
+(d) was designed to attempt to take advantage of knowledge of
+the affect of fraction size on late complications and to determine
+whether complication rates were decreased by using
+decreased fraction size. Additionally, the changed fractionation
+scheme with delivery of two fractions daily at the
+beginning and end of therapy was designed to maximize the
+potential for interaction between 5-FU and radiation and to
+potentially reduce complication rates. The effect of the
+fractionation was to be tested by comparing arms (c) and (d)
+with arms (a) and (b) (Fig. 1). In order to detect a 20%
+improvement in pelvic control rate from an expected 50% for
+arm (a) to 70% for arm (d) assuming an alpha of 0.05 and beta
+of 0.20, 73 patients in each of four treatment arms would be
+required for a total of 292 patients. In order to detect an
+improvement of 15% in survival in arms (c) and (d) compared
+to that seen in arms (a) and (b), assuming a 40% cause-specific
+survival rate in arm (a) and an alpha of 0.05 and beta of 0.2, the
+total number of patients required was 272.
+The ‘‘Lifetest Procedure’’ in SAS UNIX was used to compare
+survival curves. This procedure uses the Kaplan–Meier
+method that calculates the ranked test pooled across the strata
+adjusting for strata differences. Additionally, statistics testing
+homogeneity over strata were computed and checked. The
+Kaplan–Meier method was used to calculate median follow-up
+duration, censoring patients who died. Cox’s proportional hazards
+model was used to examine the variables which might
+contribute to pelvic control or survival within stratum 1. Where
+information was missing for some parameters, single models
+were fitted for these parameters. Where the data were complete,
+the stepwise regression method was used to identify the
+relevant prognostic factors.
+Because patient accrual slowed considerably in the latter
+years of the study due to multiple factors including a decline in
+eligible patients, the study was terminated prior to reaching the
+planned accrual goal.
+Complications
+Complications were considered acute and severe if occurring
+during or within 3 months from the end of radiation therapy
+and requiring hospitalization, e.g., diarrhea. Severe late or
+chronic bowel symptoms were those of fistula, perforation,
+stricture, or obstruction requiring hospitalization or surgery
+and bleeding requiring transfusion. Severe bladder symptoms
+were any condition requiring surgery, e.g., fistula, or hematuria
+requiring transfusion. Oral mucositis due to 5-FU was graded
+on a scale of 0 to 4: (1) pain without frank ulceration, (2)
+ulceration present but able to eat, (3) ulceration requiring a
+liquid diet, (4) alimentation not possible. Cytopenias were
+classed as grade 3 if bleeding or infection/fever occurred due to
+low blood counts and grade 2 if neutrophils were less than
+1000 units/L or platelets less than 50,000 units/L.
+RESULTS
+Of the 234 patients randomized, 221 were evaluable. The
+reasons for exclusion were the presence of extrapelvic disease
+at presentation in 7, patient refusal after randomization in 4,
+and missing chart/information in 2. The number excluded in
+each stratum were 6 in stratum 1, 3 in stratum 2, and 4 in
+stratum 3. The median age of the patients was 48 years with a
+range of 23 to 85 years. For strata 1 and 2 the distribution of
+FIGO stage, tumor size, nodal involvement on lymphography,
+tumor grade, and capillary lymphatic space involvement (CLS)
+for each treatment are shown in Tables 1 and 2. Ninety-nine
+patients were in stratum 1, of which 46 were stage IB/IIA and
+53 were stage IIB. One hundred and five were in stratum 2, of
+which 38 were stage IIB and 63 stage IIIB. Only 17 were in
+stratum 3. In view of the small number of patients in stratum 3,
+a detailed breakdown of possible tumor prognostic factors is
+not shown. The median duration of follow-up for the whole
+population is 59 months (95% confidence interval, 57 to 66
+months). The median size of tumor was 6.5 cm (range 3.5 to 18
+cm). The median tumor size in stratum 1 of 6 cm was large
+despite the relatively earlier FIGO stage compared to stratum
+2. The median tumor size in stratum 2 was 7 cm.
+One hundred and ninety of 221 patients received external
+beam radiation using the box technique, while 31 were treated
+with a parallel pair. Intracavitary radiation was used in all but
+19 of the 221 patients. Compliance with the planned radiation
+schedules was good. In the ‘‘standard arm’’ (a), 53 of 54
+received the prescribed tumor dose of 50 Gy in 25 fractions. In
+the ‘‘partially hyperfractionated irradiation arm’’ (c), two patients
+had radiation dose violations, one a dose of 50 Gy in 25
+fractions and the other a dose of 59 Gy in 33 fractions. In the
+standard radiation plus 5-FU arm (b), 52 of the 53 patients
+received the standard dose prescription. In the ‘‘partially hyperfractionated
+RT with 5-FU arm’’ (d), 3 of 58 received
+nonprescribed doses of 46 Gy to 52 Gy in 29 to 32 fractions.
+Of the 23 patients who received no intracavitary radiation or
+doses less than 500 cGy, there was a relatively even distribution
+across the treatment arms with 5 in arm (a), 5 in arm (b),
+3 in arm (c), and 9 in arm (d). Seven of these 23 patients
+received a compensatory boost of external radiation in doses of
+6 to 16 Gy.
+The histopathology was not centrally reviewed. One hundred
+and eighty-seven of 221 patients had squamous cell carcinoma,
+17 adenocarcinoma, 12 adenosquamous, and the remainder
+clear cell or unclassified. Tumor was grade 1 in 8 of
+221 (4%), grade 2 in 106 of 221 (48%), and grade 3 in 75 of
+the 221 (34%). Grade was not stated in 32 of 221. Capillary
+lymphatic space (CLS) involvement was commented on in
+146 of 221 (66%). CLS involvement was found in 34 of the
+146 (23%).
+Compliance with planned chemotherapy administration was
+good. Of the patients randomized to receive standard radiation
+with 5-FU, four received no chemotherapy and three received
+less than 1 g/m2 with each course. In patients randomized to
+receive hyperfractionated irradiation and 5-FU, three received
+no chemotherapy and three received less than 1 g/m2 with each
+course.
+Pelvic Control and Survival
+With a median duration of follow-up of 59 months, 119 of
+221 patients are alive, 111 without evidence of disease, and 8
+with disease present. Eighty-four have died of disease and 4
+have died of other causes with disease present. For the purpose
+of analysis, the latter group are considered dead of disease. One
+patient died of complications and 13 died of causes other than
+disease or complications. Twelve patients are lost to follow-up,
+6 with a duration of less than 2 years, 4 with less than 3 years,
+and 2 with less than 5 years. Table 3 shows the Kaplan–Meier
+estimates of 5-year disease-free survival and pelvic control for
+each stratum. The Kaplan–Meier plots of overall disease-free
+survival, disease-free survival for each stratum, and diseasefree
+survival by treatment assigned are shown in Figs. 2, 3, and
+4, respectively. There is no significant difference in the overall
+5-year disease-free survival between the treatment arms. There
+is a trend in favor of standard radiation and 5-FU. The diseasefree
+5-year survival in arm (a), (c), (d), and (b), respectively,
+were 45, 53, 58, and 61%. The overall pelvic control by
+treatment assigned for arms (a), (c), (d), and (b) was 58, 65, 68,
+and 69%, respectively. Whereas there was once again a trend
+in favor of concurrent 5-FU, particularly in combination with
+standard radiation, the difference was not statistically significant.
+The disease-free survival by treatment arm for the 99 patients
+in stratum 1 is shown in Fig. 5. There was a significant
+improvement in 5-year survival and disease-free survival for
+those treated with standard radiation and 5-FU compared to the
+other treatments (log rank test P 5 0.05). The actuarial 5-year
+disease-free survival was 76% compared to 65% for hyperfractionated
+irradiation plus 5-FU, 58% for hyperfractionated irradiation
+alone, and 39% for standard radiation. Similar differences
+were observed in pelvic control, but the addition of 5-FU
+to standard radiation resulted in a greater improvement in
+disease-free survival than in pelvic control. Table 4. A factorial
+analysis of the magnitude of the impact of differences in the
+radiation schedule or the addition of 5-FU on the improvements
+in pelvic control and disease-free survival in stratum 1
+was performed. In examining the effect of the addition of 5-FU
+on disease-free survival in stratum 1, there is a highly significant
+difference in favor of the use of 5-FU regardless of the
+radiation employed. The 5-year Kaplan–Meier disease-free
+survival for those irradiated without 5-FU was 48% versus
+71% for those who received 5-FU (log rank P 5 0.02) (Fig. 6).
+Pelvic control was 66% for those who did not receive 5-FU
+compared to 84% for those who did (P 5 0.07). However, in
+evaluating the importance of the contribution of the change in
+fractionation to the differences observed, there was no significant
+difference in the 5-year survival of those treated on
+standard radiation versus those treated with hyperfractionated
+irradiation whether or not 5-FU was used. When the radiation
+fraction size is reduced as in this altered fractionation scheme
+a compensatory increase in total dose over the same overall
+time is required to reach a biologically similar dose. The dose
+of 5280 cGy in 33 fractions is biologically similar to the
+standard dose of 5000 cGy in 25 fractions. It was hoped that
+the use of two treatments daily during the 5-FU infusion would
+increase any opportunity for 5-FU-radiation interaction by
+increasing the total amount of radiation given concurrently
+with 5-FU. The 5-year Kaplan–Meier survival was 62% for
+those treated with hyperfractionated irradiation and was not
+significantly different from the 58% survival of those treated
+with standard irradiation. The observed differences in pelvic
+control and survival in favor of the standard radiation and
+concurrent 5-FU associated with the addition of 5-FU rather
+than the change in radiation schedule.
+Stratum 2 was examined for differences in pelvic control and
+survival between the treatment arms and no significant differences
+were observed. There were too few patients in stratum 3
+to do valid statistical analyses. Since significant differences in
+pelvic control and survival were observed in stratum 1 which
+contained only 99 patients, it is important to examine whether
+there was an uneven distribution of other possible patient or
+tumor-related prognostic factors across the treatment arms to
+account for the differences observed. We wished to determine
+whether there was an accumulation of ‘‘bad risk’’ factors in the
+group receiving standard radiation alone or alternatively that
+there was an accumulation of ‘‘good risk’’ factors in patients
+receiving standard RT and 5-FU. For those receiving standard
+RT, the pelvic control rate was 60% but the disease-free
+survival was only 39%. Table 1 shows the distribution of
+identifiable possible prognostic factors by treatment assigned.
+There appears to be no imbalance in the distribution by FIGO
+stage, cell type or CLS involvement. If anything, there was a
+slight excess of larger tumors in those receiving standard
+radiation and 5-FU, the arm with the best outcomes.
+The time to development of serious late complications
+was seven to 53 months (median 16 months). Eight occurred
+in those receiving standard radiation and five in those receiving
+altered RT. There was no apparent increase in late
+complications associated with the addition of 5-FU. Seven
+occurred in the group receiving 5-FU and six in those
+without 5-FU. Serious complications resolved (obstruction
+resolved or colostomy closed) in all but four of the patients.
+Given the low incidence of late complications it is not
+possible to establish an actuarial probability of risk with
+these regimens. The crude incidence of 5.9% (13 of 221)
+presents a good estimate of the overall risk for chronic
+bowel complications in survivors, since most occur in the
+first 3 years after radiation therapy. The median duration of
+follow up on this series at 59 months is sufficient to observe
+approximately 80% of expected events.
+DISCUSSION
+Other than the report on the use of concurrent hydroxyurea this is the first published report of the results of a randomized
+study examining the role of concurrent chemotherapy
+and radiation in advanced cervical cancer. To reach the conclusion
+that concurrent chemotherapy truly adds benefit to
+results achievable with radiation alone, it is important that the
+radiation be delivered in an optimal manner with adequate
+doses at ‘‘Point A’’ (80 to 90 Gy) and limited overall treatment
+times. The radiation scheme used in this study conforms to
+those guidelines, although the inability to apply intracavitary
+radiation in 10% of these patients with advanced disease was
+disappointing.
+The rationale for the use of concurrent infusional 5-FU and
+the treatment regimens studied has been discussed in detail in
+a previous publication. Patients were stratified into three
+groups in this study because pelvic control and survival outcomes
+are strongly influenced by the bulk of pelvic disease,
+declining with increasing bulk. The specific strata
+selected were based on previous retrospective data indicating
+significantly different prognoses for these specific clinical
+groupings of bulk of pelvic disease. The original design for
+this study required 292 patients with adequate power to detect
+a 15% difference in pelvic control and survival. Unfortunately,
+because accrual was protracted and declined in the latter years
+of the study, the study was closed prematurely with 234 patients
+accrued. It is therefore not surprising that significant
+differences in survival and pelvic control were not observed in
+the overall population. However, given the observation of a
+consistent trend in favor of standard RT plus 5-FU it was felt
+justified to perform an exploratory subset analysis of each
+stratum. It was anticipated that the magnitude of benefit might
+vary for each stratum. There were too few patients (17) in
+stratum 3 to justify further analysis. In strata 1 and 2 there were
+sufficient patients to perform exploratory analyses. Within
+stratum 2 there was an improvement in pelvic control with the
+use of 5-FU but the difference was not statistically significant.
+However, in stratum 1 constituted of patients with stage IB/IIA
+and those IIB tumors with medial parametrial involvement, a
+significant improvement in both pelvic control and disease-free
+survival in favor of standard radiation with concurrent 5-FU
+was observed (Figs. 5 and 6). The disease-free survival with
+standard radiation alone, however, was surprisingly low at
+39%. A factorial analysis compared the outcome for all patients
+treated with concurrent 5-FU compared to those without
+5-FU. A similar analysis compared all those treated with standard
+radiation to those treated with hyperfractionated irradiation.
+The benefits observed occurred in relation to the use of
+concurrent 5-FU rather than to the change in radiation fractionation.
+The direction of benefit in favor of 5-FU with standard
+radiation compared to the other treatments was the same
+in strata 1 and 2. Because of the small numbers in each
+treatment arm it was surprising to observe a significant difference.
+With so few randomized the possibility exists that an
+imbalance in prognostic factors exists between the treatment
+arms might account for the observed outcome differences. A
+number of patient- and tumor-related factors were analyzed for
+their impact on outcome using the Cox’s proportional hazard
+model. The tumor- and patient-related factors examined were
+FIGO stage (IB versus IIA versus IIB), size of tumor (greater
+or less than 6 cm and greater or less than 7 cm), grade of tumor
+the presence or absence of capillary-like space involvement,
+nodal involvement, and patient age as a continuous variable.
+The treatment related factors examined were the use of intracavitary
+radiation, the use of 5-FU, and the fractionation
+scheme, standard versus partially hyperfractionated. Unfortunately
+the data are not yet available to analyze the impact of
+variability in overall treatment time. The only significant factor
+predicting for disease-free survival was the use of 5-FU. The
+risk ratio for recurrence and death from disease was reduced to
+0.49 (95% confidence interval 0.25 to 0.97). Thus, there is no
+obvious explanation for the differences observed other than a
+treatment effect from the 5-FU. With so few patients, however,
+there may still be a maldistribution of some unrecognized
+tumor or patient-related prognostic factor which could be responsible
+for the differences observed.
+The changed fractionation scheme, using smaller than conventional
+fraction sizes and a 6% increase in total dose was
+designed to be approximately biologically equivalent for tumor
+control to that of standard radiation yet lead to reduced complications.
+The overall incidence of serious complications was
+too low to detect differences between the treatment arms. The
+observed complication rate in any of the treatment arms appears
+acceptable, 7% with standard radiation whether or not
+5-FU was added and 4% in the hyperfractionated radiation
+arms whether or not 5-FU was added.
+The second rationale for use of the partially hyperfractionated
+radiation scheme was to attempt to maximize the dose of
+radiation delivered during the infusion of 5-FU. Two fractions
+of 160 cGy per day were delivered during the infusion at the
+beginning and end of treatment in arm (d). Hyperfractionated
+radiation and 5-FU should theoretically have offered a benefit
+over that of standard radiation and 5-FU if increased tumor cell
+kill results from any interaction between the modalities. Such
+a benefit was not observed in this study. Theoretical explanations
+for the lack of benefit may include a reduction in tumor
+cell kill due to the reduced radiation fraction size and/or an
+insufficient compensatory increase in total dose to compensate
+for the reduced fraction size. The mechanism by which 5-FU
+exerts benefit is unknown, but may be simply by additivity due
+to its independent cytotoxic effect rather than to an interaction
+with radiation.
+The lack of significant benefit for 5-FU in stratum 2 may be
+due to the small sample size or, theoretically, that the added
+chemotherapy was insufficient to significantly impact on more
+advanced disease.
+The observation that 5-FU impacted more on survival
+than pelvic control in stratum 1 is difficult to explain. It was
+not expected that the 5-FU dosage would be sufficient to
+directly reduce distant micrometastases. An alternative explanation
+is that 5-FU contributed to pelvic control and
+better pelvic control decreased the frequency of distant
+metastases.
+From the subset analysis of this trial we have generated the
+hypothesis that there may be a beneficial effect of adding
+concurrent infusional 5-FU to standard in patients with the
+disease characteristics of stratum 1. Since the data are not
+conclusive because of limited numbers, confirmation of the
+beneficial effects observed in this study is necessary. The
+number of patients is too few to recommend that concurrent
+infusional 5-FU with pelvic irradiation should become the
+standard therapy for these patients.
+Other completed or ongoing randomized studies of the
+Gynecologic Oncology Group (protocols 85 and 120) and of
+the NCI Canada examine concurrent radiation and cisplatin
+or cisplatin combinations with 5-FU. The results of these
+additional studies will be influential in confirming whether
+the strategy of concurrent chemotherapy and radiation is
+beneficial for patients with advanced cervical cancer.

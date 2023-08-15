@@ -1,0 +1,105 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1118\1118-Abstract-A.txt data\input\1118\1118-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...137781 ms
+
+Chaining summary file data\input\1118\1118-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  14188 ms
+	Chain processing time: 15 ms
+
+Chaining full-text file data\input\1118\1118-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  240844 ms
+	Chain processing time: 31 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.09
+	Std Dev:      2.56
+	Strong Score: 6.20
+
+	T061-Therapeutic or Preventive Procedure: 9.00
+	T081-Quantitative Concept: 8.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    20.39
+	Std Dev:      71.66
+	Strong Score: 163.71
+
+	T061-Therapeutic or Preventive Procedure: 280.00
+	T081-Quantitative Concept: 240.00
+	T169-Functional Concept: 306.00
+	T170-Intellectual Product: 324.00
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 4
+	Number of concepts in Summary: 9
+
+	Number of strong chains in Full-text with concepts from Summary: 4
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 9
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 9)
+-------------
+
+0) The purpose of our study was to determine whether the chemoradiation is better than radiotherapy alone with respect to survival and treatment toxicity in patients with advanced carcinoma of the cervix. 
+1) Treatment-related toxicity appears to be higher with the combination of radiotherapy and chemotherapy compared with radiotherapy alone (36.7% versus 17.7%, P Å 0.02). 
+2) In conclusion, this study showed that concurrent multiagent chemoradiotherapy did not prove to be a superior definitive therapy over radiotherapy alone for patients with advanced cervical carcinoma.
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,37 of 146)
+-------------
+
+0) Therefore, to further test the hypothesis, a definitive statement about the optimal management in this situation required a prospective, randomized trial. 
+1) Thus, we designed the randomized trial to compare the tumor response and survival rate of patients with advanced cervical carcinoma receiving concurrent chemotherapy and radiotherapy versus patients receiving radiotherapy alone. 
+2) We also compared the toxicity of the two compared groups after planned treatment.
+3) Patients with previously untreated stage IIb bulky or stage IIIb advanced cervical carcinoma were eligible for study. 
+4) Informed consents were obtained from all patients, and the study protocol was approved by the Protocol Committee of Chang Gung Memorial Hospital. 
+5) Pretreatment evaluation included a complete medical history and physical examination, complete blood count, serum electrolytes, chemistry profile, tumor markers, chest X ray, an electrocardiogram, and contrast-enhanced computerized tomography (CT) of the abdomen and pelvis. 
+6) Patients with documented disease beyond the pelvis were excluded, as were patients with positive paraaortic lymph nodes. 
+7) The patients had to have a white-cell count of at least 3000/m3 and a platelet count of at least 100,000/m3 before the next course could be administered. 
+8) Cisplatin was to be delayed if serum creatinine levels did not return to 1.5 mg/dl, and creatinine clearance to 60 ml/min. 
+9) Tumor response definitions used were based on World Health Organization (WHO) criteria. 
+10) Toxicity of chemotherapy was assessed before each course. 
+11) All eligible patients were included in the analysis regardless of whether they completed the assigned treatment.
+12) RESULTS
+13) The study began in October 1990 and ended in April 1995. 
+14) The mean age of the patients was 56.2 years (range, 33 ­ 68 years) in the concurrent group, and 58.7 years (range, 41 ­ 69 years) in the radiotherapy group. 
+15) Of the chemoradiotherapy group, 43 patients completed four courses of chemotherapy, 11 patients received three courses, and 6 patients received two courses of chemotherapy. 
+16) Of the radiotherapy group, 60 patients completed radiotherapy with no delays of treatment for toxicity, whereas the planned radiotherapy was interrupted for 1 week in 2 patients because of radiation protitis or neutropenia. 
+17) The tumor response was significantly higher in patients receiving concurrent chemoradia tion than in pa tients who rece ived radiatio n alone (P = 0.04). 
+18) Acute (between initiation of therapy to 6 weeks after therapy) and late treatment-related toxicity (6 weeks after therapy) are listed in Tables 3 and 4. 
+19) The acute treatment-related toxicity (grade 3 or 4) appears to be higher with the concurrent chemoradiotherapy group when compared with radiation group (36.7% versus 17.7%, P Å 0.02). 
+20) Although there was no significant difference between the two compared groups with regard to treatment-related late toxicity (concurrent group 23.3% versus radiation group 12.9%, P = 0.13),a nonsignificant trend toward a higher rate of late toxicity in the chemoradiotherapy group is evident. 
+21) Additionally, there was one death related to late toxicity due to a small bowel obstruction with perforation and following with sepsis after chemoradiotherapy. 
+22) The median time to pelvic recurrence was 15 months (range, 7 ­ 19 months), whereas the median time to distant recurrence was 21 months (range, 12 ­ 33 months).
+23) Survival and Disease-Free Survival Of the chemoradiotherapy group, 31 patients (51.7%) are alive without evidence of disease, 6 (10%) remain alive with disease, and 21 (35%) died of disease at 7 ­ 48 months. 
+24) After a median follow-up of 46.8 months, the disease-free survival and actuarial survival rates at 3 years for patients in the concurrent chemoradiotherapy group were not statistically different compared with patients in the radiotherapy group (51.7% versus 53.2%, P Å 0.92, and 61.7% versus 64.5%, P Å 0.88, respectively). 
+25) DISCUSSIONTreatment results using radiation alone in women with locally advanced cervical cancer are unsatisfactory. 
+26) Several studies have confirmed that bulky cervical cancer and extensive parametrial invasion are indeed poor prognostic features. 
+27) Radiation effects are dependent on well-oxygenated tumor cells. 
+28) In theory, bulky tumors have significant hypoxic cell populations that are relatively radioresistant. 
+29) Therefore, the design of a more efficient treatment modality, such as the addition of chemotherapy plus radiotherapy, with the objective of increasing tumor control and long-term survival for patients with advanced cervical carcinoma, is advocated. 
+30) To date, cisplatin is one of the most active drugs tested in this tumor. 
+31) Cisplatin has been the mainstay of treatment for cervical cancer, consistently showing a 20 ­ 25% response rate. 
+32) The published trials in advanced cervical carcinoma with concurrent chemoradiotherapy, either a single-agent weekly cisplatin or in combination with cisplatin ­ 5-FU or cisplatin ­ bleomycin ­ vincristine, yield tumor response rates of approximately 80%, and 3-year survival rates reached 50 to 60% of patients. 
+33) To further increase the systemic activity and the radiation-enhancing potential of the chemotherapy, we chose cisplatin-based regimens with vincristine and bleomycin in this trial because it had proven high efficacy of local control in our previous phase I and II trials for patients with advanced cervical carcinoma. 
+34) Although the response rate of 88.4%, following concurrent chemoradiotherapy, in our study is very encouraging when compared with 74.3% of the radiotherapy group at the end of therapy, this study does not provide evidence that chemoradiation is better than radiotherapy alone with respect to survival. 
+35) This finding has been associated with occult extrapelvic disease. 
+36) Additionally, the two patients who did not complete their planned treatment course died of disease. 

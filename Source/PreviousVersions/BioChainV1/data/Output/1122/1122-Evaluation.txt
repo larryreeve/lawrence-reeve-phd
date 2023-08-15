@@ -1,0 +1,91 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1122\1122-Abstract-A.txt data\input\1122\1122-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...63469 ms
+
+Chaining summary file data\input\1122\1122-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  16969 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\1122\1122-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  178406 ms
+	Chain processing time: 16 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.30
+	Std Dev:      2.66
+	Strong Score: 6.63
+
+	T061-Therapeutic or Preventive Procedure: 9.00
+	T081-Quantitative Concept: 8.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    10.89
+	Std Dev:      38.02
+	Strong Score: 86.93
+
+	T061-Therapeutic or Preventive Procedure: 117.00
+	T081-Quantitative Concept: 217.00
+	T169-Functional Concept: 104.00
+	T170-Intellectual Product: 105.00
+Summary concept nine (qualifier value):T081 has no match
+Summary concept cm (qualifier value):T081 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 4
+	Number of concepts in Summary: 9
+
+	Number of strong chains in Full-text with concepts from Summary: 4
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 7
+	  Precision: 0.78
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,4 of 16)
+-------------
+
+0) Objective, To compare the clinical efficacy of adjuvant chemotherapy alone vs chemotherapy plus whole pelvic radiation therapy (RT) on recurrence rates, patterns of recurrence, and survival of patients post-RH-PLND for cervical cancer at high risk for recurrence. 
+1) Risk factors include deep cervical invasion, tumor §4 cm, parametrial involvement, nonsquamous histology, and/or pelvic lymph node metastasis. 
+2) Chemotherapy consisted of cisplatin and bleomycin, alone or in combination with whole pelvic RT. 
+3) Survival was determined by Kaplan ­ Meier estimate. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,20 of 79)
+-------------
+
+0) Patients who met the entry criteria were given the opportunity to participate in this clinical trial, entry and initiation of therapy had to be within 6 weeks of the date of radical hysterectomy. 
+1) Patients were assigned a stage based on International Federation of Gynecologists and Obstetricians (FIGO) criteria. 
+2) After signing an IRB-approved informed consent form, patients were randomized to receive one of two treatments. 
+3) Two additional cycles of cisplatin alone (75 mg/m2) were prescribed after completion of the pelvic radiation therapy. 
+4) Four centers participated in this clinical trial. 
+5) At each institution, the protocol was approved by the institutional review board prior to entry of patients, all patients signed an informed consent prior to entry. 
+6) Randomization 
+7) was performed at Memorial Sloan–Kettering Cancer Center by the Department of Biostatistics using an envelope system. 
+8) Data forms were maintained in a central location, also at MSKCC. 
+9) Patients with recurrent disease were classified by the site of recurrence and the interval from the date of radical hysterectomy to the date of recurrence. 
+10) The alternative hypothesis considered that chemotherapy alone would result in a 5-year disease-free survival of 20% less or 50% (significance level of 0.05 and a power of 0.80). 
+11) The trial was closed to patient entry in June 1994 due to less than optimal accrual. 
+12) RESULTS 
+13) Four patients randomized to chemotherapy plus radiation refused either the radia-to follow-up or had no follow-up data available for analysis. tion therapy (n ?3) or had a major violation in the radiation Thus, there were 33 patients who received the combination therapy treatment plan when intravaginal radiation therapy of chemotherapy and pelvic radiation and 39 who received was administered, and she did not receive the last 2 cycles chemotherapy alone who could be evaluated for disease-of cisplatin (n ?1). free and overall survival. 
+14) The rationale for adding radiation therapy, 1 patient received 3780 cGy of 4500 cGy chemotherapy to the pelvic radiation is to provide systemic cytotoxic agents active against cervical cancer with the potential to eradicate micrometastasis. 
+15) In the Memorial Hospital pilot trial of the combination of chemotherapy plus pelvic radiation, there was a promising improvement in outcome when compared to historical controls who had received pelvic radiation alone. 
+16) Killackey et al. reported no recurrences among 22 patients with cervical cancer at high risk after radical hysterectomy utilizing a similar treatment regimen consisting of chemotherapy plus pelvic radiation therapy. 
+17) Tattersall et al. were unable to demonstrate a difference in disease-free or overall survival in 71 patients randomized to either pelvic radiation versus chemotherapy plus pelvic radiation after radical hysterectomy for Stage IB–IIA cervical cancer. 
+18) Twelve of the 19 recurrences were either local recurrences only or local plus distant metastases, with no difference in the number of local occurrences between the two treatment arms. 
+19) The analysis of the data from the 89 patients entered is not able to document that the two treatments are equivalent, but must be taken to suggest that the likelihood of finding a significant difference between these two treatment modalities in a full trial of 160 patients is small. 

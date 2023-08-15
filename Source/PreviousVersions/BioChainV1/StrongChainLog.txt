@@ -1,0 +1,264 @@
+Paper #0162
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+Paper #0234
+
+
+	Strong chains in abstract:
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+Paper #0271
+
+
+	Strong chains in abstract:
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+Paper #0312
+
+
+	Strong chains in abstract:
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+Paper #0872
+
+
+	Strong chains in abstract:
+		T081: Quantitative Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T081: Quantitative Concept
+		T170: Intellectual Product
+
+Paper #0954
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T170: Intellectual Product
+
+Paper #1001
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+Paper #1108
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+Paper #1110
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+Paper #1111
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T170: Intellectual Product
+
+Paper #1115
+
+
+	Strong chains in abstract:
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+Paper #1117
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+Paper #1118
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+Paper #1122
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+Paper #1132
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+Paper #1154
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+Paper #1197
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+Paper #UNK1
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+		T170: Intellectual Product
+
+Paper #UNK2
+
+
+	Strong chains in abstract:
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+Paper #UNK3
+
+
+	Strong chains in abstract:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+
+	Strong chains in full-text:
+		T061: Therapeutic or Preventive Procedure
+		T081: Quantitative Concept
+		T169: Functional Concept
+

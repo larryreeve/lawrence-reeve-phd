@@ -1,0 +1,5 @@
+PURPOSE, As previously shown, antibody treatment increased survival of patients with resected colorectal cancer of stage Dukes' C.  
+
+Primary end points were overall survival and disease-free interval.  
+
+After 7 years of follow-up evaluation, treatment had reduced overall mortality by 32% (Cox's proportional hazard, P < .01, log-rank, P=.01) and decreased the recurrence rate by 23% (Cox's proportional hazard, P < .04, log-rank, P=.07). 
