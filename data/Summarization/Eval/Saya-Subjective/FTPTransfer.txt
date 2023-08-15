@@ -1,0 +1,129 @@
+user lhr24 lr9123ip
+binary
+prompt
+mkdir /public_html/biochain/pdf
+mkdir /public_html/biochain/eval/0162
+mkdir /public_html/biochain/eval/0234
+mkdir /public_html/biochain/eval/0271
+mkdir /public_html/biochain/eval/0312
+mkdir /public_html/biochain/eval/0872
+mkdir /public_html/biochain/eval/0954
+mkdir /public_html/biochain/eval/1001
+mkdir /public_html/biochain/eval/1108
+mkdir /public_html/biochain/eval/1110
+mkdir /public_html/biochain/eval/1111
+mkdir /public_html/biochain/eval/1115
+mkdir /public_html/biochain/eval/1117
+mkdir /public_html/biochain/eval/1118
+mkdir /public_html/biochain/eval/1122
+mkdir /public_html/biochain/eval/1132
+mkdir /public_html/biochain/eval/1154
+mkdir /public_html/biochain/eval/1197
+mkdir /public_html/biochain/eval/UNK1
+mkdir /public_html/biochain/eval/UNK2
+mkdir /public_html/biochain/eval/UNK3
+
+cd /public_html/biochain/pdf
+put ../input/0162/0162-Article.pdf
+put ../input/0234/0234-Article.pdf
+put ../input/0271/0271-Article.pdf
+put ../input/0312/0312-Article.pdf
+put ../input/0872/0872-Article.pdf
+put ../input/0954/0954-Article.pdf
+put ../input/1001/1001-Article.pdf
+put ../input/1108/1108-Article.pdf
+put ../input/1110/1110-Article.pdf
+put ../input/1111/1111-Article.pdf
+put ../input/1115/1115-Article.pdf
+put ../input/1117/1117-Article.pdf
+put ../input/1118/1118-Article.pdf
+put ../input/1122/1122-Article.pdf
+put ../input/1132/1132-Article.pdf
+put ../input/1154/1154-Article.pdf
+put ../input/1197/1197-Article.pdf
+put ../input/UNK1/UNK1-Article.pdf
+put ../input/UNK2/UNK2-Article.pdf
+put ../input/UNK3/UNK3-Article.pdf
+
+cd /public_html/biochain/eval/0162
+mdelete *.txt
+mput 0162/*.txt
+
+cd /public_html/biochain/eval/0234
+mdelete *.txt
+mput 0234/*.txt
+
+cd /public_html/biochain/eval/0271
+mdelete *.txt
+mput 0271/*.txt
+
+cd /public_html/biochain/eval/0312
+mdelete *.txt
+mput 0312/*.txt
+
+cd /public_html/biochain/eval/0872
+mdelete *.txt
+mput 0872/*.txt
+
+cd /public_html/biochain/eval/0954
+mdelete *.txt
+mput 0954/*.txt
+
+cd /public_html/biochain/eval/1001
+mdelete *.txt
+mput 1001/*.txt
+
+cd /public_html/biochain/eval/1108
+mdelete *.txt
+mput 1108/*.txt
+
+cd /public_html/biochain/eval/1110
+mdelete *.txt
+mput 1110/*.txt
+
+cd /public_html/biochain/eval/1111
+mdelete *.txt
+mput 1111/*.txt
+
+cd /public_html/biochain/eval/1115
+mdelete *.txt
+mput 1115/*.txt
+
+cd /public_html/biochain/eval/1117
+mdelete *.txt
+mput 1117/*.txt
+
+cd /public_html/biochain/eval/1118
+mdelete *.txt
+mput 1118/*.txt
+
+cd /public_html/biochain/eval/1122
+mdelete *.txt
+mput 1122/*.txt
+
+cd /public_html/biochain/eval/1132
+mdelete *.txt
+mput 1132/*.txt
+
+cd /public_html/biochain/eval/1154
+mdelete *.txt
+mput 1154/*.txt
+
+cd /public_html/biochain/eval/1197
+mdelete *.txt
+mput 1197/*.txt
+
+cd /public_html/biochain/eval/UNK1
+mdelete *.txt
+mput UNK1/*.txt
+
+cd /public_html/biochain/eval/UNK2
+mdelete *.txt
+mput UNK2/*.txt
+
+cd /public_html/biochain/eval/UNK3
+mdelete *.txt
+mput UNK3/*.txt
+
+quit
+

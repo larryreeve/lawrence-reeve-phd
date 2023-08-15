@@ -1,0 +1,73 @@
+
+   THE ROLE OF DOXORUBICIN (Adriamycin, Pharmacia & Upjohn, Inc, Kalamazoo, MI) for the treatment of
+women with metastatic breast cancer is clearly established. It is the most active single agent for this
+disease' and, when used in combination chemotherapy,has been shown to produce response rates that range
+from 55% to 82%.2 It has been suggested that continuous treatment for advanced breast cancer compared
+with intermittent treatment improves quality of life.
+   Therefore, afterJanuary 14, 1991, patients who were randomized to either arm of the studies and had
+received a cumulative dose of at least 300 mg/m2 of doxorubicin subsequently received open-label DZR.
+Drug Treatment Chemotherapy consisted of 500 mg/m2 fluorouracil, 50 mg/m2 doxorubicin, and 500 mg/m2
+cyclophosphamide, which were administered intravenously (IV) on the first day of each treatment course
+DZR or PLA, designated as the blinded study drug, was administered in a volume of 50 mL/m2 (10,1 ratio
+of study drug to doxorubicin) by slow IV push or rapid-drip IV infusion. Treatment was repeated every
+3 weeks, provided recovery from toxicity had occurred. In study 088001, the initial dose ratio of the
+blinded study drug (DZR or PLA) to doxorubicin was 20,1 (DZR 1,000 mg/m2). During the first 9 months
+of the study, six deaths occurred on the DZR arm of 088001, five deaths occurred on the DZR arm of a
+parallel study (088002, a small-cell lung cancer study using a 20,1 dose). Throughout study 088006, the
+dose ratio of study drug to doxorubicin was 10,1.
+   Dose Modifications. A computer-based expert system was developed to ensure compliance with scheduled
+evaluations and dose modifications. A computer-generated program calculated the patient's body-surface
+area and recommended initial doses, dates for future treatments, and dose modifications or delays based
+on the toxicity observed for each course Toxicity was graded using ECOG guidelines. 24 In addition, follow-up
+tests were recommended at the appropriate times.
+   Dose reductions due to hematologic toxicity were allowed for fluorouracil and cyclophosphamide, but
+were not permitted for doxorubicin or DZR. Treatment was delayed for 7 days if on day 22 the granulocyte
+count was less than 1.5 x 109/L or the platelet count less than 90 x 109/L. Dose reductions for other
+toxicities were not permitted. A dose delay was defined as a period of at least 28 days since the previous
+cycle of treatment. The studies had no predetermined cumulative dose for discontinuation of doxorublcin.
+   Patients were removed from the study if they developed progressive disease, a cardiac event, or other
+toxicity that precluded further treatment. There was no predetermined cumulative stopping dose of doxorubicin.The
+case report forms of patients reported to have CHF on or off study by December 31, 1993 were independently
+evaluated by a referee cardiologist who was blinded to the treatment arm the patient had received.
+   The analyses presented in this report focus on 534 patients (349 on study 088001 and 185 on study
+088006) who received the 10,1 dose ratio of DZR or PLA to doxorubicin and were randomized before January
+14, 1991. The 53 patients on the PLA arm who were still receiving treatment on January 14, 1991 and crossed
+over to open-label DZR were not censored after crossing over. For patients in the DZR and PLA groups,
+the cumulative doxorubicin dose at cardiac event was plotted using Kaplan-Meier curves and the doses
+were compared using the log-rank and generalized Wilcoxon tests. Patients who discontinued treatment
+without experiencing any of the four cardiac events were censored at the cumulative dose received when
+they went off treatment. The study was designed so that if the true HR of doxorubicin dose at cardiac
+event was 3.0 in favor of the DZR group, the power to detect this difference would be .80 using a one-sided
+log-rank test, setting the alpha level at .05. Objective response rates (CRs and PRs) were compared using
+the Pearson X2 test in patients on the two arms with bidimensional measurable disease.
+   The time to disease progression and survival were plotted using Kaplan-Meier curves and compared using
+both the log-rank and the generalized Wilcoxon tests. The PLA and DZR groups were compared by stratifying
+by study and using either the blocked Wilcoxon or Mantel-Haenszel test.
+   Also included are the patients who received the 10,1 dose ratio (study drug to doxorubicin) randomized
+before the amendment on January 14, 1991, and those randomized after that date.
+   The analyses presented in this report include only the 534 patients who received the 10,1 dose ratio
+randomized before January 14, 1991. This was to ensure a homogenous population of patients, since the
+dose and design of the trial were changed during the course of the studies.
+   Reasons for protocol violations included ineligibility for study entry (n = 8), study drug scheduling,
+recording, or dosing problems (n = 18), ejection fraction changes that did not fulfill criteria for cardiac
+event, but patient taken off study by investigator (n = 7), and an 8-week treatmentdelay (n = 1).
+   Disease characteristics for these 534 patients randomized before January 14, 1991 and who received
+a 10,1 dose on studies 088001 and 088006 are listed in Table 2.
+   The log-rank test showed this difference between groups to be highly statistically significant (P
+< .001), but the generalized Wilcoxon test indicated borderline significance (P = .068). The HR of PLA
+to DZR in study 088001, adjusted for six cardiac risk covariables (age, diabetes mellitus, history ofcardiovascular
+disease, hypertension, prior mediastinal irradiation, and LVEF within 10% of the institution's LLN),
+was 2.84 (95% CI, 1.71 to 4.71, P < .001, Wald X2 test). The HR for study 088006, adjusted for these
+six covariables, was 2.14 (95% CI, 1.06 to 4.33, P = .034, Wald X2 test). Response Rate Results of the
+initial review of objective response rates (CRs and PRs) for patients with bidimensional measurable disease
+demonstrated a significantly higher objective response rate in patients on study 088001 who received
+PLA (63%) than in those who received DZR (48%) (P = .007, Pearson x2 test). All patients with measurable
+disease who were enrolled onto studies 088001 and 088006 and who received a 10,1 dose are listed in Table
+5.
+   The difference between groups was not statistically significant according to either the log-rank or
+the generalized Wilcoxon test (P = .27 andP = .45, respectively). This was the case when either the log-rank
+or generalized Wilcoxon test was used. No statistically significant differences between groups were found
+using either the log-rank or the generalized Wilcoxon test in study 088001 (P = .88 and P = .94) and
+in study 088006 (P = .23 and P = .13).
+   Dose Modification. When dose reductions and dose delays were analyzed separately, therewere still
+no significant differences between arms.
