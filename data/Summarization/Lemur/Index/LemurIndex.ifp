@@ -1,0 +1,15 @@
+VERSION 4.2
+NUM_DOCS 24
+NUM_TERMS 83693
+NUM_UNIQUE_TERMS 5295
+AVE_DOCLEN 3487
+INV_INDEX data/lemur/index/LemurIndex.invfp
+NUM_INVFILES 1
+INV_LOOKUP data/lemur/index/LemurIndex.invlookup
+DT_INDEX data/lemur/index/LemurIndex.dt
+NUM_DTFILES 1
+DT_LOOKUP data/lemur/index/LemurIndex.dtlookup
+DOCIDS data/lemur/index/LemurIndex.did
+TERMIDS data/lemur/index/LemurIndex.tid
+DOCMGR_IDS data/lemur/index/LemurIndex.dm
+parser trec

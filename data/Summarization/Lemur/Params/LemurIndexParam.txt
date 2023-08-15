@@ -1,0 +1,6 @@
+<parameters>
+<index>data/lemur/index/LemurIndex</index>
+<indexType>inv</indexType>
+<position>1</position>
+<docFormat>trec</docFormat>
+</parameters>

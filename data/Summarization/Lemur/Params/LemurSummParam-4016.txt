@@ -1,0 +1,5 @@
+<parameters>
+  <index>data/lemur/index/LemurIndex.ifp</index>
+  <docID>4016</docID>
+  <summLength>27</summLength>
+</parameters>
