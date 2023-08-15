@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<!-- Document type definition for a DUC 2006 task submission -->
+
+<!-- A DUC task submission is the formatted output of one run of a
+summarization system for all the document sets for the task.  The task
+produces a short 250-word multi-document summary for each document
+set.
+
+For each multi-document summary, identify the associated document set
+(DOCSET) using the topic id (name of the directory containing the
+documents in the cluster); e.g., "D0601A" .
+
+For the task submission, identify the task name (only one "MAIN" task
+in this year's evaluation) and priority (only 1 in this year's
+evaluation) -->
+
+<!ELEMENT  DUC2006TASKSUBMISSION  (MULTI+)>
+<!ATTLIST  DUC2006TASKSUBMISSION     
+                  TASK       (MAIN)                #REQUIRED
+                  PRIORITY   (1)		   #REQUIRED
+>
+
+
+<!--  Multi-document abstract                          -->
+<!ELEMENT  MULTI             (#PCDATA)       > 
+<!ATTLIST  MULTI
+                  DOCSET     (D0601A|D0602B|D0603C|D0604D|D0605E|D0606F|D0607G|D0608H|D0609I|D0610A|D0611B|D0612C|D0613D|D0614E|D0615F|D0616G|D0617H|D0618I|D0619A|D0620B|D0621C|D0622D|D0623E|D0624F|D0625G|D0626H|D0627I|D0628A|D0629B|D0630C|D0631D|D0632E|D0633F|D0634G|D0635H|D0636I|D0637A|D0638B|D0639C|D0640D|D0641E|D0642F|D0643G|D0644H|D0645I|D0646A|D0647B|D0648C|D0649D|D0650E)              #REQUIRED
+> 

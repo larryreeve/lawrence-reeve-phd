@@ -1,0 +1,167 @@
+<!DOCTYPE DUC2006SUBMISSION SYSTEM "duc2006submission.dtd">   
+<DUC2006SUBMISSION SYSID="NISTsample">
+<DUC2006TASKSUBMISSION TASK="MAIN" PRIORITY="1">
+
+<MULTI DOCSET="D0601A">
+
+Submission example for DUC 2006 - the output of a summarization system called "NISTsample" run on the documents in DOCSET "D0601A", "D0602B", etc., for the single task. You should include a summary for each of the 50 DOCSETs, even if it is just an empty summary. You should fill in your own short, distinctive SYSID and real summaries. Make sure to use TASK="MAIN" and PRIORITY="1". Remember XML is case-sensitive for element and attribute names.
+
+</MULTI>
+
+<MULTI DOCSET="D0602B">
+
+This is the text of a multi-document summary. Remember to escape &amp; and &lt; so the XML validator doesn't complain. There is a 250-word limit (where a word is a sequence of white-space-delimited characters).  Any line breaks that are in the summary will be seen by the NIST assessors when they are judging the summary for linguistic quality.  Blank lines may be used to separate paragraphs.
+
+This is a new paragraph. Separating text into paragraphs is a way to mark discourse structure and, when done properly, can improve the score for "Structure and Coherence."
+
+This submission contains a non-empty summary for only two topics (D0601A and D0602B); the remaining topics have empty summaries. (The summaries here are also completely unresponsive to the actual topics, but that's another story!)  Empty summaries will receive the lowest possible score (1) for responsiveness and each of the linguistic quality questions.  This submission will score very poorly when averaged over all 50 topics, but at least it will not cause any technical problems when NIST processes it for evaluation.
+
+</MULTI>
+
+<MULTI DOCSET="D0603C">
+
+</MULTI>
+
+<MULTI DOCSET="D0604D">
+</MULTI>
+ 
+<MULTI DOCSET="D0605E">
+</MULTI>
+ 
+<MULTI DOCSET="D0606F">
+</MULTI>
+ 
+<MULTI DOCSET="D0607G">
+</MULTI>
+ 
+<MULTI DOCSET="D0608H">
+</MULTI>
+ 
+<MULTI DOCSET="D0609I">
+</MULTI>
+ 
+<MULTI DOCSET="D0610A">
+</MULTI>
+ 
+<MULTI DOCSET="D0611B">
+</MULTI>
+ 
+<MULTI DOCSET="D0612C">
+</MULTI>
+ 
+<MULTI DOCSET="D0613D">
+</MULTI>
+ 
+<MULTI DOCSET="D0614E">
+</MULTI>
+ 
+<MULTI DOCSET="D0615F">
+</MULTI>
+ 
+<MULTI DOCSET="D0616G">
+</MULTI>
+ 
+<MULTI DOCSET="D0617H">
+</MULTI>
+ 
+<MULTI DOCSET="D0618I">
+</MULTI>
+ 
+<MULTI DOCSET="D0619A">
+</MULTI>
+ 
+<MULTI DOCSET="D0620B">
+</MULTI>
+ 
+<MULTI DOCSET="D0621C">
+</MULTI>
+ 
+<MULTI DOCSET="D0622D">
+</MULTI>
+ 
+<MULTI DOCSET="D0623E">
+</MULTI>
+ 
+<MULTI DOCSET="D0624F">
+</MULTI>
+ 
+<MULTI DOCSET="D0625G">
+</MULTI>
+ 
+<MULTI DOCSET="D0626H">
+</MULTI>
+ 
+<MULTI DOCSET="D0627I">
+</MULTI>
+ 
+<MULTI DOCSET="D0628A">
+</MULTI>
+ 
+<MULTI DOCSET="D0629B">
+</MULTI>
+ 
+<MULTI DOCSET="D0630C">
+</MULTI>
+ 
+<MULTI DOCSET="D0631D">
+</MULTI>
+ 
+<MULTI DOCSET="D0632E">
+</MULTI>
+ 
+<MULTI DOCSET="D0633F">
+</MULTI>
+ 
+<MULTI DOCSET="D0634G">
+</MULTI>
+ 
+<MULTI DOCSET="D0635H">
+</MULTI>
+ 
+<MULTI DOCSET="D0636I">
+</MULTI>
+ 
+<MULTI DOCSET="D0637A">
+</MULTI>
+ 
+<MULTI DOCSET="D0638B">
+</MULTI>
+ 
+<MULTI DOCSET="D0639C">
+</MULTI>
+ 
+<MULTI DOCSET="D0640D">
+</MULTI>
+ 
+<MULTI DOCSET="D0641E">
+</MULTI>
+ 
+<MULTI DOCSET="D0642F">
+</MULTI>
+ 
+<MULTI DOCSET="D0643G">
+</MULTI>
+ 
+<MULTI DOCSET="D0644H">
+</MULTI>
+ 
+<MULTI DOCSET="D0645I">
+</MULTI>
+ 
+<MULTI DOCSET="D0646A">
+</MULTI>
+ 
+<MULTI DOCSET="D0647B">
+</MULTI>
+ 
+<MULTI DOCSET="D0648C">
+</MULTI>
+ 
+<MULTI DOCSET="D0649D">
+</MULTI>
+ 
+<MULTI DOCSET="D0650E">
+</MULTI>
+
+</DUC2006TASKSUBMISSION>
+</DUC2006SUBMISSION>

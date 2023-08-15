@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<!-- DTD for a DUC 2006 submission -->
+
+<!-- For each duc submission, identify the system id (SYSID). This
+short string (at most 10 character, no white space) should be
+distinctive for your system in DUC 2006. Each DUC 2006 submission
+contains exactly one task-level submission -->
+
+<!ELEMENT DUC2006SUBMISSION (DUC2006TASKSUBMISSION)>
+<!ATTLIST DUC2006SUBMISSION     
+                  SYSID      CDATA              #REQUIRED
+>
+ 
+<!ENTITY % DUC2006TASKSUBMISSION SYSTEM "duc2006tasksubmission.dtd"> %DUC2006TASKSUBMISSION;
