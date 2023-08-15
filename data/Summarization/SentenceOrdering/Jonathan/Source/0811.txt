@@ -1,0 +1,117 @@
+4. (I) **We chose for our evaluation the combinations of 5- FU with thymidine, 
+with N-(phosphonacetyl)-Laspartic acid (PALA), with levamisole, and with 
+methyl CCNU, vincristine, and streptozotocin (MOF-Strept).
+
+5. (I) **We elected to use survival as our primary endpoint in patients with 
+both measurable and nonmeasurable disease and also to evaluate objective 
+response rates among those patients with measurable disease.
+
+METHODS.
+
+3. (M) **All patients were required to have histologic or cytologic confirmation 
+of unresectable or metastatic colorectal cancer.
+ 
+5. (M) **Measurable disease was defined as a tumor mass that could be clearly
+measured in two dimensions on either physical examination or chest 
+x-ray. 
+
+6. (M) **5-FU alone. 5-FU was administered in undiluted form by rapid 
+intravenous (IV) injection at a dose of 500 mg/m2 daily for 5 consecutive days. 
+
+6. (M) **Thymidine was administered by a single IV infusion over 90 minutes at a
+total dose of 45 g. 
+ 
+6. (M) **PALA was administered by rapid IV injection at a dose of 625 mg/m2/d 
+for 5 consecutive days. 
+
+6. (M) **Levamisole was administered orally at a dose of 50 mg every 8 hours on 
+days 14, 15. and 16, and days 21. 22. and 23 of each 5- FU cycle. 
+
+6. (M) **MOF-Strept. 5-FU was administered in undiluted form by rapid IV 
+injection at a dose of 300 mg/m 2/d on days I through 5 and 36 through 40. 
+
+6. (M) **Methyl CCNU was administered orally at a dosage of 30 mg/m 2/d on days 
+2 through 6. 
+
+6. (M) **Vincristine was administered by rapid IV injection at a dose of I mg/m 
+2 on days I and 36. 
+
+6. (M) **Streptozotocin was administered by rapid IV injection at a dose of 500 
+mg/m2
+on day I and every 7 days thereafter. 
+
+5. (M) **The primary endpoint of our overall study was patient survival. 
+
+RESULTS
+ 
+17. (R) **A total of 335 eligible patients were properly started on therapy and 
+are included in the analysis below. 
+
+7. (R) **At the time of this writing the study is very mature with 318 patients 
+(95%) having shown progressive disease and 278 patients (83%) having been 
+followed to the time of death.  
+
+8. (R) **MOF-Strept was characterized by substantially more frequent and more 
+severe nausea and vomiting, and this was the only regimen characterized by a
+substantive incidence of thrombocytopenia. 
+ 
+8. (R) **5-FU plus PALA had substantially more frequent mucocutaneous reactions and somewhat more frequent diarrhea, but less hematologic toxicity than 5-FU alone or any of the other regimens. 
+
+8. (R) **On the other hand, 5-FU plus thymidine had a reduced incidence of
+mucocutaneous reactions and of diarrhea with comparable hematologic 
+toxicity when compared with 5-FU alone. 
+
+9. (R) **The most unique toxicity of this regimen was a substantially increased
+incidence of neurologic effects. 
+
+2. (R) **None of the combination regimens showed a significant advantage to 5-FU 
+used alone. 
+
+10. (R) **It is noteworthy that while the MOF-Strept regimen had the highest
+regression rate, it was also the regimen with the lowest proportion of
+patients whose disease remained stable and the highest proportion of
+patients in whom the best response observed was tumor regression. 
+
+10. (R) **Whereas 5-FU plus PALA was associated with the lowest regression rate, 
+these regressions were of the longest median duration. 
+
+2. (R) **There was no suggestion that any of the combination regimens performed 
+in a superior fashion to 5-FU used alone, and it is unlikely that any could
+produce as much as a 50% increase in time to progression (P < .05) for 
+each regimen v 5-FU alone. 
+
+11. (R) **Grade of anaplasia also proved to be a powerful prognostic predictor. 
+
+12. (R) **This factor was imbalanced among our treatment regimens, but this 
+imbalance clearly weighed against the 5-FU arm that had the lowest proportion of
+low-grade lesions and the highest proportion of highly anaplastic tumors. 
+
+13. (R) **The median survival for all patients was 81/4 months.
+ 
+2. (R) **None of the combination regimens showed a significant superiority to 
+5-FU used alone. 
+
+2. (R) **There is no reasonable possibility that a 50% (4 month) increase in 
+survival could be obtained for any regimen in comparison with 5-FU alone. 
+
+DISCUSSION
+
+14. (D) **The results of this study were singularly discouraging. 
+
+1. (D) **In spite of the fact that the patients tested were in very good overall
+general condition with no previous chemotherapy exposure, none of our
+experimental regimens produced any meaningful advantage over therapy 
+with simple 5-FU alone and none can be recommended for standard practice.  
+
+15. (D) **In each of the regimens we tested, drug dosages and scheduling were
+admittedly largely arbitrary. 
+
+16. (D) **Our experience with the 5-FU-levamisole combination was particularly
+discouraging in view of the early study of the University of Wisconsin,
+indicating that this combination could produce substantial survival
+improvement.
+
+
+--------------------------------------------------------------------------------
+No need to miss a message. Get email on-the-go 
+with Yahoo! Mail for Mobile. Get started.
