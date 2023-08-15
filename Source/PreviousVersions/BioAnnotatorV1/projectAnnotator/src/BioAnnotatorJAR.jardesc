@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jardesc>
+<jar path="C:/Data/BioAnnotator/projectAnnotator/dist/BioAnnotator.jar"/>
+<options buildIfNeeded="true" compress="false" descriptionLocation="/projectAnnotator/src/BioAnnotatorJAR.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" useSourceFolders="false"/>
+<manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+<sealing sealJar="false">
+<packagesToSeal/>
+<packagesToUnSeal/>
+</sealing>
+</manifest>
+<selectedElements exportClassFiles="false" exportJavaFiles="false" exportOutputFolder="true">
+<folder path="/projectAnnotator/build"/>
+</selectedElements>
+</jardesc>
