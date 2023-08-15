@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ProbeLaunchDialog">
+		<item key="ProbeFolderSelection" value="Properties"/>
+		<item key="ProbeTableSelection" value=""/>
+	</section>
+</section>

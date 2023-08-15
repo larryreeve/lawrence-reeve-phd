@@ -1,0 +1,131 @@
+package bioannotator.duist;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
+import java.util.Map;
+import java.util.TreeMap;
+
+import bioannotator.tables.ConceptIdToConceptNameTable;
+import bioannotator.tables.PhraseIdToConceptIdsTable;
+
+public class ConceptMapperPhraseCount implements IConceptMapper
+{
+    public String getName()
+    {
+        return "ConceptMapperPhraseCount";
+    }
+    
+    public void initialize()
+    {
+    }
+
+    public List<Integer> map(List<SourcePhraseWord> sourcePhraseWords, List<CandidatePhrase> candidatePhraseItems)
+    {
+        final double ONE  = 1.0;
+        
+        List<Integer> mappedConceptIds = new ArrayList<Integer>();
+        
+        if (candidatePhraseItems.size() == 0)
+        {
+            System.out.println("No candidate phrases passed to ConceptMapperPhraseCount");
+            return mappedConceptIds;
+        }
+        
+        Map<Integer, CandidateConcept> candidateConcepts = new TreeMap<Integer, CandidateConcept>();
+        
+        // Initialize candidate phrase scores
+        for (CandidatePhrase candidatePhraseItem :  candidatePhraseItems)
+            candidatePhraseItem.setScore(ONE);
+        
+        // Build list of candidate concepts, scoring each candidate concept
+        // based on the number of phrases it contains
+        for (CandidatePhrase candidatePhraseItem : candidatePhraseItems)
+        {
+            List<Integer> conceptIds = PhraseIdToConceptIdsTable.getConceptIds(candidatePhraseItem.getPhraseId());
+            
+            for (Integer conceptId : conceptIds)
+            {
+                if (!candidateConcepts.containsKey(conceptId))
+                {
+                    CandidateConcept candidateConceptItem = new CandidateConcept(conceptId);
+                    candidateConceptItem.setScore(candidatePhraseItem.getScore());
+                    candidateConcepts.put(conceptId, candidateConceptItem);
+                }
+                else
+                {
+                    CandidateConcept candidateConceptItem = candidateConcepts.get(conceptId);
+                    candidateConceptItem.setScore(candidateConceptItem.getScore() + candidatePhraseItem.getScore());
+                }
+            }
+        }
+        
+       // System.out.println("# candidate concepts: " + candidateConcepts.size());
+        
+        
+        // Select the top 5 concepts
+        List<CandidateConcept> candidateConceptsSorted = new ArrayList<CandidateConcept>();
+        for (CandidateConcept candidateConceptItem : candidateConcepts.values())
+            candidateConceptsSorted.add(candidateConceptItem);
+
+        if (candidateConcepts.size() > 1)
+        {
+            Collections.sort(candidateConceptsSorted, 
+                    new Comparator<CandidateConcept>() 
+                    {
+                        public int compare(CandidateConcept o1, CandidateConcept o2) 
+                        {
+                            return o2.getScore().compareTo(o1.getScore());
+                        }
+                    });
+        }
+        
+        //System.out.println("PhraseCount candidate phrases:");
+        int limit = 5;
+        //System.out.println("limit=" + limit);
+        
+        if (limit > 0)
+        {
+            for (CandidateConcept candidateConceptItem : candidateConceptsSorted)
+            {
+                mappedConceptIds.add(candidateConceptItem.getConceptId());
+                
+                //System.out.println("score: " + String.format("%.12f", candidateConceptItem.getScore()) + ", conceptId:" + candidateConceptItem.getConceptId() + "(" + ConceptIdToConceptNameTable.getConceptName(candidateConceptItem.getConceptId()) + ")");
+               
+                if (mappedConceptIds.size() >= limit)
+                    break;
+            }
+        }
+        else
+        {
+//          System.out.println();
+//          System.out.println("Mapped Concepts:");
+            
+            // Find highest scoring candidate concept and select it
+            double highScore = Double.MIN_VALUE; 
+            for (CandidateConcept candidateConceptItem : candidateConcepts.values())
+            {
+                double score = candidateConceptItem.getScore();
+    
+                if (score > highScore)
+                    highScore = score;
+            }
+            
+            //System.out.println("high score: " + highScore);
+    
+            // Find all candidates with high score
+            Double highScoreValue = Double.valueOf(highScore);
+            for (CandidateConcept candidateConceptItem : candidateConcepts.values())
+            {
+                if (candidateConceptItem.getScore().compareTo(highScoreValue) >= 0)
+                {
+                    //System.out.println("score: " + String.format("%.12f", candidateConceptItem.getScore()) + ", conceptId:" + candidateConceptItem.getConceptId() + "(" + ConceptIdToConceptNameTable.getConceptName(candidateConceptItem.getConceptId()) + ")");
+                    mappedConceptIds.add(candidateConceptItem.getConceptId());
+                }
+            }
+        }
+        
+        return mappedConceptIds;
+    }
+}

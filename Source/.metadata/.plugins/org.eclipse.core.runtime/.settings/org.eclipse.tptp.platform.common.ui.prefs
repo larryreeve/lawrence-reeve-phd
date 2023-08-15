@@ -1,0 +1,6 @@
+#Thu Dec 21 11:55:01 EST 2006
+org.eclipse.hyades.ui.filters.internal.defaultFilters.org.eclipse.hyades.trace.views=true
+eclipse.preferences.version=1
+org.eclipse.hyades.ui.filters.internal.defaultFilters.org.eclipse.tptp.platform.log.views=true
+REPORT_OPEN_EDITOR=true
+uml2SDLoader.org.eclipse.hyades.uml2sd.trace.view.TraceSDView=org.eclipse.hyades.uml2sd.trace.loaders.ObjectInteractions

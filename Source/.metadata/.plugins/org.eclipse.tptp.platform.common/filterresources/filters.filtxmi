@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:HierarchyExtensions="http://www.eclipse.org/hyades/models/hierarchy-extensions.xmi" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore">
+  <HierarchyExtensions:SimpleSearchQuery name="org.eclipse.hyades.trace.views.ProfilingFilterType:New_filter:ST">
+    <whereExpression xsi:type="HierarchyExtensions:LogicalExpression" operator="AND">
+      <arguments xsi:type="HierarchyExtensions:LogicalExpression" operator="AND">
+        <arguments xsi:type="HierarchyExtensions:LogicalExpression">
+          <arguments xsi:type="HierarchyExtensions:BinaryExpression" operator="LIKE">
+            <leftOperand xsi:type="HierarchyExtensions:SimpleOperand">
+              <feature xsi:type="ecore:EAttribute" href="http://www.eclipse.org/hyades/models/trace.xmi#//TRCMethod/name"/>
+            </leftOperand>
+            <rightOperands xsi:type="HierarchyExtensions:SimpleOperand" rawValue="get*">
+              <valueType href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+            </rightOperands>
+          </arguments>
+        </arguments>
+        <arguments xsi:type="HierarchyExtensions:LogicalExpression">
+          <arguments xsi:type="HierarchyExtensions:BinaryExpression" operator="LIKE">
+            <leftOperand xsi:type="HierarchyExtensions:SimpleOperand">
+              <feature xsi:type="ecore:EAttribute" href="http://www.eclipse.org/hyades/models/trace.xmi#//TRCMethod/name"/>
+            </leftOperand>
+            <rightOperands xsi:type="HierarchyExtensions:SimpleOperand" rawValue="set*">
+              <valueType href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+            </rightOperands>
+          </arguments>
+        </arguments>
+        <arguments xsi:type="HierarchyExtensions:LogicalExpression">
+          <arguments xsi:type="HierarchyExtensions:BinaryExpression" operator="LIKE">
+            <leftOperand xsi:type="HierarchyExtensions:SimpleOperand">
+              <feature xsi:type="ecore:EAttribute" href="http://www.eclipse.org/hyades/models/trace.xmi#//TRCMethod/name"/>
+            </leftOperand>
+            <rightOperands xsi:type="HierarchyExtensions:SimpleOperand" rawValue="is*">
+              <valueType href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+            </rightOperands>
+          </arguments>
+        </arguments>
+        <arguments xsi:type="HierarchyExtensions:LogicalExpression">
+          <arguments xsi:type="HierarchyExtensions:BinaryExpression" operator="LIKE">
+            <leftOperand xsi:type="HierarchyExtensions:SimpleOperand">
+              <feature xsi:type="ecore:EAttribute" href="http://www.eclipse.org/hyades/models/trace.xmi#//TRCMethod/name"/>
+            </leftOperand>
+            <rightOperands xsi:type="HierarchyExtensions:SimpleOperand" rawValue="access$*">
+              <valueType href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+            </rightOperands>
+          </arguments>
+        </arguments>
+      </arguments>
+      <arguments xsi:type="HierarchyExtensions:LogicalExpression" name="org.eclipse.hyades.trace.ui_THRESHOLD_CHECKED_" operator="AND">
+        <arguments xsi:type="HierarchyExtensions:BinaryExpression" operator="GE" caseInsensitive="true">
+          <leftOperand xsi:type="HierarchyExtensions:SimpleOperand">
+            <feature xsi:type="ecore:EAttribute" href="http://www.eclipse.org/hyades/models/trace.xmi#//TRCMethod/baseTime"/>
+          </leftOperand>
+          <rightOperands xsi:type="HierarchyExtensions:SimpleOperand" rawValue="0.001">
+            <valueType href="http://www.eclipse.org/emf/2002/Ecore#//EDouble"/>
+          </rightOperands>
+        </arguments>
+      </arguments>
+    </whereExpression>
+  </HierarchyExtensions:SimpleSearchQuery>
+  <HierarchyExtensions:SimpleSearchQuery name="org.eclipse.hyades.trace.views.ProfilingFilterType:New_filter:AD">
+    <whereExpression xsi:type="HierarchyExtensions:LogicalExpression" operator="AND"/>
+  </HierarchyExtensions:SimpleSearchQuery>
+</xmi:XMI>

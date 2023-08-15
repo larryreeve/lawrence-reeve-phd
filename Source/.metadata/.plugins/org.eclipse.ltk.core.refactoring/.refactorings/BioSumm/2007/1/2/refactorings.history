@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable 'chainListScorer' in 'biosumm.BioSummMain.main(...)' to 'sentenceScorer'&#13;&#10;- Original element: 'biosumm.BioSummMain.main(String[]).chainListScorer'&#13;&#10;- Renamed element: 'biosumm.BioSummMain.main(String[]).sentenceScorer'&#13;&#10;- Update references to refactored element" description="Rename local variable 'chainListScorer'" id="org.eclipse.jdt.ui.rename.local.variable" input="/JavaSource&lt;biosumm{BioSummMain.java" name="sentenceScorer" references="true" selection="13944 15" stamp="1168722540281" version="1.0"/>
+</session>

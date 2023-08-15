@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<session version="1.0">
+<refactoring comment="Rename type 'common.Configuration' to 'ConfigurationSettings'&#13;&#10;- Original element: 'common.Configuration'&#13;&#10;- Renamed element: 'common.ConfigurationSettings'&#13;&#10;- Update references to refactored element&#13;&#10;- Update textual occurrences in comments and strings" description="Rename type 'Configuration'" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/&lt;common{Configuration.java[Configuration" matchStrategy="1" name="ConfigurationSettings" qualified="false" references="true" similarDeclarations="false" stamp="1166564647750" textual="false" version="1.0"/>
+</session>
