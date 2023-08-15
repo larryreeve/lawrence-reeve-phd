@@ -1,0 +1,198 @@
+Monoclonal Antibody Therapy for Resected Dukes' C Colorectal Cancer: Seven-Year Outcome of a Multicenter Randomized Trial
+By G. RiethmUller, E. Holz, G. Schlimok, W. Schmiegel, R. Raab, K. H6ffken, R.Gruber, I. Funke, H. Pichlmaier, H Hirche, P. Buggisch, J. Witte, and R. Pichlmayrt
+Purpose: As previously shown, antibody treatment increased survival of patients with resected colorectal cancer of stage Dukes' C. Since the 5-year analysis was criticized because of the wide range (2.7 to 7.5 years) of follow-up time, we performed a 7-year analysis with only four of 189 patients monitored for less than 5 years. Patients and Methods: A total of 189 patients with resected Dukes' C colorectal cancer were randomly allocated to infusions of a total of 900 mg 17-1A antibody, 500 mg postoperatively followed by 4 monthly doses of 100 mg (n = 99), or to observation only (n = 90). Primary end points were overall survival and disease-free interval. Patients were stratified by a dynamic randomization according to center, sex, location of tumor, number of affected lymph nodes, and preoperative carcinoembryonic antigen concentration. Results: Randomization produced balanced distribution of risk factors. After 7 years of follow-up evaluation, treatment had reduced overall mortality by 32% (Cox's proportional hazard, P < .01; log-rank, P = .01) and decreased the recurrence rate by 23% (Cox's proportional hazard, P < .04; log-rank, P = .07). The intentionto-treat analysis gave a significant effect for overall survival (Cox's proportional hazard, P < .01; log-rank, P = .02) and disease-free survival (Cox's proportional hazard, P = .02; log-rank, P = .1 1). While distant metastases were significantly reduced (Cox's proportional hazard, P = .004; log-rank, P = .004), local relapses were not (Cox's proportional hazard, P = .65; log-rank, P = .52). This differential effect of 17-1A antibody on disseminated isolated tumor cells versus occult local satellites may explain the increased significance seen in the overall survival. Conclusion: The now-matured study shows that 17-1A antibody administered after surgery prevents the development of distant metastasis in approximately one third of patients. The therapeutic effect is maintained after 7 years of follow-up evaluation. J Clin Oncol 16:1788-1794. o 1998 by American Society of Clinical Oncology.
+
+HE CURRENT PESSIMISTIC VIEW of unconjugated monoclonal antibodies as cancer therapeutics has been largely influenced by the negative outcome of multiple clinical trials initiated shortly after introduction of the hybridoma technology. Thus, it comes as no surprise that recent reports on some successes obtained with antibody therapy in lymphoma, breast, and colorectal carcinoma were met with great reserve. Wondering what the characteristic
+
+From the Institutfur Immunologie, Ludwig-Maximilans-Universitat Munchen, Tumorzentrum Munchen an den Medtzmnschen Fakultaten der Ludwig-Maximilians-Universitatand der Technischen Universtat Munchen, Chirurgtsche Universitatsklmnik Grofihadern Munchen, Munchen, Medizinische und ChirurgischeKlhmk, ZentralklinikumAugsburg, Chrurgische Klinik der Medizintschen Hochschule Hannover; Hannover, Chtrurgische Universitatsklinik Koln, Koln. Medizinische Unversitatsklink, KnappschaftskrankenhausBochum, Bochum, Medizmische Klnhmk, Universitatskrankenhaus Eppendorf Hamburg, Innere Klinik and Institut fur Medizinische Informatnk und Biomathematik, UniversitatEssen, Essen, Germany. Submitted December 18, 1996; acceptedJanuary7, 1998 tDeceased Address reprint requests to Dr G Rtethmuller InstntutfurImmunologie, Ludwlg-Maxlmllans-Unmversitat Munchen, Goethestr 31, 80336 Munchen, Germany, Emal riethmueller@ifi med uni_muenchen de © 1998 by American Society of Clinical Oncology. 0732-183X/98/1605-0020$3 00/0
+
+features of these trials were, one notes that two of these trials, one in lymphoma and one in breast carcinoma, 2 had been performed with engineered antibodies, ie, either human/ murine chimeric or human complementanly defining regious (CDR)-grafted mmunoglobulins respectively, while the third stands out because of the target and end point used. In contrast to other trials aimed at patients with larger metastatic tumor masses and using regression or shrinkage as the end point, this one on colorectal cancer of stage Dukes' C required microscopically complete resection of the primary tumor for patients to be admitted.3 As the primary end point, overall-survival was determined at 5 years. Here, we report on the 7-year follow-up study of this prospective randomized two-arm trial in minimal residual disease that used the murine 17-1A antibody, 4 which recognizes a 34-kd glycoprotein of the cell membrane of epithelial cells.5 The 5-year analysis had shown that a short, albeit intensive, postoperative course of antibody treatment (900 mg total dose) significantly reduced the appearance of distant metastases, but did not affect the rate of local relapses. However, local metastases may not be as innocuous as generally thought. As recently shown for breast carcinoma, without regional radiation therapy, occult local metastases can give rise to distant metastases after many Journal of Clinical Oncology, Vol 16, No 5 (May), 1998: pp 1788-1794
+
+1788
+
+Downloaded from www.jco.org on August 7, 2005 . For personal use only. No other uses without permission. Copyright © 1998 by the American Society of Clinical Oncology. All rights reserved.
+
+
+MONOCLONAL ANTIBODY THERAPY FOR DUKES' C years and thus affect long-term survival. 6 ,7 Therefore, with no effect of antibody therapy on the local relapse at 5 years, It was of interest to know how the overall survival evolved at the 7-year follow-up evaluation. This analysis also invalidated objections concerned about the maturity of the reported 5-year follow-up study. Now, after a median observation time of 7 years, with only four of 185 patients monitored for less than 5 years, the study has matured and continues to demonstrate a significant benefit with regard to survival. PATIENTS AND METHODS PatientSelection and Surgery
+The multicenter study consisted of six academic centers in former West Germany A total of 189 patients were randomized, with the first patient entered in May 1985 and the last in Apnl 1990 The study was closed in December 1992, and we present here the final status with median follow-up data of 7 years Eligible patients were required to have histologically confirmed adenocarcmoma of colon or the rectum with spread to regional lymph nodes (Dukes' C or International Unimon Agamst Cancer [UICC] stage III) In addition, hlstopathologic confirmation of curative resection (R0) was secured Radical tumor resection was performed by a standardized technique agreed upon by all participating centers When located within 15 cm of the anal verge, a tumor was classified as rectal carcinoma Patients were less than 70 years old and had a Karnofsky index greater than 50% Eleven of 99 patients randomized to treatment refused their treatment assignment, but were otherwise considered eligible for the study. According to Zelen. 8 these patients were included in the treatment group for final analysis, although they had not received antibodies
+
+1789
+Table 1. Clinical and Pahologic Characteristics of Eligible Patients
+17-1A Variable No % Observation No %
+
+Total
+No
+
+Age, years < 61 - 61 Sex Male Female Location of primary tumor Right colon Left colon Rectum Depth of invasion T1 -T2 T3-T4 Nodal involvement N1 N2-3 Histologic differentiation' Grade 1 Grade 2 Grade 3 Preoperative CEA (ng/mL)' -5 >5 'Data missing on 13 patients
+
+50 40 45 45 20 33 37 16 74 61 29 6 55 21 54 27
+
+52 58 55 54 59 53 53 64 52 54 55 60 50 64 53 53
+
+47 29 37 39 14 29 33 9 67 52 24 4 55 12 48 24
+
+48 42 45 46 41 47 47 36 48 46 45 40 50 36 47 47
+
+97 69 82 84 34 62 70 25 141 113 53 10 110 33 102 51
+
+Stratification and Randomization
+After confirmation of histology and R0 resection of lymph node metastasis, patients were randomized into two groups one received 17-lA treatment, whereas the other served as observation controls. All patients were stratified according to Zelen 8 by the following factors participating center, sex, location of tumor, stage (Dukes' Cl or C2 equivalent to pN1 or pN2-3), number of affected lymph nodes, and carcinoembryonic antigen (CEA) level before surgery (Table 1) In the treated arm, more patients had pT2 and pT3 tumors, and fewer had pT4 tumors However, treated patients appeared to have had higher numbers of involved lymph nodes (pN2) and tumors of less differentiated histology (grade 3). However, a Fishers' exact test, companng the distnbutlon of patients according to all prognostic variables, showed no significant differences Randomlzation before consent was performed and evaluated according to Zelen 9 On approval by legal experts in 1985, this procedure was accepted by the ethical review board Statistical analyses were performed according to SAS (Statistical Analysis System, Cary, NC) To test for potential selection bias in the study, a retrospective analysis was performed at Medizimnische Hochschule Hannover on 67 Dukes' C colorectal cancer patients selected from 107 patients seen between 1980 and 1985 They fulfilled the entry criteria for the 17-1A clinical trial and were monitored for at least 5 years each The survival analysis was performed by the Instutut fur Medlzinische Informatlk und Blomathematlk, Umversltat Essen The overall survival according to Kaplan-Meier curve is nearly identical to the control group of the 17-1A trial (log-rank, P = 97), thus, this historical control does not show any selection bias
+
+The first 5-year analysis of the study performed by the Essen blometncal center was confirmed by two independent external audits, both of which relied on exammatlon of original representative record samples Protocol Management Protocol management has been described in detail previously.3 The study performance and protocol adherence was overseen by the trial's blometncal center located at the University of Essen. In brief, patients were staged after surgery and had a chest radiogram and abdominal ultrasound or computed tomography scan Patients in both groups were monitored in exactly the same way, with 14 prospectively defined follow-up visits, first on a quarterly and later on a half-year basis Follow-up evaluation continued beyond 5 years at yearly time points, but without formal protocol requirements. For the end point analysis, standardized and objectively verifiable dates were used for all patients, e, time point of surgery up to death of all cause or date of last contact alive for overall survival analysis In a separate analysis, cancer-related mortality was assessed, e, death without recurrence was not counted as an event. A documented histologic or radiologic diagnosis of disease was required to confirm local or distant recurrence, whereas abnormal CEA values were not used as evidence of relapse Recurrence was defined as time from date of surgery to date of first objective evidence of an abnormal diagnostic finding Antibody and Antigen The 17-1A antibody, a munne monoclonal mmunoglobulin IgG2a 4. antibody, onginally described by Herlyn et al, 10 has a distinct antitumor effect on human xenografted tumors in a nude mouse model Clnical-grade antibody was purchased from the Wistar Institute
+
+Downloaded from www.jco.org on August 7, 2005 . For personal use only. No other uses without permission. Copyright © 1998 by the American Society of Clinical Oncology. All rights reserved.
+
+
+1790
+(Philadelphia, PA), with support by the German Cancer Aid (Bonn, Germany) During the last phase of the study, 17-IA antibody was provided by Centocor (Leiden, the Netherlands) Recent data on cell lines transfected with 17-1A cDNA suggest that the antigen s involved in cell-cell adhesion Therefore, it is now named eplthehal cell adhesion molecule (EpCAM) II
+
+RIETHMULLER ET AL Survival After 7 years, a total of 87 deaths were observed in 166 eligible patients. Since the 5-year follow-up evaluation, four additional deaths occurred m the treated group and nine additional deaths in the control group. The death rate of the observed group was 63% (48 of 76; 95% CI, range, 48 to 78) of patients and that of the treated group was 43% (39 of 90; 95% CI, range, 31 to 58). Thus, treatment with antibody led to a relative reduction of mortality by 32% (hazards ratio, 0.57; 95% confidence interval, 8% to 51%). The KaplanMeier survival curves (Fig 1A) showed a significant benefit for patients who received antibody over those who did not receive treatment (P < .01 with Cox's proportional hazard model corrected for influence of prognostic variables, and P = .01 with log-rank test for the univariate analysis). Also, the intention-to-treat analysis (Fig B) on all 185 patients showed a significant overall benefit for the treated group (P < .01 with Cox's multivariate analysis, and P = .02 with log-rank test for the univanate analysis). Among all deaths recorded, six patients died without recurrence or secondary colorectal cancer and one observed patient of the control group died of secondary colon carcinoma, which was not counted as a recurrence. When cancer-related mortality was assessed, ie, death without recurrence was not counted as event, the benefit of treatment remained significant at P < .01 by Cox's multivariate analysis and P = .01 by log-rank test for the univariate analysis. The median survival time before death after recurrence was 1.4 years for patients randomized to treatment with 17-1A and 1.2 years for patients in the observed group. Recurrence According to the disease-free interval analysis, tumor recurred in 96 of 166 ehgible patients after 7 years of
+
+RESULTS Patients and Causes of Ineligibility Patient characteristics and distribution of risk factors for both groups were well balanced (Table 1) 3 A total of 189 patients were randomized between May 1985 and April 1990. Four patients, two in each group (2.1%), were lost to follow-up evaluation from the start and have not been included in the trial. It could be verified that neither of the two patients randomized to treatment had actually received the antibody. Some patients have now been monitored for 10 years and only five patients were observed for a period of less than 5 years, with a range of 3.5 to 4.5 years. The presented 7-year follow-up data may therefore be considered mature and final. A final status of 185 patients could be obtained for this analysis. Nineteen patients (10.3%) were ineligible: seven in the treatment arm and 12 in the observation arm. The main cause of ineligibihty (12 cases) was erroneous staging. Thus, eight patients had Dukes' B, four had Dukes' D, three were older than 70 years, one presented with polyposis coh, and one patient had residual tumor (R2) after surgery. One patient had a competing neoplasm and one patient received postoperative radiochemotherapy. Since ineligibility was not biased by treatment assignment, these patients were excluded from further analysis. However, eleven patients who refused their treatment assignment were considered eligible and were included in all statistical analyses as participants in the treatment group.
+
+A
+
+B
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Years
+Fig 1. Overall survival of (A)eligible patients after 7 years of follow-up, and (B)according to intention-to-treat analysis. P isadjusted for imbalances in prognostic values with Cox's proportional hazards model; the other Pvalues were calculated with the univariate log-rank test and Wilcoxon test.
+
+Downloaded from www.jco.org on August 7, 2005 . For personal use only. No other uses without permission. Copyright © 1998 by the American Society of Clinical Oncology. All rights reserved.
+
+
+MONOCLONAL ANTIBODY THERAPY FOR DUKES' C follow-up evaluation; thus, three more recurrences were recorded m the treatment group and one more in the observation arm. The calculated recurrence rate was 68% (49 of 76; 95% CI, range, 53 to 82) m the control group and 52% (47 of 90; 95% CI, range, 39 to 67) in the 17-1A group. The reduction in recurrence was 23% (hazards ratio, 0.66; 95% confidence interval, 1% to 43%) Recurrence-free intervals were plotted according to Kaplan-Maier (Fig 2). Antibody treatment increased time to recurrence (P = .04 with Cox proportional hazards model corrected for influence of prognostic variables, and P = .07 with log-rank test for umvanate analysis). In this analysis, data on patients who died without recurrence were censored. However, when death without recurrence was considered an event (recurrence-free survival), again a significant treatment advantage with 17-1A over control was obtained (P = .03 with Cox multivariate, and P = .05 with log-rank test for the umvariate analysis). When the analyses of recurrence-free interval and recurrence-free survival were performed including all randomized patients, ie, according to intention-to-treat, 17-1A treatment again led to significant advantage over the untreated group (Cox multivanate, P = .02, log-rank, P = .01, respectively). In summary, 46% of patients (41 of 90) in the treatment group are at nsk at 7 years and only 29% of patients (22 of 76) m the observed group are alive without recurrence. Pattern of Recurrence As most of the relapse events occur in the first 2 years after resection, it is not surprising that the pattern of relapses did not show gross changes during the sixth and seventh years. When the two groups were compared with regard to the site of first recurrence, the 7-year data similar to the 5-year analysis show that significantly fewer distant recurrences occur in patients treated with the antibody than in the control arm (Fig 3). Therefore, the proposition is holding up
+100
+
+1791
+
+80
+° 60
+
+0
+40
+antibody treatment control
+
+E-
+
+20
+
+Log-rank, Wilcoxon,
+Cox, o
+
+P= 004 P=.005
+P= 004
+
+1
+
+2
+
+3
+
+4
+
+5 6 Years
+
+7
+
+8
+
+9
+
+10
+
+Fig 3. Kaplan-Meier analysis of distant metastatic recurrences as first event ineligible patients. Statistics were applied as in Fig 1.
+
+that treatment with 17-1A may preferentially act on isolated tumor cells and thus prevent outgrowth of distant metastases However, local relapses that occurred as the first sign of progressive disease (Fig 4) were not reduced (P = .86 with Cox multivanate analysis). As shown in Table 2, there is an excess of local recurrences in the treatment group, which may partially be explained by the longer survival of treated patients. Another reason for this difference may be local radiation applied to rectum carcinoma patients in the control group, as detailed further later. Toxicity The rather mild toxicity of 17-1A antibody has been described in detail in the 5-year report. Since only acute and no chronic adverse effects were seen, the toxicity profile was not changed during the last observation penod. There were no late treatment-related fatalities or life-threatening conditions, or any evidence for chronic drug-related side effects.
+
+100
+
+80
+
+~~~~~~LLYI~~~
+a 2 60
+
+h01,~0q
+
+N,
+
+antibody treatment control
+
+40
+
+o 20
+
+Log-rank,
+Wilcoxon, Cox,
+
+P= 83
+P= 76 P=.86 3 4 5 6 7 8 9 10
+
+C. 4
+
+0
+
+1
+
+2
+
+Years
+Fig 2. Recurrence-free survival after 7 years of follow-up (eligible patients). Statistics were applied as in Fig 1.
+
+Years Fig 4. Kaplan-Meier analysis of local recurrences in eligible patients. Statistics were applied as in Fig 1.
+
+Downloaded from www.jco.org on August 7, 2005 . For personal use only. No other uses without permission. Copyright © 1998 by the American Society of Clinical Oncology. All rights reserved.
+
+
+1792
+Table 2. Pattern of Recurrences
+Location of Recurrences (first events) Liver Treated 16 Observed 22
+
+RIETHMULLER ET AL In the order of that obtained by Moertel et a11 2 and Krook et al13 after a similar follow-up period. In the antibody trial, both colon and rectum cancer patients were enrolled onto the trial presented here. Radiation therapy now accepted as efficient to reduce local recurrences was not part of our clhmcal protocol, but was allowed for patients in the control group. Thus, irradiation was applied to 11 patients of this group (two received preoperative, four preoperative radiation and postoperative radiochemotherapy, and five postoperative radiation only). Since these forms of therapy were administered only to the control group, a bias may have been introduced that influenced the outcome against the antibody treatment, which explains the apparent difference seen m the local recurrence rate (Table 2). It is noteworthy that in various reports, results recorded after a 5-year observation period do not necessarily hold up when patients are monitored for an additional time of 2 years. For example, the National Surgical Adjuvant Breast and Bowel Project (NSABP) conducted a study from 1977 to 1983 to compare a combination regimen that consisted of semustmine, folic acid, and fluorouracil with bacillus CalmetteGuerin. While after 5 years of follow-up evaluation, a significant increase in disease-free and overall survival of patients was evident,' 4 after 2 further years, the overall survival did not show significance. These findings were confirmed by another cooperative group. 5 The pattern of first recurrences beyond 5 postoperative years shows that patients in each group still recur, with manifest distant metastasis as first sign of a relapse. This finding lends some support to the concept of long-lasting dormancy in early disseminated tumor cells. Indeed, nuclear proliferation markers such as Ki-67 or p120 nucleolar antigen were rarely detected on micrometastatic cells disseminated to bone marrow.16 Patients in the control group continued to die of progressive disease that probably had arisen from occult distant metastatic cells that were elimnated by the antibody in the treatment group. However, this argument rests on the assumption that the antibody exerts its antitumor effect by mobilization of direct effector mechanisms that are active only as long as the antibody is bound to the target. Interestingly, in the most recent report (median follow-up time, 6.5 years), adjuvant therapy with fluorouracil plus levamisol administered to patients with Dukes' C colon cancer had only a minimal effect on local recurrences. In that tnal, only colon cancer patients were treated who were known to have fewer local relapses than rectum cancer patients and were included in our trial. Therefore, the less pronounced chemotherapeutic effect on local relapses may be due to the difference in patient populations.
+
+Lung Abdominal' Other distant sitest Local recurrences 'Including lymph node and momentum including brain and skeleton
+
+6 6 1 26
+
+11 7 3 16
+
+Immune Response to 17-1A Antibody When tested for antibody response against murine antibody (HAMA), 80% of treated patients developed a distinct HAMA response after the second or third nfusion. Patients who developed recurrences and those who remained tumorfree did not show a difference in antibody titers. The kinetics of the HAMA response in the two subgroups have been described in the 5-year report. In brief, after the first two infusions, antibody titers were low and reached their maximum only after a fifth nfusion at 18 to 20 weeks after surgery, but remained detectable for 2 more years. As will be reported elsewhere, the serum levels of antiidlotyplc antibodies (Ab2) showed no significant differences between the analyzed patients who remained tumor free (n = 30) or experienced a relapse (n = 30). DISCUSSION As the 7-year median follow-up data confirm the previously reported 5-year findings, the conclusion seems warranted that antibody treatment improves the chances of curatively operated patients. In the univariate and multivanate analyses, the P values for overall survival are statistically significant for the eligible as well as intention-to-treat cohort. Also, the hazards ratios of the 7-year analysis support the 5-year data. Similarly, the rates of reduction in mortality and recurrence, 32% and 23%, respectively, are in alignment with the 5-year results. The conclusion seems warranted that some of the treated patients, who have not yet recurred, may indeed be cured. The conspicuous inefficacy of the antibody on local recurrences (Fig 4) may account for the smaller P values in the disease-free-interval analysis. Local recurrences may not affect the overall survival curve to the same degree as distant metastases do (Fig 3); therefore, survival at 7 years appears to be superior to the disease-free interval. Also, the less significant umvariate analyses may well be explained by the large treatment effect, which we expected at the onset of the trial in 1985, when we hoped for an absolute reduction of events from 50% to 30%, ie, a 40% relative reduction. The observed reduction of approximately 30% is clearly lower than expected, but still
+
+Downloaded from www.jco.org on August 7, 2005 . For personal use only. No other uses without permission. Copyright © 1998 by the American Society of Clinical Oncology. All rights reserved.
+
+
+MONOCLONAL ANTIBODY THERAPY FOR DUKES' C The dose of antibody chosen deserves a special comment. In the planning stage of the trial, we were afraid of a strong anaphylactic response to repeated adnumstration of murine immunoglobulin. We therefore resorted to a large, first intravenous dose that consisted of 500 mg highly soluble monomeric mmunoglobulin G2a to induce tolerance to mouse mmunoglobulin G. This strategy, originally pro1 7 posed by Sears et at, was only partially successful, as only about 20% of the recipients did not respond to mouse immunoglobulin, while the others exhibited a distinct, albeit slow rise of HAMA titers. Nevertheless, the high dose may have been critical to obtain a steep transvascular concentration gradient required for tissue penetration. Similar high doses were used in the lymphoma trial cited earher.i In view of the still viable hypothesis that antibodyinduced tumor regression is brought about by antiidiotypemediated immunization, we analyzed retrospectively HAMA positive sera. Antildiotype antibodies were detected in most HAMA-posltive samples. However, patients with and without manifest metastatic relapses did not differ in antiidiotype titers. 18 To detect ab3 antibodies, we applied a sensitive enzyme-linked mmunoadsorbent assay (ELISA), which allowed us to determine human 17-1A autoantibody. Thus far, this assay has been negative. However, it may be insufficient to determine only a humoral antiidiotype response. Indeed, recent data presented by Fagerberg et all9 indicate that also antiidlotype-specific T cells are induced by treatment with 17-1 A antibody Thus far, in murine systems, breaking of tolerance against autoantigens via the antildotype route has not yet been shown in an unambiguous fashion Why only one third of the patients at risk have responded to the antibody treatment may be explained by variations in accessibility, vulnerability, and/or antigen expression in individual disseminated tumor cells. Immunohistochemical staining of the primary tumor had shown that the antigen is expressed by most, but not all cells within an individual tumor.5 By double staining of individual metastatic cells in bone marrow, It was shown that the 17-lA target is expressed by disseminated cells m only two thirds of the examined patients. 2 0 It is safe to assume that antigenic heterogeneity, a likely consequence of the marked genomic instability of human epithelial tumors, will be a major obstacle for single-antibody treatments, as well as for any other form of monotherapy. Therefore, in anticipation of antigenic heterogeneity, a combination therapy that consists of antibodies of different specificities may forestall a selection of antigen-negative cells exerted inevitably by a one-antibody approach. Furthermore, humanized antibodies or entirely human antibodies generated from human mmunoglobulin gene hbrarles that are less Immunogenic than murine antibodies are now being
+
+1793
+tested. They do not only possess extended serum half-lives, but also harness human effector mechanisms much more efficiently than murine immunoglobulihns can do. On the other hand, the peculiar immunogenicity of the murine antibody may be important for the recruitment of human T cells as mediators of an indirect antitumor effect. Direct tumoricidal effects are good candidates for the still controversial reaction mechanism of unconjugated antibodies. This view is supported by the immediate gastrointestinal toxicity, such as abdominal cramps, nausea, and transient diarrhea, observed in a substantial proportion of patients shortly after infusion of the antibody.3 These reactions are best explained by cytotoxic effects of the antibody on normal epithelial cells that bear the 17-1A antigen to a similar degree as tumor cells. 5 Although we still think that normal epithelial cells of the intestinal mucosa are less accessible for immunoglobulin G and its effector mechanisms than for locally produced immunoglobulin A. The discovery of the adhesion function of the 17-1A molecule," hence the new name EpCAM, raised the speculation that the antibody inhibited outgrowth of metastasis by interference with cell-cell adhesion. In other studies that also targeted a monoclonal antibody to an organ-specific, rather than a tumor-specific antigen, the tumor-specific biologic action induced by the applied antibody had been ascribed to the faster elimination of the bound antibody from normal than from malignant cells. 21 For the immediate future, adding antibody to chemotherapy seems logical to attack both dormant, as well as proliferating, metastatic tumor cells. Two major trials using the 17-1A antibody with the same dose and similar regimen are currently under way to test this question in colon cancer patients. One of these trials, performed in Europe and Israel, includes a confirmatory arm with antibody as single treatment, with the other two arms applying chemotherapy or chemotherapy plus antibody, respectively. A pilot trial had shown that fluorouracil with folic acid overlapping with the three last infusions of the antibody regimen did increase overall toxicity. In conclusion, the presented results still support the original hypothesis that minimal residual disease occurring so frequently in patients with sohd tumors appears to be an indication for antibody therapy. ACKNOWLEDGMENT
+We thank Dr Mildred Scheel Foundation Deutsche Krebshllfe, Bonn, and Dr Hilary Koprowski, who generously made possible the purchase of 17-lA antibody from the Wlstar Institute We are Indebted to Dr Hans Lolbner for antudiotype reagents We also thank Ulla Roggenbuck and Rosma Knngs for assistance in data handling, protocol management, and help with the statistical analysis. We wish to dedicate this paper to the memory of our collaborator and friend Rudolf Plchlmayr, a pioneer in antibody therapy in organ transplantation and cancer, who died tragically after the completion of this report
+
+Downloaded from www.jco.org on August 7, 2005 . For personal use only. No other uses without permission. Copyright © 1998 by the American Society of Clinical Oncology. All rights reserved.
+
+
+1794
+APPENDIX
+
+RIETHMULLER ET AL
+
+The following are contributors to the German CancerAid 17-1A Study Group Fnedrich-W Eigler, Chirurglsche Universltatsklinik Essen, Essen, Irene Fackler-Schwalbe, Klinikum Augsburg, Augsburg, Carl Gottfined Schmidt, Tumorklmlk, Umversltat Essen, Hans Schreiber, Chlrurglsche Universltatsklmlk Eppendorf, Hamburg, and Leonhard Schwelberer and Bemolf Ebl-Elbesfeldt, Chirurgische Universltatsklinik Munchen, Germany
+
+REFERENCES
+1 McLaughlin P. Cabanillas F, Gnllo-L6pez A, et al IDEC-C2B8 anti-CD20 antibody Final report on a phase III pivotal tnal in patients with relapsed low-grade or follicular lymphoma Blood 88 90a, 1996 (suppl 1, abstr) 2 Baselga J Tnpathy D, Mendelsohn J, et al. Phase II study of weekly intravenous recombinant humanized antl-pl85HER2 monoclonal antibody m patients with HER2/neu-overexpressmg metastatic breast cancer J Clmn Oncol 14 737-744, 1996 3 Riethmuller G, Schnelder-Gadlcke E, Schlimok G, et al. Randomlsed trial of monoclonal antibody for adjuvant therapy of resected Dukes' C colorectal carcmoma. Lancet 343 1177-1183, 1994 4 Herlyn D, Steplewslk Z. Herlyn M, et al Colorectal carcmnomaspecific antigen Detection by means of monoclonal antibodies. Proc Natl Acad Scl USA 76 1438-1442, 1979 5 Gottlinger HG, Funke I, Johnson JF, et al The epithelial cell surface antigen 17- 1 a target for antibody-mediated tumor therapy Its A, biochemical nature, tissue distribution and recognition by different monoclonal antibodies Int J Cancer 38 47-53, 1986 6. Overgaard M, Hansen P, Overgaard J, et al Postoperative radiotherapy in high-nsk premenopausal women with breast cancer who receive adjuvant chemotherapy N Engl J Med 337 949-955, 1997 7 Ragaz J, Jackson S, Le N, et al Adjuvant radiotherapy and chemotherapy in node-positive premenopausal women with breast cancer N Engl J Med 337 956-962, 1997 8. Zelen M The randomisation and stratification of patients to clinical trials J Chron Dis 27 365-375, 1974 9 Zelen M A new design for randomized clinical tnals N Engl J Med 300 1242-1245, 1979 10 Herlyn D, Steplewskl Z Herlyn M, et al Inhlbition of growth of colorectal carcinoma in nude mice by monoclonal anybody. Cancer Res 40 717-721, 1980 11 Lltvmov S, Velders M, Bakker H, et al Ep-CAM A human epithelial antigen is a homophlhic cell-cell adhesion molecule J Cell Blol 125 437-446, 1994 12 Moertel C, Fleming T, Macdonald J Fluorouracll plus levamlsole as effective adjuvant therapy after resection of stage III colon carcinoma. A final report Ann Intern Med 122:321-326, 1995 13 Krook JE, Moertel CG, Gunderson LL, et al: Effective surgical adjuvant therapy for high-nsk rectal carcinoma N Engl J Med 324.709-715, 1991 14 Wolmark N, Fisher B. Rockette H Postoperative adjuvant chemotherapy or BCG for colon cancer Results from NSABP protocol C-01 J Natl Cancer Inst 80 30-36, 1988 15 Panettlere F, Goodman P, Costanzl J, et al Adjuvant therapy in large bowel adenocarcinoma Long-term results of a Southwest Oncology Group study J Chn Oncol 6 947-954, 1988 16 Pantel K, Schlimok G, Braun S, et al Differential expression of proliferation-assoclated molecules in individual mlcrometastatic carcinoma cells. J Nat Cancer Inst 85 1419-1424, 1993 17. Sears HF, Herlyn D, Koprowski H, et al Immunotherapy of gastrointestinal mahgnancles with a munne IgG2A antibody, in Rlethmuller G, Koprowski H, von Klelst S, et al. (eds) Genes and Antigens in Cancer Cells. Basel, Switzerland, Karger, 1984, pp 180-192 18 Gruber R, van Haarlem L, Warnaar S, et al Anti-mouse immunoglobulin, anti-ldlotyplc (ab2) and anti-ant-ldiotyplc (ab3) antibody response in patients with minimal residual colorectal cancer dunng monoclonal antibody therapy (17-1A): No correlation to clinical outcome (submitted) 19 Fagerberg J, Steinmtz M, Wlgzell H, et al Human antl-ldlotypic antibodies induced a humoral and cellular immune response against a colorectal carcinoma-associated antigen in patients Proc Natl Acad Sci USA 92 4773-4777, 1995 20 Pantel K, Braun S, Passlick B, et al Minimal residual eplthelial cancer Diagnostic approaches and prognostic relevance Prog Hlstochem Cytochem 30 1-43, 1996 21 Welt S, Scott A, Dlvgi C. et al: Phase /II study of iodine 125-labeled monoclonal antibody A33 in patients with advanced colon cancer J Clin Oncol 14 1787-1797, 1996
+
+Downloaded from www.jco.org on August 7, 2005 . For personal use only. No other uses without permission. Copyright © 1998 by the American Society of Clinical Oncology. All rights reserved.
+
+

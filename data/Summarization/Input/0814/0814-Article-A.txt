@@ -1,0 +1,43 @@
+Introduction.
+
+Loco-regional and distant relapses contribute to impair the
+outcome of rectal cancer patients) As to the former, either
+pre- or post-operative radiation therapy (RT) significantly
+reduce loco-regional recurrence; post-operative chemotherapy
+(CT), alone or in different combinations with RT,
+is effective in improving both disease-free survival and
+survival. However, many drawbacks still exist regarding the
+method of RT delivery as well as the toxicity of combination
+adjuvant chemotherapy.
+
+Purpose.
+
+The aim of this trial is to assess the effectiveness and toxicity
+of adjuvant post-operative RT vs combined RT and CT
+(5-FU plus levamisole) in patients with TNM stage II-III
+resectable rectal cancer (pT3-4, pN0, M0; pTl-4, pNl-3,
+M0). The primary endpoint is overall survival; secondary
+endpoints are disease-free survival, rate of loco-regional
+recurrence, and treatment-related toxicity/morbidity.
+
+Materials and methods.
+
+From May 1992 to December 1994, 149 patients (80 males, 69 females; age range 40-75, median 64.7 years of age) with 0-2 (ECOG) performance status (PS) were enrolled by the P.A.R. Cooperative Study Group. Protocol entry criteria are: en-bloc resection of all known tumour; a surgical specimen which must be adequate for TNM staging; pT3-4, pN0, M0 and pT 1-4, pNl-3, M0 primary rectal adenocarcinoma; microscopically negative resection margins. Patients excluded included those with recurrent cancer, or with second malignancy (except non-melanomatous skin cancer and in-situ cervical cancer), active infection, pregnant or nursing women. No prior or concurrent chemo-, immuno-, radio-, and endocrine therapy are allowed. 
+
+As regards haematobiochemical tests, patients should have WBC count at least 4000/cmm, PLT at least 100,000/cmm; bilirubin < 1.5 x N; AP, ALT, AST < 2.5 x N; creatinine < 1.25 x N. Eligible patients are enrolled within 40 days after surgery in a multicentre randomized clinical trial with two arms: Arm I = post-operative RT; Arm II = post-operative RT and CT (5-FU plus levamisole), with stratification by participating institutions. 
+
+
+Dosage schedule.
+
+Within 42 days from surgery, patients randomized in Arm I receive RT (50 Gy) in daily fractions of 2 Gy, 5 days/wk for 5 wk, to tumour bed and loco-regional lymph-nodes (internal iliac and presacral nodes) with four portals (LL and AP). External iliac nodes are included in the radiation field if the tumour invaded bladder, prostate, cervix or vagina. Patients randomized in Arm II begin with the first cycle of 5-FU (450 mg/sqm/d iv bolus on days 1-5) plus ievamisole (150 mg/d orally on days 1-3). Post-operative RT is delivered during the next week at the same dosage and schedule as in Arm I. The other five cycles of CT (5-FU every 28 days, and levamisole every 15 days for the whole length of 5-FU administration) continue at the end of RT, provided that all clinical and haemato-biochemical parameters are within the normal range. 
+
+
+Statistical and ethical considerations.
+
+The primary end-point of the study is overall survival and the expected 5-year survival in RT-treated patients is 50%; hence, 175 patients will be enrolled in each arm to obtain 80% power of the study related to 15% increase of 5-year survival in RT+CT treated patients. According to the 'intention to treat' principle, all patients randomized will be included in the final analysis. Each patient will be informed as regards the modalities of treatment and the aim of the study; he/she will give oral or written consensus. 
+
+
+Preliminary results.
+
+No significant differences as regards sex, age, performance states, type of operation (sphincter-saving resection or abdominoperineal excision of the rectum), pT, pN stages of disease, number of sampled lymph-nodes, and grading were observed in 76 and 73 patients randomized in Arms I and II, respectively. The median randomization time occurred on the 19th post-operative day (range: 6-24 days); on average, patients began RT 43 days from surgery (range: 27-98 days). Up to now, two and seven relapses, respectively, have been observed in Arms I and II; two and three patients, respectively have died in Arms I and II. As regards toxicity, radiodermatitis (8.3%, Grade III) and diarrhoea (8.3%, Grade III) were observed in Arm I while radiodermatitis (13.6%, Grade III), diarrhoea (27.3%, Grade III; 9.1%, Grade IV), and leukopaenia (8.3%, Grade III) occurred in Arm II. Despite the short duration of the trial, these preliminary findings confirm the validity of the rationale with lower morbidity for radiotherapy alone or radiotherapy combined with chemotherapy. 
+

@@ -1,0 +1,6 @@
+1|I|The aim of this trial is to assessthe effectiveness and  toxicityof adjuvant post-operative RT vs combined RT and CT(5-FU plus levamisole) in  patientswith TNM stage II-IIIresectable rectal cancer (pT3-4 , pN0 ,  M0 , pTl-4 , pNl-3 , M0) .
+2|M|Within 42 days from surgery , patients randomized in Arm I receive  RT (50 Gy) in daily fractions of 2 Gy , 5 days/wk for 5 wk , to tumour bed and loco-regional lymph-nodes (internal iliac and presacral nodes)  with four portals (LL and AP) .
+3|M|Patients randomized in Arm II begin with the first cycle of 5-FU (450 mg/sqm/d iv bolus on days 1-5) plus ievamisole (150 mg/d orally on  days1-3) .
+4|R|Up to now , two and seven relapses , respectively , have been  observed in Arms I and II , two and three patients , respectively have died in Arms I  and II .
+5|R|As regards toxicity , radiodermatitis (8.3% , Grade III) and  diarrhoea (8.3% , Grade III) were observed in Arm I while radiodermatitis (13.6% ,  Grade III) , diarrhoea (27.3% , Grade III , 9.1% , Grade IV) , and leukopaenia  (8.3% , Grade III) occurred in Arm II .
+6|R|Despite the short duration of the trial , these preliminary  findings confirm the validity of the rationale with lower morbidity for  radiotherapy alone or radiotherapy combined with chemotherapy .

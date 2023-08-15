@@ -1,0 +1,10 @@
+Background and Methods
+We compared the effect of radiotherapy to a pelvic and para-aortic field with that of pelvic radiation and concurrent chemotherapy
+with fluorouracil and cisplatin in women with advanced cervical cancer. Between 1990 and 1997, 403 women with advanced cervical cancer
+confined to the pelvis (stages IIB through IVA or stage IB or IIA with a tumor diameter of at least 5 cm or involvement of pelvic lymph nodes) were randomly assigned to receive either 45 Gy of radiation to the pelvis and para-aortic lymph nodes or 45 Gy of radiation to the pelvis alone plus two cycles of fluorouracil and cisplatin (days 1 through 5 and days 22 through 26 of radiation). Patients were then to receive one or two applications of low-dose-rate intracavitary radiation, with a third cycle of chemotherapy planned for the second intracavitary procedure in the combined-therapy group.
+
+Results
+Of the 403 eligible patients, 193 in each group could be evaluated. The median duration of follow-up was 43 months. Estimated cumulative rates of survival at five years were 73 percent among patients treated with radiotherapy and chemotherapy and 58 percent among patients treated with radiotherapy alone (P=0.004). Cumulative rates of disease-free survival at five years were 67 percent among patients in the combined-therapy group and 40 percent among patients in the radiotherapy group (P<0.001). The rates of both distant metastases (P<0.001) and locoregional recurrences (P<0.001) were significantly higher among patients treated with radiotherapy alone. The seriousness of side effects was similar in the two groups, with a higher rate of reversible hematologic effects in the combined-therapy group.
+
+Conclusions
+The addition of chemotherapy with fluorouracil and cisplatin to treatment with external-beam and intracavitary radiation significantly improved survival among women with locally advanced cervical cancer.

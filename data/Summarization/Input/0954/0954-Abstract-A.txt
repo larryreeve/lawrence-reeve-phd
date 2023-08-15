@@ -1,0 +1,12 @@
+Background
+Radiotherapy after mastectomy to treat early breast cancer has been known since the 1940s to reduce rates of local relapse. However, the
+routine use of postoperative radiotherapy began to decline in the 1980s because it failed to improve overall survival. We prospectively tested the efficacy of combining radiotherapy with chemotherapy.
+
+Methods
+From 1978 through 1986, 318 premenopausal women with node-positive breast cancer were randomly assigned, after modified radical mastectomy, to receive chemotherapy plus radiotherapy or chemotherapy alone. Radiotherapy was given to the chest wall and locoregional lymph nodes between the fourth and fifth cycles of cyclophosphamide, methotrexate, and fluorouracil.
+
+Results
+After 15 years of follow-up, the women assigned to chemotherapy plus radiotherapy had a 33 percent reduction in the rate of recurrence (relative risk, 0.67; 95 percent confidence interval, 0.50 to 0.90) and a 29 percent reduction in mortality from breast cancer (relative risk, 0.71; 95 percent confidence interval, 0.51 to 0.99), as compared with the women treated with chemotherapy alone.
+
+Conclusions
+Radiotherapy combined with chemotherapy after modified radical mastectomy decreases rates of locoregional and systemic relapse and reduces mortality from breast cancer.

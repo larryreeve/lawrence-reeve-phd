@@ -1,0 +1,28 @@
+27|I|Several phase 2 studies have reported that concomitant treatment with cisplatin during radiotherapy results in faster and more complete responses and better survival than expected with radiotherapy alone .
+28|I|We elected to test this combination in a phase 3 trial to determine whether concurrent weekly treatment with cisplatin during radiotherapy would improve progression-free survival and survival in women with large “bulky” or barrel-shaped , stage IB cervical cancers .
+6|M|Women of any age with biopsy-proved primary squamous-cell carcinoma , adenocarcinoma , or adenosquamous carcinoma of the cervix of stage IB (exophytic or expansile barrel-shaped tumors with a minimal diameter of 4 cm) were eligible for the study .
+7|M|All patients were scheduled to undergo external irradiation , intracavitary brachytherapy , and extrafascial hysterectomy , with half the patients randomly assigned to receive weekly intravenous infusions of cisplatin during the period of radiotherapy .
+8|M|Cisplatin was given intravenously once a week at a dose of 40 mg per square meter of body-surface area , with the total dose not to exceed 70 mg per week .
+9|M|Extrafascial hysterectomy was performed three to six weeks after the completion of radiotherapy .
+22|M|The primary end points were progression-free survival and survival .
+23|M|At the time of this analysis , 69 patients in the group receiving the control regimen had had a recurrence of disease and 49 had died — 88 percent of the number of deaths needed for a final analysis of survival .
+24|M|Therefore , because of the large difference in outcome between the two groups and the similarity in the rates of progression-free survival and survival within each group , this analysis is the final analysis of survival .
+25|R|From February 1992 to April 1997 , a total of 374 women were enrolled in the study at 48 Gynecologic Oncology Group institutions .
+17|R|There were no treatment-related deaths , but 64 patients (35 percent) in the combined-therapy group had grade 3 (moderate) or grade 4 (severe) adverse effects , as compared with 25 patients (13 percent) in the group given radiotherapy alone .
+15|R|The disease recurred in 69 patients in the group given radiotherapy alone (37 percent) and 38 patients given radiotherapy and cisplatin (21 percent) (Table 4) .
+16|R|This difference predominantly reflects the fact that there were fewer local recurrences in the combined-therapy group (16 , vs. 39 in the radiotherapy group) .
+13|R|At the time of this analysis , the rate of progression-free survival was significantly higher among patients in the combined-therapy group (P<0.001 by the log-rank test) (Fig. 1) .
+10|R|The relative risk of recurrence in the combined-therapy group as compared with the group given radiotherapy alone was 0.51 (95 percent confidence interval , 0.34 to 0.75) .
+14|R|Forty-nine of the patients in the group given radiotherapy alone died of cervical cancer (26 percent) , as compared with 27 of the patients in the group given radiotherapy and cisplatin (15 percent) (Table 4) .
+12|R|The relative risk of death in the combined-therapy group as compared with the group given radiotherapy alone was 0.54 (95 percent confidence interval , 0.34 to 0.86) .
+11|R|The threeyear survival rates were 74 percent in the group given radiotherapy alone and 83 percent in the combined-therapy group (P=0.008 by the log-rank test) (Fig. 2) .
+20|R|Cox multiple regression analysis showed that the size of the tumor as assessed by physical examination and the histologic grade of the tumor were both significant prognostic factors .
+21|R|Adjustment for these factors had no significant effect on the differences between the groups in survival and progression-free survival .
+1|D|The risk of recurrence and death was significantly reduced by concurrent treatment with cisplatinand radiotherapy .
+26|D|This difference appeared to be due to the lower rate of relapses in the pelvic region in the combined-therapy group .
+2|D|Although this regimen was also associated with higher rates of adverse effects , these effects consisted predominantly of transient hematologic and gastrointestinal effects , with no evidence of an increase in other serious effects .
+18|D|In the earlier Gynecologic Oncology Group study that assessed the value of extrafascial hysterectomy after radiotherapy , surgery was associated with a significant reduction in the rate of relapses in the pelvic region , but the overall risk of recurrence was not significantly reduced (relative risk , 0.76 , 95 percent confidence interval , 0.52 to 1.12) and there was no significant difference in survival (relative risk of death , 0.91) .
+19|D|It is reasonable to conclude on the basis of these results and our results that the elimination of hysterectomy from both regimens would not have affected the increase in survival associated with the use of cisplatin .
+3|D|Therefore , radiotherapy in combination with treatment with cisplatin should be adequate for patients with bulky stage IB cervical cancer .
+4|D|The five randomized trials of cervical cancer that we have discussed involve different stages of cervical cancer and combinations of treatment , but they share a common result , all five studies found that concomitant treatment with cisplatin and radiotherapy led to better outcomes than radiotherapy alone or in combination with treatments that did not include cisplatin .
+5|D|This remarkable consistency offers a compelling reason to consider cisplatin therapy in combination with radiotherapy as a new standard of care for patients with bulky stage IB , stage IIB through IVA , and high-risk cervical cancers .

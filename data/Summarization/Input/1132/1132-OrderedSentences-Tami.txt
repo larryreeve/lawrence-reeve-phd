@@ -1,0 +1,33 @@
+32|I|While surgery and radiotherapy (RT) are equally effective in early-stage disease , radiation  therapy has been the primary treatment modality for stage III disease , with 5-year survival rates between 30% to 45% being reported .
+33|I|Vogl et al and Alberts et al using a combination of bleomycin , vincristine ,  mitomycin , and cisplatin (BOMP) in patients with metastatic and/or recurrent disease reported high response rates (> 20% of  the patients with a complete response [CR]) with acceptable toxicity .
+4|I|The use of upfront CT as  initial treatment before pelvic RT would be theoretically advantageous as the vascular supply to the tumor is not  compromised , allowing a higher local tissue concentration of drugs , thereby improving the effectiveness of CT .
+3|I|To test this  hypothesis , we began in 1984 at the Instituto Nacional de Cancer (Rio de Janeiro , Brazil) a prospective randomized trial  comparing neoadjuvant BOMP CT followed by pelvic RT (CT + RT) versus pelvic RT alone in patients with stage IIIB carcinoma of  the cervix .
+23|M|Between April 1984 and August 1986 , 107 previously untreated patients with stage III B carcinoma of the cervix were entered  on the study .
+24|M|Eligibility criteria consisted of a histopathologic diagnosis of squamous cell carcinoma , age younger than 70  years with no past history of malignancy , the lower third of the vagina free of disease , and a performance status greater  than 50% in the Karnofsky scale .
+25|M|Thus , there were 39 assessable patients in the CT + RT  arm and 52 in the RT arm .
+26|M|The groups were balanced for age , extension of parametrial disease , lymph node involvement ,  hemoglobin level , bulkiness of the cervical disease , and the presence of hydronephrosis .
+27|M|A tumor dose of 50 Gy , in 2 Gy daily fractions , 5 days per week ,  was prescribed at midplane .
+28|M|This RT regimen was used for both  groups .
+29|M|Chemotherapy consisted of bleomycin 15 U intramuscularly (IM) every 12 hours from days 1 to 4 (total dose , 120 U) ,  vincristine 1 mg/m2 IV on day 1 , mitomycin 10 mg/im 2 IV on day 1 , and cisplatin 50 mg/m2 IV on day 1 , given on an outpatient  basis every 3 weeks for three cycles .
+21|M|A CR was defined as the complete resolution of all  measurable disease and symptoms , a partial response (PR) was defined as a 50% or more decrease in the sum of the products of  perpendicular diameters of measurable disease , and stable disease (SD) was defined as less than a 50% decrease in the sum of  the products of perpendicular diameters of the measurable lesions .
+22|M|All patients were observed to determine the efficiency of the combined therapy by comparing overall survival , rate of local  control , incidence of distant metastases , and toxicity between treatment regimens .
+20|M|The study was closed earlier because an interim analysis showed that , apart from increased serious toxicity , survival was  significantly worse in the combined approach group , and we did not feel that a positive result could be obtained with a  larger sample .
+5|R|The CR rate was 32.5% and 47% (P = .19) for the RT and CT + RT ,  respectively .
+6|R|Median survivals were 25 months in the RT arm and 10.5 months in the CT + RT .
+7|R|The 5-year  survival rates for the complete responders were 57% and 36% for the RT and CT + RT groups , respectively .
+9|R|Pelvic disease remains the major site of failure , with at least 50% of the patients failing within  the irradiated volume .
+8|R|There was also no  difference in the incidence of distant disease between RT and CT + RT (20% v18.5%) .
+11|R|Of greater concern was the bleomycin-related pulmonary toxicity .
+12|R|Five patients (13%) developed such a  complication , and four died as a direct result .
+13|R|Late complications are shown in Table 7 and consisted of proctitis , cystitis , fistula , and vaginal stenosis .
+30|D|This study was designed with the objective of answering the question of whether neoadjuvant BOMP chemotherapy is effective in  stage III B carcinoma of the cervix .
+10|D|Although 25.5% of the patients achieved a CR following three cycles of BOMP and 47% of the CT + RT group obtained a CR at the  end of RT , the 5-year overall survival was significantly inferior in the CT + RT group than in the control arm (39% v 21% , P  = .02) .
+31|D|The reason for this surprising and disturbing finding is not entirely clear .
+14|D|Another possible explanatory mechanism for our poorer results with the combined treatment modality may be the development of  cross resistance between radiation and certain antineoplastic agents .
+15|D|The mechanisms responsible for such cross-resistance  remain to be determined , but recent studies have shown significant similarity between the cytotoxicity of irradiation and  alkylating agents and that tumor cells may develop mechanisms of resistance capable of decreasing the cytotoxic effects of  some antineoplastic drugs as well as radiation .
+16|D|In this study , 27% of the patients (14 of 52) in  the RT group were called partial responders at the end of irradiation .
+17|D|Of these , 57% remain alive with no evidence of disease  progression .
+18|D|Similarly , in the combined treatment group , 37.5% of the partial responders are still alive and well .
+19|D|In this study , the incidence of pulmonary  toxicity was 13% (five of 39) , with four patients dying from this complication .
+1|D|At present , there is no evidence to support the use of upfront CT before pelvic irradiation in stage III B cervical cancer . 
+2|D|The high toxicity rate of BOMP CT , in the  dose and schedule used in this study , makes this combination unacceptable for routine use .

@@ -1,0 +1,32 @@
+29|I|CURRENT PESSIMISTIC VIEW of unconjugated monoclonal antibodies as cancer therapeutics has been largely influenced by the negative outcome of multiple clinical trials initiated shortly after introductionof the hybridoma technology . 
+30|I|Thus , it comes as no surprise that recent reports on some successes obtained with antibody therapy in lymphoma , breast , and colorectal carcinoma were met with great reserve . 
+4|I|In contrast to other trials aimed at patients with larger metastatic tumor masses and using regression or shrinkage as the end point, this one on colorectal cancer of stage Dukes' C required microscopically complete resection of the primary tumor for patients to be admitted .
+5|M|As the primary end point , overall-survival was determined at 5 years .
+3|I|Here , we report on the 7-year follow-up study of this prospective randomized two-arm trial in minimal residual disease that used the murine 17-1A antibody, 4 which recognizes a 34-kd glycoprotein of the cell membrane ofepithelial cells .
+1|R|The 5-year analysis had shown that a short , albeit intensive , postoperative course of antibody treatment (900 mg total dose)significantly reduced the appearance of distant metastases , but did not affect the rate of local relapses .
+6|M|After confirmation of histology and R0 resection of lymph node metastasis , patients were randomized into two groups one received 17-lA treatment , whereas the other served as observation controls . 
+7|M|Patients in both groups were monitored in exactly the same way , with 14 prospectively defined follow-up visits , first on a quarterly and later on a half-year basis .
+25|R|The death rate of the observed group was 63% (48 of 76 , 95% CI , range , 48 to 78) of patients and that of the treated group was 43% (39 of 90 , 95% CI , range , 31 to 58) . 
+26|R|Thus , treatment with antibody led to a relative reduction of mortality by 32% (hazards ratio , 0.57 , 95% confidence interval , 8% to 51%) .
+27|R|The median survival time before death after recurrence was 1.4 years for patients randomized to treatment with 17-1A and 1.2 years for patients in the observed group .
+28|R|In summary , 46% of patients (41 of 90) in the treatment group are at risk at 7 years and only 29% of patients (22 of 76) of the observed group are alive without recurrence .
+19|R|When the two groups were compared with regard to the site of first recurrence , the 7-year data similar to the 5-year analysis show that significantly fewer distant recurrences occur in patients treated with the antibody than in the control arm (Fig 3) .
+20|D|Therefore , the proposition is holding up that treatment with 17-1A may preferentially act on isolated tumor cells and thus prevent outgrowth ofdistant metastases .
+21|D|The rather mild toxicity of 17-1A antibody has been described in detail in the 5-year report . 
+22|D|Since only acute and no chronic adverse effects were seen , the toxicity profile was not changed during the last observation period . 
+23|D|There were no late treatment-related fatalities or life-threatening conditions , or any evidence for chronic drug-related side effects .
+24|D|As the 7-year median follow-up data confirm the previously reported 5-year findings , the conclusion seems warranted that antibody treatment improves the chances of curatively operated patients .
+8|D|The dose of antibody chosen deserves a special comment
+9|D|In the planning stage of the trial , we were afraid of a strong  anaphylactic response to repeated adnumstration of murine immunoglobulin . 
+10|M|We therefore resorted to a large , first intravenous dose that consisted of 500 mg highly soluble monomeric mmunoglobulin G2a to induce tolerance to mouse mmunoglobulin G . 
+11|M|Nevertheless , the high dose may have been critical to obtain a steep transvascular concentration gradient required for tissue penetration . 
+12|D|Why only one third of the patients at risk have responded to the antibody treatment may be explained by variations in accessibility , vulnerability , nd/or antigen expression in individual disseminated tumor cells .
+13|D|Immunohistochemical staining of the primary tumor had shown that the antigen is expressed by most , but not all cells within an individual tumor .
+14|D|By double staining of individual metastatic cells in bone marrow , it was shown that the 17-lA target is expressed by disseminated cells in only two thirds of the examined patients .
+15|D|It is safe to assume that antigenic heterogeneity , a likely consequence of the marked genomic instability of human epithelial tumors , will be a major obstacle for single-antibody treatments , as well as for any other form of monotherapy .
+16|D|Therefore , in anticipation of antigenic heterogeneity , a combination therapy that consists of antibodies of different specificities may forestall a selection of antigen-negative cells exerted inevitably by a one-antibody approach . 
+17|D|Furthermore , humanized antibodies or entirely human antibodies generated from human mmunoglobulin gene hbrarles that are less Immunogenic than murine antibodies are now being tested .
+18|D|The discovery of the adhesion function of the 17-1A molecule , hence the new name EpCAM , raised the speculation that the antibody inhibited outgrowth of metastasis by interference with cell-cell adhesion .
+2|D|For the immediate future , adding antibody to chemotherapy seems logical to attack both dormant , as well as proliferating, metastatic tumor cells .
+31|D|Two major trials using the 17-1A antibody with the same dose and similar regimen are currently under way to test this question in colon cancer patients . 
+32|D| In conclusion , the presented results still support the original hypothesis that minimal residual disease occurring so frequently in patients with sohd tumors appears to be an indication for antibody therapy .

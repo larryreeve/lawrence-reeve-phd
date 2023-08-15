@@ -1,0 +1,19 @@
+11|I|The Swiss Group for Clinical Cancer Research(SAKK) started one of  these trials in 1981 to investigate the effectiveness of a  perioperativeintraportal cytotoxic regimen with fluorouracil and  mitomycin .
+12|M|Between July , 1981 , and March , 1987 , we enrolled 533 patients with adenocarcinoma of colon or rectum who were about to undergo curative resection and were younger than 75 years .
+13|M|Patients were randomly assigned no adjuvant treatment (control  group) or an immediate postoperative intraportal infusion of 500mg/m  fluorouracil plus 5000 units heparin in 1 L 5% glucose per 24 h for 7 consecutive  days (days 1-7) plus 10 mg/m mitomycin in a single dose on day 1 .
+14|M|To be eligible , patients had to have no evidence of metastatic  disease in preoperative investigations 29 patients had liver metastases  diagnosed at resection and 8 had incomplete resection .
+15|M|Time of relapse was defined as the time when recurrent disease was  diagnosed or , if later confirmed , when it was first suspected . 
+16|M|Disease-free survival was defined as the time from surgery to  relapse , the appearance of a second primary cancer , or death , whichever occurred first .
+17|M|Among the patients assigned chemotherapy , 69.4% received at least  80% of the prescribed dose of fluorouracil , 75-1% received at least 50% , and  78-4% at least 25% .
+18|M|Mitomycin was given to 78-8% of the patients assigned it .
+8|R|The group assigned perioperative portal chemotherapy had significantly higher 5-year disease-free survival than the control group (table  2) .
+9|R| The hazard ratio for relapse (all events to mid-1992) of treated  compared with untreated patients was 0-79 (95% CI 0.62- 1.00 , p=0.051) .
+10|R|The infusion group had a higher rate of repeat laparotomy and  haemorrhage than the control group , especially after  abdominoperineal resection of rectal cancer .
+7|D|This trial evaluated the hypothesis that adjuvant portal chemotherapy delivered during surgery and during the early postoperative period  would reduce the incidence of liver metastasis and increase  survival in patients with colorectal cancer .
+4|D|Adjuvant portal chemotherapy was tolerated without an increase in complications compared with untreated patients .
+3|D|After median follow-up of 8 years we were not able to confirm the overall reduction of liver metastases reported by Taylor et al. We  did find , however , a consistent reduction of all kinds of tumour recurrences  that resulted in a significant advantage in overall survival and  disease-free survival for patients treated with adjuvant portal infusion , confirming previous findings .
+1|D|Adjuvant chemotherapy reduced the risk of recurrence by 21 % and  the risk of death by 26% .
+2|D|This effect was observed in all subgroups , but was greatest in  patients with tumour-involved lymph nodes (33%) and in those with colon cancer  (22%) .
+19|D|For further studies , we recommend that patients with insulin-dependent diabetes , a high risk of postoperative complications (obesity ,  cardiac , and/or pulmonary disease) , or any evidence of intra- abdominal sepsis at laparotomy or during the early postoperative period , should be  excluded from participation .
+5|D|Based on previous results and our own findings , the Swiss Group  for Clinical Cancer Research decided to accept perioperative adjuvant  chemotherapy as the standard treatment for further clinical trials in colorectal cancer .
+6|D|The question of whether systemic chemotherapy gives a greater survival advantage than the less toxic intraportal administration remains unresolved .

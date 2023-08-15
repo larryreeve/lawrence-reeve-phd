@@ -1,0 +1,39 @@
+39|I|Adjuvant chemotherapy for soft tissue sarcoma is controversial because previous trials reported conflicting results .
+38|A|SOFT TISSUE sarcomas represent less than 1% of all malignant tumors and derive from the mesenchymal tissues present in the whole human body .
+12|I|The treatment of limb sarcomas mainly relies on a combined-modality approach , after the demonstration that pre-or postoperative radiation and conservative surgery led to local control in a high proportion of patients .
+13|I|In fact , limb-sparing procedures allow an 85% to 90% local dis-ease-free survival (DFS) rate and demolitive surgery now represents only 5% to 10% of the operations in comparison with the 50% survival rate of the 1960s to 1970s .
+4|I|Nevertheless , a great proportion of high-risk soft tissue sarcoma patients develop distant metastases during theirI lives .
+5|I|In the early 1960s , this clinical behaviour prompted the introduction of adjuvant chemotherapy trials with the aim of increasing DFS and possibly overall survival (OS) .
+35|I|A second generation of randomized , control-based , adjuvant trials started in the early 1990s .
+36|I|Their main differences , compared with the previous studies , are the introduction of ifosfamide (IFO) and the intensification of doses in combination with hematopoietic growth factors , and more restricted selection criteria . 
+37|M|Not one new study has been already reported , whereas the present Italian co-operative study closed patient accrual in November 1996 because of the results of the planned interim analysis .
+14|M|Here we report the results of the Italian co-operative study after a median follow-up of 59 months and a minimum time between randomization and date last seen of 28 months among patients who did not die .
+15|M|After a positive biopsy for sarcoma , all patients underwent complete staging and programmed local treatment .
+32|M|Patients were treated with radical surgery , wide resection followed by postoperative radiation therapy , or pre-operative radiation therapy .
+34|M|Radical surgery consisted of amputation in case of massive involvement of critical structures or compartmental resection in highly selected patients .
+33|M|Wide resection followed by postoperative radiation therapy (64 to 66 Gy in 32 to 33 fractions , 5 fractions per week) was used for patients amenable to conservative surgery with negative margins .
+31|M|Chemotherapy , repeated every 3 weeks , consisted of five cycles of 4'-epidoxorubicin (EPI) 60 mg/m2/die , in a short intravenous (IV) infusion on days 1 and 2 (total dose per cycle, 120 mg/m2) , IFO 1.8 g/m2/die diluted in 500 mL of normal saline and administered over 1 hour on days 1 through 5 (total dose per cycle , 9 g/m2) , and 6-mercapto-ethansulfonate in a bolus IV injection at 20% of the IFO dose , given before and 4 and 8 hours after the IFO infusions .
+16|M|A dose reduction scheme was defined to avoid excessive toxicity .
+6|M|Toxicities were graded according to World Health Organization criteria .
+7|M|Overall DFS was defined as the time between randomization and the first recurrence , and OS was defined as the time between randomization and death as a result of disease (patients dying in complete remission were considered as censored on the date of death for OS) .
+8|M|The intention-to-treat analyses for overall DFS and OS were based on the Kaplan-Meier estimator of the survival function .
+17|M|Under the auspices of the Italian National Council for Research (CNR) , 104 patients , 53 in the chemotherapy and 51 in the control arm , entered the study between June , 1992 and November , 1996 .
+18|M|At the time of statistical analysis (November 1999) , the median follow-up for the 104 patients included in the study was 59 months , 61 months in the treatment arm and 55 months in the control arm .
+19|R|The median overall DFS was 48 months among treated patients and 16 months in the control group .
+20|R|Patients in the treated arm experienced a 41% reduction in the risk of disease relapse (HR , 0.59 , 95% CI , 0.36 to 0.99 , P = .04) (Fig 2) . 
+9|R|The absolute improvement deriving from chemotherapy was 27% at 2 years (72% and 45% in the treatment and control arms , respectively , P = .003) , and 13% at 4 years (50% and 37% , respectively , P = .19) (Table 5) .
+10|R|Overall , patients in the treatment arm had an indication of reduction in the risk of local recurrence (P = .07) .
+22|R|As the first event , a total of 47 distant relapses were observed (22 single distant events in the control group and 21 in the treatment group , one synchronous distant and local event in the control group and three in the treatment group Table 4) .
+23|R|The estimated cumulative incidence function at 2 years was 28% for the control arm and 45% for the treatment arm (P = .08) , at 4 years it was 44% and 45%, respectively (P = .94) .
+21|R|The absolute improvement deriving from chemotherapy was 13% at 2 years (85% and 72% in the treatment and control arms , respectively , P = .10) , and the improvement increased to 19% at 4 years (69% and 50%, P = .04) (Table 5) .
+29|D|Adjuvant treatment of localized soft tissue sarcomas is controversial because no sufficient and convincing data are available .
+30|D|Furthermore , a number of other points about the first-generation studies evaluated by the meta-analysis should be discussed .
+11|D|Although these first-generation trials are no longer the gold standards , the meta-analysis did reveal a number of elements that suggested a positive role of adjuvant chemotherapy .
+1|D|The main finding of the intention-to-treat analysis in this study is the beneficial impact of chemotherapy on the DFS (P = .04) and OS (P = .03) for patients affected by high-risk extremity soft tissue sarcomas and treated with chemotherapy .
+24|D|The benefit is seen despite the fact that four of the seven patients that never started chemotherapy for different reasons died from uncontrolled metastatic disease .
+25|D|We chose DFS as the end point because OS is not a realistic end point for an interim analysis in a rare disease and in the adjuvant setting .
+26|D|Furthermore , the Rizzoli Institute had already published a positive adjuvant trial and the risk of undertreating a great number of patients was a concern .
+27|D|Alhough a few second-generation trials are still going on , this study is the first to be concluded (November 1996) , having stopped the patient accrual according to a predefined statistical methodology .
+28|D|A beneficial impact of chemotherapy on DFS and OS was observed at a median follow-up time of 59 months .
+2|D|However , a cure seems difficult to achieve in high-risk patients , in our study population , 60% of the patients have relapsed and continue to die in both arms .
+3|D|Nevertheless , a significant delay in relapse and death , as observed in our treatment group , is worthwhile and cost-effective in young patients , also taking into account the shortness of the treatment and the absence of toxic death .

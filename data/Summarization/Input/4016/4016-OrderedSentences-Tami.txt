@@ -1,0 +1,27 @@
+26|I|In first-line chemotherapy , fluorouracil with folinic-acid is  better than supportive care (or delayed chemotherapy) for survival and quality of life , but the value of second-line chemotherapy in metastatic colorectal cancer has  not yet been proven .
+27|I|In phase II studies , irinotecan has  objective antitumour activity in patients with metastatic colorectal cancer , even in those with documented  fluorouracil-resistant tumours , with response rates of  11.23% .
+1|I|The trial we report was started in 1995 to compare irinotecan with supportive care alone for survival , quality  of life , and other clinical variables .
+2|I|The participants were  patients with metastatic colorectal cancer in whom fluorouracil chemotherapy had failed .
+20|M|Overall survival was the primary endpoint .
+21|M|The secondary objectives were the impact of treatment on performance status , bodyweight ,tumour-related symptoms , and quality of life .
+17|M|In the irinotecan group , patients were given best supportive care and irinotecan 350 mg/m , diluted in 250 mL normal saline or dextrose , over a 90 min intravenous infusion every 3 weeks  (or 300 mg/m if aged >=70 years or WHO performance status 2 , according to previously recognised risk factors for developing  toxicity) .
+18|M|Supportive care was defined as the best care available as judged by the attending physician , according to institutional standards for each centre .
+19|M|Supportive care included antibiotics ,  analgesics , transfusions , corticosteroids , or any other  symptomatic therapy (except iriontecan or other topoisomerase  I inhibitor) , and/or assistance of a psychotherapist .
+9|R|189 patients were randomly allocated irinotecan and supportive care and 90 patients were allocated  supportive care alone (figure 1) .
+25|R|These characteristics were similar for both groups except for performance status (more patients having poor performance status in the supportive-care group) and anemia .
+10|R|Patients in the irinotecan group lived significantly longer than those in the supportive-care  group (p=0.0001) .
+11|R|This benefit appeared after 2 months and became more apparent throughout the study period.  1-year survival was 36.2% and 13.8% in the irinotecan and supportive-care groups , respectively .
+12|R|Median  survival was 9.2 and 6.5 months , respectively .
+24|R|A univariate Cox's model showed that patients with  performance status 0 or 1 shared the same prognosis , which was notably better than that for patients with performance status 2 .
+14|R|Survival without weight loss of more than 5% (p=0.018) and survival without performance-status deterioration (p=0.0001) were significantly longer in the irinotecan group .
+22|R|More patients with a performance-status of worse than 0 at baseline improved their performance status ,  35% versus 11% (p=0.002) .
+13|R|Pain-free survival in patients without pain at baseline (figure 4) was significantly longer in the irinotecan group than in the supportive-care group (p=0.003) , despite a higher proportion of patients on opioids in the supportive-care group .
+23|R|The univariate analyses of variance were significantly in favour of the irinotecan group for the cognitive functioning score (p.0.001) , the global quality-of-life  score (p<0.001) , the pain score (p=0.008) , dyspnoea  (p=0.04) , appetite loss (p<0.002) , and financial-impact scores (p<0.001) .
+15|R|Time to definitive quality-of-life deterioration was significantly longer in the irinotecan group , whichever the chosen threshold for deterioration (all p values <0.002) .
+16|R|Patients on supportive-care alone experienced a high incidence of severe adverse events , especially pain and asthenia , although significantly more patients in the irinotecan group experienced severe events , especially neutropenia , nausea , vomiting , and diarrhoea .
+3|D|This study showed that treatment with irinotecan and supportive care alone , compared with supportive care , prolonged the life of patients with metastatic colorectal cancer .
+4|D|This benefit was clinically meaningful because  the probability of surviving 1 year was 2.6 times greater in patients given irinotecan compared with that of patients given supportive care alone .
+5|D|Other efficacy endpoints , such as survival without weight loss , survival  without performance status deterioration , pain-free survival , and quality-of-life , were all significantly in  favour of irinotecan .
+6|D|The survival advantage for the irinotecan group remained highly significant after adjustment of performance status , a well-recognised prognostic  factor .
+7|D|Furthermore , irinotecan improved the symptoms of patients and delayed the onset of  tumour-related symptoms such as performance-status deterioration , weight loss , and pain .
+8|D|Irinotecan can therefore be recommended as the standard second-line therapy in colorectal cancer and as a new reference for forthcoming clinical trials .

@@ -1,0 +1,30 @@
+5|I|In 1988 the GOG initiated a prospective randomized study (GOG #92)  , reported here  , to investigate the benefits and risks of adjuvant radiotherapy for Stage I cervical cancer patients treated by conventional radical hysterectomy and pelvic lymphadenectomy and who were at high risk for recurrence  , because of LTD  , DSI  , CLS  , but excluding patients with lymph node metastases .
+11|M|The GOG #92 multicenter prospective randomized study was designed to determine whether postoperative pelvic radiotherapy following radical hysterectomy and pelvic node dissection would reduce the rate of recurrence and decrease the mortality in Stage IB cervical cancer patients with large tumor diameter  , deep stromal invasion by tumor  , and presence of tumor in the capillary lymphatic spaces found on microscopic examination .
+19|M|Patients were eligible for the study if they had primary Stage IB squamous  , adenosquamous carcinoma  , or adenocarcinoma of cervix initially treated with a standard radical hysterectomy and who had negative lymph nodes but one of the previously described combination of risk factors .
+12|M|Patients received external beam irradiation and no brachytherapy .
+24|M|Radiation dose was from 46 Gy in 23 fractions to 50.4 Gy in 28 fractions , 5 fractions per week .
+25|M|Each patient was to be given daily fractions of 1.80 –2.00 Gy over 41/2 to 6 weeks .
+13|M|The primary outcome variable was recurrence-free interval (RFI) .
+26|M|RFI was defined as the time from study entry to physical or radiographic evidence of disease recurrence , or date the patient was last seen .
+6|R|Between March 1988 and September 1995  , 299 women were accessioned into the study .
+20|R|Thirty-nine (27.9%) of the 140 women in the NFT group developed cancer recurrence , 27 (19.3%) local (vagina or pelvis)  , and 10 (7.1%) distant .
+21|R|By contrast  , there were only 21 (15.3%) cancer recurrences  , 18 (13.1%) local and 3 (2.2%) distant among 2the 137 patients treated with postoperative radiation .
+7|R|The crude estimate in the reduction in risk in patients receiving adjuvant radiotherapy was 47% (i.e.  , relative risk 5 0.53) with the recurrence-free rate of 88% in the radiotherapy group and 79% in the no-further-therapy group at 2 years (Fig. 1) .
+8|R|Fortyfive (78%) of 58 recurrences were local only (vagina or pelvis)  (Table 4) .
+9|R|The Cox model analysis indicated that when adjusting for all combinations of the three risk factors—tumor size  , CLS , and the depth of invasion—the risk of recurrence was significantly reduced by 44% in the radiation group (P 5 0.019 , one-tail) .
+22|R|Forty-eight patients have died as of this report (final analysis of survival awaits further follow-up until 60 deaths have occurred) .
+23|R|Thirty (21%) patients among those in the NFT group died , 25 (18%) from cancer , compared to 18 (13%) deaths in the RT group , 15 (11%) of whom died from cancer with one attributable to treatment (Table 5) .
+10|R|The relative mortality rate is estimated at 0.64 which indicates 36% less mortality in the radiation group , a significance level is not provided because the survival data are not mature .
+18|R|Nine (7.0%) of the 128 patients who received radiotherapy had 11 episodes of grade 3 (severe) or 4 (life-threatening) adverse effects compared to 3 (2.1%) from the NFT group .
+27|D|Both large tumor diameter and deep stromal invasion are indices of large tumor volume , conceivably affecting cancer progression and its metastatic spread .
+29|D|Estimating tumor diameter by palpation is more subjective and imprecise than the direct measurement of the depth of invasion .
+14|D|Nevertheless , we found tumor diameter to be the most significant risk factors in the Cox model analysis of our study results , confirming multiple data sets which demonstrate that the size of the primary cancer is critical for local control despite the imprecision of measurement .
+4|D|A detailed GOG clinical pathologic study had established that certain patients with poor prognostic factors related to the primary tumor (i.e. , large tumor size , deep stromal invasion , and capillary lymphatic space tumor involvement) but without lymph node involvement had a risk of recurrence of 31% after radical hysterectomy and pelvic lymphadenectomy .
+3|D|The present prospective randomized study showed that adjunctive radiotherapy significantly reduced the number of cancer recurrences in women with the above risk factors by 44% and that the difference in recurrences between irradiated and nonirradiated patients was statistically significant at the P 5 0.019 level .
+30|D|However , caution must be observed due to the disproportionately higher number of patients that are “lost to followup” among those receiving radiation therapy and the need for further follow-up to determine what impact radiation therapy has on survival .
+17|D|There were significantly fewer recurrences in the irradiated group , the numbers of both pelvic and distal recurrences were less .
+15|D|Interestingly , our prospective study did provide conclusive evidence of pelvic radiotherapy being effective in women with primary tumor-related risk factors but negative nodes .
+16|D|In our study , major lifethreatening adverse effects were encountered in 5 (4%) womenamong the 128 who received radiotherapy .
+28|D|The rate of postradiation complications in our study was similar to those reported in the literature .
+1|D|Thus , adjunctive radiotherapy is beneficial for Stage I cervical cancer patients with clinical–pathological risk factors for recurrence other than positive nodes .
+2|D|This conclusion is based on a significant reduction of cancer recurrences in patients in our study and acceptably low morbidity with a single treatment-related fatality .

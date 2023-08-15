@@ -1,0 +1,30 @@
+27|I|Stage Ib and IIa carcinoma of the cervix can be cured by radical surgery or radiotherapy with similar effectiveness , but the rate and types of complications differ .
+25|I|Radiotherapy is feasible and effective in almost all patients , 5-year survival after this therapy ranges from 78% to 91% .
+26|I|By contrast , radical surgery affords the opportunity to study pathological findings , so that groups of at-risk patients who could benefit from adjuvant treatment can be identified .
+28|I|The treatment of choice will depend on the policy of the institution , the gynaecologist or radiation oncologist involved , and the age and the general health of the patient .
+2|M|We conducted a prospective , randomised study to compare external and internal radiotherapy with radical hysterectomy and node dissection .
+3|M|Our main aim was to evaluate 5-year survival and the rate and pattern of complications and recurrences associated with each procedure .
+13|M|Between September , 1986 , and December , 1991 , 578 patients with primary invasive cervical cancer were referred to the Departments of Obstetrics and Gynecology and Radiation Oncology , at the Istituto di Scienze Biomediche S Gerardo, University of Milan , Monza .
+15|M|We used the International Federation of Gynaecology and Obstetrics (FIGO) clinical staging system to classify the stage of cancer .
+19|M|The patients were randomly assigned radical surgery (n=172) or radical radiotherapy (n=171) .
+13|M|Treatment was assigned by block randomisation (clusters of ten cases of each stratum of cervical diameter) from a computer-generated table that had been created before the start of the study .
+14|M|We used multivariate Cox regression analysis to assess the effect of cervical size , age , FIGO state , histological type , grade of differentiation , radiological lymph-node status , and treatment group on overall survival .
+17|M|Median follow-up was 87 (range 57-120) months .
+18|M|5-year actuarial disease-free survival for the surgery and radiotherapy groups was 80% and 82% , respectively , for patients whose cervical diameter was 4 cm or smaller , and 63% and 57% for those with a diameter larger than 4 cm , the between group differences were not significant .
+16|M|The two groups did not differ significantly as regards squamous histotype , overall 5-year survival rates were 84% in surgery-group patients and 88% in radiotherapy-group patients , overall disease-free survival was 76% and 78% , respectively . 
+20|R|Overall , 86 (25.5%) patients developed recurrent disease , 42 (25%) in the surgery group and 44 (26%) in the radiotherapy group .
+21|M|Complications were classified according to the glossary of Chassagne and colleagues.
+22|R|In the surgery group , 48 (28%) patients showed severe (grade 2-3) morbidity that required medical or surgical treatment , compared with 19 (12%) patients in the radiotherapy group , (p=0.0004, table 3) .
+23|R|The relative risk of this complication for surgery plus radiotherapy versus surgery alone was 3.11 (95% CI 0.71-13.56) and was 2.01 (95% CI 0.84-4.8%) for surgery plus radiotherapy versus radiotherapy alone .
+29|D|Our review of the published research suggests that cure rates are similar for patients with stage-I cervical cancers who undergo surgery or radiotherapy .
+1|D|In our study , 5-year actuarial survival was the same in the surgery and radiation groups (83%) , which suggests that there is no treatment of choice with respect to local control of disease .
+4|D|Apart from survival , optimum treatment strategies depend on the benefits and disadvantages of each treatment and on prognostic factors (cervical diameter , histotype , and lymph-node status) .
+5|D|Radical hysterectomy allows the gonadal function of at least one ovary to be saved , thereby avoiding the effects of early menopause in younger women .
+7|D|Surgery also offers other advantages , pelvic relapses can be successfully cured by radiotherapy , whereas salvage surgery after primary irradiation carries a high rate of failures and severe morbidity .
+8|D|Furthermore , surgery allows the status of the lymph nodes , the most dependent variable associated with survival , to be assessed accurately .
+6|D|By contrast , radiotherapy is easier to deliver for patients who are obese , are elderly , or have severe illness-major contraindications to the surgical approach .
+24|D|Morbidity is associated with both treatment strategies , though the most severe complications , such as operative mortality , urological complications , and tissue damage from irradiation , have been reduced during the past 20 years . 
+12|D|Our study was not aimed to assess the usefulness of the postoperative treatment , though our finding that patients treated with surgery plus radiotherapy were exposed to early and late complicationsof both treatments is important .
+9|D|Most women with stage Ib-IIa cervical cancer can be treated successfully with radiotherapy , whereas a judicious selection of patients is necessary before planning primary radical surgery .
+10|D|Women whose cervical diameters are larger than 4 cm should be identified before surgery so that they can benefit from tailored treatment , radical radiotherapy , with the option of concomitant radiosensitising chemotherapy to improve the local control of the disease , or cisplatinbased chemotherapy followed by radical surgery .
+11|D|The latter approach offers the advantages of surgery , and the neoadjuvant chemotherapy will keep to a minimum the risk of extracervical spread of the tumour without combining surgery and radiotherapy .

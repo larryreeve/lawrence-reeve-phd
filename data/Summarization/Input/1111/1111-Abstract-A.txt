@@ -1,0 +1,19 @@
+Objective. 
+The objective of this study was to evaluate the benefits and risk of adjuvant pelvic radiotherapy aimed at reducing recurrence
+in women with Stage IB cervical cancer treated by radical hysterectomy and pelvic lymphadenectomy.
+
+Methods. 
+Two hundred seventy-seven eligible patients were entered with at least two of the following risk factors: >1/3 stromal
+invasion, capillary lymphatic space involvement, and large clinical tumor diameter. Of 277 patients, 137 were randomized to pelvic
+radiotherapy (RT) and 140 to no further treatment (NFT). 
+
+Results. 
+Twenty-one (15%) in the RT group and 39 (28%) in the NFT group had a cancer recurrence, 18 of whom were vaginal/
+pelvic in the RT and 27 in the NFT group. In the RT group, of 18 (13%) who died, 15 died of cancer. In the NFT group, of the 30
+(21%) who died, 25 died from cancer. Life table analysis indicated a statistically significant (47%) reduction in risk of recurrence
+(relative risk 5 0.53, P 5 0.008, one-tail) among the RT group, with recurrence-free rates at 2 years of 88% versus 79% for the RT
+and NFT groups, respectively. Severe or life-threatening (Gynecologic Oncology Group grade 3 or 4) urologic adverse effects
+occurred in 4 (3.1%) in the RT group and 2 (1.4%) in the NFT group; 3 (2.3%) and 1 (0.7%) hematologic; 4 (3.1%) and 0 gastrointestinal
+(GI); and 1 (0.8%) and 0 neurologic, respectively. One patient’s death was attributable to grade 4 GI adverse effects.
+Conclusions. Adjuvant pelvic radiotherapy following radical surgery reduces the number of recurrences in women with Stage
+IB cervical cancer at the cost of 6% grade 3/4 adverse events versus 2.1% in the NFT group.

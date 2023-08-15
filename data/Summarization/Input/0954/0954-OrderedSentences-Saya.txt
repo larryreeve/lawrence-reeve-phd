@@ -1,0 +1,19 @@
+5|I|TRIALS of postoperative radiotherapy for breast cancer conducted during the 1960s and 1970s showed significant reductions in rates of locoregional recurrence but no improvement in overall survival .
+6|I|This result has been attributed to micrometastases , which determine prognosis regardless of the effect of the locoregional therapy .
+2|I|To test the hypothesis that adding radiation to adjuvant systemic therapy improves the outcome in patients with breast cancer , we designed a randomized trial in 1978 in British Columbia .
+7|M|From 1979 through 1986 , 318 premenopausal women with newly diagnosed stage I or II breast cancer were enrolled in the study after undergoing modified radical mastectomy if , after axillary-node dissection , one or more level I or II lymph nodes were found to be positive on pathological examination .
+12|M|All the patients underwent modified radical mastectomy , with dissection of level I and II axillary lymph nodes .
+8|M|The chemotherapy consisted of cyclophosphamide (600 mg per square meter of body-surface area) , methotrexate (40 mg per square meter) , and fluorouracil (600 mg per square meter) (the CMF regimen) , given intravenously every 21 days as described by Bonadonna et al. , initially for 12 months (80 patients) , and in the case of patients randomized after 1981 , for 6 months .
+13|M|The radiation therapy was administered between the fourth and fifth cycles of chemotherapy .
+9|M|In the survival analysis , the time to the end points associated with each event was calculated from the date of the tissue diagnosis of breast cancer .
+1|D|This study of premenopausal women with breast cancer demonstrates that locoregional radiotherapy reduces the rates of locoregional and systemic relapses and the chance of dying from breast cancer .
+3|M|These data based on a 15-year follow-up indicate that radiation can offer substantial protection from systemic relapse to node-positive patients .
+10|D|Our data suggest that locoregional disease is not only a marker of systemic disease but also , in some patients , a potential source for its future dissemination .
+11|D|In this context , the interaction with adjuvant chemotherapy may be important , because chemotherapy is expected to eliminate systemic micrometastases more effectively than locoregional disease .
+4|D|In node-positive patients , adding locoregional radiotherapy may be essential to prevent secondary dissemination from the residual locoregional metastatic disease , and it could increase the potential for cure .
+17|D|Because all our patients were uniformly treated with chest-wall and nodal radiation , our results may not apply to patients treated with breast irradiation alone after conservative surgery .
+15|D|Four randomized trials comparing breast irradiation with no irradiation in patients who underwent conservative surgery showed significant reductions in the rate of relapse in the breast but no effect on systemic recurrences or overall survival .
+16|D|Therefore , it may be necessary to add nodal radiation to breast irradiation in premenopausal node-positive patients who are treated with partial mastectomy and adjuvant chemotherapy .
+18|D|Locoregional radiation is not routinely used at present in patients with node-positive breast cancer , although it is coming into use to treat patients with 10 or more positive nodes and occasionally those with 4 or more positive nodes .
+14|D|Our data indicate that locoregional disease remaining after definitive surgery may be an important source of systemic disease .
+19|D|The elimination of locoregional cancer cells by radiotherapy added to adjuvant chemotherapy may reduce mortality in selected patients with breast cancer 

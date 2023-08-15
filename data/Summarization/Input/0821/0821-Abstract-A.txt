@@ -1,0 +1,12 @@
+Because of biochemical and tissue culture evidence casting doubt on the physiologic relevance of reported synergy afforded 
+by sequential administration of methotrexate (MTX) followed by 5-fluorouracil (5-FU), a randomized controlled clinical 
+trial was conducted in 108 patients with advanced cancer, including 70 with squamous cell carcinoma (SCC) of the head and neck, 
+nine with SCC of other primary sites,24 with colorectal, and five with gastric adenocarcinomas. Patients were randomized to 
+receive weekly therapy consisting of MTX followed one hour later by 5-FU, or 5-FU followed one hour later by MTX. There was a 
+trend to higher tumor response rates in patients treated with MTX before 5-FU (45% v 33% overall; 65% v 39% in patients with 
+previously untreated head and neck cancer), but these differences were not significant, either by chi-square test or by 
+multivariate stepwise logistic regression. The trend in survival favoring the reverse sequence of 5-FU before MTX was not 
+significant in univariate analyses. Stepwise multivariate Cox model analysis showed that Eastern Cooperative Oncology Group 
+performance status at study entry was the major prognostic factor for survival (P < 0.001), but among the 70 patients with head
+and neck cancer, the sequence of drug administration was the only other significant prognostic factor for survival, and 
+favored the sequence of 5-FU followed by MTX (P < 0.025).

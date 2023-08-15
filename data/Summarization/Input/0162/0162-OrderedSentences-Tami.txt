@@ -1,0 +1,36 @@
+30|I|SINCE JUNE 1973 , the therapeutic and toxicologic effects of CMF (cyclophosphamide , methotrexate , and fluorouracil) chemotherapy were evaluated at the Istituto Nazionale Tumori of Milan as adjuvant treatment in patients with operable breast cancer and histologically positive axillary nodes .
+31|I|The aim of the first program was to evaluate whether CMF given after radical surgery was able to alter the course of the disease .
+32|I|After radical mastectomy , eligible patients were prospectively randomized to receive either no further treatment or 12 monthly cycles of adjuvant CMF .
+33|I|All our progress reports have consistently demonstrated that there was a significant difference in the relapse-free survival (RFS) favoring patients who received adjuvant CMF .
+34|I|The 7-yr results of this first program are now available ,6 and they confirm the benefit of CMFtreated patients (RFS 49.2%) as compared to women subjected to radical mastectomy alone (RFS 35.8% , p < 0.002) .
+27|I|Among the numerous questions to be answered by current adjuvant studies is the optimal duration of treatment .
+28|I|In fact , a relative shortterm adjuvant systemic treatment would spare the patients a considerable amount of toxicity .
+29|I|For this reason , in September 1975 , we started a new prospective study with the intent to evaluate the possibility of reducing the duration of adjuvant CMF without compromising the therapeutic effect of combined treatment .
+23|M|Between September 1975 and May 1978 , a total of 466 consecutive patients were entered into a prospective randomized study .
+24|M|Before being allocated to either treatment group , patients were stratified according to the number of axillary nodes involved (1-3 or more than 3) .
+26|M|The median follow-up at the time of present analysis was 56 mo for the entire series of 459 evaluable patients .
+25|M|Primary treatment failure was defined as the first documented evidence of new disease manifestation(s) in either local-regional area(s) , distant site(s) , or a combination of the two .
+9|R|Figure 1 shows that the comparative RFS at 5 yr was practically identical in the two treatment groups (CMF 12 , 59% , CMF 6 , 65.6% , p =0.17) .
+10|R|It is important to emphasize that overall no RFS difference was documented between preand postmenopausal patients (CMF 12 , 59.3% versus 57.6% , CMF 6 , 66.5% versus 63.1% ,respectively) .
+11|R|On the contrary , in both treatmentand menopausal groups , RFS was affected by the number of involved nodes (Table 1) .
+12|R|In fact , premenopausal patients in the 12-cycle group had a 72% 5-yr survival compared to 77.1% for women in the 6-cycle group (p = 0.20) .
+13|R|The findings for postmenopausal women were 74.2% and 76.6% , respectively (p = 0.72) .
+14|R|No difference in the pattern of treatment failure was evident between the treatment groups (Table 2) .
+15|R|No substantial difference was also documented in the pattern of new disease manifestations , either local-regional or distant , between pre- and postmenopausal women .
+16|R|Regardless of the type of treatment , RFS and overall survival were correlated with the presence (ER +) or absence (ER -) of estrogen receptors in the primary tumor .
+17|R|As can be seen , RFS was superior in patients with ER + tumors , but this difference failed to reach statistical significance in all patient subsets .
+18|R|Also , no difference was evident when overall survival of postmenopausal women was examined (ER+ 82.5% versus ER- 76.2% , p =0.32) .
+19|R|By contrast , premenopausal women with ER + tumors had a significantly longer survival than their matches with ER- tumors (79.9% versus 67.6% , p = 0.03) .
+20|R|Table 4 shows that also in this series there was evidence of a dose-response effect , regardless of menopausal and nodal status (CMF 12 , level I 68.9% versus level 11147.2% , p < 0.05 , CMF 6 , level I 66.6% versus level III 51.5% , p = 0.10) .
+21|R|Furthermore , within each dose level , there was no statistically significant difference between patients in the 12- or 6-cycle group .
+22|R|Myelosuppression represented the dose-limiting factor in the large majority of patients (70%-80%) , but severe leukopenia and/or thrombocytopenia were rare (10%) , and prolonged myelosuppression beyond the fourth week from drug discontinuation was never observed .
+2|D|The 5-yr results of the present study are now sufficiently mature to indicate with confidence that 6 cycles of CMF are equivalent to 12 cycles in terms of RFS and total survival .
+3|D|`In fact , in all variables examined , none of the two treatments under evaluation was significantly different from the other .
+8|D|The first and most important one is that there appears to be no real difference following adjuvant chemotherapy , namely CMF , between the RFS of pre- versus postmenopausal women (CMF 12 , 59.3% versus 57.6% , CMF 6 , 66.5% versus 63.1% , respectively) .
+6|D|Effective adjuvant combination chemotherapy seems to be unaffected by ER status , at least when RFS is considered .
+7|D|Based on our current findings , i.e. , therapeutic efficacy of adjuvant CMF regardless of ER status , there seems to be no clinical reason to withhold the administration of adjuvant combination chemotherapy in node positive women even in the presence of ER + tumors .
+4|D|The most important practical aspect of our current study is at which point a single drug combination has provided all the benefit possible , i.e. , maximal tumor cytoreduction , in the majority of patients .
+6|D|The reason(s) why RFS was not improved by prolonging chemotherapy once pathologic complete remission has been achieved , in our own trial and in other adjuvant trials for breast cancer , as well as in a variety of neoplastic diseases , can now be interpreted by considering the problem of specifically multidrug-resistant phenotypes .
+1|D|In conclusion , the 5-yr results of our randomized study confirm that CMF , particularly when delivered at nearly full doses , can indeed alter the postoperative course of breast cancer with positive axillary nodes .
+5|D|The presence of specifically multidrug-resistant phenotypes limits the therapeutic effectiveness of a single combination and renders its prolonged administration unnecessary .
+35|D|Only long-term analysis will answer the questions of whether the addition of adjuvant hormone therapy to chemotherapy will improve the results in ER + tumors and whether the excellent results reported by the M D Anderson Hospital with FAC (fluorouracil , adriamycin , cyclophosphamide) in women with > 4 axillary nodes 7 will be reproducible .

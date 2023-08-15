@@ -1,0 +1,24 @@
+17|I|In 1981 , the MRC began this trial of a higher dose of preoperative radiotherapy in patients with fixed or partially fixed tumours of the rectum who were thought to be suitable for abdominoperineal excision or anterior restorative resection .
+18|I|The aim was to increase the number of patients in whom curative resection could be done , and so improve survival rates .
+19|I|The dose of radiation (40 Gy in 20 fractions over 4 weeks) was chosen as the highest that was deemed safe before anterior resection with the wide-field technique proposed .
+20|I|We present the results of this trial with a minimum follow-up time for surviving patients of 5 years .
+21|M|Eligible patients were men or women younger than 80 years who , had histologically proven adenocarcinoma of the rectum partially or totally fixed within the pelvis with the lower margin of the tumour within 15 cm of the anal verge , were deemed suitable and fit for the proposed treatment and available for regular follow-up , were free of disseminated disease (confirmed by clinical and radiological examination) , and had had no previous malignant disease .
+22|M|Patients then proceeded to immediate surgery or to radiotherapy followed by surgery after a minimum of 4 weeks .
+9|M|We intended to enrol 450 patients (with the anticipation of 251 deaths) , this sample size would have provided 90% power to detect a 15% increase in the 3-year survival rate (from 35% to 50%) , which was thought plausible at the time the trial was designed .
+10|R|Recruitment into the trial started in November , 1981 , and ended in November , 1989 , when 279 patients had been enrolled , 140 patients were allocated surgery alone and 139 preoperative radiotherapy (figure 1) .
+11|R|Of the 279 patients , 217 died .
+15|R|Of patients who received radiotherapy , 61 (45%) of 137 reported no significant morbidity 45 (33%) of all patients suffered diarrhoea and 30 (22%) had skin reactions .
+16|R|The median time from randomisation to surgery was 7 days (IQR 4.12 days) for patients allocated immediate surgery and 73 days (64.84) for those allocated preoperative radiotherapy .
+23|R|Pathological assessment of the resected tissue was done for patients from both treatment groups (table 4) .
+2|R|Tumours were significantly smaller in the radiotherapy group (Mann-Whitney , p.0.0001) .
+1|R|The proportion of tumours graded as Dukes C was significantly lower in the radiotherapy group than in the surgery alone group (29 vs 59% , p.0.0002) and the number of involved lymph nodes was also smaller .
+24|R|However , the number of lymph nodes examined was lower in the radiotherapy group .
+4|R|Figure 2 shows Kaplan-Meier curves for time free of local recurrence. 65 patients allocated surgery alone had a recurrence compared with 50 of those allocated radiotherapy .
+3|R|The log-rank comparison suggests an advantage for the radiotherapy group of borderline statistical significance (p=0¡¤04) .
+5|R|A reduction in the risk of metastatic recurrence was found which was , rather unexpectedly , of a similar order to the reduction in local recurrence (hazard ratio 0.66 [0.46-0.95] , log-rank p=0.02) .
+6|R|Consistent with the results of the individual endpoints , results for disease-free survival also suggest a benefit to the radiotherapy patients (hazard ratio 0.76 [0.58-1.0] , log-rank p=0.05) .
+7|R|The hazard ratio for death from any cause is 0.79 , giving an estimated reduction in the risk of death for patints allocated radiotherapy of 21% (log-rank p=0.10) .
+8|R|However , the 95% CI for this hazard ratio is wide (0.6-1.04) indicating that the data are also compatible with no advantage to radiotherapy (figure 3) .
+12|D|The extended follow-up period of the study enabled us to come close to achieving our objectives despite failure to enroll the 450 patients required for the trial design .
+14|D|The effects of radiotherapy on recurrence of cancer and survival are similar to the estimates on which the trial design was based .
+13|D|Failure to recruit the planned number of patients is reflected in the wide 95% CI seen for each of the main endpoints .

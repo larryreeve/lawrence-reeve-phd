@@ -1,0 +1,17 @@
+Background and Methods: On behalf of the Gynecologic Oncology Group, we performed a randomized trial of radiotherapy in combination with
+three concurrent chemotherapy regimens — cisplatin alone; cisplatin, fluorouracil, and hydroxyurea; and hydroxyurea alone — in patients 
+with locally advanced cervical cancer. Women with primary untreated invasive squamous-cell carcinoma, adenosquamous carcinoma, or 
+adenocarcinoma of the cervix of stage IIB, III, or IVA, without involvement of the para-aortic lymph nodes, were enrolled. The patients 
+had to have a leukocyte count of at least 3000 per cubic millimeter, a platelet count of at least 100,000 per cubic millimeter, a serum 
+creatinine level no higher than 2 mg per deciliter (177 µmol per liter), and adequate hepatic function. All patients received 
+external-beam radiotherapy according to a strict protocol. Patients were randomly assigned to receive one of three chemotherapy regimens:
+40 mg of cisplatin per square meter of body-surface area per week for six weeks (group 1); 50 mg of cisplatin per square meter on days 
+1 and 29, followed by 4 g of fluorouracil per square meter given as a 96-hour infusion on days 1 and 29, and 2 g of oral hydroxyurea per 
+square meter twice weekly for six weeks (group 2); or 3 g of oral hydroxyurea per square meter twice weekly for six weeks (group 3). 
+Results: The analysis included 526 women. The median duration of follow-up was 35 months. Both groups that received cisplatin had a higher 
+rate of progression-free survival than the group that received hydroxyurea alone (P<0.001 for both comparisons). The relative risks of 
+progression of disease or death were 0.57 (95 percent confidence interval, 0.42 to 0.78) in group 1 and 0.55 (95 percent confidence 
+interval, 0.40 to 0.75) in group 2, as compared with group 3. The overall survival rate was significantly higher in groups 1 and 2 than 
+in group 3, with relative risks of death of 0.61 (95 percent confidence interval, 0.44 to 0.85) and 0.58 (95 percent confidence interval, 
+0.41 to 0.81), respectively. Conclusions: Regimens of radiotherapy and chemotherapy that contain cisplatin improve the rates of survival 
+and progression-free survival among women with locally advanced cervical cancer.

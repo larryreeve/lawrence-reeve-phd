@@ -1,0 +1,31 @@
+5|I|Thus  , we designed the randomized trial to compare the tumor response and survival rate of patients with advanced cervical carcinoma receiving concurrent chemotherapy and radiotherapy versus patients receiving radiotherapy alone .
+6|I|The purpose of this randomized trial was to assess whether the chemoradiation is better than radiotherapy alone for locally advanced cervical carcinoma .
+7|I|We also compared the toxicity of the two compared groups after planned treatment .
+25|I|From October 1990 to April 1995  , patients with advanced carcinoma of the uterine cervix were entered on the study and randomly assigned to either radiotherapy or concurrent chemoradiotherapy .
+22|I|Before randomization  , patients were stratified by stage (stage IIb bulky versus stage IIIB) .
+26|I|The trial compared the efficacy and tolerability of concurrent chemotherapy and radiotherapy versus radiotherapy alone for the treatment of patients with advanced cervical cancer .
+21|M|A total of 122 patients with advanced carcinoma of the uterine cervix were included in this study .
+19|M|In the radiation group  , patients received external beam X-ray treatment followed by intracavitary brachytherapy .
+20|M|In the concurrent chemoradiotherapy group  , chemotherapeutic regimens consisted of cisplatin (50 mg/m2 body-surface area intravenously at the rate of 1 mg/min on Day 1)  , vincristine (1 mg/m2 intravenously push on Day 2)  , and bleomycin (25 mg/m2 body-surface area intravenously infusion in divided doses on Days 2  , 3  , and 4) which were given starting on Day 1 of radiotherapy and then every 3 weeks for a total of four courses .
+23|M|The primary objectives were to compare the two treatment groups with respect to tumor response  , failure patterns  , disease-free interval  , and actuarial survival .
+24|M|The secondary objectives were to compare the two treatment groups with respect to treatment-related toxicities  , treatment delays , and completeness .
+18|R|The median follow-up was 46.8 months (range , 12 - 69 months) .
+16|R|The incidence of delayed treatment was significantly higher in patients with concurrent chemoradiotherapy than those patients with radiation alone (15.0% versus 3.2% , P Å 0.02) .
+17|R|However , there was no difference in completeness between concurrent group and radiotherapy group (96.7% versus 100% , P = 0.24) .
+27|R|A tumor response was observed in 88.4% (53/60) of the patients in concurrent group and in 74.2% (46/62) of the patient s in radiotherapy group .
+13|R|The tumor response was significantly higher in patients receiving concurrent chemoradia tion than in pa tients who rece ived radiatio n alone (P = 0.04) .
+14|R|The acute treatment-related toxicity (grade 3 or 4) appears to be higher with the concurrent chemoradiotherapy group when compared with radiation group (36.7% versus 17.7% , P Å 0.02) .
+15|R|Although there was no significant difference between the two compared groups with regard to treatment-related late toxicity (concurrent group 23.3% versus radiation group 12.9% , P = 0.13) ,a nonsignificant trend toward a higher rate of late toxicity in the chemoradiotherapy group is evident .
+11|R|An analysis of the patterns of failure reveals that the incidence of pelvic failure was equally distributed between the treatment groups (31.7% versus 30.6% , P Å 0.93) .
+12|R|Additionally , there was also no difference in the incidence of distant failure between the chemoradiotherapy group and the radiotherapy group (21.6% versus 29% , P Å 0.47) .
+9|R|Survival Of the chemoradiotherapy group , 31 patients (51.7%) are alive without evidence of disease , 6 (10%) remain alive with disease , and 21 (35%) died of disease at 7 - 48 months .
+10|R|Of the radiation group , 33 patients (53.2%) are alive without evidence of disease , 7 (11.3%) remain alive with disease , and 22 (35.5%) died of disease at 12 - 45 months .
+8|R|After a median follow-up of 46.8 months , the disease-free survival and actuarial survival rates at 3 years for patients in the concurrent chemoradiotherapy group were not statistically different compared with patients in the radiotherapy group (51.7% versus 53.2% , P Å 0.92 , and 61.7% versus 64.5% , P Å 0.88 , respectively) .
+28|D|To further increase the systemic activity and the radiation-enhancing potential of the chemotherapy , we chose cisplatin-based regimens with vincristine and bleomycin in this trial because it had proven high efficacy of local control in our previous phase I and II trials for patients with advanced cervical carcinoma .
+3|D|Our results indicated that , despite the excellent early tumor response seen during treatment , the benefit of concurrent chemoradiation in terms of reduced mortality and increased pelvic control rates may not be as great as that suggested by other reports .
+4|D|Our study also revealed that the patterns of recurrences were not changed by the concomitant therapy with chemotherapy and radiotherapy .
+31|D|The pelvis is still the predominant site of failure in around 30% .
+29|D|The most likely explanation for the poor results in the concurrent chemoradiotherapy group is the higher treatmentrelated toxicity , and that could limit the dose of definitive radiation employed or interrupt the planned radiotherapy .
+2|D|Our results demonstrated that multiagent chemoradiotherapy , concurrently administrated with radiation to improve tumor response , can also produce serious acute and late toxicities , and life-threatening complications .
+1|D|In conclusion , when comparing patients with concurrent therapy of radiotherapy and chemotherapy to radiotherapy alone , our study showed that concurrent multiagent chemoradiotherapy did not prove to be a superior definitive therapy for patients with advanced cervical carcinoma .
+30|D|It may be that the multiagent chemotherapy with these drugs , dose , and schedule used in this study is too toxic to use with concomitant radiation therapy .

@@ -1,0 +1,30 @@
+27|I|The treatment of choice for advanced cervical carcinoma has traditionally been radiotherapy alone .
+28|I|The rationale for adding chemotherapy to pelvic radiation is to provide systemic cytotoxic agents active against cervical cancer with the potential to enhance the radiosensitivity , to enhance local tumor control , and to eradicate micrometastasis .
+3|I|The concurrent use of radiation and chemotherapy , either as a single agent or in combination , has also been demonstrated to be effective in the local control of advanced carcinoma of the cervix with acceptable toxicity as presented by several reports , and was also supported by our previous phase I and II trial .
+4|I|However , most series were nonrandomized and failed to achieve an improvement in long-term survival .
+5|I|Thus , we designed the randomized trial to compare the tumor response and survival rate of patients with advanced cervical carcinoma receiving concurrent chemotherapy and radiotherapy versus patients receiving radiotherapy alone .
+2|I|The purpose of this randomized trial was to assess whether the chemoradiation is better than radiotherapy alone for locally advanced cervical carcinoma . We also compared the toxicity of the two compared groups after planned treatment .
+9|M|This study was designed as a randomized , phase III trial conducted at the Chang Gung Memorial Hospital in Taiwan .
+19|M|From October 1990 to April 1995 , patients with advanced carcinoma of the uterine cervix were entered on the study and randomly assigned to either radiotherapy or concurrent chemoradiotherapy .
+20|M|Before randomization , patients were stratified by stage (stage IIb bulky versus stage IIIB) .
+17|M|Patients with documented disease beyond the pelvis were excluded , as were patients with positive paraaortic lymph nodes .
+18|M|Eligible patients were randomized to receive concurrent chemoradiotherapy or radiation therapy alone .
+21|M|The local response to treatment was evaluated at 1 month after completion of therapy by physical examination and abdominopelvic computerized tomography .
+10|M|Tumor response definitions used were based on World Health Organization (WHO) criteria .
+22|M|All adverse effects and laboratory abnormalities for chemotherapy were graded according to the toxicity criteria of the Gynecologic Oncology Group .
+11|I|The primary objectives were to compare the two treatment groups with respect to tumor response , failure patterns , disease-free interval , and actuarial survival .
+12|I|The secondary objectives were to compare the two treatment groups with respect to treatment-related toxicities , treatment delays , and completeness .
+13|M|Survival was defined as the observed length of life from protocol entry to death or until January 5 , 1997 when the data analysis was finished and patients were still alive .
+23|R|A tumor response was observed in 88.4% (53/60) of the patients in concurrent group and in 74.2% (46/62) of the patient s in radiotherapy group .
+24|R|The acute treatment-related toxicity (grade 3 or 4) appears to be higher with the concurrent chemoradiotherapy group when compared with radiation group (36.7% versus 17.7% , P Å 0.02) .
+25|R|Of the chemoradiotherapy group , 31 patients (51.7%) are alive without evidence of disease , 6 (10%) remain alive with disease , and 21 (35%) died of disease at 7  48 months .
+26|R|Of the radiation group , 33 patients (53.2%) are alive without evidence of disease , 7 (11.3%) remain alive with disease , and 22 (35.5%) died of disease at 12  45 months .
+14|D|Radiation effects are dependent on well-oxygenated tumor cells . 
+15|D|Thus , advanced carcinoma , such as those observed in our study , having a large hypoxic cell component , may be ineffective if receiving radiotherapy alone .
+16|D|Therefore , the design of a more efficient treatment modality , such as the addition of chemotherapy plus radiotherapy , with the objective of increasing tumor control and long-term survival for patients with advanced cervical carcinoma , is advocated .
+30|A|To date , cisplatin is one of the most active drugs tested in this tumor .
+29|D|Our results indicated that , despite the excellent early tumor response seen during treatment , the benefit of concurrent chemoradiation in terms of reduced mortality and increased pelvic control rates may not be as great as that suggested by other reports .
+6|D|Our study also revealed that the patterns of recurrences were not changed by the concomitant therapy with chemotherapy and radiotherapy . 
+7|D|The most likely explanation for the poor results in the concurrent chemoradiotherapy group is the higher treatmentrelated toxicity , and that could limit the dose of definitive radiation employed or interrupt the planned radiotherapy . 
+8|D|An equally likely explanation is the negative impact of prolonged treatment time caused by toxicity-induced delays .
+1|D|In conclusion , when comparing patients with concurrent therapy of radiotherapy and chemotherapy to radiotherapy alone , our study showed that concurrent multiagent chemoradiotherapy did not prove to be a superior definitive therapy for patients with advanced cervical carcinoma .

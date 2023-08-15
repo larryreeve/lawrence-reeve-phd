@@ -1,0 +1,27 @@
+25|A|Colorectal cancer is one of the most common adult  malignant tumours , affecting one person in twenty in the  USA and in most developed countries .
+26|I|Although  40-50% patients may be cured with surgery , many will  develop metastatic disease .
+23|I|For these patients , treatment  with fluorouracil , usually modulated by folinic acid , is  the only option and the median survival is 10-12 months .
+13|I|In first-line chemotherapy , fluorouracil with folinic-acid is  better than supportive care (or delayed chemotherapy) for survival and quality of life , but the value of second-line chemotherapy in metastatic colorectal cancer has  not yet been proven .
+14|A|Irinotecan is a topoisomerase I inhibitor that blocks the DNA replication step of the enzyme , leading to multiple single-strand DNA breaks , which eventually blocks cell division .
+2|I|The trial we report was started in 1995 to compare irinotecan with supportive care alone for survival , quality  of life , and other clinical variables .
+7|M|Overall survival was the primary endpoint .
+9|M|Patients with the following criteria were not eligible , previous treatment with topoisomerase I inhibitors , bulky disease (involving more than 50% of the liver volume or 25% of the lung volume , or abdominal mass >=10 cm) , metastases in the central nervous system , or unresolved bowel obstruction or diarrhoea .
+8|M|If all criteria were fulfilled , the randomisation was done electronically in the ratio of irinotecan to supportive care , with stratification by centre .
+10|M|In the supportive-care alone group , patients were given best supportive care and were seen every 3 weeks .
+11|M|Supportive care was defined as the best care available as judged by the attending physician , according to institutional standards for each centre .
+12|M|Quality of life was assessed with the European Organization for Research and Treatment of Cancer (EORTC) QLQ-C30 questionnaire (including five function scales , one global health-status scale , and nine symptom scales) , which was filled in at  baseline , at 3 weeks , 6 weeks , and then every 6 weeks .
+15|M|Survival curves were estimated with the Kaplan-Meier method on the randomised population and compared by a two-tailed logrank test .
+18|M|The association of prognostic factors with survival was estimated  with Cox's proportional hazards model for censored survival  data .
+17|M|Median follow-up was 12.9 months . Patients in the irinotecan group lived significantly longer than those in the supportive-care  group (p=0.0001) .
+19|R|This benefit appeared after 2 months and became more apparent throughout the study period .
+20|R|1-year survival was 36.2% and 13.8% in the irinotecan and supportive-care groups , respectively .
+21|D|Compliance decreased more rapidly in the supportive-care group , probably due to earlier deterioration in the  patients .
+16|D|Patients on supportive-care alone experienced a high incidence of severe adverse events , especially pain and asthenia , although significantly more patients in the irinotecan group experienced severe events , especially neutropenia , nausea , vomiting , and diarrhoea .
+1|D|This study showed that treatment with irinotecan and supportive care alone , compared with supportive care , prolonged the life of patients with metastatic colorectal cancer .
+5|R|This benefit was clinically meaningful because the probability of surviving 1 year was 2.6 times greater in patients given irinotecan compared with that of patients given supportive care alone .
+6|D|Other efficacy endpoints , such as survival without weight loss , survival without performance status deterioration , pain-free survival , and quality-of-life , were all significantly in favour of irinotecan .
+24|R|Some say that patients with advanced cancer who are treated with supportive care alone will have a short but  peaceful end to their life , protected from the side-effects of chemotherapy .
+22|R|Our study showed that as many as 67% of patients receiving supportive care experienced severe symptoms and as a result , 63% were admitted for a median of 11 days .
+4|D|Furthermore , irinotecan improved the symptoms of patients and delayed the onset of tumour-related symptoms such as performance-status deterioration , weight loss , and pain .
+3|D|These data were supported by the quality-of-life analysis which suggested that the side-effects of irinotecan were favourably  balanced by reduced tumour-related events .
+27|D|We have shown a survival advantage and a clinical benefit from second-line chemotherapy in patients with  metastatic colorectal cancer no longer responding to fluorouracil .
