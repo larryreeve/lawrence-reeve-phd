@@ -1,0 +1,24 @@
+---------------------------------------------
+Model-0002-Multiple ROUGE-1 Average_R: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Multiple ROUGE-1 Average_P: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Multiple ROUGE-1 Average_F: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+---------------------------------------------
+Model-0002-Multiple ROUGE-2 Average_R: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Multiple ROUGE-2 Average_P: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Multiple ROUGE-2 Average_F: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+---------------------------------------------
+Model-0002-Multiple ROUGE-SU4 Average_R: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Multiple ROUGE-SU4 Average_P: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Multiple ROUGE-SU4 Average_F: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+---------------------------------------------
+Model-0002-Single ROUGE-1 Average_R: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Single ROUGE-1 Average_P: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Single ROUGE-1 Average_F: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+---------------------------------------------
+Model-0002-Single ROUGE-2 Average_R: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Single ROUGE-2 Average_P: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Single ROUGE-2 Average_F: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+---------------------------------------------
+Model-0002-Single ROUGE-SU4 Average_R: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Single ROUGE-SU4 Average_P: 1.00000 (95%-conf.int. 1.00000 - 1.00000)
+Model-0002-Single ROUGE-SU4 Average_F: 1.00000 (95%-conf.int. 1.00000 - 1.00000)

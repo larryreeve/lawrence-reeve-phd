@@ -1,0 +1,42 @@
+INTRODUCTION .
+Overall 5-year survival rates are reported for stage IIB cancers between 50 and 80% and from 25 to 50% for stage III .
+Many investigations are ongoing to identify more effective treatment .
+In addition to modifications of radiation therapy multiple studies have investigated ,  and are investigating ,  strategies that combine radiation with chemotherapy either as neoadjuvant or concurrent administration .
+Concurrent chemotherapy with radiation offers a number of theoretical advantages over those of the neoadjuvant strategy .
+Chemotherapy may also ,  as in the neoadjuvant strategy ,  have an independent ,  additive cytotoxic effect .
+Nakajima et al. also had shown that enhancement could be improved by increasing the concentration of 5-FU .
+MATERIALS AND METHODS .
+Twice daily treatments on days 1 to 4 and 22 to 25 were delivered at least at 6 h apart .
+Laterally the fields included ,  with a 1-cm margin ,  the pelvic sidewall lymph nodes visualized by lymphography .
+If necessary to encompass disease ,  the volume could include the entire rectum .
+Where possible ,  chemotherapy infusion was given on four consecutive days without a weekend break .
+Statistical Methods and Study Design .
+A factorial design was planned to test to what degree observed differences were attributable to either factor .
+The ‘‘Lifetest Procedure’’ in SAS UNIX was used to compare survival curves .
+This procedure uses the Kaplan–Meier method that calculates the ranked test pooled across the strata adjusting for strata differences .
+Additionally ,  statistics testing homogeneity over strata were computed and checked .
+Where information was missing for some parameters ,  single models were fitted for these parameters .
+Where the data were complete ,  the stepwise regression method was used to identify the relevant prognostic factors .
+Complications .
+RESULTS .
+Ninety-nine patients were in stratum 1 ,  of which 46 were stage IB/IIA and 53 were stage IIB .
+One hundred and five were in stratum 2 ,  of which 38 were stage IIB and 63 stage IIIB .
+Only 17 were instratum 3 .
+The median duration of follow-up for the whole population is 59 months (95% confidence interval ,  57 to 66 months) .
+Compliance with the planned radiation schedules was good .
+The histopathology was not centrally reviewed .
+Grade was not stated in 32 of 221 .
+Capillary lymphatic space (CLS) involvement was commented on in 146 of 221 (66%) .
+CLS involvement was found in 34 of the 146 (23%) .
+Compliance with planned chemotherapy administration was good .
+Pelvic Control and Survival .
+For the purpose of analysis ,  the latter group are considered dead of disease .
+Table 4 .
+There was no apparent increase in late complications associated with the addition of 5-FU .
+The median duration of follow up on this series at 59 months is sufficient to observe approximately 80% of expected events .
+DISCUSSION .
+It was anticipated that the magnitude of benefit might vary for each stratum .
+However ,  in stratum 1 constituted of patients with stage IB/IIA and those IIB tumors with medial parametrial involvement ,  a significant improvement in both pelvic control and disease-free survival in favor of standard radiation with concurrent 5-FU was observed (Figs. 5 and 6) .
+A number of patient- and tumor-related factors were analyzed for their impact on outcome using the Cox’s proportional hazard model .
+The only significant factor predicting for disease-free survival was the use of 5-FU .
+Such a benefit was not observed in this study .

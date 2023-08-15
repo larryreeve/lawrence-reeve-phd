@@ -1,0 +1,61 @@
+<ROUGE-EVAL version="1.0">
+	<EVAL ID="1">
+		<PEER-ROOT>Biochain</PEER-ROOT>
+		<MODEL-ROOT>Biochain</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="biochain_15pct">0162-ArticleSummary_15pct_BioChain_UnfilteredPosition.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="162-A">0162-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+	
+	<EVAL ID="2">
+		<PEER-ROOT>Biochain</PEER-ROOT>
+		<MODEL-ROOT>Biochain</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="biochain_15pct">0271-ArticleSummary_15pct_BioChain_UnfilteredPosition.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="271-A">0271-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="3">
+		<PEER-ROOT>Biochain</PEER-ROOT>
+		<MODEL-ROOT>Biochain</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="biochain_15pct">0312-ArticleSummary_15pct_BioChain_UnfilteredPosition.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="312-A">0312-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="4">
+		<PEER-ROOT>Biochain</PEER-ROOT>
+		<MODEL-ROOT>Biochain</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="biochain_15pct">0872-ArticleSummary_15pct_BioChain_UnfilteredPosition.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="872-A">0872-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="5">
+		<PEER-ROOT>Biochain</PEER-ROOT>
+		<MODEL-ROOT>Biochain</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="biochain_15pct">0954-ArticleSummary_15pct_BioChain_UnfilteredPosition.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="954-A">0954-Model-Abstract.spl</M>
+		</MODELS>
+	</EVAL>
+</ROUGE-EVAL>

@@ -1,0 +1,26 @@
+<ROUGE-EVAL version="1.0">
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Model-0002-Single">0002-Model_20pct_Saya.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0002-A">0002-Model_20pct_Saya.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Model-0002-Multiple">0002-Model_20pct_Saya.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0002-A">0002-Model_20pct_Saya.spl</M>
+			<M ID="0002-A">0002-Model_20pct_Saya.spl</M>
+		</MODELS>
+	</EVAL>
+</ROUGE-EVAL>

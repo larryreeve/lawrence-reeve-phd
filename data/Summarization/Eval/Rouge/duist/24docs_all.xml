@@ -1,0 +1,1274 @@
+<ROUGE-EVAL version="1.0">
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0002-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0002-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0002-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0002-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0002-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0002-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0002-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0002-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0002-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0002-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0002-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0002-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0002-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0002-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0002-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0002-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0002-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0002-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0002-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0002-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0002-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0002-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0002-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0002-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0002-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0002-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0002-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0002-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0002-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0002-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0002-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0002-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0002-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0002-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0002-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0002-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0002-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0002-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0002-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0002-A">0002-Model-Abstract.spl</M>
+			<M ID="0002-B">0002-Model-Jonathan.spl</M>
+			<M ID="0002-C">0002-Model-Saya.spl</M>
+			<M ID="0002-D">0002-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0013-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0013-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0013-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0013-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0013-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0013-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0013-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0013-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0013-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0013-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0013-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0013-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0013-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0013-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0013-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0013-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0013-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0013-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0013-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0013-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0013-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0013-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0013-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0013-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0013-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0013-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0013-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0013-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0013-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0013-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0013-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0013-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0013-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0013-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0013-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0013-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0013-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0013-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0013-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0013-A">0013-Model-Abstract.spl</M>
+			<M ID="0013-B">0013-Model-Jonathan.spl</M>
+			<M ID="0013-C">0013-Model-Saya.spl</M>
+			<M ID="0013-D">0013-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0162-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0162-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0162-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0162-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0162-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0162-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0162-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0162-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0162-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0162-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0162-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0162-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0162-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0162-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0162-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0162-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0162-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0162-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0162-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0162-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0162-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0162-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0162-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0162-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0162-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0162-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0162-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0162-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0162-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0162-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0162-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0162-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0162-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0162-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0162-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0162-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0162-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0162-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0162-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0162-A">0162-Model-Abstract.spl</M>
+			<M ID="0162-B">0162-Model-Jonathan.spl</M>
+			<M ID="0162-C">0162-Model-Saya.spl</M>
+			<M ID="0162-D">0162-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0234-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0234-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0234-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0234-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0234-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0234-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0234-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0234-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0234-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0234-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0234-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0234-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0234-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0234-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0234-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0234-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0234-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0234-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0234-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0234-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0234-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0234-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0234-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0234-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0234-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0234-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0234-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0234-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0234-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0234-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0234-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0234-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0234-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0234-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0234-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0234-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0234-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0234-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0234-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0234-A">0234-Model-Abstract.spl</M>
+			<M ID="0234-B">0234-Model-Jonathan.spl</M>
+			<M ID="0234-C">0234-Model-Saya.spl</M>
+			<M ID="0234-D">0234-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0782-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0782-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0782-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0782-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0782-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0782-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0782-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0782-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0782-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0782-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0782-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0782-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0782-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0782-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0782-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0782-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0782-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0782-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0782-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0782-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0782-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0782-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0782-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0782-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0782-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0782-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0782-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0782-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0782-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0782-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0782-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0782-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0782-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0782-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0782-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0782-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0782-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0782-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0782-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0782-A">0782-Model-Abstract.spl</M>
+			<M ID="0782-B">0782-Model-Jonathan.spl</M>
+			<M ID="0782-C">0782-Model-Saya.spl</M>
+			<M ID="0782-D">0782-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0786-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0786-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0786-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0786-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0786-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0786-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0786-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0786-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0786-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0786-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0786-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0786-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0786-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0786-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0786-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0786-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0786-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0786-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0786-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0786-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0786-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0786-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0786-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0786-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0786-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0786-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0786-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0786-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0786-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0786-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0786-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0786-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0786-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0786-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0786-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0786-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0786-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0786-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0786-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0786-A">0786-Model-Abstract.spl</M>
+			<M ID="0786-B">0786-Model-Jonathan.spl</M>
+			<M ID="0786-C">0786-Model-Saya.spl</M>
+			<M ID="0786-D">0786-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0787-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0787-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0787-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0787-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0787-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0787-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0787-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0787-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0787-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0787-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0787-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0787-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0787-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0787-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0787-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0787-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0787-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0787-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0787-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0787-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0787-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0787-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0787-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0787-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0787-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0787-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0787-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0787-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0787-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0787-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0787-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0787-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0787-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0787-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0787-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0787-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0787-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0787-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0787-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0787-A">0787-Model-Abstract.spl</M>
+			<M ID="0787-B">0787-Model-Jonathan.spl</M>
+			<M ID="0787-C">0787-Model-Saya.spl</M>
+			<M ID="0787-D">0787-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0811-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0811-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0811-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0811-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0811-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0811-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0811-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0811-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0811-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0811-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0811-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0811-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0811-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0811-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0811-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0811-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0811-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0811-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0811-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0811-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0811-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0811-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0811-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0811-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0811-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0811-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0811-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0811-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0811-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0811-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0811-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0811-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0811-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0811-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0811-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0811-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0811-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0811-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0811-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0811-A">0811-Model-Abstract.spl</M>
+			<M ID="0811-B">0811-Model-Jonathan.spl</M>
+			<M ID="0811-C">0811-Model-Saya.spl</M>
+			<M ID="0811-D">0811-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0814-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0814-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0814-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0814-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0814-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0814-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0814-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0814-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0814-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0814-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0814-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0814-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0814-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0814-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0814-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0814-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0814-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0814-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0814-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0814-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0814-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0814-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0814-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0814-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0814-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0814-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0814-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0814-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0814-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0814-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0814-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0814-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0814-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0814-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0814-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0814-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0814-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0814-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0814-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0814-A">0814-Model-Abstract.spl</M>
+			<M ID="0814-B">0814-Model-Jonathan.spl</M>
+			<M ID="0814-C">0814-Model-Saya.spl</M>
+			<M ID="0814-D">0814-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0821-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0821-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0821-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0821-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0821-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0821-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0821-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0821-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0821-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0821-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0821-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0821-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0821-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0821-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0821-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0821-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0821-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0821-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0821-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0821-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0821-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0821-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0821-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0821-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0821-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0821-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0821-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0821-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0821-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0821-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0821-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0821-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0821-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0821-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0821-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0821-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0821-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0821-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0821-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0821-A">0821-Model-Abstract.spl</M>
+			<M ID="0821-B">0821-Model-Jonathan.spl</M>
+			<M ID="0821-C">0821-Model-Saya.spl</M>
+			<M ID="0821-D">0821-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">0954-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">0954-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">0954-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">0954-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">0954-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">0954-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">0954-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">0954-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">0954-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">0954-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">0954-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">0954-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">0954-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">0954-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">0954-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">0954-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">0954-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">0954-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">0954-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">0954-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">0954-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">0954-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">0954-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">0954-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">0954-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">0954-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">0954-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">0954-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">0954-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">0954-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">0954-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">0954-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">0954-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">0954-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">0954-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">0954-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">0954-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">0954-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">0954-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="0954-A">0954-Model-Abstract.spl</M>
+			<M ID="0954-B">0954-Model-Jonathan.spl</M>
+			<M ID="0954-C">0954-Model-Saya.spl</M>
+			<M ID="0954-D">0954-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1001-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1001-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1001-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1001-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1001-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1001-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1001-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1001-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1001-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1001-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1001-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1001-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1001-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1001-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1001-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1001-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1001-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1001-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1001-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1001-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1001-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1001-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1001-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1001-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1001-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1001-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1001-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1001-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1001-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1001-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1001-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1001-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1001-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1001-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1001-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1001-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1001-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1001-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1001-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1001-A">1001-Model-Abstract.spl</M>
+			<M ID="1001-B">1001-Model-Jonathan.spl</M>
+			<M ID="1001-C">1001-Model-Saya.spl</M>
+			<M ID="1001-D">1001-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1108-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1108-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1108-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1108-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1108-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1108-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1108-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1108-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1108-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1108-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1108-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1108-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1108-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1108-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1108-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1108-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1108-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1108-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1108-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1108-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1108-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1108-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1108-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1108-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1108-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1108-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1108-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1108-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1108-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1108-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1108-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1108-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1108-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1108-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1108-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1108-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1108-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1108-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1108-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1108-A">1108-Model-Abstract.spl</M>
+			<M ID="1108-B">1108-Model-Jonathan.spl</M>
+			<M ID="1108-C">1108-Model-Saya.spl</M>
+			<M ID="1108-D">1108-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1110-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1110-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1110-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1110-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1110-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1110-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1110-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1110-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1110-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1110-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1110-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1110-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1110-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1110-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1110-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1110-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1110-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1110-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1110-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1110-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1110-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1110-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1110-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1110-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1110-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1110-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1110-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1110-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1110-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1110-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1110-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1110-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1110-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1110-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1110-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1110-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1110-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1110-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1110-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1110-A">1110-Model-Abstract.spl</M>
+			<M ID="1110-B">1110-Model-Jonathan.spl</M>
+			<M ID="1110-C">1110-Model-Saya.spl</M>
+			<M ID="1110-D">1110-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1111-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1111-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1111-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1111-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1111-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1111-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1111-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1111-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1111-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1111-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1111-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1111-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1111-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1111-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1111-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1111-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1111-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1111-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1111-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1111-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1111-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1111-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1111-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1111-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1111-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1111-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1111-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1111-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1111-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1111-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1111-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1111-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1111-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1111-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1111-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1111-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1111-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1111-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1111-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1111-A">1111-Model-Abstract.spl</M>
+			<M ID="1111-B">1111-Model-Jonathan.spl</M>
+			<M ID="1111-C">1111-Model-Saya.spl</M>
+			<M ID="1111-D">1111-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1115-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1115-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1115-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1115-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1115-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1115-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1115-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1115-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1115-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1115-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1115-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1115-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1115-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1115-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1115-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1115-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1115-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1115-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1115-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1115-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1115-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1115-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1115-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1115-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1115-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1115-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1115-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1115-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1115-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1115-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1115-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1115-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1115-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1115-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1115-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1115-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1115-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1115-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1115-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1115-A">1115-Model-Abstract.spl</M>
+			<M ID="1115-B">1115-Model-Jonathan.spl</M>
+			<M ID="1115-C">1115-Model-Saya.spl</M>
+			<M ID="1115-D">1115-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1117-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1117-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1117-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1117-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1117-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1117-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1117-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1117-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1117-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1117-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1117-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1117-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1117-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1117-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1117-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1117-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1117-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1117-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1117-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1117-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1117-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1117-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1117-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1117-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1117-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1117-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1117-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1117-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1117-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1117-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1117-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1117-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1117-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1117-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1117-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1117-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1117-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1117-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1117-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1117-A">1117-Model-Abstract.spl</M>
+			<M ID="1117-B">1117-Model-Jonathan.spl</M>
+			<M ID="1117-C">1117-Model-Saya.spl</M>
+			<M ID="1117-D">1117-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1118-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1118-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1118-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1118-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1118-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1118-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1118-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1118-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1118-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1118-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1118-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1118-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1118-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1118-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1118-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1118-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1118-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1118-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1118-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1118-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1118-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1118-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1118-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1118-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1118-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1118-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1118-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1118-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1118-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1118-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1118-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1118-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1118-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1118-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1118-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1118-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1118-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1118-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1118-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1118-A">1118-Model-Abstract.spl</M>
+			<M ID="1118-B">1118-Model-Jonathan.spl</M>
+			<M ID="1118-C">1118-Model-Saya.spl</M>
+			<M ID="1118-D">1118-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1122-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1122-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1122-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1122-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1122-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1122-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1122-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1122-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1122-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1122-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1122-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1122-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1122-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1122-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1122-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1122-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1122-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1122-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1122-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1122-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1122-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1122-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1122-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1122-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1122-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1122-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1122-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1122-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1122-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1122-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1122-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1122-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1122-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1122-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1122-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1122-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1122-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1122-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1122-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1122-A">1122-Model-Abstract.spl</M>
+			<M ID="1122-B">1122-Model-Jonathan.spl</M>
+			<M ID="1122-C">1122-Model-Saya.spl</M>
+			<M ID="1122-D">1122-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1132-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1132-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1132-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1132-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1132-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1132-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1132-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1132-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1132-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1132-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1132-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1132-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1132-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1132-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1132-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1132-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1132-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1132-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1132-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1132-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1132-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1132-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1132-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1132-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1132-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1132-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1132-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1132-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1132-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1132-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1132-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1132-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1132-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1132-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1132-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1132-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1132-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1132-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1132-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1132-A">1132-Model-Abstract.spl</M>
+			<M ID="1132-B">1132-Model-Jonathan.spl</M>
+			<M ID="1132-C">1132-Model-Saya.spl</M>
+			<M ID="1132-D">1132-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">1197-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">1197-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">1197-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">1197-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">1197-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">1197-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">1197-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">1197-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">1197-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">1197-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">1197-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">1197-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">1197-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">1197-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">1197-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">1197-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">1197-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">1197-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">1197-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">1197-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">1197-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">1197-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">1197-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">1197-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">1197-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">1197-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">1197-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">1197-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">1197-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">1197-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">1197-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">1197-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">1197-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">1197-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">1197-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">1197-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">1197-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">1197-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">1197-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="1197-A">1197-Model-Abstract.spl</M>
+			<M ID="1197-B">1197-Model-Jonathan.spl</M>
+			<M ID="1197-C">1197-Model-Saya.spl</M>
+			<M ID="1197-D">1197-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">3563-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">3563-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">3563-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">3563-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">3563-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">3563-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">3563-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">3563-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">3563-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">3563-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">3563-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">3563-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">3563-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">3563-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">3563-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">3563-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">3563-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">3563-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">3563-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">3563-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">3563-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">3563-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">3563-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">3563-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">3563-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">3563-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">3563-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">3563-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">3563-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">3563-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">3563-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">3563-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">3563-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">3563-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">3563-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">3563-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">3563-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">3563-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">3563-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="3563-A">3563-Model-Abstract.spl</M>
+			<M ID="3563-B">3563-Model-Jonathan.spl</M>
+			<M ID="3563-C">3563-Model-Saya.spl</M>
+			<M ID="3563-D">3563-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">4016-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">4016-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">4016-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">4016-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">4016-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">4016-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">4016-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">4016-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">4016-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">4016-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">4016-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">4016-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">4016-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">4016-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">4016-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">4016-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">4016-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">4016-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">4016-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">4016-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">4016-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">4016-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">4016-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">4016-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">4016-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">4016-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">4016-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">4016-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">4016-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">4016-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">4016-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">4016-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">4016-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">4016-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">4016-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">4016-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">4016-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">4016-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">4016-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="4016-A">4016-Model-Abstract.spl</M>
+			<M ID="4016-B">4016-Model-Jonathan.spl</M>
+			<M ID="4016-C">4016-Model-Saya.spl</M>
+			<M ID="4016-D">4016-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+	<EVAL ID="1">
+		<PEER-ROOT>systems</PEER-ROOT>
+		<MODEL-ROOT>models</MODEL-ROOT>
+		<INPUT-FORMAT TYPE="SPL"/>
+		<PEERS>
+			<P ID="Baseline-Lead">4017-ArticleSummary_20pct_BASE-LEAD.spl</P>
+			<P ID="Baseline-Random">4017-ArticleSummary_20pct_BASE-RANDOM.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept">4017-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Unfiltered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Filtered">4017-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_Filtered.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position">4017-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_UnfilteredPos.spl</P>
+			<P ID="Biochain-MostFrequentStrongChainConcept-Position-Filtered">4017-ArticleSummary_20pct_BioChain_MostFrequentStrongChainConcept_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Cosine">4017-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Dice">4017-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-Euclidean">4017-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-NewItems">4017-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-UnitFrequency">4017-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-MostFrequentStrongChainConcept-VectorSubtraction">4017-ArticleSummary_20pct_BioChainPlusFreqDist_MostFrequentStrongChainConcept_VectorSubtraction.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts">4017-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Unfiltered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Filtered">4017-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_Filtered.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position">4017-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_UnfilteredPos.spl</P>
+			<P ID="Biochain-AllStrongChainConcepts-Position-Filtered">4017-ArticleSummary_20pct_BioChain_AllStrongChainConcepts_FilteredPos.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Cosine">4017-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Cosine.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Dice">4017-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Dice.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-Euclidean">4017-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_Euclidean.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-NewItems">4017-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_NewItems.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-UnitFrequency">4017-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_UnitFrequency.spl</P>
+			<P ID="BiochainPlusFreqDist-AllStrongChainConcepts-VectorSubtraction">4017-ArticleSummary_20pct_BioChainPlusFreqDist_AllStrongChainConcepts_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Concept-Cosine">4017-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Cosine.spl</P>
+			<P ID="FreqDist-Concept-Dice">4017-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Dice.spl</P>
+			<P ID="FreqDist-Concept-Euclidean">4017-ArticleSummary_20pct_BioSumm_FreqDist-Concept_Euclidean.spl</P>
+			<P ID="FreqDist-Concept-UnitFrequency">4017-ArticleSummary_20pct_BioSumm_FreqDist-Concept_UnitFrequency.spl</P>
+			<P ID="FreqDist-Concept-VectorSubtraction">4017-ArticleSummary_20pct_BioSumm_FreqDist-Concept_VectorSubtraction.spl</P>
+			<P ID="FreqDist-Term-Cosine">4017-ArticleSummary_20pct_BioSumm_FreqDist-Term_Cosine.spl</P>
+			<P ID="FreqDist-Term-Dice">4017-ArticleSummary_20pct_BioSumm_FreqDist-Term_Dice.spl</P>
+			<P ID="FreqDist-Term-Euclidean">4017-ArticleSummary_20pct_BioSumm_FreqDist-Term_Euclidean.spl</P>
+			<P ID="FreqDist-Term-UnitFrequency">4017-ArticleSummary_20pct_BioSumm_FreqDist-Term_UnitFrequency.spl</P>
+			<P ID="FreqDist-Term-VectorSubtraction">4017-ArticleSummary_20pct_BioSumm_FreqDist-Term_VectorSubtraction.spl</P>
+			<P ID="SumBasic-Concept">4017-ArticleSummary_20pct_BioSumm_SumBasic-Concept.spl</P>
+			<P ID="SumBasic-Term">4017-ArticleSummary_20pct_BioSumm_SumBasic-Term.spl</P>
+			<P ID="Lemur-MMR">4017-ArticleSummary_20pct_LemurMMR.spl</P>
+			<P ID="Mead">4017-ArticleSummary_20pct_MEAD.spl</P>
+			<P ID="MSWord">4017-ArticleSummary_20pct_MSWord.spl</P>
+			<P ID="OTS">4017-ArticleSummary_20pct_OTS.spl</P>
+			<P ID="SweSum">4017-ArticleSummary_20pct_SweSum.spl</P>
+		</PEERS>
+		<MODELS>
+			<M ID="4017-A">4017-Model-Abstract.spl</M>
+			<M ID="4017-B">4017-Model-Jonathan.spl</M>
+			<M ID="4017-C">4017-Model-Saya.spl</M>
+			<M ID="4017-D">4017-Model-Tami.spl</M>
+		</MODELS>
+	</EVAL>
+
+</ROUGE-EVAL>

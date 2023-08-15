@@ -1,0 +1,44 @@
+From http://www-nlpir.nist.gov/projects/duc/duc2005/:
+
+	ROUGE-1.5.5.pl -n 2 -x -m -2 4 -u -c 95 -r 1000 -f A -p 0.5 -t 0 -d 
+
+		-n 2  compute ROUGE-1 and ROUGE-2  
+		-x  do not calculate ROUGE-L 
+		-m  apply Porter stemmer on both models and peers  
+		-2 4  compute Skip Bigram (ROUGE-S) with a maximum skip distance of 4  
+		-u  include unigram in Skip Bigram (ROUGE-S)  
+		-c 95  use 95% confidence interval  
+		-r 1000  bootstrap resample 1000 times to estimate the 95% confidence interval  
+		-f A  scores are averaged over multiple models  
+		-p 0.5  compute F-measure with alpha = 0.5  
+		-t 0  use model unit as the counting unit  
+		-d  print per-evaluation scores  
+
+
+	"This set of parameters will compute a number of ROUGE scores, but only the recall scores of ROUGE-2 and ROUGE-SU4 
+	will be used as the official ROUGE scores."
+
+
+
+DUC2002 Averages:
+----------------
+26 ROUGE-2 Average_R: 0.08119 (95%-conf.int. 0.07045 - 0.09327)
+26 ROUGE-SU4 Average_R: 0.11869 (95%-conf.int. 0.10919 - 0.13005)
+
+
+BioChain Five Documents (unfiltered, using paper abstract):
+-----------------------
+0162 ROUGE-2 Average_R: 0.19828 (95%-conf.int. 0.19828 - 0.19828)
+0162 ROUGE-SU4 Average_R: 0.25326 (95%-conf.int. 0.25326 - 0.25326)
+
+271 ROUGE-2 Average_R: 0.14872 (95%-conf.int. 0.14872 - 0.14872)
+271 ROUGE-SU4 Average_R: 0.21552 (95%-conf.int. 0.21552 - 0.21552)
+
+312 ROUGE-2 Average_R: 0.46512 (95%-conf.int. 0.46512 - 0.46512)
+312 ROUGE-SU4 Average_R: 0.49217 (95%-conf.int. 0.49217 - 0.49217)
+
+872 ROUGE-2 Average_R: 0.25088 (95%-conf.int. 0.25088 - 0.25088)
+872 ROUGE-SU4 Average_R: 0.36019 (95%-conf.int. 0.36019 - 0.36019)
+
+954 ROUGE-2 Average_R: 0.35602 (95%-conf.int. 0.35602 - 0.35602)
+954 ROUGE-SU4 Average_R: 0.39261 (95%-conf.int. 0.39261 - 0.39261)
