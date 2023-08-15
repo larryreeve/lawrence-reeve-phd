@@ -1,0 +1,37 @@
+Skip-Bigram Coherency + IPF Coverage, Top 5 Concepts
+
+	Metrics:
+        	Initialization Time: 18593 ms
+	        Annotation Time:     17703 ms
+	        Total Time:          36296 ms
+	        Phrase Count:        1628
+        	Avg Annotation Time: 10.874078624078624 ms
+	        Min Annotation Time: 0 ms
+        	Max Annotation Time: 812 ms
+
+
+	NumPhrases: 1628
+	NumPhrasesWithMatchingConcepts: 1508
+	Precision: 0.9263
+	NumTestSystemMoreThanOneConcept: 277
+	NumTestSystemZeroConcepts: 1
+
+
+--------------------------------------------------------
+Skip-Bigram Coherency + IPF Coverage, One Concept Output
+
+
+
+	NumPhrases: 1628
+	NumPhrasesWithMatchingConcepts: 1541
+	Precision: 0.9466
+	NumTestSystemMoreThanOneConcept: 254
+	NumTestSystemZeroConcepts: 1
+
+	NumPhrases: 1628
+	NumPhrasesWithMatchingConcepts: 1541
+	Precision: 0.9466
+	NumTestSystemMoreThanOneConcept: 254
+	NumTestSystemZeroConcepts: 1
+
+

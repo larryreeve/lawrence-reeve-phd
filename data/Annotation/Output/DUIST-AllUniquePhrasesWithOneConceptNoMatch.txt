@@ -1,0 +1,830 @@
+advances
+  0
+staging
+  0
+white blood cell count
+  0
+indeed poor prognostic features
+  0
+pulmonary toxicity
+  0
+treatment group
+  0
+ib
+  0
+fields
+  0
+creatinine clearance
+  0
+wilcoxon test
+  0
+original design
+  0
+ct scan
+  0
+similar trial
+  0
+reasonable possibility
+  0
+less time
+  0
+late effects
+  0
+randomized trials
+  0
+internal mammary lymph nodes
+  0
+secondary leukemias
+  0
+curative local therapy
+  0
+hemoglobin g
+  0
+patients characteristics
+  0
+astler coller modification
+  0
+abnormal renal function
+  0
+important finding to
+  0
+costal margins
+  0
+urea nitrogen
+  0
+females
+  0
+hormonal manipulations
+  0
+adverse events
+  0
+radiological examination
+  0
+bony structures
+  0
+dose intensity
+  0
+increasing serum creatinine
+  0
+localized disease
+  0
+computed tomographic scans
+  0
+cardiac disease
+  0
+cycles
+  0
+cox’s proportional hazard model
+  0
+treatment efficacy
+  0
+enhanced efficacy
+  0
+chronic toxicities
+  0
+postirradiation recurrent cancer
+  0
+hydroxyl group
+  0
+originally pro1 posed
+  0
+kruskal–wallis test
+  0
+55% decrease
+  0
+mid-axilla
+  0
+blood chemistries
+  0
+cholinergic syndromes
+  0
+condition
+  0
+stage ib cervical cancer
+  0
+not eligible central nervous system metastasis
+  0
+randomized trial to
+  0
+contrast computed tomography
+  0
+chemistry profile
+  0
+gastrointestinal series
+  0
+supervoltage radiation therapy
+  0
+therapeutic responses
+  0
+student t test
+  0
+time intervals
+  0
+surgical treatment
+  0
+cumulative dose to
+  0
+endomyocardial biopsy
+  0
+follow-up examinations
+  0
+m treated group
+  0
+computed tomography scan
+  0
+data forms
+  0
+therapeutic results
+  0
+haemoglobin g
+  0
+calculations
+  0
+pelvic lymph nodes
+  0
+increase
+  0
+repeat measurements
+  0
+severity
+  0
+singularly discouraging
+  0
+level
+  0
+dose effect relationships
+  0
+lung toxicity
+  0
+test
+  0
+significance level
+  0
+timing
+  0
+white blood cells
+  0
+high-dose brachytherapy
+  0
+medical contraindications
+  0
+cox model
+  0
+useful predictor
+  0
+cardiac toxicity
+  0
+interim tests
+  0
+medical treatments
+  0
+total dose to
+  0
+pelvic radiation
+  0
+hypothesis tests
+  0
+univariate analyses to
+  0
+nominal level
+  0
+figo stage
+  0
+abdominal ct scanning
+  0
+tests
+  0
+randomized trial
+  0
+disease progression
+  0
+tumour status
+  0
+treatment duration
+  0
+nominal significance level
+  0
+direction
+  0
+impact
+  0
+rt interruptions
+  0
+substantial difference
+  0
+unacceptable toxic effects
+  0
+prospective randomized clinical trial
+  0
+imbalance clearly
+  0
+50% increase
+  0
+normal tissues
+  0
+cox’s proportional hazards model
+  0
+number
+  0
+ischiorectal abscess
+  0
+logrank tests
+  0
+prearranged time
+  0
+immunohistochemical staining
+  0
+tumour progresses
+  0
+added efficacy
+  0
+natural history
+  0
+disease characteristics
+  0
+cumulative dose
+  0
+lymph node involvement
+  0
+to follow-up
+  0
+step
+  0
+cardiac monitoring
+  0
+monoclonal antibody
+  0
+follow-up visits
+  0
+pearson chi-square test
+  0
+phase iii clinical trial
+  0
+upper third
+  0
+lymph node metastases
+  0
+external iliac nodes
+  0
+estrogen receptor positive
+  0
+gonadal function
+  0
+prospective randomised trial
+  0
+neurologic adverse effects
+  0
+remainder clear cell
+  0
+hyperfractionated rt
+  0
+sections
+  0
+radiation dose violations
+  0
+chisquare test
+  0
+south africa
+  0
+m intravenously
+  0
+categorical data
+  0
+second diagnosis
+  0
+adjuvant radiotherapy
+  0
+toxic effects
+  0
+paraaortic lymph nodes
+  0
+pathological findings
+  0
+adverse effect
+  0
+radical hysterectomy
+  0
+pain control
+  0
+international federation
+  0
+intravenous pyelography
+  0
+questions
+  0
+chemotherapeutic regimens
+  0
+regional lymph node metastases
+  0
+total doses
+  0
+hepatic function
+  0
+iia cervical cancer
+  0
+end points
+  0
+radiation oncologist
+  0
+adjuvant chemotherapy
+  0
+dose response curve
+  0
+erroneous staging
+  0
+p values to
+  0
+chest x-ray
+  0
+bilateral hydronephrosis
+  0
+chest x ray
+  0
+m treatment group
+  0
+slides
+  0
+nonhematologic toxicities
+  0
+type i error
+  0
+residual disease
+  0
+missing chart
+  0
+logrank test
+  0
+complete responses
+  0
+lymph node biopsy to
+  0
+controlled comparison
+  0
+prospective randomized controlled trial
+  0
+reports
+  0
+pathological assessment
+  0
+saw
+  0
+5-fu doses
+  0
+biopsy only
+  0
+chest radiography
+  0
+laboratory data
+  0
+question
+  0
+lower third
+  0
+wilcoxon statistical test
+  0
+shortening
+  0
+consecutive episodes
+  0
+laboratory abnormalities
+  0
+rt days
+  0
+lower frequency
+  0
+sensitize tumor cells
+  0
+cervical tumours
+  0
+sutures
+  0
+higher frequency
+  0
+general health
+  0
+cox proportional hazards model
+  0
+accounts
+  0
+tumour progression
+  0
+dose limitation
+  0
+age
+  0
+ultimate test
+  0
+activation
+  0
+recurrent disease
+  0
+folic acid
+  0
+mean survival time
+  0
+patient safety
+  0
+5-fu dose to
+  0
+focus
+  0
+likely consequence
+  0
+scarring
+  0
+performance status 0.2
+  0
+decrease
+  0
+high-risk group
+  0
+computed tomography
+  0
+performance status less
+  0
+left ventricular function
+  0
+progression free survival
+  0
+about percent
+  0
+in vitro data
+  0
+medical history taking
+  0
+estrogen receptor
+  0
+univariate cox model
+  0
+beneficial impact
+  0
+other chemotherapeutic regiments
+  0
+kidney function
+  0
+now sufficient evidence to
+  0
+liquid diet
+  0
+ribonucleotide reductase
+  0
+stable lvef
+  0
+lymph node metastasis
+  0
+required modifications
+  0
+radiation sensitization
+  0
+poor prognostic factors
+  0
+risk factor
+  0
+6% increase
+  0
+life table estimates
+  0
+highest dose intensity ever
+  0
+south america
+  0
+further gy
+  0
+own findings
+  0
+25% increase
+  0
+valid statistical analyses
+  0
+intensified adjuvant chemotherapy
+  0
+chest x-rays
+  0
+high dose
+  0
+question soon
+  0
+follow-up visit
+  0
+nutritional status to
+  0
+adjuvant trials
+  0
+progressive disease
+  0
+chest radiogram
+  0
+follow-up
+  0
+serum creatinine levels
+  0
+combined treatment
+  0
+liver metastases
+  0
+biochemical tests
+  0
+constant decrease
+  0
+cardiorespiratory arrest
+  0
+mechanism
+  0
+å 0.05 level
+  0
+drug injections
+  0
+chi square
+  0
+throughout follow-up
+  0
+only prospective randomized clinical trials yet
+  0
+drawbacks still
+  0
+doses less
+  0
+pelvic radiation concomitantly
+  0
+substantial protection
+  0
+period
+  0
+chi-square test
+  0
+tumor dose
+  0
+neoplastic recurrence
+  0
+normal limits
+  0
+tumour size
+  0
+complementary data
+  0
+bicycle exercise
+  0
+distant metastases
+  0
+poorer prognosis
+  0
+consequently adequacy
+  0
+abdominal ultrasound
+  0
+combinations
+  0
+total dose
+  0
+patient characteristics
+  0
+cycle
+  0
+dukes stage
+  0
+metastatic colorectal cancer
+  0
+ps
+  0
+measurable disease
+  0
+parallel pair
+  0
+types
+  0
+screening chest x-ray
+  0
+high dose intensities
+  0
+higher doses
+  0
+risk factors
+  0
+dose limiting factor
+  0
+episodes
+  0
+stage ib cervical cancers
+  0
+rarity
+  0
+chemistry panel
+  0
+appreciable difference
+  0
+anastomotic leaks
+  0
+computerized tomography
+  0
+follow-up data
+  0
+severe proctites severe oedema
+  0
+ap pa
+  0
+prospective randomized trial
+  0
+treatment groups
+  0
+complete physical examination
+  0
+left ventricular ejection fraction
+  0
+median survival times
+  0
+lymph nodes
+  0
+statement
+  0
+cell type
+  0
+informed consent to
+  0
+toxic reactions
+  0
+compared irinotecan
+  0
+15% increase
+  0
+x10 white blood cells
+  0
+domestic animals
+  0
+medical oncologists
+  0
+log–rank test
+  0
+surgical margins
+  0
+rizzoli institute
+  0
+also difference
+  0
+cox model trying to
+  0
+febrile neutropenia
+  0
+controlled studies
+  0
+liver function tests
+  0
+important increase
+  0
+only randomized trial
+  0
+lung metastases
+  0
+granulocyte colony-stimulating factor
+  0
+substantially increased incidence
+  0
+univariate analyses of variance
+  0
+distant metastasis
+  0
+criterion
+  0
+fm sequence
+  0
+radiologic findings
+  0
+randomized clinical trial to
+  0
+infectious complications
+  0
+disease stage
+  0
+0.05 level
+  0
+indeed important advance
+  0
+m orally
+  0
+metastatic disease
+  0
+additional concern
+  0
+clinical findings
+  0
+stage i cervical cancer
+  0
+and whitney cw
+  0
+liver involvement
+  0
+radiation dose
+  0
+lymph node status
+  0
+higher cumulative doses
+  0
+bone x-rays
+  0
+end point
+  0
+convincing reason to
+  0
+paraortic lymph nodes
+  0
+postmortem study
+  0
+treatment planning
+  0
+eastern cooperative oncology group
+  0
+substantial decrease
+  0
+operation
+  0
+tumor cell burden
+  0
+undergone radical hysterectomy
+  0
+dose to
+  0
+vaginal stenosis
+  0
+frequencies
+  0
+research nurses
+  0
+contralateral breast cancer
+  0
+soft tissue sarcomas
+  0
+biologic activity
+  0
+bulky cervical cancer
+  0
+courses
+  0
+intestinal fistula
+  0
+abdominal computed tomography to
+  0
+median survival time
+  0
+precisely questions
+  0
+pearson’s x2 test
+  0
+5-fu dosage
+  0
+treatment plan
+  0
+normal renal function
+  0
+radia to follow-up
+  0
+pretreatment stratification
+  0
+males
+  0
+limit
+  0
+monitoring
+  0
+ordered categorical data
+  0
+forms
+  0
+50% decrease
+  0
+higher dose
+  0
+primary tumour site
+  0
+estrogen receptors
+  0
+performance status
+  0
+nonhaematological toxic effect
+  0
+then weeks
+  0
+careful approximation
+  0
+partial responders
+  0
+serum creatinine level
+  0
+patient pretreatment characteristics
+  0
+about weeks
+  0
+peculiar immunogenicity
+  0
+2 test
+  0
+because number
+  0
+congestive heart failure
+  0
+american joint committee on cancer
+  0
+student t tests
+  0
+second rationale
+  0
+only fictitious difference
+  0

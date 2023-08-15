@@ -1,0 +1,80 @@
+Summary:
+	- Approach: generate candidate list, use IPF filtering to reduce candidate list size,
+	use concept language model approach to perform final mapping
+
+	- Initialization time: 44.7 secs (ours) vs. 1.98 mins (metamap)
+	- Annotation Time: 23.6 secs (ours) vs. 5.54 mins (metamap), a speedup of 14x 
+	- Avg annotation time for each phrase: 14 ms (ours) vs. 204 ms (metamap)
+	- Precision is 0.945
+
+	- Evaluation was done as follows:
+		- Generate a list of unique phrases from the corpus
+		- Map all phrases using MetaMap
+		- Keep all phrases mapping to a single concept (baseline corpus)
+		- Run MetaMap and our annotator on corpus to map concepts and get stats
+		- Compare our annotator's mapped concepts to the baseline corpus
+		- For each phrase, count as successful if any of our annotator's concepts
+		mapped to the single concept from the baseline corpus
+
+
+Futures:
+	- incorporate full variants from UMLS
+	- adjust lamda parameter in concept LM and evaluate
+	- failure analysis:
+		- in single concept eval, why is more than one concept being mapped
+		- why are some phrases not generating at least one concept
+
+
+
+Metrics for unique phrases with single concept:
+----------------------------------------------	
+	Metrics for our annotator:
+        	Initialization Time: 44719 ms
+	        Annotation Time:     23595 ms
+	        Total Time:          68314 ms
+        	Phrase Count:        1628
+	        Avg Annotation Time: 14.493243243243244 ms
+        	Min Annotation Time: 0 ms
+	        Max Annotation Time: 1140 ms
+
+	
+	Metrics for MetaMap:
+		Initialization Time: 119375 ms
+		Annotation Time:     332327 ms
+		Total Time:          451702 ms
+		Phrase Count:        1628
+		Avg Annotation Time: 204.13206388206387 ms
+		Min Annotation Time: 0 ms
+		Max Annotation Time: 8250 ms
+
+
+	Precision Evaluation:
+		NumPhrases: 1628
+		NumPhrasesWithMatchingConcepts: 1539
+		NumTestSystemMoreThanOneConcept: 292
+		NumTestSystemZeroConcepts: 89
+		Precision is 1539/1628=0.945
+
+
+
+Metrics for unique phrases:
+--------------------------
+	Metrics for our annotator:
+        	Initialization Time: 28047 ms
+	        Annotation Time:     67063 ms
+	        Total Time:          95110 ms
+        	Phrase Count:        4410
+	        Avg Annotation Time: 15.20702947845805 ms
+        	Min Annotation Time: 0 ms
+	        Max Annotation Time: 579 ms
+
+	Metrics for MetaMap:
+
+
+	Precision Evaluation:
+		NumPhrases: 4410
+		NumPhrasesWithMatchingConcepts: 4170
+		Precision: 0.9456
+		NumTestSystemMoreThanOneConcept: 993
+		NumTestSystemZeroConcepts: 240
+		Precision is 4170/4410=0.945

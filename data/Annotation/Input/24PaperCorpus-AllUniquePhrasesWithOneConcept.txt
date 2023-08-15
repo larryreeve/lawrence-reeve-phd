@@ -1,0 +1,4884 @@
+pelvic lymphadenectomy
+  1
+  c0193883|pelvic lymphadenectomy (procedure)|t061
+advances
+  1
+  c0725066|advance|t074
+only eligible patients
+  1
+  c0030705|patients|t101
+staging
+  1
+  c0332305|with staging (attribute)|t169
+body
+  1
+  c0242821|human body|t016
+major surgery
+  1
+  c0679637|major surgery|t061
+first
+  1
+  c0205435|first (qualifier value)|t081
+tissue
+  1
+  c0040300|tissues|t024
+poor prognosis
+  1
+  c0278252|prognosis bad (finding)|t033
+other factors
+  1
+  c0205394|other|t080
+white blood cell count
+  1
+  c0023508|white blood cell count procedure|t059
+radiosensitivity
+  1
+  c0034537|radiation tolerance|t032
+ssd
+  1
+  c0723179|ssd|t109
+indeed poor prognostic features
+  1
+  c0278252|prognosis bad (finding)|t033
+pulmonary disease
+  1
+  c0024115|lung diseases|t047
+complete blood counts
+  1
+  c0009555|blood count, complete|t059
+10th percentile
+  1
+  c1264641|percentile (property) (qualifier value)|t081
+pulmonary toxicity
+  1
+  c0919924|pulmonary toxicity|t046
+intestinal perforation
+  1
+  c0021845|intestinal perforation|t020
+pilot data
+  1
+  c0473169|pilot - aircraft (occupation)|t097
+l2
+  1
+  c1179699|l2 innervation|t029
+kaplan–meier estimates
+  1
+  c0750572|estimated|t078
+treatment group
+  1
+  c0036669|sensitivity training groups|t065
+ischemia
+  1
+  c0022116|ischemia|t047
+fever
+  1
+  c0015967|fever|t184
+underlies
+  1
+  c0444455|underlay (qualifier value)|t082
+namely cmf
+  1
+  c0950521|cmf|t061
+assay
+  1
+  c0243073|assay|t059
+ib
+  1
+  c0444976|ib (qualifier value)|t170
+sgot
+  1
+  c0201899|aspartate aminotransferase assay|t059
+fields
+  1
+  c0440042|field's stain|t130
+creatinine clearance
+  1
+  c0812399|creatinine clearance|t033
+90th percentiles
+  1
+  c1264641|percentile (property) (qualifier value)|t081
+further years
+  1
+  c0439234|year (qualifier value)|t079
+wilcoxon test
+  1
+  c0392366|tests (qualifier value)|t170
+21.0 weeks
+  1
+  c0439230|week (qualifier value)|t079
+lactate dehydrogenase
+  1
+  c0022917|lactate dehydrogenase|t116
+calcium folinate
+  1
+  c0731033|leucovorin calcium|t109
+methotrexate
+  1
+  c0025677|methotrexate|t109
+original design
+  1
+  c0205313|original (qualifier value)|t078
+attenuator
+  1
+  c0332161|attenuated by (contextual qualifier) (qualifier value)|t080
+pelvic examination
+  1
+  c0200045|manual pelvic examination (procedure)|t060
+corpus
+  1
+  c0227813|body of uterus|t023
+rt regimen
+  1
+  c0677937|regimen|t061
+ct scan
+  1
+  c0040405|x-ray computed tomography|t060
+czech republic
+  1
+  c0206578|czech republic|t083
+closure
+  1
+  c0185003|reparative closure (procedure)|t061
+similar trial
+  1
+  c0871364|simile|t170
+antitumor effect
+  1
+  c1280500|effect (qualifier value)|t080
+register
+  1
+  c0600375|registers (pt)|t170
+reasonable possibility
+  1
+  c0684328|reasoning|t041
+curative potential
+  1
+  c0237399|potential|t080
+electrocardiogram
+  1
+  c0013798|electrocardiogram|t060
+patients then
+  1
+  c0030705|patients|t101
+charcoal
+  1
+  c0007955|charcoal|t196
+mlr stepping option
+  1
+  c0859325|stepping|t184
+fifteen patients
+  1
+  c0030705|patients|t101
+latter approach
+  1
+  c0449445|approach (attribute)|t082
+reactions
+  1
+  c0443286|reaction (qualifier value)|t169
+trend
+  1
+  c0040833|trends|t079
+stepwise logistic regression
+  1
+  c0206031|logistic regression|t062
+95% confidence limit
+  1
+  c0237530|confidence limits|t081
+selection criteria
+  1
+  c0242801|selection criteria|t080
+examinations
+  1
+  c0579007|examination - action (qualifier value)|t169
+less time
+  1
+  c0040223|time|t079
+sgpt
+  1
+  c0001899|alanine transaminase|t116
+late effects
+  1
+  c0543419|sequela (disorder)|t046
+survival rate
+  1
+  c0038954|survival rate|t081
+randomized trials
+  1
+  c0034656|random allocation|t062
+discontinuation
+  1
+  c0457454|discontinuation (procedure)|t058
+factor is
+  1
+  c0441913|is (tumor staging)|t170
+multicenter study
+  1
+  c0282439|multicenter studies|t170
+internal mammary lymph nodes
+  1
+  c0229755|parasternal lymph node (body structure)|t023
+secondary leukemias
+  1
+  c0275814|streptococcal lymphadenitis of swine|t047
+80.8 gy
+  1
+  c0556636|gy (qualifier value)|t081
+men
+  1
+  c0025266|male population group|t098
+curative local therapy
+  1
+  c0677903|local therapy|t061
+reassuring
+  1
+  c0557055|reassuring (procedure)|t061
+leukocytopenia
+  1
+  c0023530|leukopenia|t047
+information
+  1
+  c0870705|information|t078
+consistency
+  1
+  c0332529|consistency finding (finding)|t080
+squamous cell carcinoma
+  1
+  c0007137|carcinoma, squamous cell|t191
+hemoglobin g
+  1
+  c1319312|hemoglobin g (substance)|t116
+patients to
+  1
+  c0030705|patients|t101
+patients characteristics
+  1
+  c0815172|patient characteristics|t201
+use
+  1
+  c0042153|utilization|t081
+disturbing finding
+  1
+  c0243095|findings|t169
+bowel obstruction
+  1
+  c0021843|intestinal obstruction|t047
+6.7 weeks
+  1
+  c0439230|week (qualifier value)|t079
+myoblastoma
+  1
+  c0027043|myoblastoma|t191
+astler coller modification
+  1
+  c0205349|altered (qualifier value)|t169
+eighty one
+  1
+  c0205447|one (qualifier value)|t081
+abnormal renal function
+  1
+  c0151746|abnormal renal function (finding)|t046
+m fluorouracil
+  1
+  c0016360|fluorouracil|t114
+36.0 gy
+  1
+  c0556636|gy (qualifier value)|t081
+6.5 years
+  1
+  c0439234|year (qualifier value)|t079
+important finding to
+  1
+  c0243095|findings|t169
+basis
+  1
+  c0178499|base|t120
+pulmonary embolism
+  1
+  c0034065|pulmonary embolism|t047
+neutron therapy
+  1
+  c0278623|high-let neutron therapy|t061
+costal margins
+  1
+  c0582240|border of rib (body structure)|t029
+cell division
+  1
+  c0007590|cell division|t043
+technique to
+  1
+  c0449851|techniques|t170
+negative
+  1
+  c0205160|negative (qualifier value)|t080
+urea nitrogen
+  1
+  c0521881|urea nitrogen (substance)|t123
+ctx
+  1
+  c0010583|cyclophosphamide|t115
+investigators
+  1
+  c0035173|research personnel|t097
+eortc qlqc30 questionnaire
+  1
+  c0034394|questionnaires|t170
+females
+  1
+  c0086287|females|t098
+sublethal damage
+  1
+  c0010957|damage (morphologic abnormality)|t169
+laboratory evidence
+  1
+  c0022877|laboratories|t073
+disagreement
+  1
+  c0680238|discord|t054
+stabilisation
+  1
+  c1293130|stabilization (procedure)|t061
+phase ii study
+  1
+  c0278782|phase ii study|t062
+mm3
+  1
+  c1300558|mm3 (qualifier value)|t081
+81.0 gy
+  1
+  c0556636|gy (qualifier value)|t081
+exponential model
+  1
+  c0026336|models|t170
+hormonal manipulations
+  1
+  c0586971|hormone manipulation (procedure)|t061
+provision
+  1
+  c0359589|provide (product)|t168
+abdominal hernia
+  1
+  c0178282|hernia of abdominal cavity|t020
+untreated patients
+  1
+  c0030705|patients|t101
+adverse events
+  1
+  c0877248|adverse event|t033
+ureters
+  1
+  c0041951|ureter|t023
+other trials
+  1
+  c0205394|other|t080
+requiring hospitalization
+  1
+  c0019993|hospitalization|t058
+radiological examination
+  1
+  c0043299|diagnostic radiologic examination|t060
+important prognostic factor
+  1
+  c0220901|prognostic|t170
+effects presumably
+  1
+  c1280500|effect (qualifier value)|t080
+bony structures
+  1
+  c0447961|bone structure (body structure)|t017
+dose intensity
+  1
+  c0178602|dosages (qualifier value)|t081
+multivariate cox regression analysis to
+  1
+  c0034980|regression analysis|t081
+95% confidence intervals
+  1
+  c0009667|confidence intervals|t081
+increasing serum creatinine
+  1
+  c0700225|serum creatinine raised (finding)|t033
+grade
+  1
+  c0441800|grade|t185
+tumour characteristics
+  1
+  c0027651|neoplasms|t191
+radiation scheme
+  1
+  c0851346|radiation|t070
+cr
+  1
+  c0008574|chromium|t123
+liver scans
+  1
+  c0203758|radioisotope study of liver (procedure)|t060
+senior authors
+  1
+  c0221192|author (occupation)|t097
+localized disease
+  1
+  c0277565|local disease (finding)|t047
+radiation
+  1
+  c0851346|radiation|t070
+computed tomographic scans
+  1
+  c0040405|x-ray computed tomography|t060
+asia
+  1
+  c0003980|asia|t083
+relevant prognostic factors
+  1
+  c0220901|prognostic|t170
+presence
+  1
+  c0392148|providing presence (regime/therapy)|t061
+21.6 gy
+  1
+  c0556636|gy (qualifier value)|t081
+recurrence outcomes
+  1
+  c0034897|recurrence|t067
+activityin cervical cancer
+  1
+  c0007847|malignant neoplasm of cervix uteri|t191
+karnofsky scale
+  1
+  c0206065|karnofsky performance status|t034
+gy
+  1
+  c0556636|gy (qualifier value)|t081
+sex ratios
+  1
+  c0036893|sex ratio|t081
+cardiac disease
+  1
+  c0018799|heart diseases|t047
+nine
+  1
+  c0205455|nine (qualifier value)|t081
+recommendations
+  1
+  c0034866|recommendations|t078
+cycles
+  1
+  c0439596|cyclic (qualifier value)|t079
+frequency
+  1
+  c0376249|with frequency|t081
+hemoglobin
+  1
+  c0019046|hemoglobin|t116
+sufficient data
+  1
+  c0205410|sufficient (qualifier value)|t080
+important information
+  1
+  c0870705|information|t078
+simon
+  1
+  c0443058|simon (qualifier value)|t170
+cox’s proportional hazard model
+  1
+  c0033489|proportional hazards models|t170
+envelope system
+  1
+  c0449913|system (attribute)|t169
+treatment efficacy
+  1
+  c0087113|treatment effectiveness|t080
+enhanced efficacy
+  1
+  c0086222|enhancer|t114
+urine ph
+  1
+  c0042044|urine ph test (procedure)|t059
+chronic toxicities
+  1
+  c1264527|chronic poisoning (disorder)|t037
+accelerated repopulation
+  1
+  c0521110|accelerated (contextual qualifier) (qualifier value)|t169
+postirradiation recurrent cancer
+  1
+  c0549379|recurrent cancer|t191
+hydroxyl group
+  1
+  c0700307|hydroxyl group|t197
+originally pro1 posed
+  1
+  c0205313|original (qualifier value)|t078
+required follow-up
+  1
+  c0589120|follow-up status (finding)|t169
+fibrosarcoma
+  1
+  c0016057|fibrosarcoma|t191
+multimodality approach
+  1
+  c0449445|approach (attribute)|t082
+presacral nodes
+  1
+  c0746922|node|t023
+adjuvant therapy
+  1
+  c0677850|adjuvant therapy|t061
+kruskal–wallis test
+  1
+  c0392366|tests (qualifier value)|t170
+clinical data
+  1
+  c0205210|clinical (qualifier value)|t080
+55% decrease
+  1
+  c0547047|decrease (qualifier value)|t081
+cardiotoxicity
+  1
+  c0876994|cardiotoxicity|t047
+mid-axilla
+  1
+  c0441926|level ii (tumor staging)|t170
+blood chemistries
+  1
+  c0005774|blood chemical analysis|t059
+cholinergic syndromes
+  1
+  c0274702|poisoning by parasympathomimetic drug (disorder)|t037
+commonly
+  1
+  c0205214|common (qualifier value)|t081
+phase trials
+  1
+  c0205390|phase (qualifier value)|t079
+intervals
+  1
+  c1272706|interval (qualifier value)|t079
+magnesium sulfate
+  1
+  c0024480|magnesium sulfate|t197
+brazil
+  1
+  c0006137|brazil|t083
+mammography
+  1
+  c0024671|mammography|t060
+argument
+  1
+  c0680226|disputes|t054
+sites
+  1
+  c0205145|associated topography (attribute)|t082
+remarkable consistency
+  1
+  c0332529|consistency finding (finding)|t080
+suggestion
+  1
+  c0038659|suggestion|t061
+barium enema
+  1
+  c0203075|barium enema (procedure)|t060
+condition
+  1
+  c0348080|condition (attribute)|t080
+remaining patients
+  1
+  c0030705|patients|t101
+stage ib cervical cancer
+  1
+  c0278582|cervical carcinoma stage ib|t191
+regimens
+  1
+  c0677937|regimen|t061
+not eligible central nervous system metastasis
+  1
+  c0279130|cns metastases (tumor staging)|t191
+31% chance
+  1
+  c0237506|chance|t080
+source
+  1
+  c0449416|source (attribute)|t033
+mtx
+  1
+  c0025677|methotrexate|t109
+randomized trial to
+  1
+  c0034656|random allocation|t062
+end
+  1
+  c0444930|end (qualifier value)|t082
+skin reactions
+  1
+  c0221743|skin reaction (observable entity)|t034
+leukocyte count nadir
+  1
+  c0023508|white blood cell count procedure|t059
+contrast computed tomography
+  1
+  c0040405|x-ray computed tomography|t060
+cardiac failure
+  1
+  c0018801|heart failure nos (disorder)|t047
+list
+  1
+  c0745732|list|t077
+european trial
+  1
+  c0239307|european|t098
+chemistry profile
+  1
+  c0545265|chemistry profile|t059
+finding
+  1
+  c0243095|findings|t169
+informed consent form
+  1
+  c0009797|consent forms|t170
+gastrointestinal series
+  1
+  c0849994|gi series|t060
+supervoltage radiation therapy
+  1
+  c0454064|megavoltage radiation therapy (procedure)|t061
+depletion
+  1
+  c0333668|depletion (morphologic abnormality)|t169
+therapeutic responses
+  1
+  c0521982|therapeutic response, function (observable entity)|t033
+assistance
+  1
+  c0018896|helping behavior|t054
+opinion
+  1
+  c0871010|opinions|t041
+student t test
+  1
+  c0871453|students t test|t170
+time intervals
+  1
+  c0872291|time interval|t079
+colonoscopy
+  1
+  c0009378|colonoscopy|t060
+9.3 weeks
+  1
+  c0439230|week (qualifier value)|t079
+not cells
+  1
+  c0007634|cells|t025
+lemberts method
+  1
+  c0025663|methods|t170
+surgical treatment
+  1
+  c0543467|general operative procedures|t061
+bowel preparation
+  1
+  c0455052|preparation of bowel for procedure (procedure)|t058
+qlq-c30 questionnaire
+  1
+  c0034394|questionnaires|t170
+renewed interest
+  1
+  c0543488|interested (finding)|t041
+cumulative dose to
+  1
+  c0178602|dosages (qualifier value)|t081
+dukes c
+  1
+  c0007886|cesium|t196
+endomyocardial biopsy
+  1
+  c0189785|endomyocardial biopsy (procedure)|t060
+follow-up examinations
+  1
+  c0260832|[v]follow-up examination (context-dependent category)|t033
+completeness
+  1
+  c0439812|completeness (qualifier value)|t080
+m treated group
+  1
+  c0036669|sensitivity training groups|t065
+iib tumors
+  1
+  c0027651|neoplasms|t191
+only .05 probability
+  1
+  c0033204|probability|t081
+cervical neoplasms
+  1
+  c0007873|cervix neoplasms|t191
+computed tomography scan
+  1
+  c0040405|x-ray computed tomography|t060
+injections
+  1
+  c0021485|injections|t061
+patient’s informed consent
+  1
+  c0021430|informed consent|t058
+epirubicin
+  1
+  c0014582|epirubicin|t109
+placebo
+  1
+  c0032042|placebos|t074
+one refusal
+  1
+  c0205447|one (qualifier value)|t081
+data forms
+  1
+  c0376315|manufactured form|t073
+therapeutic results
+  1
+  c0808233|therapeutic results|t033
+vascular invasion
+  1
+  c0005847|blood vessels|t023
+pt4 tumors however
+  1
+  c0027651|neoplasms|t191
+thomas deviations
+  1
+  c0012727|spatial displacement|t082
+radiosensitizer
+  1
+  c0034541|radiation-sensitizing agents|t121
+center
+  1
+  c0205099|central|t082
+haemoglobin g
+  1
+  c1319312|hemoglobin g (substance)|t116
+calculations
+  1
+  c0444686|calculated (qualifier value)|t169
+adverse effects
+  1
+  c0001688|adverse effects|t037
+patients’ medical records
+  1
+  c0025102|medical records|t170
+interval
+  1
+  c1272706|interval (qualifier value)|t079
+site
+  1
+  c0205145|associated topography (attribute)|t082
+iqr 4.12 days
+  1
+  c0439228|day (qualifier value)|t079
+extrafascial hysterectomy
+  1
+  c0020699|hysterectomy|t061
+continuous infusion
+  1
+  c0444889|continuous infusion (qualifier value)|t061
+recurrent tumors
+  1
+  c0521158|recurrent tumor (finding)|t191
+pelvic lymph nodes
+  1
+  c0729595|pelvic lymph node group|t023
+min.
+  1
+  c0439232|minute of time|t079
+increase
+  1
+  c0442805|increase (qualifier value)|t169
+day
+  1
+  c0439228|day (qualifier value)|t079
+magnesium
+  1
+  c0024467|magnesium|t123
+x
+  1
+  c0078606|xanthosine|t114
+confirmation
+  1
+  c0750484|confirmed|t078
+only regimen
+  1
+  c0677937|regimen|t061
+stomatitis
+  1
+  c0038362|stomatitis|t047
+angiography
+  1
+  c0002978|angiography|t060
+repeat measurements
+  1
+  c0871881|repeated measures|t062
+prognostic importance
+  1
+  c0220901|prognostic|t170
+severity
+  1
+  c0449294|with severity (attribute)|t080
+singularly discouraging
+  1
+  c0205171|singular|t081
+surface
+  1
+  c0205148|surface (qualifier value)|t032
+colon cancer
+  1
+  c0007102|malignant tumor of colon|t191
+occasional confusion
+  1
+  c0009676|confusion|t048
+cell culture
+  1
+  c0007585|cell culture|t059
+patient accrual
+  1
+  c0030705|patients|t101
+young unpublished data
+  1
+  c0332239|young (qualifier value)|t079
+10.5 months
+  1
+  c0439231|month (qualifier value)|t079
+mesna
+  1
+  c0000294|mesna|t109
+level
+  1
+  c0456079|disease classification level|t185
+dose effect relationships
+  1
+  c0683160|dose-effect relationship|t038
+homogeneity
+  1
+  c0181200|homogenizers|t074
+nationwide use
+  1
+  c0042153|utilization|t081
+wbc
+  1
+  c0023516|leukocytes|t025
+drug
+  1
+  c0013227|pharmaceutical preparations|t121
+metaanalyses
+  1
+  c0920317|meta-analysis|t170
+university
+  1
+  c0041740|universities|t073
+vincristine
+  1
+  c0042679|vincristine|t109
+common iliac lymph nodes
+  1
+  c0229807|structure of iliac lymph node (body structure)|t023
+dyspnoea
+  1
+  c0013404|dyspnea|t184
+10/533 patients
+  1
+  c0030705|patients|t101
+calcium folinate only
+  1
+  c0731033|leucovorin calcium|t109
+benefits
+  1
+  c0814225|benefits|t081
+corticosteroids
+  1
+  c0001617|adrenal cortex hormones|t125
+route
+  1
+  c0449444|route (attribute)|t082
+access
+  1
+  c0444454|access (attribute)|t082
+comparative frequency
+  1
+  c0376249|with frequency|t081
+lung toxicity
+  1
+  c0919924|pulmonary toxicity|t046
+scan
+  1
+  c0441633|scanning|t060
+m stage
+  1
+  c0456533|m category (observable entity)|t170
+chicago
+  1
+  c0008044|chicago|t083
+recurrent tumor
+  1
+  c0521158|recurrent tumor (finding)|t191
+life style
+  1
+  c0023676|life style|t054
+test
+  1
+  c0392366|tests (qualifier value)|t170
+patients
+  1
+  c0030705|patients|t101
+significance level
+  1
+  c0814896|significance level|t062
+less time to
+  1
+  c0040223|time|t079
+gynecology
+  1
+  c0018417|gynecology|t091
+lack
+  1
+  c0332268|lacking (qualifier value)|t080
+unfavorable prognostic factor
+  1
+  c0220901|prognostic|t170
+timing
+  1
+  c0449243|timing (attribute)|t079
+white blood cells
+  1
+  c0023516|leukocytes|t025
+method
+  1
+  c0025663|methods|t170
+high-dose brachytherapy
+  1
+  c1273556|high dose brachytherapy (regime/therapy)|t061
+medical contraindications
+  1
+  c1301624|medical contraindication (finding)|t033
+threeyear survival rates
+  1
+  c0038954|survival rate|t081
+pooling
+  1
+  c0337051|pool (environment)|t083
+cox model
+  1
+  c0010234|cox models|t170
+useful predictor
+  1
+  c0681842|prediction|t170
+cardiac toxicity
+  1
+  c0280951|cardiac toxicity|t037
+radiographic evidence
+  1
+  c0444708|radiographic (qualifier value)|t070
+ability
+  1
+  c0085732|ability|t032
+dl
+  1
+  c0439241|dl (qualifier value)|t081
+optimal duration
+  1
+  c0449238|duration|t079
+patients evenly
+  1
+  c0030705|patients|t101
+theoretical risk
+  1
+  c0035647|risk|t080
+combination
+  1
+  c0205195|combined (qualifier value)|t080
+permuted block
+  1
+  c0028778|obstruction|t046
+intestinal obstruction
+  1
+  c0021843|intestinal obstruction|t047
+total
+  1
+  c0439810|total (qualifier value)|t080
+interim tests
+  1
+  c0392366|tests (qualifier value)|t170
+medical treatments
+  1
+  c1171203|medication treatment|t061
+bilirubin
+  1
+  c0005437|bilirubin|t123
+fluorodeoxyuridine monophosphate
+  1
+  c0016343|floxuridine|t114
+reference values
+  1
+  c0034926|reference values|t081
+total dose to
+  1
+  c0172161|tyramine-deoxysorbitol|t109
+iib disease
+  1
+  c0012634|disease|t047
+equivalent
+  1
+  c0439185|eq (qualifier value)|t081
+agent
+  1
+  c0450442|agent (attribute)|t120
+pelvic radiation
+  1
+  c0747411|pelvis radiation|t061
+os
+  1
+  c0262950|skeletal bone|t021
+hypothesis tests
+  1
+  c0681918|hypothesis testing|t062
+univariate analyses to
+  1
+  c0683962|univariate analysis|t062
+malignant fibrous histiocytoma
+  1
+  c0334463|[m]fibroxanthosarcoma (morphologic abnormality)|t191
+controversy
+  1
+  c0680243|controversy|t054
+descending
+  1
+  c0205386|descending (qualifier value)|t080
+nominal level
+  1
+  c0456079|disease classification level|t185
+5.8 years
+  1
+  c0439234|year (qualifier value)|t079
+m control group
+  1
+  c0009932|control groups|t096
+risk
+  1
+  c0035647|risk|t080
+remaining tumors
+  1
+  c0027651|neoplasms|t191
+statistics
+  1
+  c0038215|science of statistics|t090
+effects
+  1
+  c1280500|effect (qualifier value)|t080
+ulceration
+  1
+  c0041582|ulcer|t046
+death
+  1
+  c0011065|cessation of life|t040
+figo stage
+  1
+  c0450454|figo stage (attribute)|t170
+postirradiation fibrosis
+  1
+  c0016059|fibrosis|t046
+diarrhea
+  1
+  c0011991|diarrhea|t184
+abdominal ct scanning
+  1
+  c0412620|ct of abdomen (procedure)|t060
+tests
+  1
+  c0392366|tests (qualifier value)|t170
+small cell carcinoma
+  1
+  c0149925|carcinoma, small cell|t191
+leucocyte nadir
+  1
+  c0023516|leukocytes|t025
+randomized trial
+  1
+  c0034656|random allocation|t062
+texas
+  1
+  c0039711|texas|t083
+75th percentiles
+  1
+  c1264641|percentile (property) (qualifier value)|t081
+disease progression
+  1
+  c0242656|disease progression|t046
+immune response
+  1
+  c0301872|immune response|t040
+escalation
+  1
+  c0014829|escalators|t073
+disease recurrence
+  1
+  c0679254|disease recurrence|t033
+members
+  1
+  c0680022|member of (attribute)|t098
+only 4.6 months
+  1
+  c0439231|month (qualifier value)|t079
+melphalan
+  1
+  c0025241|melphalan|t116
+centers
+  1
+  c0205099|central|t082
+nineteen patients
+  1
+  c0030705|patients|t101
+exploratory laparotomy
+  1
+  c0085704|exploratory laparotomy (procedure)|t060
+complete blood count
+  1
+  c0009555|blood count, complete|t059
+cervical cancers
+  1
+  c0007847|malignant neoplasm of cervix uteri|t191
+prognosis
+  1
+  c0033325|forecast of outcome|t058
+advantages
+  1
+  c0308269|advantage|t131
+tumour status
+  1
+  c0475752|tumor status (attribute)|t080
+treatment duration
+  1
+  c0444921|duration of treatment (qualifier value)|t079
+specimen
+  1
+  c0370003|specimen (specimen)|t167
+upfront ct
+  1
+  c0040405|x-ray computed tomography|t060
+intestinal anastomosis
+  1
+  c0192711|anastomosis of intestine nos (procedure)|t061
+false pelvis
+  1
+  c0230276|major pelvis structure (body structure)|t023
+pt3 tumors
+  1
+  c0027651|neoplasms|t191
+3.0 polypropylene suture
+  1
+  c0491217|polypropylene suture (physical object)|t074
+sigmoid colon
+  1
+  c0227391|sigmoid colon|t023
+completion
+  1
+  c0205197|complete (qualifier value)|t080
+minimal residual disease
+  1
+  c0242596|neoplasm, residual|t191
+further follow-up
+  1
+  c0589120|follow-up status (finding)|t169
+dose limits
+  1
+  c0935905|dose-limiting|t037
+range 4–81 months
+  1
+  c0439231|month (qualifier value)|t079
+fm
+  1
+  c0015853|fermium|t196
+brachytherapy
+  1
+  c0006098|brachytherapy|t061
+ct
+  1
+  c0040405|x-ray computed tomography|t060
+unnecessary side effects
+  1
+  c0001688|adverse effects|t037
+standard therapy
+  1
+  c0879531|standard therapy|t047
+data analysis
+  1
+  c0010992|data analysis|t057
+opcs death certificate
+  1
+  c0011066|death certificates|t073
+nominal significance level
+  1
+  c0814896|significance level|t062
+subsequently
+  1
+  c0750530|subsequent|t078
+histologic grade
+  1
+  c0919553|histopathologic grade|t185
+myocardial infarctions
+  1
+  c0027051|myocardial infarction|t047
+11.9 months
+  1
+  c0439231|month (qualifier value)|t079
+90th percentile
+  1
+  c1264641|percentile (property) (qualifier value)|t081
+cervix
+  1
+  c0007874|uterine cervix-anatomy|t023
+direction
+  1
+  c0449738|direction|t082
+randomization
+  1
+  c0034656|random allocation|t062
+impact
+  1
+  c0726639|impact|t168
+rt interruptions
+  1
+  c0443239|interrupted (qualifier value)|t080
+substantial difference
+  1
+  c0443199|differential (qualifier value)|t080
+months
+  1
+  c0439231|month (qualifier value)|t079
+volume
+  1
+  c0449468|volume (property) (qualifier value)|t081
+kaplan meier method
+  1
+  c0025663|methods|t170
+assessment
+  1
+  c1261322|assessment procedure (procedure)|t058
+unacceptable toxic effects
+  1
+  c0600688|toxic effect|t037
+study design
+  1
+  c0035171|research design|t062
+transfusions
+  1
+  c0199960|transfusion - action (qualifier value)|t061
+prospective randomized clinical trial
+  1
+  c0206034|clinical trials, randomized|t170
+imbalance clearly
+  1
+  c0205305|clear (qualifier value)|t080
+ii trials
+  1
+  c0439069|roman numeral ii|t170
+levamisole
+  1
+  c0023556|levamisole|t109
+im
+  1
+  c0231377|at risk for impaired home maintenance management (finding)|t033
+recruitment
+  1
+  c0271510|recruitment (finding)|t039
+50% increase
+  1
+  c0442805|increase (qualifier value)|t169
+likely
+  1
+  c0750504|likely|t078
+indices
+  1
+  c0918012|indexes|t170
+stereoisomer
+  1
+  c0376211|stereoisomers|t104
+shrinkage
+  1
+  c0332513|shrinkage (finding)|t169
+width
+  1
+  c0487742|width (qualifier value)|t081
+iproplatin
+  1
+  c0057856|iproplatin|t109
+pr
+  1
+  c0279766|progesterone receptor negative|t034
+provided data
+  1
+  c0359589|provide (product)|t168
+measurements
+  1
+  c0242485|measurement|t081
+myocardial infarction
+  1
+  c0027051|myocardial infarction|t047
+normal tissues
+  1
+  c0332441|normal tissue (finding)|t033
+more evidence
+  1
+  c0205172|more (qualifier value)|t081
+cox’s proportional hazards model
+  1
+  c0033489|proportional hazards models|t170
+number
+  1
+  c0449788|count of entities (property) (qualifier value)|t081
+ischiorectal abscess
+  1
+  c0149816|ischiorectal abscess (disorder)|t020
+austria
+  1
+  c0004348|austria|t083
+bipedal lymphangiogram
+  1
+  c0024219|lymphangiography|t060
+1.4 years
+  1
+  c0439234|year (qualifier value)|t079
+5-year data
+  1
+  c0439234|year (qualifier value)|t079
+pattern
+  1
+  c0449774|patterns (qualifier value)|t082
+kaplan meier estimates
+  1
+  c0750572|estimated|t078
+logrank tests
+  1
+  c0392366|tests (qualifier value)|t170
+prearranged time
+  1
+  c0040223|time|t079
+series
+  1
+  c0205549|series (qualifier value)|t081
+40 patients
+  1
+  c0030705|patients|t101
+immunohistochemical staining
+  1
+  c0038129|staining|t059
+tumour progresses
+  1
+  c0178874|neoplasm progression|t191
+endometrial carcinoma
+  1
+  c0476089|endometrial carcinoma|t191
+cytopenias
+  1
+  c0010828|cytopenia (finding)|t046
+55.0 gy
+  1
+  c0556636|gy (qualifier value)|t081
+areas
+  1
+  c0205146|area (qualifier value)|t082
+flow
+  1
+  c0806140|flow|t032
+authors
+  1
+  c0221192|author (occupation)|t097
+­ days
+  1
+  c0439228|day (qualifier value)|t079
+neck region
+  1
+  c0920882|region of neck (body structure)|t029
+procedure
+  1
+  c0184661|procedures|t058
+weeks
+  1
+  c0439230|week (qualifier value)|t079
+thirty nine
+  1
+  c0205455|nine (qualifier value)|t081
+wash-out
+  1
+  c0392674|exhaustion (finding)|t184
+added efficacy
+  1
+  c0442796|additive (qualifier value)|t080
+enrollment goal
+  1
+  c0018017|goals|t170
+elisa
+  1
+  c0014441|enzyme-linked immunosorbent assay|t059
+combining radiotherapy
+  1
+  c0436241|combined radiotherapy nos (procedure)|t061
+natural history
+  1
+  c0175860|natural history|t090
+treatments
+  1
+  c0087111|therapeutic procedure|t061
+disease characteristics
+  1
+  c0599878|disease characteristic|t046
+cumulative dose
+  1
+  c0178602|dosages (qualifier value)|t081
+ifo 1.8 g
+  1
+  c0162832|apc gene|t028
+lymph node involvement
+  1
+  c0806692|lymph node involvement|t032
+supportive care
+  1
+  c0344211|supportive care|t058
+host
+  1
+  c1167395|host|t032
+to follow-up
+  1
+  c0589120|follow-up status (finding)|t169
+difference
+  1
+  c0443199|differential (qualifier value)|t080
+safety
+  1
+  c0036043|safety|t068
+disease recurrences
+  1
+  c0679254|disease recurrence|t033
+differ debate
+  1
+  c0870392|debates|t052
+step
+  1
+  c1261552|step (qualifier value)|t169
+95% confidence limits
+  1
+  c0237530|confidence limits|t081
+cardiac monitoring
+  1
+  c0150496|cardiac monitoring (regime/therapy)|t060
+adequacy
+  1
+  c0205411|adequate (qualifier value)|t080
+3.0 silk lembert sutures
+  1
+  c0183745|silk suture, device (physical object)|t074
+monoclonal antibody
+  1
+  c0003250|antibodies, monoclonal|t129
+substantial shift
+  1
+  c0333051|shift (morphologic abnormality)|t169
+inclusion
+  1
+  c0332257|including (qualifier value)|t169
+synergy
+  1
+  c0599739|synergism|t044
+clinical examination
+  1
+  c0031809|clinical examination|t058
+follow-up visits
+  1
+  c0589121|follow-up visit (procedure)|t058
+pearson chi-square test
+  1
+  c0008041|chi-square test|t081
+26% patients
+  1
+  c0030705|patients|t101
+abnormal liver function
+  1
+  c0232742|abnormal liver function (finding)|t046
+phase iii clinical trial
+  1
+  c1096780|clinical trial, phase iii [publication type]|t062
+upper third
+  1
+  c0442049|upper third (qualifier value)|t082
+important role
+  1
+  c0035820|role|t054
+lymph node metastases
+  1
+  c0686619|secondary malignant neoplasm of lymph node (disorder)|t191
+equal
+  1
+  c0205163|equal (qualifier value)|t080
+6.2 1 8 months
+  1
+  c0439231|month (qualifier value)|t079
+probabilities
+  1
+  c0033204|probability|t081
+external iliac nodes
+  1
+  c0229815|external iliac lymph node group|t023
+present trial
+  1
+  c0150312|present|t169
+onset
+  1
+  c0332162|onset of (contextual qualifier) (qualifier value)|t080
+estrogen receptor positive
+  1
+  c0279754|estrogen receptor positive|t034
+thrombocytopenia
+  1
+  c0040034|thrombocytopenia|t047
+myocardium
+  1
+  c0027061|myocardium|t024
+46.8 months
+  1
+  c0439231|month (qualifier value)|t079
+gonadal function
+  1
+  c0678878|gonad function|t042
+prospective randomised trial
+  1
+  c0034656|random allocation|t062
+portal
+  1
+  c0205054|hepatic|t029
+locoregional recurrences
+  1
+  c0034897|recurrence|t067
+chemotherapy records
+  1
+  c0552366|chemotherapy records|t201
+pilot study
+  1
+  c0031928|pilot projects|t062
+concomitant use
+  1
+  c0042153|utilization|t081
+lymphography
+  1
+  c0024290|lymphography|t060
+population
+  1
+  c0032659|population|t081
+neurologic adverse effects
+  1
+  c0027852|neurological effects|t039
+preplanned limitation
+  1
+  c0449295|limitation (attribute)|t169
+remainder clear cell
+  1
+  c0229473|cell of claudius (cell)|t025
+cardiac complications
+  1
+  c0161816|cardiac complication of care nos (disorder)|t046
+hyperfractionated rt
+  1
+  c0796569|hyperfractionation|t061
+sections
+  1
+  c1293097|division (procedure)|t061
+radiation dose violations
+  1
+  c0034524|radiation dosage|t081
+minimum
+  1
+  c0439232|minute of time|t079
+chisquare test
+  1
+  c0392366|tests (qualifier value)|t170
+1.5 cm
+  1
+  c0475210|cm (qualifier value)|t081
+groups
+  1
+  c0441833|groups (qualifier value)|t170
+7.4,and 6.8 months
+  1
+  c0439231|month (qualifier value)|t079
+fig
+  1
+  c0349966|figs - dietary|t168
+p value
+  1
+  c0879541|p-value|t081
+side-effects
+  1
+  c0001688|adverse effects|t037
+grade iv
+  1
+  c0547054|grade four rank|t081
+granulocyte count
+  1
+  c0857490|granulocyte count (procedure)|t059
+baseline
+  1
+  c0168634|baseline|t122
+south africa
+  1
+  c0037712|south africa|t083
+then months
+  1
+  c0439231|month (qualifier value)|t079
+biochemical profiles
+  1
+  c0205474|biochemical (qualifier value)|t169
+pilot trial
+  1
+  c0473169|pilot - aircraft (occupation)|t097
+gastric cancer
+  1
+  c0024623|malignant neoplasm of stomach|t191
+therefore patients
+  1
+  c0030705|patients|t101
+g
+  1
+  c0162832|apc gene|t028
+cea
+  1
+  c0007082|carcinoembryonic antigen|t116
+event
+  1
+  c0441471|events (event)|t051
+disappointing
+  1
+  c0870427|disappointment|t041
+fisher
+  1
+  c0325045|martes pennanti (organism)|t015
+full thickness
+  1
+  c0439809|full thickness (qualifier value)|t081
+power
+  1
+  c0032863|power (psychology)|t068
+m intravenously
+  1
+  c0348016|intravenous|t082
+male
+  1
+  c0024554|male gender|t032
+paraaortic radiation
+  1
+  c0851346|radiation|t070
+again trend
+  1
+  c0040833|trends|t079
+comparing patients
+  1
+  c0030705|patients|t101
+potential candidates
+  1
+  c0237399|potential|t080
+safety profile
+  1
+  c0036043|safety|t068
+categorical data
+  1
+  c0683312|categories|t170
+second diagnosis
+  1
+  c0332138|secondary diagnosis|t080
+adjuvant radiotherapy
+  1
+  c0242939|radiotherapy, adjuvant|t061
+majority
+  1
+  c0680220|majority|t054
+toxic effects
+  1
+  c0600688|toxic effect|t037
+distinct hama response
+  1
+  c0871261|responses|t054
+univariate analyses
+  1
+  c0683962|univariate analysis|t062
+paraaortic lymph nodes
+  1
+  c0229789|aortic lymph node (body structure)|t023
+deep invasion
+  1
+  c0205125|depth (qualifier value)|t082
+selection bias
+  1
+  c0036577|selection bias|t081
+perineal pain
+  1
+  c0240717|perineal pain (finding)|t184
+figs
+  1
+  c0349966|figs - dietary|t168
+difficulties
+  1
+  c1299586|has difficulty doing (qualifier value)|t033
+pathological findings
+  1
+  c1317598|pathologic findings|t033
+ii trial
+  1
+  c0439069|roman numeral ii|t170
+fluorouracil
+  1
+  c0016360|fluorouracil|t114
+negative pretreatment
+  1
+  c0205160|negative (qualifier value)|t080
+neoplastic cells
+  1
+  c0597032|neoplastic cell|t025
+hours
+  1
+  c0439227|hour|t079
+leukocyte count
+  1
+  c0023508|white blood cell count procedure|t059
+adverse effect
+  1
+  c0879626|adverse effect|t037
+biochemistries
+  1
+  c0005477|biochemistry|t090
+radical hysterectomy
+  1
+  c0677962|total hysterectomy (procedure)|t061
+pain control
+  1
+  c1304888|pain control (procedure)|t061
+prospective study
+  1
+  c0033522|prospective studies|t081
+external beam
+  1
+  c0205101|external (qualifier value)|t082
+angiosarcoma
+  1
+  c0018923|hemangiosarcoma|t191
+international federation
+  1
+  c1138414|internationality|t078
+further infection
+  1
+  c0021311|infection|t047
+intravenous pyelography
+  1
+  c0203108|intravenous pyelogram|t060
+leukopenia
+  1
+  c0023530|leukopenia|t047
+pelvic wall
+  1
+  c0230284|pelvic wall structure (body structure)|t023
+factorial design
+  1
+  c0681865|factorial design|t062
+dextrose
+  1
+  c0017725|glucose|t123
+lesion
+  1
+  c0221198|lesion|t033
+questions
+  1
+  c0750481|questionable|t078
+agents
+  1
+  c0450442|agent (attribute)|t120
+imprecise method
+  1
+  c0025663|methods|t170
+chemotherapeutic regimens
+  1
+  c0392920|chemotherapy-oncologic procedure|t061
+regional lymph node metastases
+  1
+  c0332397|pn1 category (finding)|t185
+total doses
+  1
+  c0172161|tyramine-deoxysorbitol|t109
+81/4 months
+  1
+  c0439231|month (qualifier value)|t079
+6.5 cm
+  1
+  c0475210|cm (qualifier value)|t081
+hepatic function
+  1
+  c0232741|liver function (observable entity)|t042
+only first
+  1
+  c0205435|first (qualifier value)|t081
+duration
+  1
+  c0449238|duration|t079
+and mesna
+  1
+  c0000294|mesna|t109
+iia cervical cancer
+  1
+  c0007847|malignant neoplasm of cervix uteri|t191
+surgical procedure
+  1
+  c0543467|general operative procedures|t061
+gynaecologist
+  1
+  c0237419|gynecologist (occupation)|t097
+pathologic factors
+  1
+  c0205469|pathological aspects|t169
+cmf
+  1
+  c0950521|cmf|t061
+end points
+  1
+  c0150100|endpoint|t062
+radiation oncology
+  1
+  c0243005|radiation oncology|t091
+ascending
+  1
+  c0205385|ascending (qualifier value)|t080
+physicians
+  1
+  c0031831|physicians|t097
+continuous data
+  1
+  c0549178|continuous (qualifier value)|t079
+isocentric technique
+  1
+  c0449851|techniques|t170
+3.5 percent
+  1
+  c0439165|percent (qualifier value)|t081
+localisation
+  1
+  c0475264|localization - action (qualifier value)|t169
+confidence limits
+  1
+  c0237530|confidence limits|t081
+intention to
+  1
+  c0162425|intention|t041
+radiation oncologist
+  1
+  c0278603|radiation oncologist|t097
+recurrences
+  1
+  c0034897|recurrence|t067
+significance
+  1
+  c0750502|significant (qualifier value)|t078
+gpt
+  1
+  c0001899|alanine transaminase|t116
+amputation
+  1
+  c0002688|amputation|t061
+histological evidence
+  1
+  c0205462|histologic|t169
+10.30 patients
+  1
+  c0030705|patients|t101
+pump
+  1
+  c0182537|pump, device (physical object)|t074
+small bowel
+  1
+  c0021852|intestines, small|t023
+gastrointestinal bleeding
+  1
+  c0017181|gastrointestinal hemorrhage|t033
+cumulative doses
+  1
+  c0719635|dos|t109
+success
+  1
+  c0597535|success|t054
+cancer progression
+  1
+  c0178874|neoplasm progression|t191
+adjuvant chemotherapy
+  1
+  c0085533|chemotherapy, adjuvant|t061
+platelets
+  1
+  c0005821|blood platelets|t025
+metoclopramide
+  1
+  c0025853|metoclopramide|t109
+then effect
+  1
+  c1280500|effect (qualifier value)|t080
+cyclophosphamide
+  1
+  c0010583|cyclophosphamide|t115
+filgrastim
+  1
+  c0210630|filgrastim|t116
+modifications
+  1
+  c0205349|altered (qualifier value)|t169
+m2 patients
+  1
+  c0030705|patients|t101
+multivariate analyses
+  1
+  c0026777|multivariate analysis|t081
+unfavorable effects
+  1
+  c1280500|effect (qualifier value)|t080
+indeterminate
+  1
+  c0205258|indeterminate|t078
+a1
+  1
+  c0933653|trunk of apical segmental artery|t023
+fibrosis
+  1
+  c0016059|fibrosis|t046
+dose response curve
+  1
+  c0683162|dose-response curve|t081
+erroneous staging
+  1
+  c0332305|with staging (attribute)|t169
+requiring medication
+  1
+  c0013227|pharmaceutical preparations|t121
+p values to
+  1
+  c0879541|p-value|t081
+roche
+  1
+  c0331965|roche|t093
+ci
+  1
+  c0162854|commonwealth of independent states|t083
+previous trials
+  1
+  c0205156|previous (qualifier value)|t082
+recovery
+  1
+  c0237820|recovery from disease|t040
+only small subgroup
+  1
+  c0700321|small|t080
+haemorrhage
+  1
+  c0019080|hemorrhage|t046
+crude estimate
+  1
+  c0750572|estimated|t078
+chest x-ray
+  1
+  c0202783|radiographic procedure on chest (procedure)|t060
+radiodermatitis
+  1
+  c0034561|radiodermatitis|t037
+bias
+  1
+  c0242568|biases|t078
+bilateral hydronephrosis
+  1
+  c0521622|bilateral hydronephrosis (disorder)|t047
+intensive radiation
+  1
+  c0851346|radiation|t070
+confirming evidence
+  1
+  c0750484|confirmed|t078
+infection
+  1
+  c0021311|infection|t047
+infusion
+  1
+  c0574032|infusion (procedure)|t061
+prediction
+  1
+  c0681842|prediction|t170
+cut
+  1
+  c0000925|incised wound - morphology (morphologic abnormality)|t037
+calibration
+  1
+  c0006751|calibration|t081
+further month
+  1
+  c0439231|month (qualifier value)|t079
+chambers
+  1
+  c0179874|chambers|t074
+estimation
+  1
+  c0680844|estimation|t041
+preliminary data
+  1
+  c0439611|preliminary (qualifier value)|t079
+france
+  1
+  c0016674|france|t083
+chest x ray
+  1
+  c0202783|radiographic procedure on chest (procedure)|t060
+potassium chloride
+  1
+  c0032825|potassium chloride|t197
+m treatment group
+  1
+  c0036669|sensitivity training groups|t065
+slides
+  1
+  c0444330|slide (specimen)|t075
+nonhematologic toxicities
+  1
+  c0600688|toxic effect|t037
+type i error
+  1
+  c0871555|type i errors|t033
+residual disease
+  1
+  c0543478|residual tumor|t191
+upper quarter
+  1
+  c0547042|upper (qualifier value)|t082
+risks
+  1
+  c0035647|risk|t080
+statistical significance
+  1
+  c0237881|statistical significance|t081
+partial response
+  1
+  c0677924|partial response|t080
+paraortic region
+  1
+  c0205147|regional (qualifier value)|t082
+80% power to
+  1
+  c0032863|power (psychology)|t068
+postoperative complications
+  1
+  c0032787|postoperative complications|t046
+missing chart
+  1
+  c0684240|chart|t170
+logrank test
+  1
+  c0392366|tests (qualifier value)|t170
+carcinoembryonic antigen
+  1
+  c0007082|carcinoembryonic antigen|t116
+italy
+  1
+  c0022277|italy|t083
+peripheral blood
+  1
+  c0229664|peripheral blood (substance)|t031
+participants
+  1
+  c0679646|participant|t098
+radiation trials
+  1
+  c0851346|radiation|t070
+complete responses
+  1
+  c0008574|chromium|t123
+stroke
+  1
+  c0038454|cerebrovascular accident|t047
+lymph node biopsy to
+  1
+  c0193842|biopsy of lymph node (procedure)|t060
+recognition
+  1
+  c0524637|recognition (psychology)|t041
+overt liver metastases
+  1
+  c0494165|secondary malignant neoplasm of liver (disorder)|t191
+diarrhoea
+  1
+  c0011991|diarrhea|t184
+quality
+  1
+  c0332306|with quality (attribute)|t080
+controlled comparison
+  1
+  c0702113|controlled (qualifier value)|t169
+potential
+  1
+  c0237399|potential|t080
+ecog
+  1
+  c0430797|electrocorticogram (procedure)|t060
+predetermined schedule
+  1
+  c0086960|schedules|t170
+prospective randomized controlled trial
+  1
+  c0282440|randomized controlled trials|t170
+applicator flange
+  1
+  c0179108|applicator (physical object)|t074
+surgeons
+  1
+  c0582175|surgeon (occupation)|t097
+9.0 weeks
+  1
+  c0439230|week (qualifier value)|t079
+side effects
+  1
+  c0001688|adverse effects|t037
+reports
+  1
+  c0684224|report (document)|t170
+particularly tamoxifen
+  1
+  c0039286|tamoxifen|t109
+pathological assessment
+  1
+  c1294089|pathologist evaluation (procedure)|t060
+saw
+  1
+  c0183089|saws|t074
+present
+  1
+  c0150312|present|t169
+s3
+  1
+  c1179706|s3|t029
+only technique
+  1
+  c0449851|techniques|t170
+choice
+  1
+  c0008300|choice behavior|t055
+tumor sizes
+  1
+  c0475440|tumor size (observable entity)|t082
+radiation effect
+  1
+  c0034525|effects of radiation|t067
+israel
+  1
+  c0022271|israel|t083
+worsening
+  1
+  c0332271|worsening (qualifier value)|t080
+tumour burden
+  1
+  c0027651|neoplasms|t191
+immune suppression
+  1
+  c0021079|therapeutic immunosuppression|t061
+surgeon
+  1
+  c0582175|surgeon (occupation)|t097
+5-fu doses
+  1
+  c0366485|fluorouracil:mass:point in time:dose med or substance:quantitative|t201
+4.9 percent
+  1
+  c0439165|percent (qualifier value)|t081
+likelihood
+  1
+  c0750504|likely|t078
+major contributor
+  1
+  c0205164|major (qualifier value)|t080
+hypercoagulability
+  1
+  c0398623|thrombophilia|t047
+patient refusal
+  1
+  c0030705|patients|t101
+cells
+  1
+  c0007634|cells|t025
+intracavitary brachytherapy
+  1
+  c0021864|radiotherapy, intracavity|t061
+none
+  1
+  c0549184|none (qualifier value)|t081
+synovial sarcoma
+  1
+  c0039101|sarcoma, synovial|t191
+cervical carcinoma
+  1
+  c0302592|carcinoma of cervix (disorder)|t191
+pyelogram
+  1
+  c0203108|intravenous pyelogram|t060
+min
+  1
+  c0439232|minute of time|t079
+biopsy only
+  1
+  c0439796|biopsy only (qualifier value)|t169
+chest radiography
+  1
+  c0202783|radiographic procedure on chest (procedure)|t060
+dacarbazine
+  1
+  c0010927|dacarbazine|t109
+performance
+  1
+  c0597198|performance|t055
+abdominopelvic computerized tomography
+  1
+  c0040405|x-ray computed tomography|t060
+extensiveness
+  1
+  c0439795|extensiveness (qualifier value)|t080
+laboratory data
+  1
+  c0745590|lab data|t077
+obstetricians
+  1
+  c0334897|obstetrician (occupation)|t097
+laspartic acid
+  1
+  c0001128|acids|t103
+locoregional disease
+  1
+  c0012634|disease|t047
+fraction
+  1
+  c0457426|fractions of (qualifier value)|t081
+question
+  1
+  c0750481|questionable|t078
+leukocyte nadirs
+  1
+  c0023516|leukocytes|t025
+hysterectomy
+  1
+  c0020699|hysterectomy|t061
+repetition
+  1
+  c0205341|repeat (qualifier value)|t169
+others
+  1
+  c0205394|other|t080
+liver scan
+  1
+  c0203758|radioisotope study of liver (procedure)|t060
+gram-negative septicaemia
+  1
+  c0036685|gram-negative septicemia nos (disorder)|t047
+lateral boundaries
+  1
+  c0205093|lateral (qualifier value)|t082
+size
+  1
+  c0702146|size (attribute)|t081
+lower third
+  1
+  c0442051|lower third (qualifier value)|t082
+magnetic resonance imaging
+  1
+  c0024485|magnetic resonance imaging|t060
+coworkers
+  1
+  c0681088|coworker|t098
+liver failure
+  1
+  c0085605|liver failure|t047
+lymphangiography
+  1
+  c0024219|lymphangiography|t060
+only cases
+  1
+  c0868928|case (qualifier value)|t169
+endocrine therapy
+  1
+  c0279025|endocrine therapy (procedure)|t061
+need
+  1
+  c0027552|needs|t080
+weekend break
+  1
+  c0680190|weekend|t079
+surveys
+  1
+  c0038951|surveys|t062
+steroids
+  1
+  c0038317|steroids|t110
+shortness
+  1
+  c0205167|short (qualifier value)|t079
+two packets
+  1
+  c0205448|two (qualifier value)|t081
+intravenous pyelogram
+  1
+  c0203108|intravenous pyelogram|t060
+wilcoxon statistical test
+  1
+  c0237913|statistical tests|t170
+myelosuppression
+  1
+  c0854467|myelosuppression (finding)|t047
+shortening
+  1
+  c0441636|surgical shortening - action (qualifier value)|t061
+monk
+  1
+  c0682252|monk|t097
+disease
+  1
+  c0012634|disease|t047
+u
+  1
+  c0041928|uranium|t196
+inevaluable patient
+  1
+  c0030705|patients|t101
+combined evidence
+  1
+  c0205195|combined (qualifier value)|t080
+rapid repopulation
+  1
+  c0439831|rapid (qualifier value)|t080
+colorectal cancer
+  1
+  c0009402|colorectal cancer|t191
+films
+  1
+  c0086296|films|t073
+consecutive episodes
+  1
+  c0678231|episodes (qualifier value)|t079
+laboratory abnormalities
+  1
+  c0745587|lab abnormality|t033
+criteria
+  1
+  c0243161|criteria|t170
+diameter
+  1
+  c0332517|diameter (qualifier value)|t032
+present article
+  1
+  c0150312|present|t169
+bulky tumors
+  1
+  c0027651|neoplasms|t191
+princess margaret hospital
+  1
+  c0019994|hospitals|t093
+survival rates
+  1
+  c0038954|survival rate|t081
+rt days
+  1
+  c0439228|day (qualifier value)|t079
+lower frequency
+  1
+  c0205213|low frequency (qualifier value)|t079
+4.6 months
+  1
+  c0439231|month (qualifier value)|t079
+cardiac function
+  1
+  c0232164|cardiac function (observable entity)|t042
+8.9 weeks
+  1
+  c0439230|week (qualifier value)|t079
+modification
+  1
+  c0205349|altered (qualifier value)|t169
+clinical stage
+  1
+  c0205563|clinical staging (qualifier value)|t079
+part
+  1
+  c0449719|part (attribute)|t082
+radiation remains
+  1
+  c0851346|radiation|t070
+primary site
+  1
+  c0449695|site of primary lesion (attribute)|t082
+17-1a antigen
+  1
+  c0003320|antigens|t129
+m increments course
+  1
+  c0449922|course (attribute)|t079
+prolongation
+  1
+  c0439590|prolonged (qualifier value)|t079
+involvement
+  1
+  c0392760|not free of (attribute)|t169
+formation
+  1
+  c0439634|formations (qualifier value)|t082
+doxorubicin
+  1
+  c0013089|doxorubicin|t195
+dibromodulcitol
+  1
+  c0026252|mitolactol|t118
+positive
+  1
+  c0205159|positive (qualifier value)|t080
+sensitize tumor cells
+  1
+  c0431085|[m]unspecified tumor cell nos (morphologic abnormality)|t191
+medical
+  1
+  c0205476|medical (qualifier value)|t169
+wk
+  1
+  c0439230|week (qualifier value)|t079
+c m
+  1
+  c0007886|cesium|t196
+cervical tumours
+  1
+  c0027533|neck neoplasms|t191
+sutures
+  1
+  c0038969|surgical sutures|t074
+time
+  1
+  c0040223|time|t079
+mo
+  1
+  c0026402|molybdenum|t123
+results
+  1
+  c1274040|result (navigational concept)|t169
+higher frequency
+  1
+  c0205212|high frequency (qualifier value)|t079
+location
+  1
+  c0450429|location (attribute)|t082
+general health
+  1
+  c0552464|general health|t032
+cox proportional hazards model
+  1
+  c0010235|cox proportional hazards models|t170
+risk ratio
+  1
+  c0028873|odds ratio|t081
+admission
+  1
+  c0809949|admission|t058
+result
+  1
+  c1274040|result (navigational concept)|t169
+accounts
+  1
+  c0000937|accountant nos (occupation)|t097
+tumour progression
+  1
+  c0178874|neoplasm progression|t191
+dose limitation
+  1
+  c0935905|dose-limiting|t037
+arms
+  1
+  c0003792|arm|t029
+age
+  1
+  c0001779|age (qualifier value)|t079
+obstruction
+  1
+  c0028778|obstruction|t046
+hydration
+  1
+  c0517526|hydration|t033
+effect
+  1
+  c1280500|effect (qualifier value)|t080
+ultimate test
+  1
+  c0392366|tests (qualifier value)|t170
+activation
+  1
+  c0879526|activate|t169
+clinical characteristics
+  1
+  c0683325|clinical aspects|t201
+introduction
+  1
+  c1293116|introduction (procedure)|t058
+schedule
+  1
+  c0086960|schedules|t170
+third
+  1
+  c0205437|third (qualifier value)|t081
+bleomycin
+  1
+  c0005740|bleomycin|t116
+recurrent disease
+  1
+  c0277556|recurrent disease (finding)|t047
+folic acid
+  1
+  c0016410|folic acid|t109
+mean survival time
+  1
+  c0086595|mean survival time|t081
+percutaneous nephrostomies
+  1
+  c0027724|nephrostomy, percutaneous|t061
+mechanisms
+  1
+  c0441712|mechanisms (qualifier value)|t067
+only patients
+  1
+  c0030705|patients|t101
+patient selection
+  1
+  c0242802|patient selection|t058
+results also
+  1
+  c1274040|result (navigational concept)|t169
+mitolactol
+  1
+  c0026252|mitolactol|t118
+antibody
+  1
+  c0003241|antibodies|t116
+strategies to
+  1
+  c0679199|strategy|t041
+patient safety
+  1
+  c1113679|patient safety|t061
+goal
+  1
+  c0018017|goals|t170
+dose
+  1
+  c0178602|dosages (qualifier value)|t081
+allowance
+  1
+  c0556660|allowance (administrative concept)|t081
+5-fu dose to
+  1
+  c0366485|fluorouracil:mass:point in time:dose med or substance:quantitative|t201
+distinct antitumor effect
+  1
+  c1280500|effect (qualifier value)|t080
+not only marker
+  1
+  c0005516|biological markers|t080
+3.8 months
+  1
+  c0439231|month (qualifier value)|t079
+year
+  1
+  c0439234|year (qualifier value)|t079
+forty nine
+  1
+  c0205455|nine (qualifier value)|t081
+the netherlands
+  1
+  c0027778|netherlands|t083
+fulminant septicemia
+  1
+  c0036690|septicemia|t047
+figo state
+  1
+  c1301808|state (environment)|t083
+glimelius reported evidence
+  1
+  c0700287|reporting|t058
+focus
+  1
+  c0205234|focal (qualifier value)|t082
+likely consequence
+  1
+  c0750504|likely|t078
+scarring
+  1
+  c0036287|scarring|t042
+recurrence
+  1
+  c0034897|recurrence|t067
+fistula
+  1
+  c0016169|fistula|t190
+performance status 0.2
+  1
+  c0935728|performance status|t033
+decrease
+  1
+  c0547047|decrease (qualifier value)|t081
+locoregional radiation
+  1
+  c0851346|radiation|t070
+al
+  1
+  c0002367|aluminum|t196
+1 2 wk to
+  1
+  c0439230|week (qualifier value)|t079
+fractions
+  1
+  c0457426|fractions of (qualifier value)|t081
+meta-analysis
+  1
+  c0920317|meta-analysis|t170
+high-risk group
+  1
+  c0684030|high-risk group|t098
+1.2 years
+  1
+  c0439234|year (qualifier value)|t079
+computed tomography
+  1
+  c0040405|x-ray computed tomography|t060
+performance status less
+  1
+  c0935728|performance status|t033
+tissue damage
+  1
+  c0010957|damage (morphologic abnormality)|t169
+nonprescribed doses
+  1
+  c0719635|dos|t109
+responses
+  1
+  c0871261|responses|t054
+stratification
+  1
+  c0205363|stratified (qualifier value)|t080
+left ventricular function
+  1
+  c0080310|ventricular function, left|t042
+percent
+  1
+  c0439165|percent (qualifier value)|t081
+nausea
+  1
+  c0027497|nausea|t033
+mev
+  1
+  c0556642|mev (qualifier value)|t081
+concomitant medications
+  1
+  c0013227|pharmaceutical preparations|t121
+alanine aminotransferase
+  1
+  c0001899|alanine transaminase|t116
+locoregional control
+  1
+  c0243148|control|t169
+survival analysis
+  1
+  c0038953|survival analysis|t081
+progression free survival
+  1
+  c0242792|progression-free survival|t081
+sufficiently
+  1
+  c0205410|sufficient (qualifier value)|t080
+bun 8.9 mmol
+  1
+  c0439190|mmol (qualifier value)|t081
+progress
+  1
+  c0205329|progressive (qualifier value)|t169
+residual tumor
+  1
+  c0543478|residual tumor|t191
+beneficial effect
+  1
+  c1280500|effect (qualifier value)|t080
+about percent
+  1
+  c0439165|percent (qualifier value)|t081
+view
+  1
+  c0449911|view (attribute)|t032
+in vitro data
+  1
+  c0021135|in vitro|t080
+er
+  1
+  c0279756|estrogen receptor negative|t034
+planning
+  1
+  c0032074|cognitive function: planning (observable entity)|t041
+semustine
+  1
+  c0036637|semustine|t109
+medical history taking
+  1
+  c0025084|medical history taking|t060
+estrogen receptor
+  1
+  c0034804|estrogen receptors|t116
+strategy
+  1
+  c0679199|strategy|t041
+comparative rfs
+  1
+  c0748398|rf|t033
+comparable rfs
+  1
+  c0748398|rf|t033
+radioisotopes
+  1
+  c0034595|radioisotopes|t196
+univariate cox model
+  1
+  c0010234|cox models|t170
+beneficial impact
+  1
+  c0726639|impact|t168
+good candidates
+  1
+  c0205170|good (qualifier value)|t080
+other chemotherapeutic regiments
+  1
+  c0478584|[x]other chemotherapy (context-dependent category)|t061
+7.1 months
+  1
+  c0439231|month (qualifier value)|t079
+second
+  1
+  c0205436|second (qualifier value)|t081
+continuing
+  1
+  c0750536|continued|t078
+eligible patients
+  1
+  c0030705|patients|t101
+case
+  1
+  c0868928|case (qualifier value)|t169
+iia disease
+  1
+  c0012634|disease|t047
+kidney function
+  1
+  c0232804|renal function, nos|t042
+yr
+  1
+  c0439234|year (qualifier value)|t079
+now sufficient evidence to
+  1
+  c0205410|sufficient (qualifier value)|t080
+liquid diet
+  1
+  c0301571|liquid diet (finding)|t033
+abscess
+  1
+  c0000833|abscess|t046
+tumor characteristics
+  1
+  c0027651|neoplasms|t191
+patient also
+  1
+  c0030705|patients|t101
+topoisomerase i inhibitor
+  1
+  c0598317|topoisomerase inhibitor (substance)|t121
+eligible patient
+  1
+  c0030705|patients|t101
+local therapy
+  1
+  c0677903|local therapy|t061
+cervical cancer
+  1
+  c0007847|malignant neoplasm of cervix uteri|t191
+start
+  1
+  c0452588|start (substance)|t168
+20% protraction
+  1
+  c0491912|protractor|t074
+response
+  1
+  c0871261|responses|t054
+ribonucleotide reductase
+  1
+  c0035547|ribonucleotide reductase|t116
+variables
+  1
+  c0439828|variable (qualifier value)|t080
+curative operations
+  1
+  c0038895|surgical aspects|t169
+15% difference
+  1
+  c0443199|differential (qualifier value)|t080
+deaths
+  1
+  c0011065|cessation of life|t040
+bone scan
+  1
+  c0203668|radioisotope scan of bone (procedure)|t060
+stable lvef
+  1
+  c0205360|stable (qualifier value)|t080
+lymph node metastasis
+  1
+  c0686619|secondary malignant neoplasm of lymph node (disorder)|t191
+topoisomerase i
+  1
+  c0012920|dna topoisomerase|t116
+required modifications
+  1
+  c0205349|altered (qualifier value)|t169
+radiation sensitization
+  1
+  c0034541|radiation-sensitizing agents|t121
+classes
+  1
+  c0441884|classes (qualifier value)|t170
+poor prognostic factors
+  1
+  c0278252|prognosis bad (finding)|t033
+c
+  1
+  c0007886|cesium|t196
+pretreatment gynecologic examination
+  1
+  c0200044|gynecological examination|t060
+cancellation
+  1
+  c0205544|cancelled (qualifier value)|t080
+risk factor
+  1
+  c0035648|risk factors|t081
+endpoints
+  1
+  c0150100|endpoint|t062
+drugs
+  1
+  c0013227|pharmaceutical preparations|t121
+6% increase
+  1
+  c0442805|increase (qualifier value)|t169
+colorectal carcinoma
+  1
+  c0009403|colorectal carcinoma|t191
+life table estimates
+  1
+  c0023680|life table estimates|t170
+highest dose intensity ever
+  1
+  c0444956|high dose (qualifier value)|t081
+paraortic nodes
+  1
+  c0746922|node|t023
+south america
+  1
+  c0037713|south america|t083
+pathologists
+  1
+  c0334866|medical pathologist (occupation)|t097
+original hypothesis
+  1
+  c0205313|original (qualifier value)|t078
+adriamycin
+  1
+  c0085752|adriamycin|t195
+further gy
+  1
+  c0556636|gy (qualifier value)|t081
+informed consents
+  1
+  c0021430|informed consent|t058
+exclusion
+  1
+  c0680251|exclusion|t169
+own findings
+  1
+  c0243095|findings|t169
+10 12 months
+  1
+  c0439231|month (qualifier value)|t079
+25% increase
+  1
+  c0442805|increase (qualifier value)|t169
+drug administration
+  1
+  c0150270|procedure related to management of drug administration (procedure)|t061
+retrospective study
+  1
+  c0035363|retrospective studies|t081
+symptoms
+  1
+  c0683368|symptoms|t169
+56.2 years
+  1
+  c0439234|year (qualifier value)|t079
+patient’s health
+  1
+  c0018684|health|t078
+stable disease
+  1
+  c0677946|stable disease|t191
+hydroureteronephrosis
+  1
+  c0268804|hydroureteronephrosis (disorder)|t047
+patients selection
+  1
+  c0242802|patient selection|t058
+first evidence
+  1
+  c0205435|first (qualifier value)|t081
+valid statistical analyses
+  1
+  c0871424|statistical analysis|t062
+interim testing
+  1
+  c0039593|testing|t062
+rfs
+  1
+  c0748398|rf|t033
+al also
+  1
+  c0002367|aluminum|t196
+events
+  1
+  c0441471|events (event)|t051
+pain
+  1
+  c0030193|pain|t184
+omentum
+  1
+  c0028977|omentum|t023
+combined sometimes
+  1
+  c0205195|combined (qualifier value)|t080
+intensified adjuvant chemotherapy
+  1
+  c0085533|chemotherapy, adjuvant|t061
+chest x-rays
+  1
+  c0202783|radiographic procedure on chest (procedure)|t060
+pilot
+  1
+  c0473169|pilot - aircraft (occupation)|t097
+high dose
+  1
+  c0444956|high dose (qualifier value)|t081
+weight loss
+  1
+  c0043096|weight loss|t184
+cumulative cardiotoxicity data
+  1
+  c0876994|cardiotoxicity|t047
+two
+  1
+  c0205448|two (qualifier value)|t081
+pn
+  1
+  c0206417|peripheral nervous system|t022
+question soon
+  1
+  c0876928|questioning|t041
+recurrent cervical cancer
+  1
+  c0278579|cervix carcinoma recurrent|t191
+ct rt
+  1
+  c0040405|x-ray computed tomography|t060
+prognostic factors
+  1
+  c0220901|prognostic|t170
+paraaortic areas
+  1
+  c0205146|area (qualifier value)|t082
+asthenia
+  1
+  c0004093|asthenia|t184
+years
+  1
+  c0439234|year (qualifier value)|t079
+control groups
+  1
+  c0009932|control groups|t096
+tumor cells
+  1
+  c0431085|[m]unspecified tumor cell nos (morphologic abnormality)|t191
+ast
+  1
+  c0004002|aspartate transaminase|t116
+broad spectrum
+  1
+  c0332464|widened structure (morphologic abnormality)|t082
+creatinine
+  1
+  c0010294|creatinine|t123
+follow-up visit
+  1
+  c0589121|follow-up visit (procedure)|t058
+pelvic control
+  1
+  c0561970|ability to control pelvic posture (observable entity)|t033
+nutritional status to
+  1
+  c0392209|nutritional status|t032
+literature
+  1
+  c0023866|literature|t170
+adjuvant trials
+  1
+  c0278788|adjuvant study|t062
+obesity
+  1
+  c0028754|obesity|t047
+progressive disease
+  1
+  c0677932|progressive disease|t191
+renal function tests
+  1
+  c0022662|kidney function tests|t059
+daily
+  1
+  c0332173|daily (qualifier value)|t079
+greece
+  1
+  c0018226|greece|t083
+chest radiogram
+  1
+  c0202783|radiographic procedure on chest (procedure)|t060
+investigating
+  1
+  c1292732|investigates (attribute)|t169
+haemoglobin
+  1
+  c0019046|hemoglobin|t116
+follow-up
+  1
+  c0589120|follow-up status (finding)|t169
+63,and years
+  1
+  c0439234|year (qualifier value)|t079
+angina pectoris
+  1
+  c0002962|angina pectoris|t047
+25% planned level
+  1
+  c0441890|planned level (qualifier value)|t080
+serum creatinine levels
+  1
+  c0600061|serum creatinine level|t034
+quality control
+  1
+  c0034378|quality control|t057
+combined treatment
+  1
+  c0009429|combined modality therapy|t061
+quantitative data
+  1
+  c0392762|quantitative (qualifier value)|t081
+radiosensitization
+  1
+  c0279024|radiosensitization|t061
+new york
+  1
+  c0027976|new york|t083
+liver metastases
+  1
+  c0494165|secondary malignant neoplasm of liver (disorder)|t191
+month to
+  1
+  c0439231|month (qualifier value)|t079
+necropsy
+  1
+  c0004398|autopsy|t060
+relapses
+  1
+  c0035020|relapse|t067
+urinalysis
+  1
+  c0042014|urinalysis|t059
+first mention
+  1
+  c0205435|first (qualifier value)|t081
+also regimen
+  1
+  c0677937|regimen|t061
+tumoricidal effects
+  1
+  c1280500|effect (qualifier value)|t080
+plt
+  1
+  c0201617|primed lymphocyte test (procedure)|t059
+sd
+  1
+  c0332147|suspected diagnosis (contextual qualifier) (qualifier value)|t080
+4 cm
+  1
+  c0475210|cm (qualifier value)|t081
+fatigue
+  1
+  c0015672|fatigue|t184
+advantage
+  1
+  c0308269|advantage|t131
+institutions
+  1
+  c1272753|institution (social concept)|t078
+hydroxyurea
+  1
+  c0020402|hydroxyurea|t109
+stress incontinence
+  1
+  c0042025|urinary incontinence, stress|t047
+progress reports
+  1
+  c0242586|progress report|t170
+biochemical tests
+  1
+  c0430027|biochemical test (procedure)|t059
+fluctuating
+  1
+  c0231241|fluctuating (qualifier value)|t079
+entire rectum
+  1
+  c1278926|entire rectum|t023
+60.0 gy
+  1
+  c0556636|gy (qualifier value)|t081
+constant decrease
+  1
+  c0547047|decrease (qualifier value)|t081
+maximum tolerated dose
+  1
+  c0752079|maximum tolerated dose|t081
+lethargy
+  1
+  c0023380|lethargy|t033
+cbc
+  1
+  c0009555|blood count, complete|t059
+to better outcomes
+  1
+  c0332272|better (qualifier value)|t080
+patient then
+  1
+  c0030705|patients|t101
+cardiorespiratory arrest
+  1
+  c0600228|cardiopulmonary arrest|t046
+90% power to
+  1
+  c0032863|power (psychology)|t068
+mechanism
+  1
+  c0457274|mechanism (attribute)|t169
+eaceful end
+  1
+  c0444930|end (qualifier value)|t082
+cancers
+  1
+  c0006826|malignant neoplasms|t191
+interest
+  1
+  c0543488|interested (finding)|t041
+cytotoxicity
+  1
+  c0596402|cytotoxicity|t049
+å 0.05 level
+  1
+  c0456079|disease classification level|t185
+drug injections
+  1
+  c0556025|injecting drug user (finding)|t033
+chi square
+  1
+  c0205120|square (qualifier value)|t082
+throughout follow-up
+  1
+  c0589120|follow-up status (finding)|t169
+cmf regimen
+  1
+  c0055982|cmf regimen|t061
+therapeutic index
+  1
+  c0678793|therapeutic index|t081
+formula
+  1
+  c0489829|mathematical formula|t170
+judicious selection
+  1
+  c0036576|selection (genetics)|t045
+only prospective randomized clinical trials yet
+  1
+  c0206034|clinical trials, randomized|t170
+combined rt
+  1
+  c0205195|combined (qualifier value)|t080
+heart rate
+  1
+  c0018810|heart rate|t032
+further therapy group
+  1
+  c0033971|psychotherapy, group|t061
+­ years
+  1
+  c0439234|year (qualifier value)|t079
+metastatic tumor
+  1
+  c0027627|neoplasm metastasis|t191
+drawbacks still
+  1
+  c0424228|stillness (finding)|t033
+months thereafter
+  1
+  c0439231|month (qualifier value)|t079
+‘‘toxicity’’ independence
+  1
+  c0085862|independence|t078
+1.8 g
+  1
+  c0162832|apc gene|t028
+vinblastine
+  1
+  c0042670|vinblastine|t123
+doses less
+  1
+  c0719635|dos|t109
+pelvic radiation concomitantly
+  1
+  c0747411|pelvis radiation|t061
+substantial protection
+  1
+  c0084201|protect|t109
+period
+  1
+  c0332182|periodic (qualifier value)|t079
+category
+  1
+  c0683312|categories|t170
+approach
+  1
+  c0449445|approach (attribute)|t082
+kaplan–meier method
+  1
+  c0025663|methods|t170
+cm
+  1
+  c0475210|cm (qualifier value)|t081
+status
+  1
+  c0449438|status (attribute)|t080
+periaortic lymph node sampling
+  1
+  c0398417|sampling of lymph nodes nos (procedure)|t060
+chi-square test
+  1
+  c0008041|chi-square test|t081
+perineal breakdown
+  1
+  c0031066|anogenital region|t029
+drug dosages
+  1
+  c0870450|drug dosages|t081
+tumor dose
+  1
+  c0172161|tyramine-deoxysorbitol|t109
+skin hyperpigmentation
+  1
+  c0162834|hyperpigmentation|t046
+neoplastic recurrence
+  1
+  c0521158|recurrent tumor (finding)|t191
+normal limits
+  1
+  c0442816|normal limits (qualifier value)|t081
+tumour size
+  1
+  c0475440|tumor size (observable entity)|t082
+gastrointestinal function
+  1
+  c0516983|gastrointestinal function|t042
+relative risks
+  1
+  c0242492|relative risk|t080
+theoretical disadvantages
+  1
+  c0012613|disadvantaged|t098
+para-aortic lymph nodes
+  1
+  c0229789|aortic lymph node (body structure)|t023
+loperamide
+  1
+  c0023992|loperamide|t109
+complementary data
+  1
+  c0009498|complement|t116
+theoretical explanations
+  1
+  c0681841|explanation|t062
+cohort
+  1
+  c0599755|cohort|t098
+then mo
+  1
+  c0026402|molybdenum|t123
+after treatment
+  1
+  c0001758|aftercare|t058
+non-opioids
+  1
+  c0242402|opioids|t131
+entry criteria
+  1
+  c0243161|criteria|t170
+bicycle exercise
+  1
+  c0392218|exercisers, bicycle|t074
+further progression
+  1
+  c0449258|progression (attribute)|t169
+large tumors
+  1
+  c0475278|large tumor (finding)|t080
+.90 probability
+  1
+  c0033204|probability|t081
+office
+  1
+  c0442603|office|t073
+ineligible patients
+  1
+  c0030705|patients|t101
+compound
+  1
+  c0205198|compound (qualifier value)|t080
+pre
+  1
+  c0740175|before values (qualifier value)|t079
+distant metastases
+  1
+  c1269798|pm category (observable entity)|t201
+poorer prognosis
+  1
+  c0278252|prognosis bad (finding)|t033
+consequently adequacy
+  1
+  c0205411|adequate (qualifier value)|t080
+untreated groups
+  1
+  c0441833|groups (qualifier value)|t170
+lactation
+  1
+  c0022925|lactation|t042
+life expectancy
+  1
+  c0023671|life expectancy|t102
+usually fluorouracil
+  1
+  c0016360|fluorouracil|t114
+abdominal ultrasound
+  1
+  c0203464|ultrasonography of abdomen (procedure)|t060
+demographic characteristics
+  1
+  c0683970|demographic characteristics|t102
+combinations
+  1
+  c0453882|combinations (physical object)|t073
+58.7 years
+  1
+  c0439234|year (qualifier value)|t079
+pain score
+  1
+  c0582148|pain score (observable entity)|t033
+total dose
+  1
+  c0172161|tyramine-deoxysorbitol|t109
+whitney cw
+  1
+  c0332290|consistent with (qualifier value)|t078
+optimal regimen
+  1
+  c0677937|regimen|t061
+thirteen percent
+  1
+  c0439165|percent (qualifier value)|t081
+induration
+  1
+  c0332534|induration (morphologic abnormality)|t169
+multicentre trials
+  1
+  c0206012|multicenter trials|t062
+patient characteristics
+  1
+  c0815172|patient characteristics|t201
+disease-free survival
+  1
+  c0242793|disease-free survival|t081
+randomisation
+  1
+  c0034656|random allocation|t062
+recent data
+  1
+  c0332185|recent episode (qualifier value)|t079
+antiarrhythmics
+  1
+  c0003195|anti-arrhythmia agents|t121
+draining
+  1
+  c0180499|drain, device (physical object)|t074
+cycle
+  1
+  c0439596|cyclic (qualifier value)|t079
+dukes stage
+  1
+  c1272820|dukes stage (observable entity)|t201
+promising results
+  1
+  c1274040|result (navigational concept)|t169
+magnitude
+  1
+  c0439535|magnitudes (qualifier value)|t081
+conversion to
+  1
+  c0439836|conversions (qualifier value)|t082
+40.8 gy
+  1
+  c0556636|gy (qualifier value)|t081
+9.9 13¡¤6 months
+  1
+  c0439231|month (qualifier value)|t079
+metastatic colorectal cancer
+  1
+  c0948380|colorectal cancer metastatic|t191
+leucopenia
+  1
+  c0023530|leukopenia|t047
+ps
+  1
+  c0036421|systemic scleroderma|t047
+fu
+  1
+  c0016360|fluorouracil|t114
+peritonitis
+  1
+  c0031154|peritonitis|t047
+postcisplatin hydration
+  1
+  c0517526|hydration|t033
+measurable disease
+  1
+  c0677909|measurable disease|t047
+progression
+  1
+  c0449258|progression (attribute)|t169
+parallel pair
+  1
+  c0233174|synclitism (finding)|t033
+interventions
+  1
+  c0886296|interventions|t061
+significantly
+  1
+  c0750502|significant (qualifier value)|t078
+excellent results
+  1
+  c1274040|result (navigational concept)|t169
+types
+  1
+  c0449470|types (qualifier value)|t170
+tension
+  1
+  c0233494|tension (finding)|t048
+leiomyosarcoma
+  1
+  c0023269|leiomyosarcoma|t191
+philadelphia
+  1
+  c0031525|philadelphia|t083
+psychiatric illness
+  1
+  c0004936|mental disorders|t048
+evaluations
+  1
+  c0220825|evaluation|t169
+specification
+  1
+  c0205369|specific (qualifier value)|t080
+important one
+  1
+  c0205447|one (qualifier value)|t081
+differences
+  1
+  c0443199|differential (qualifier value)|t080
+cases
+  1
+  c0868928|case (qualifier value)|t169
+life
+  1
+  c0376558|life|t078
+screening chest x-ray
+  1
+  c0420046|screening chest x-ray (procedure)|t060
+high dose intensities
+  1
+  c0444956|high dose (qualifier value)|t081
+indication
+  1
+  c0237000|indications|t078
+higher doses
+  1
+  c0444956|high dose (qualifier value)|t081
+behaviour
+  1
+  c0004927|behavior|t055
+radiographs
+  1
+  c1306645|plain film (procedure)|t060
+risk factors
+  1
+  c0035648|risk factors|t081
+informed consent
+  1
+  c0021430|informed consent|t058
+mucocutaneous effects
+  1
+  c1280500|effect (qualifier value)|t080
+belgium
+  1
+  c0004950|belgium|t083
+theoretical maximum tolerated dose
+  1
+  c0752079|maximum tolerated dose|t081
+dose limiting factor
+  1
+  c0935905|dose-limiting|t037
+44.8 gy
+  1
+  c0556636|gy (qualifier value)|t081
+purpose
+  1
+  c0449256|purpose (attribute)|t033
+drugs to
+  1
+  c0013227|pharmaceutical preparations|t121
+isodose curves
+  1
+  c0205134|curved (qualifier value)|t082
+episodes
+  1
+  c0678231|episodes (qualifier value)|t079
+pl
+  1
+  c0031676|phospholipids|t119
+eligibility criteria
+  1
+  c0243161|criteria|t170
+prognostic features
+  1
+  c0220901|prognostic|t170
+extent
+  1
+  c0439792|extents (qualifier value)|t080
+prs
+  1
+  c0279766|progesterone receptor negative|t034
+technique
+  1
+  c0449851|techniques|t170
+investigator
+  1
+  c0035173|research personnel|t097
+important method
+  1
+  c0025663|methods|t170
+23% planned level
+  1
+  c0441890|planned level (qualifier value)|t080
+compromising
+  1
+  c0518613|compromise|t033
+cytotoxic agents
+  1
+  c0304497|cytotoxic agent (substance)|t121
+n acetylcysteine
+  1
+  c0001047|acetylcysteine|t116
+stage ib cervical cancers
+  1
+  c0278582|cervical carcinoma stage ib|t191
+tumor size
+  1
+  c0475440|tumor size (observable entity)|t082
+values
+  1
+  c0042295|valuing|t080
+rarity
+  1
+  c0332184|rare (qualifier value)|t079
+withers
+  1
+  c0230107|withers (body structure)|t023
+rectal mucosa
+  1
+  c0227395|rectal mucous membrane structure (body structure)|t023
+chemistry panel
+  1
+  c1254572|chemistry panels|t059
+days thereafter
+  1
+  c0439228|day (qualifier value)|t079
+appreciable difference
+  1
+  c0443199|differential (qualifier value)|t080
+hospital
+  1
+  c0019994|hospitals|t093
+anastomotic leaks
+  1
+  c0919691|anastomotic leak|t046
+streptozotocin
+  1
+  c0038432|streptozocin|t195
+protocol
+  1
+  c0442711|protocols documentation|t170
+not purpose
+  1
+  c0449256|purpose (attribute)|t033
+computerized tomography
+  1
+  c0040405|x-ray computed tomography|t060
+testifies
+  1
+  c0680706|testimony|t064
+statistical power
+  1
+  c0814897|statistical power|t062
+antagonism
+  1
+  c0680242|antagonism|t054
+cancer recurrence
+  1
+  c0920420|cancer recurrence|t191
+follow-up data
+  1
+  c0589120|follow-up status (finding)|t169
+patients data
+  1
+  c0030705|patients|t101
+efficacy risk
+  1
+  c0035647|risk|t080
+51.0 gy
+  1
+  c0556636|gy (qualifier value)|t081
+recurrent cancer
+  1
+  c0549379|recurrent cancer|t191
+problem
+  1
+  c0033213|problem (finding)|t033
+carboplatin
+  1
+  c0079083|carboplatin|t109
+wbc count
+  1
+  c0023508|white blood cell count procedure|t059
+rectal cancer
+  1
+  c0007113|cancer of rectum|t191
+relative risk
+  1
+  c0242492|relative risk|t080
+platelets less
+  1
+  c0005821|blood platelets|t025
+distant micrometastases
+  1
+  c0443203|distant (qualifier value)|t082
+end to end
+  1
+  c0444930|end (qualifier value)|t082
+proctoscopy
+  1
+  c0033251|proctoscopy|t060
+hlstopathologic confirmation
+  1
+  c0750484|confirmed|t078
+chance
+  1
+  c0237506|chance|t080
+objectives
+  1
+  c0018017|goals|t170
+regarding patients
+  1
+  c0030705|patients|t101
+comparable results
+  1
+  c1274040|result (navigational concept)|t169
+severe proctites severe oedema
+  1
+  c0032954|severe pre-eclampsia nos (disorder)|t047
+ap pa
+  1
+  c0030125|p-aminosalicylic acid|t109
+prospective randomized trial
+  1
+  c0034656|random allocation|t062
+treatment groups
+  1
+  c0036669|sensitivity training groups|t065
+review
+  1
+  c0282443|review [publication type]|t170
+complete physical examination
+  1
+  c0436120|physical examination, complete (procedure)|t058
+pathologist
+  1
+  c0334866|medical pathologist (occupation)|t097
+diseases
+  1
+  c0012634|disease|t047
+left ventricular ejection fraction
+  1
+  c0428772|left ventricular ejection fraction (observable entity)|t034
+pharmacokinetic studies
+  1
+  c0201734|pharmacokinetic study (procedure)|t059
+median survival times
+  1
+  c0591830|mst|t109
+lymph nodes
+  1
+  c0024204|lymph nodes|t023
+statement
+  1
+  c1301808|state (environment)|t083
+schedules
+  1
+  c0086960|schedules|t170
+cell type
+  1
+  c0449475|type of cell (qualifier value)|t170
+pelvic rt
+  1
+  c0030797|pelvis|t029
+henschke applicators
+  1
+  c0179108|applicator (physical object)|t074
+nonmeasurable disease
+  1
+  c0012634|disease|t047
+bowel perforation
+  1
+  c0021845|intestinal perforation|t020
+informed consent to
+  1
+  c0021430|informed consent|t058
+manifestation
+  1
+  c0205319|manifest (qualifier value)|t169
+toxic reactions
+  1
+  c0542243|toxic reaction (nos)|t033
+materials
+  1
+  c0520510|materials|t167
+physiotherapy
+  1
+  c0949766|physical therapy techniques|t058
+­ months
+  1
+  c0439231|month (qualifier value)|t079
+diagrams
+  1
+  c0681494|diagram|t170
+other imbalances
+  1
+  c0205394|other|t080
+locoregional disease remaining
+  1
+  c0012634|disease|t047
+tumours
+  1
+  c0027651|neoplasms|t191
+sample size
+  1
+  c0242618|sample size|t081
+aspiration pneumonia
+  1
+  c0032290|pneumonia, aspiration|t047
+alanine aminotransferases
+  1
+  c0001899|alanine transaminase|t116
+95% ci
+  1
+  c0162854|commonwealth of independent states|t083
+metastasis
+  1
+  c0027627|neoplasm metastasis|t191
+compared irinotecan
+  1
+  c0123931|irinotecan|t109
+not problem
+  1
+  c0033213|problem (finding)|t033
+dfs
+  1
+  c0011145|deferoxamine|t123
+nutritional factors
+  1
+  c0331877|nutritionals|t093
+cure rates
+  1
+  c0871208|rating|t062
+15% increase
+  1
+  c0442805|increase (qualifier value)|t169
+17-1a antibody
+  1
+  c0003241|antibodies|t116
+14.1 5 months
+  1
+  c0439231|month (qualifier value)|t079
+manuscript
+  1
+  c0600659|manuscripts|t170
+pelvic sidewall lymph nodes
+  1
+  c0729595|pelvic lymph node group|t023
+validated qlqc30 questionnaire
+  1
+  c0034394|questionnaires|t170
+dag
+  1
+  c0043791|1,2-diacylglycerol|t123
+x10 white blood cells
+  1
+  c0023516|leukocytes|t025
+hypogastric artery
+  1
+  c0226364|structure of internal iliac artery|t023
+ohio
+  1
+  c0028905|ohio|t083
+short duration
+  1
+  c0439593|short duration (qualifier value)|t080
+domestic animals
+  1
+  c0003063|animals, domestic|t008
+breast cancer
+  1
+  c0006142|malignant neoplasm of breast|t191
+medical oncologists
+  1
+  c0278631|medical oncologist (occupation)|t097
+3/v2 months
+  1
+  c0439231|month (qualifier value)|t079
+similarity
+  1
+  c0871364|simile|t170
+hemogram
+  1
+  c0200631|complete blood count without differential (procedure)|t059
+patient
+  1
+  c0030705|patients|t101
+questionnaire
+  1
+  c0034394|questionnaires|t170
+palpation
+  1
+  c0030247|palpation|t060
+alopecia
+  1
+  c0002170|alopecia|t184
+reviews
+  1
+  c0282443|review [publication type]|t170
+log–rank test
+  1
+  c0392366|tests (qualifier value)|t170
+surgical margins
+  1
+  c0229985|surgical margins (body structure)|t023
+12.9 months
+  1
+  c0439231|month (qualifier value)|t079
+seizures
+  1
+  c0036572|seizures|t184
+rizzoli institute
+  1
+  c0021622|institutes|t092
+one
+  1
+  c0205447|one (qualifier value)|t081
+blometncal center
+  1
+  c0205099|central|t082
+38.1 months
+  1
+  c0439231|month (qualifier value)|t079
+ml
+  1
+  c0439242|ml (qualifier value)|t081
+also difference
+  1
+  c0443199|differential (qualifier value)|t080
+major obstacle
+  1
+  c0205164|major (qualifier value)|t080
+lymphoma
+  1
+  c0024299|lymphoma|t191
+cox model trying to
+  1
+  c0010234|cox models|t170
+patient eligibility
+  1
+  c0030705|patients|t101
+proliferation
+  1
+  c0334094|proliferation (morphologic abnormality)|t169
+1.9 percent
+  1
+  c0439165|percent (qualifier value)|t081
+histological type
+  1
+  c0449574|histological type (attribute)|t170
+colon cancer subgroups
+  1
+  c0007102|malignant tumor of colon|t191
+cervical carcinomas
+  1
+  c0302592|carcinoma of cervix (disorder)|t191
+3.9 months
+  1
+  c0439231|month (qualifier value)|t079
+neutropenic fever
+  1
+  c0948631|neutropenic fever|t047
+febrile neutropenia
+  1
+  c0746883|febrile neutropenia|t047
+obvious explanation
+  1
+  c0681841|explanation|t062
+enhancement
+  1
+  c0086222|enhancer|t114
+perforation
+  1
+  c0549099|perforation (morphologic abnormality)|t020
+n
+  1
+  c0439225|ns (qualifier value)|t081
+strategies
+  1
+  c0679199|strategy|t041
+controlled studies
+  1
+  c0681867|controlled study|t062
+interstitial brachytherapy
+  1
+  c0203580|interstitial brachytherapy (regime/therapy)|t061
+80% power
+  1
+  c0032863|power (psychology)|t068
+iia carcinoma
+  1
+  c0007097|carcinoma|t191
+surgical intervention
+  1
+  c0549433|surgical intervention|t033
+hospitals
+  1
+  c0019994|hospitals|t093
+4–5 years
+  1
+  c0439234|year (qualifier value)|t079
+levels
+  1
+  c0441889|levels (qualifier value)|t170
+hypothetical mechanisms
+  1
+  c0441712|mechanisms (qualifier value)|t067
+liver function tests
+  1
+  c0023901|liver function tests|t059
+selection
+  1
+  c0036576|selection (genetics)|t045
+important increase
+  1
+  c0442805|increase (qualifier value)|t169
+further patient
+  1
+  c0030705|patients|t101
+concurrent multiagent chemoradiotherapy
+  1
+  c0205420|concurrent (qualifier value)|t079
+only randomized trial
+  1
+  c0034656|random allocation|t062
+previous trial
+  1
+  c0205156|previous (qualifier value)|t082
+fourth portion
+  1
+  c0205438|fourth (qualifier value)|t081
+there skin reaction
+  1
+  c0221743|skin reaction (observable entity)|t034
+lung metastases
+  1
+  c0153676|secondary malignant neoplasm of lung (disorder)|t191
+blood transfusions
+  1
+  c0005841|blood transfusion|t061
+optimal method
+  1
+  c0025663|methods|t170
+granulocyte colony-stimulating factor
+  1
+  c0079459|granulocyte colony-stimulating factor|t116
+stricture
+  1
+  c0333187|stricture (morphologic abnormality)|t190
+6.5 months
+  1
+  c0439231|month (qualifier value)|t079
+course
+  1
+  c0449922|course (attribute)|t079
+chances
+  1
+  c0237506|chance|t080
+excess mortality
+  1
+  c0079320|mortality, excess|t081
+cystitis
+  1
+  c0010692|cystitis|t047
+substantially increased incidence
+  1
+  c0220888|increasing incidence|t169
+statistical analysis
+  1
+  c0871424|statistical analysis|t062
+univariate analyses of variance
+  1
+  c0002780|analysis of variance|t081
+disease free survival
+  1
+  c0242793|disease-free survival|t081
+eplthehal cell adhesion molecule
+  1
+  c0007578|cell adhesion molecules|t116
+g csf
+  1
+  c0079459|granulocyte colony-stimulating factor|t116
+distant metastasis
+  1
+  c1269798|pm category (observable entity)|t201
+criterion
+  1
+  c0243161|criteria|t170
+so far patient
+  1
+  c0030705|patients|t101
+measurement
+  1
+  c0242485|measurement|t081
+conclusion
+  1
+  c0917903|conclude|t122
+bite
+  1
+  c0005658|bites|t037
+invasive procedures
+  1
+  c0038895|surgical aspects|t169
+postsurgical complications
+  1
+  c0742723|complication postsurgical|t033
+fm sequence
+  1
+  c0015853|fermium|t196
+5.1 months
+  1
+  c0439231|month (qualifier value)|t079
+34-kd glycoprotein
+  1
+  c0017968|glycoproteins|t116
+radiologic findings
+  1
+  c1290916|radiologic finding (finding)|t034
+randomized clinical trial to
+  1
+  c0206034|clinical trials, randomized|t170
+ifosfamide
+  1
+  c0020823|ifosfamide|t115
+response durations
+  1
+  c0237585|response duration|t079
+infectious complications
+  1
+  c0940933|complication, infection|t047
+maximum
+  1
+  c0806909|maximum|t033
+13.1 g
+  1
+  c0162832|apc gene|t028
+disease stage
+  1
+  c0699749|disease stage|t060
+0.05 level
+  1
+  c0456079|disease classification level|t185
+paclitaxel
+  1
+  c0144576|paclitaxel|t109
+indeed important advance
+  1
+  c0725066|advance|t074
+m orally
+  1
+  c0442027|oral (qualifier value)|t082
+antigen
+  1
+  c0003320|antigens|t129
+germany
+  1
+  c0017480|germany|t083
+bleeding
+  1
+  c0019080|hemorrhage|t046
+proportions
+  1
+  c0205351|proportional (qualifier value)|t080
+null hypothesis
+  1
+  c0456148|null (qualifier value)|t033
+transfusion
+  1
+  c0199960|transfusion - action (qualifier value)|t061
+metastatic disease
+  1
+  c0027627|neoplasm metastasis|t191
+only supportive palliative treatment
+  1
+  c0030231|palliative care|t058
+additional concern
+  1
+  c0442796|additive (qualifier value)|t080
+superiority
+  1
+  c0680218|superiority|t054
+tumour
+  1
+  c0027651|neoplasms|t191
+modulation
+  1
+  c0443264|modulated (qualifier value)|t082
+clinical findings
+  1
+  c0586173|clinical finding (finding)|t033
+significant factors
+  1
+  c0750502|significant (qualifier value)|t078
+chf
+  1
+  c0018802|heart failure, congestive|t047
+stage i cervical cancer
+  1
+  c0278575|cervix carcinoma stage i|t191
+antiemetics
+  1
+  c0003297|antiemetics|t121
+ratio
+  1
+  c0456603|ratio (property) (qualifier value)|t170
+somewhat contrasting results
+  1
+  c1274040|result (navigational concept)|t169
+girdles
+  1
+  c0453903|girdle (physical object)|t073
+and whitney cw
+  1
+  c0332290|consistent with (qualifier value)|t078
+cgy
+  1
+  c0556645|cgy (qualifier value)|t081
+liver involvement
+  1
+  c0441932|hepatic involvement|t185
+41.5 months
+  1
+  c0439231|month (qualifier value)|t079
+skull
+  1
+  c0037303|bone structure of cranium|t023
+radiation dose
+  1
+  c0034524|radiation dosage|t081
+lymph node status
+  1
+  c0449927|lymph nodal status (attribute)|t080
+methyl ccnu
+  1
+  c0036637|semustine|t109
+higher cumulative doses
+  1
+  c0444956|high dose (qualifier value)|t081
+date
+  1
+  c0011008|dates|t079
+bone x-rays
+  1
+  c0848406|x-ray, bones|t060
+m bolus
+  1
+  c0677863|bolus|t061
+mplr stepping option
+  1
+  c0859325|stepping|t184
+layers
+  1
+  c0934502|layer|t023
+end point
+  1
+  c0150100|endpoint|t062
+alpha
+  1
+  c0439095|alpha (qualifier value)|t170
+discussion
+  1
+  c0557061|discussion (procedure)|t061
+confidence
+  1
+  c0237529|self-confidence (observable entity)|t041
+radiological physics
+  1
+  c0018725|health physics|t091
+days
+  1
+  c0439228|day (qualifier value)|t079
+yet patient
+  1
+  c0030705|patients|t101
+convincing reason to
+  1
+  c0684328|reasoning|t041
+several trials
+  1
+  c0443302|several (qualifier value)|t081
+bowel
+  1
+  c0021853|intestines|t023
+encouragement
+  1
+  c0870494|encouragement|t054
+adenosquamous carcinoma
+  1
+  c0206623|carcinoma, adenosquamous|t191
+paraortic lymph nodes
+  1
+  c0229789|aortic lymph node (body structure)|t023
+theoretically tumor
+  1
+  c0027651|neoplasms|t191
+pregnancy
+  1
+  c0032961|pregnancy|t040
+component
+  1
+  c0449432|component (attribute)|t073
+postmortem study
+  1
+  c0683946|postmortem study|t062
+thymidine
+  1
+  c0040077|thymidine|t123
+bulky disease
+  1
+  c0012634|disease|t047
+top
+  1
+  c0000811|termination of pregnancy|t061
+kg
+  1
+  c0439209|kg (qualifier value)|t081
+treatment planning
+  1
+  c0599880|plan of treatment|t170
+eastern cooperative oncology group
+  1
+  c0430797|electrocorticogram (procedure)|t060
+substantial decrease
+  1
+  c0547047|decrease (qualifier value)|t081
+operation
+  1
+  c0543467|general operative procedures|t061
+mastectomy
+  1
+  c0024881|mastectomy|t061
+findings
+  1
+  c0243095|findings|t169
+numbers
+  1
+  c0237753|numbers (qualifier value)|t170
+middle
+  1
+  c0549183|median (qualifier value)|t082
+tumor
+  1
+  c0027651|neoplasms|t191
+tumor cell burden
+  1
+  c0431085|[m]unspecified tumor cell nos (morphologic abnormality)|t191
+extension
+  1
+  c0231448|extension (qualifier value)|t042
+undergone radical hysterectomy
+  1
+  c0677962|total hysterectomy (procedure)|t061
+dose to
+  1
+  c0178602|dosages (qualifier value)|t081
+vaginal stenosis
+  1
+  c0269207|stenosis of vagina (disorder)|t190
+other complications
+  1
+  c0009566|complication|t046
+platelet counts
+  1
+  c0032181|platelet count|t059
+frequencies
+  1
+  c0439603|frequencies (time pattern)|t079
+leukocyte
+  1
+  c0023516|leukocytes|t025
+week
+  1
+  c0439230|week (qualifier value)|t079
+p values
+  1
+  c0879541|p-value|t081
+di
+  1
+  c0451119|diagnostic interview schedule (assessment scale)|t170
+role
+  1
+  c0035820|role|t054
+proportion
+  1
+  c0205351|proportional (qualifier value)|t080
+research nurses
+  1
+  c0687693|research nurse (occupation)|t097
+two-thirds
+  1
+  c0205448|two (qualifier value)|t081
+contralateral breast cancer
+  1
+  c1096616|contralateral breast cancer|t191
+switzerland
+  1
+  c0039021|switzerland|t083
+neurological symptoms
+  1
+  c0235031|neurologic symptoms|t184
+efficiency
+  1
+  c0013682|efficiency|t081
+locoregional recurrence
+  1
+  c0034897|recurrence|t067
+efforts to
+  1
+  c0015264|exertion|t040
+patients also
+  1
+  c0030705|patients|t101
+physical examinations
+  1
+  c0031809|clinical examination|t058
+physical examination
+  1
+  c0031809|clinical examination|t058
+intestines
+  1
+  c0021853|intestines|t023
+benefit
+  1
+  c0814225|benefits|t081
+soft tissue sarcomas
+  1
+  c0677603|sarcoma, soft tissue|t191
+major violation
+  1
+  c0205164|major (qualifier value)|t080
+portugal
+  1
+  c0032729|portugal|t083
+disseminated intravascular coagulation
+  1
+  c0012739|disseminated intravascular coagulation|t047
+95% confidence
+  1
+  c0237529|self-confidence (observable entity)|t041
+patterns
+  1
+  c0449774|patterns (qualifier value)|t082
+biologic activity
+  1
+  c0678666|biological activation|t040
+heparin
+  1
+  c0019134|heparin|t123
+contract
+  1
+  c0332522|contracts|t170
+muscle
+  1
+  c0026845|muscle|t024
+only date
+  1
+  c0011008|dates|t079
+univariate analysis
+  1
+  c0683962|univariate analysis|t062
+pa
+  1
+  c0030125|p-aminosalicylic acid|t109
+clusters
+  1
+  c0009085|cluster analysis|t081
+bulky cervical cancer
+  1
+  c0007847|malignant neoplasm of cervix uteri|t191
+vessels
+  1
+  c0005847|blood vessels|t023
+type
+  1
+  c0332307|with type (attribute)|t169
+courses
+  1
+  c0750729|courses (qualifier value)|t079
+intestinal fistula
+  1
+  c0021833|intestinal fistula|t190
+abdominal computed tomography to
+  1
+  c0412620|ct of abdomen (procedure)|t060
+same factors
+  1
+  c0445247|same (qualifier value)|t080
+presentation
+  1
+  c0449450|presentation (attribute)|t078
+regimen
+  1
+  c0677937|regimen|t061
+proliferating
+  1
+  c0334094|proliferation (morphologic abnormality)|t169
+median survival time
+  1
+  c0591830|mst|t109
+roles
+  1
+  c0035820|role|t054
+neoadjuvant ct
+  1
+  c0040405|x-ray computed tomography|t060
+contraindications
+  1
+  c0079164|contraindications|t080
+general misinterpretation
+  1
+  c0205246|generalized (qualifier value)|t082
+neutrophils
+  1
+  c0027950|neutrophils|t025
+adenocarcinoma
+  1
+  c0001418|adenocarcinoma|t191
+precisely questions
+  1
+  c0876928|questioning|t041
+appetite loss
+  1
+  c0003123|anorexia|t184
+exception
+  1
+  c0750577|exceptionally|t078
+portals
+  1
+  c0205054|hepatic|t029
+length
+  1
+  c0439537|lengths (qualifier value)|t081
+doubt
+  1
+  c0870444|doubt|t041
+surviving
+  1
+  c0310255|survive (product)|t121
+mitolactolor ifosfamide
+  1
+  c0020823|ifosfamide|t115
+neutropenia
+  1
+  c0027947|neutropenia|t047
+not myelosuppressiveequivalent doses
+  1
+  c0719635|dos|t109
+pearson’s x2 test
+  1
+  c0392366|tests (qualifier value)|t170
+5-fu dosage
+  1
+  c0366485|fluorouracil:mass:point in time:dose med or substance:quantitative|t201
+ultimately required hospitalization
+  1
+  c0019993|hospitalization|t058
+not part
+  1
+  c0449719|part (attribute)|t082
+nonirradiated patients
+  1
+  c0030705|patients|t101
+bilateral mammography
+  1
+  c0203027|bilateral mammography (procedure)|t060
+dexamethasone
+  1
+  c0011777|dexamethasone|t121
+treatment plan
+  1
+  c0599880|plan of treatment|t170
+important source
+  1
+  c0449416|source (attribute)|t033
+normal renal function
+  1
+  c0232805|normal renal function (finding)|t033
+radia to follow-up
+  1
+  c0589120|follow-up status (finding)|t169
+pretreatment stratification
+  1
+  c0205363|stratified (qualifier value)|t080
+complication
+  1
+  c0009566|complication|t046
+cancer recurrences
+  1
+  c0920420|cancer recurrence|t191
+males
+  1
+  c0086582|males|t098
+cisplatin
+  1
+  c0008838|cisplatin|t197
+limit
+  1
+  c0449205|lim (body structure)|t029
+concurrent chemoradiotherapy
+  1
+  c0205420|concurrent (qualifier value)|t079
+potential efficacy
+  1
+  c0237399|potential|t080
+monitoring
+  1
+  c0150369|preventive monitoring|t058
+dizziness
+  1
+  c0012833|dizziness|t184
+new prospective trials
+  1
+  c0205314|new (qualifier value)|t079
+published trials
+  1
+  c0034037|publishing|t057
+patient’s preference
+  1
+  c0558295|preferences (qualifier value)|t055
+parasitic infections
+  1
+  c0030499|parasitic diseases|t047
+two trials
+  1
+  c0205448|two (qualifier value)|t081
+sec
+  1
+  c0457385|seconds|t079
+ordered categorical data
+  1
+  c0683312|categories|t170
+phase ii trial
+  1
+  c0278782|phase ii study|t062
+doubts
+  1
+  c0870444|doubt|t041
+hr
+  1
+  c0439227|hour|t079
+control
+  1
+  c0243148|control|t169
+forms
+  1
+  c0376315|manufactured form|t073
+alkylating agents
+  1
+  c0002073|alkylating agents|t131
+experience
+  1
+  c0596545|experience|t041
+meta-analysis to
+  1
+  c0920317|meta-analysis|t170
+internal radiotherapy
+  1
+  c0203608|radionuclide therapy|t061
+carcinoma
+  1
+  c0007097|carcinoma|t191
+iva
+  1
+  c1054142|iva|t002
+50% decrease
+  1
+  c0547047|decrease (qualifier value)|t081
+complete response
+  1
+  c0677874|in complete remission (qualifier value)|t033
+random assignment
+  1
+  c0814868|random assignment|t062
+life tables
+  1
+  c0023683|life tables|t170
+distance
+  1
+  c0012751|distance|t081
+value
+  1
+  c0042295|valuing|t080
+addition
+  1
+  c0442796|additive (qualifier value)|t080
+analgesics
+  1
+  c0002771|analgesics|t121
+probability
+  1
+  c0033204|probability|t081
+analysis of variance
+  1
+  c0002780|analysis of variance|t081
+maximum only
+  1
+  c0806909|maximum|t033
+mucositis
+  1
+  c0236177|inflammatory disease of mucous membrane (disorder)|t046
+preference
+  1
+  c0558295|preferences (qualifier value)|t055
+interruption
+  1
+  c0443239|interrupted (qualifier value)|t080
+questionnaires
+  1
+  c0034394|questionnaires|t170
+month
+  1
+  c0439231|month (qualifier value)|t079
+knowledge
+  1
+  c0376554|knowledge|t170
+pulmonary functions
+  1
+  c0231921|pulmonary function (observable entity)|t042
+partial responses
+  1
+  c0677924|partial response|t080
+higher dose
+  1
+  c0444956|high dose (qualifier value)|t081
+toxicities
+  1
+  c0600688|toxic effect|t037
+irinotecan
+  1
+  c0123931|irinotecan|t109
+two factors
+  1
+  c0205448|two (qualifier value)|t081
+primary tumour site
+  1
+  c0475447|site of primary tumor (attribute)|t201
+hair loss
+  1
+  c0002170|alopecia|t184
+estrogen receptors
+  1
+  c0034804|estrogen receptors|t116
+aggressiveness
+  1
+  c0235099|aggression aggravated|t048
+supraclavicular node
+  1
+  c0229730|structure of supraclavicular lymph node|t023
+verification
+  1
+  c0237944|verification of theories|t080
+control group
+  1
+  c0009932|control groups|t096
+three packets
+  1
+  c0205449|three (qualifier value)|t081
+statistical evidence
+  1
+  c0220917|statistical|t170
+performance status
+  1
+  c0935728|performance status|t033
+spain
+  1
+  c0037747|spain|t083
+nonhaematological toxic effect
+  1
+  c0600688|toxic effect|t037
+then weeks
+  1
+  c0439230|week (qualifier value)|t079
+tumors
+  1
+  c0027651|neoplasms|t191
+careful approximation
+  1
+  c0332232|approximate (qualifier value)|t169
+partial responders
+  1
+  c0677924|partial response|t080
+serum creatinine level
+  1
+  c0600061|serum creatinine level|t034
+patient pretreatment characteristics
+  1
+  c0815172|patient characteristics|t201
+27 98 days
+  1
+  c0439228|day (qualifier value)|t079
+because less mesentery
+  1
+  c0025474|mesentery|t029
+chest pain
+  1
+  c0008031|chest pain|t184
+ovariectomy
+  1
+  c0029936|ovariectomy|t061
+mucocutaneous reactions
+  1
+  c0443286|reaction (qualifier value)|t169
+about weeks
+  1
+  c0439230|week (qualifier value)|t079
+— percent
+  1
+  c0439165|percent (qualifier value)|t081
+absence
+  1
+  c0424530|absences (finding)|t033
+peculiar immunogenicity
+  1
+  c0872192|immunogenic|t169
+contemporary innovation first
+  1
+  c0205435|first (qualifier value)|t081
+set
+  1
+  c0036849|set (psychology)|t041
+apparent evidence
+  1
+  c0750489|apparent|t078
+arbitrarily
+  1
+  c1264693|arbitrary (property) (qualifier value)|t081
+external beam radiation
+  1
+  c0796629|external radiation|t061
+2 test
+  1
+  c0392366|tests (qualifier value)|t170
+because number
+  1
+  c0449788|count of entities (property) (qualifier value)|t081
+multivariate analysis
+  1
+  c0026777|multivariate analysis|t081
+congestive heart failure
+  1
+  c0018802|heart failure, congestive|t047
+95% confidence interval
+  1
+  c0009667|confidence intervals|t081
+american joint committee on cancer
+  1
+  c0441915|ajcc (tumor staging)|t170
+main aim
+  1
+  c0205225|primary|t080
+student t tests
+  1
+  c0871453|students t test|t170
+variations
+  1
+  c0205419|variant|t080
+second rationale
+  1
+  c0205436|second (qualifier value)|t081
+combination chemotherapy
+  1
+  c0013218|drug therapy, combination|t061
+only fictitious difference
+  1
+  c0443199|differential (qualifier value)|t080
+m cisplatin
+  1
+  c0008838|cisplatin|t197
+doses
+  1
+  c0719635|dos|t109

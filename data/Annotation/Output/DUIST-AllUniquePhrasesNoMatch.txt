@@ -1,0 +1,612 @@
+significantly higher response rates
+  0
+indeed poor prognostic features
+  0
+treatment group
+  0
+radiation therapy oncology group
+  0
+perioperative adjuvant chemotherapy
+  0
+platelet count x l
+  0
+similar trial
+  0
+absolute neutrophil count 2.0 l
+  0
+technical aspects
+  0
+randomized trials
+  0
+radiation therapy now
+  0
+similar differences
+  0
+secondary leukemias
+  0
+curative local therapy
+  0
+astler coller modification
+  0
+images
+  0
+cox model multivariate analysis
+  0
+platelet count nadir
+  0
+hormonal manipulations
+  0
+remote control afterloading system to
+  0
+radiological examination
+  0
+bony structures
+  0
+dose intensity
+  0
+multivariate cox regression analysis to
+  0
+considerably lower dose
+  0
+x l
+  0
+computed tomographic scans
+  0
+dukes b
+  0
+enhanced efficacy
+  0
+similar proportions
+  0
+chronic toxicities
+  0
+postirradiation recurrent cancer
+  0
+originally pro1 posed
+  0
+required follow-up
+  0
+high-risk cervical cancers
+  0
+mid-axilla
+  0
+not eligible central nervous system metastasis
+  0
+randomized trial to
+  0
+leukocyte count nadir
+  0
+contrast computed tomography
+  0
+best supportive care
+  0
+gastrointestinal series
+  0
+written informed consent
+  0
+acceptable radiation doses
+  0
+wrong primary tumor
+  0
+cumulative dose to
+  0
+m treated group
+  0
+computed tomography scan
+  0
+treatment protocol epi
+  0
+e e m
+  0
+repeat measurements
+  0
+persisting bone pain
+  0
+calcium folinate only
+  0
+empiric dose limitation
+  0
+combination therapy treatment plan
+  0
+stage iib bulky
+  0
+written consent
+  0
+partially hyperfractionated rt
+  0
+lung toxicity
+  0
+useful predictor
+  0
+prospective randomized study
+  0
+medical treatments
+  0
+middle third stromal invasion
+  0
+total dose to
+  0
+pelvic radiation
+  0
+univariate analyses to
+  0
+actuarial disease-free survival
+  0
+m control group
+  0
+abdominal ct scanning
+  0
+randomized trial
+  0
+alkaline phosphatase u
+  0
+further follow-up
+  0
+point b
+  0
+informed written consent
+  0
+unnecessary side effects
+  0
+opcs death certificate
+  0
+nominal significance level
+  0
+rt interruptions
+  0
+substantial difference
+  0
+promising improvement
+  0
+prospective randomized clinical trial
+  0
+imbalance clearly
+  0
+significantly higher 5-year disease-free survival
+  0
+produced impressive response rates
+  0
+tumour progresses
+  0
+added efficacy
+  0
+second tumors
+  0
+d sc
+  0
+cumulative dose
+  0
+post-operative rt
+  0
+to follow-up
+  0
+m v dox
+  0
+pearson chi-square test
+  0
+combined chemotherapy hormonal therapy
+  0
+creatinine 1.25 x n
+  0
+17-percentage-point improvement
+  0
+radiological lymph node status
+  0
+gonadal function
+  0
+prospective randomised trial
+  0
+neurologic adverse effects
+  0
+remainder clear cell
+  0
+hyperfractionated rt
+  0
+radiation dose violations
+  0
+adjusted relative risk
+  0
+m intravenously
+  0
+actuarial survival rates
+  0
+categorical data
+  0
+alternative hypothesis
+  0
+second diagnosis
+  0
+pathological findings
+  0
+one-sided significance level
+  0
+radiation proctitis re
+  0
+international federation
+  0
+questions
+  0
+chemotherapeutic regimens
+  0
+total doses
+  0
+iia cervical cancer
+  0
+end points
+  0
+pre-operative radiation therapy
+  0
+p values to
+  0
+d orally
+  0
+highest proportion
+  0
+m treatment group
+  0
+complete responses
+  0
+lymph node biopsy to
+  0
+overt liver metastases
+  0
+prospective randomized controlled trial
+  0
+pathological assessment
+  0
+wrong cell type
+  0
+5-fu doses
+  0
+clearly defined liver edge
+  0
+abdominopelvic computerized tomography
+  0
+initial evaluation also included chest radiography
+  0
+laboratory data
+  0
+question
+  0
+j m.b.
+  0
+wilcoxon statistical test
+  0
+selected patient characteristics
+  0
+laboratory abnormalities
+  0
+mg total dose
+  0
+lower frequency
+  0
+significantly longer progression free survival
+  0
+sensitize tumor cells
+  0
+cervical tumours
+  0
+repetitive dose treatments
+  0
+higher frequency
+  0
+only substantial improvement
+  0
+m2 iv
+  0
+biologically similar dose
+  0
+accounts
+  0
+dose limitation
+  0
+cardiotoxic potencies
+  0
+5-fu dose to
+  0
+statistically significant difference
+  0
+focus
+  0
+radioactive liver scan
+  0
+additional risk factors
+  0
+performance status less
+  0
+longer gold standards
+  0
+in vitro data
+  0
+statistically significant differences
+  0
+supine bicycle exercise
+  0
+univariate cox model
+  0
+other chemotherapeutic regiments
+  0
+anticipated 5% loss
+  0
+platelet count less
+  0
+topoisomerase i inhibitor
+  0
+required modifications
+  0
+radiation sensitization
+  0
+poor prognostic factors
+  0
+pretreatment gynecologic examination
+  0
+highest dose intensity ever
+  0
+valid statistical analyses
+  0
+intensified adjuvant chemotherapy
+  0
+nutritional status to
+  0
+meaningful response duration
+  0
+chest radiogram
+  0
+escalating single agent 5-fu regimen
+  0
+empiric dose restriction
+  0
+drug injections
+  0
+throughout follow-up
+  0
+bilirubin 1.5 x n
+  0
+only prospective randomized clinical trials yet
+  0
+further therapy group
+  0
+drawbacks still
+  0
+pelvic radiation concomitantly
+  0
+substantial protection
+  0
+creatinine level 1.5 mg
+  0
+periaortic lymph node sampling
+  0
+tumor dose
+  0
+post-operative radiation therapy
+  0
+neoplastic recurrence
+  0
+higher response rate
+  0
+complementary data
+  0
+moderately high dose
+  0
+minimum follow-up
+  0
+bicycle exercise
+  0
+considerable difference
+  0
+minimum detectable difference
+  0
+poorer prognosis
+  0
+abdominal ultrasound
+  0
+radiation therapy oncology group study
+  0
+total dose
+  0
+real difference
+  0
+m2 body surface area intravenously
+  0
+difference predominantly
+  0
+determining eligibility
+  0
+normal dlco pulmonary function test
+  0
+m d
+  0
+ps
+  0
+parallel pair
+  0
+highly significant difference
+  0
+normal liver function tests
+  0
+high dose intensities
+  0
+higher doses
+  0
+theoretical maximum tolerated dose
+  0
+dose limiting factor
+  0
+postmastectomy chest wall
+  0
+last cycle
+  0
+oxford colorectal cancer cooperative group
+  0
+lowest proportion
+  0
+appreciable difference
+  0
+mv x-rays
+  0
+not realistic end point
+  0
+follow-up data
+  0
+sq m
+  0
+phase i dose escalation studies
+  0
+prospective randomized trial
+  0
+treatment groups
+  0
+additional histopathologic features
+  0
+median survival times
+  0
+informed consent to
+  0
+pelvic sidewall lymph nodes
+  0
+x10 white blood cells
+  0
+higher percentage
+  0
+also difference
+  0
+cox model trying to
+  0
+colon cancer subgroups
+  0
+substantial improvements
+  0
+perioperative period
+  0
+only randomized trial
+  0
+additional dose
+  0
+substantially increased incidence
+  0
+receiving adjuvant chemotherapy
+  0
+univariate analyses of variance
+  0
+calcium folinate mg
+  0
+criterion
+  0
+histopathologic confirmation
+  0
+fm sequence
+  0
+radiologic findings
+  0
+randomized clinical trial to
+  0
+infectious complications
+  0
+observed differences
+  0
+m orally
+  0
+only supportive palliative treatment
+  0
+additional concern
+  0
+examined treatment group
+  0
+liver involvement
+  0
+radiation dose
+  0
+lymph node status
+  0
+higher cumulative doses
+  0
+end point
+  0
+radiological physics
+  0
+paraortic lymph nodes
+  0
+stage ib cervical cancer risk factors
+  0
+eastern cooperative oncology group
+  0
+tumor cell burden
+  0
+undergone radical hysterectomy
+  0
+dose to
+  0
+vaginal stenosis
+  0
+because radiation therapy
+  0
+primarily metallic taste
+  0
+biologic activity
+  0
+wilcoxon rank sum test
+  0
+bulky cervical cancer
+  0
+higher pelvic radiation doses
+  0
+abdominal computed tomography to
+  0
+median survival time
+  0
+developed acute leukemia
+  0
+only 4% response rate
+  0
+5-fu dosage
+  0
+radia to follow-up
+  0
+pretreatment stratification
+  0
+limit
+  0
+posteroanterior opposed beams
+  0
+ordered categorical data
+  0
+meta-analysis to
+  0
+further dox
+  0
+most significant risk factors
+  0
+higher dose
+  0
+actuarial 5-year disease-free survival
+  0
+bun mg
+  0
+careful approximation
+  0
+partial responders
+  0
+cervical cancer disproportionately
+  0
+small bowel follow-up
+  0
+patient pretreatment characteristics
+  0
+peculiar immunogenicity
+  0
+randomized phase iii trial
+  0
+similar high doses
+  0
+sq m intravenously
+  0
+american joint committee on cancer
+  0
+bilirubin level 2.5 mg
+  0
+only fictitious difference
+  0
+long-term improvement
+  0
+higher proportion
+  0
