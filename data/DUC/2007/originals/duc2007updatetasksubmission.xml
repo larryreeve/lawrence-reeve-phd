@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding='ISO-8859-1'?>
+<!-- Document type definition for a DUC 2007 update task submission -->
+
+<!-- For each DUC submission, identify the system id (SYSID). This
+short string (at most 10 characters, no white space) should be
+distinctive for your system in DUC 2007.  If you are submitting to
+multiple tasks, you should use the same SYSID for each task. 
+Be sure to include TASK="UPDATE". -->
+
+<!-- A DUC task submission is the formatted output of one run of a
+summarization system for all the document sets for the task.  The
+update task takes a document set that is partitioned into 3 subsets
+(A-C), and produces a short 100-word multi-document summary for each
+document subset.
+
+For each update summary, identify the associated document subset
+(DOCSUBSET) using the name of the directory containing the documents;
+e.g., "D0703A-A".
+
+-->
+
+<!ELEMENT  DUC2007UPDATETASKSUBMISSION  (UPDATE+)>
+<!ATTLIST  DUC2007UPDATETASKSUBMISSION     
+                  SYSID      CDATA              #REQUIRED
+                  TASK       (UPDATE)           #REQUIRED
+>
+
+
+<!--  Update summary -->
+<!ELEMENT  UPDATE             (#PCDATA)       > 
+<!ATTLIST  UPDATE
+                  DOCSUBSET     (D0703A-A|D0703A-B|D0703A-C|D0706B-A|D0706B-B|D0706B-C|D0711C-A|D0711C-B|D0711C-C|D0716D-A|D0716D-B|D0716D-C|D0721E-A|D0721E-B|D0721E-C|D0726F-A|D0726F-B|D0726F-C|D0727G-A|D0727G-B|D0727G-C|D0736H-A|D0736H-B|D0736H-C|D0740I-A|D0740I-B|D0740I-C|D0743J-A|D0743J-B|D0743J-C)              #REQUIRED
+> 

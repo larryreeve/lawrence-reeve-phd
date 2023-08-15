@@ -1,0 +1,108 @@
+<?xml version="1.0" standalone="no"?>
+
+<!DOCTYPE DUC2007UPDATETASKSUBMISSION SYSTEM "duc2007updatetasksubmission.dtd">
+
+<DUC2007UPDATETASKSUBMISSION SYSID="NISTupdate" TASK="UPDATE">
+
+
+<UPDATE DOCSUBSET="D0703A-A">
+
+Submission example for DUC 2007 update task - the output of a summarization system called "NISTupdate" run on the documents in DOCSUBSET "D0703A-A", "D0703A-B", "D0703A-C", etc., for the update task. You should include a summary for each of the 30 DOCSUBSETs, even if it is just an empty summary. You should fill in your own short, distinctive SYSID and real summaries.  Remember XML is case-sensitive for element and attribute names.
+
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0703A-B">
+
+This is the text of a short update summary. Remember to escape &amp; and &lt; so the XML validator doesn't complain. There is a 100-word limit per summary (where a word is a sequence of white-space-delimited characters).  
+
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0703A-C">
+
+This submission contains only 3 non-empty summaries, for one topic (D0703A); the remaining topics have empty summaries. (The summaries here are also completely unresponsive to the actual topics, but that's another story!)  This submission will score very poorly when averaged over all 30 summaries for all 10 topics, but at least it will not cause any technical problems when NIST processes it for evaluation.
+
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0706B-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0706B-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0706B-C">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0711C-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0711C-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0711C-C">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0716D-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0716D-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0716D-C">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0721E-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0721E-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0721E-C">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0726F-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0726F-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0726F-C">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0727G-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0727G-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0727G-C">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0736H-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0736H-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0736H-C">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0740I-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0740I-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0740I-C">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0743J-A">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0743J-B">
+</UPDATE>
+
+<UPDATE DOCSUBSET="D0743J-C">
+</UPDATE>
+
+</DUC2007UPDATETASKSUBMISSION>
+
