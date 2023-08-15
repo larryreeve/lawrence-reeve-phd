@@ -1,0 +1,81 @@
+
+The batch files for running the summarizers are under the Utility\Batch directory.
+
+The Utility\Batch\biosumm.bat file is used to start a summarizer, which consists of setting up the Java command line and passing in a set of arguments. 
+
+In the Utility\batch\summarization directory are a number of additional batch files used to generate summaries for ROUGE evaluation. Each batch file generates summaries for all 24 articles in the evaluation corpus. Each batch file typically takes a single parameter: the compression size. For example, for 10% summary size specify 10 as the parameter, for 20% specify 20, etc. Output is written in one Sentence Per Line format (SPL) to the data\summarization\eval\rouge\duist\systems directory.
+
+Since the code is a work done over several years, not all batch files work and may need some updating. The batch files for the most recent research work that should work are:
+
+	- EvalGenBioFreqDistSummariesSPLUsingMMTX.bat: Defines the command lines to generate 10 summaries (5 using terms and 5 using concepts) using the FreqDist summarizer and the MMTx annotator. The 5 summarizers for each of Concept and Term are needed to evaluate Cosine, Dice, Euclidean, UnitFrequency, and VectorSubtraction scoring methods.
+
+	- EvalGenBioFreqDistSummariesSPLUsingDUIST.bat: Same as EvalGenBioFreqDistSummariesSPLUsingMMTX.bat, but using the DUIST annotator.
+
+	- EvalGenBioSumBasicSummariesSPLUsingMMTX.bat: Generates two SumBasic summaries (one for terms, one for concepts) for each of 24 articles in corpus using the MMTx annotator. 
+
+	- EvalGenBioSumBasicSummariesSPLUsingDUIST.bat: Same as EvalGenBioSumBasicSummariesSPLUsingMMTX, but using the DUIST annotator.
+
+	- EvalGenBioLMSummariesSPL.bat: An experimental summarizer which uses language model of terms to generate a summary.
+
+
+
+BioChain Summarizer:
+-------------------
+For the BioChain summarization method, EvalGenBioChainSummariesSPL.bat could be used, but it needs updating of at least the path to biosumm to be used. 
+
+For example, the command lines all start with:
+
+	call biosumm.bat 
+
+need to be changed to:
+
+	call ..\biosumm.bat 
+
+
+
+Some of the parameters for BioChain summarization may also need to be modified.
+
+
+EvalGenBioChainSummariesSPL.bat generates 20 summaries for each article in the corpus, for a total of 480 summaries (20 summaries * 24 articles). The summaries are variations of BioChain summarizer that were evaluated, including BioChain using All Strong Concepts, Most Frequent Concepts, combined with FreqDist using Cosine, Dice, Euclidean, UnitFrequency, and VectorSubtraction scoring methods, and filtering of unimportant biomedical domain concepts based on feedback from Dr. Brooks.
+
+
+
+BioSumm.bat Additional Notes:
+----------------------------
+
+- biosumm.bat calls the main method (biosumm.BioSummMain) declared in Source\BioSumm\JavaSource\biosumm\BioSummMain.java.
+
+- The Java runtime settings for the heap are initial size 512MB and for the maximum size 1.6GB. The large heap sizes are required for the DUIST annotator. If the machine does not have the required physical memory and you are not using the DUIST annotator, then the initial and maximum heap sizes can be reduced.
+
+- Program arguments can be listed by running biosumm.bat without any arguments.
+
+- The arguments are declared in the source file Source\BioSumm\JavaSource\biosumm\BioSummMain.java:
+
+
+	-scorer <scorer>                	score function to use; valid options are chainfreqdist, chainfreqpos, freqdist, lad, lm, random, sumbasic-term, sumbasic-concept; 
+						default is chainfreqpos
+
+	-annotator <annotatorname>     		annotator to use; valid options are duist, mmtx; 
+						default is mmtx
+
+	-docid <docid>                  	document id (optional)
+
+	-filter <filtername>            	use semantic filtering; valid options are DUCOM; 
+						default is none
+
+	-help                           	print this message
+
+	-inputfileabstract <file>       	filename of source abstract
+
+	-inputfilefull <file>           	filename of source text
+
+	-outputfile <file>              	filename of output file
+
+	-outputoptions <property=value>		define output options, in format name=value;name=value
+
+	-outputtype <typename>          	output type; valid options are allchains, conceptcount, evaluation, phrases uphrases, sentences, statistics, strongchains, summary; trec; 
+						default is summary
+
+	-scoringoptions <property=value>	define scoring options, in format name=value;name=value
+
+	-verbose                           	generates verbose output
