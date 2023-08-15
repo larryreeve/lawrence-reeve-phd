@@ -1,0 +1,55 @@
+Introduction Stage Ib and IIa carcinoma of the cervix can be cured by radical surgery or radiotherapy with similar effectiveness, but the rate and types of complications differ.
+
+Radiotherapy is feasible and effective in almost all patients; 5-year survival after this therapy ranges from 78% to 91%.
+
+By contrast, radical surgery affords the opportunity to study pathological findings, so that groups of at-risk patients who could benefit from adjuvant treatment can be identified.
+
+Apart from Newton's study about stage-I diseases, there have been no randomised studies to compare radiotherapy with radical surgery in one institution over a short period of time.
+
+Eligibility criteria were: age 30--70 years; newly diagnosed stage Ib or IIa cervical cancer; no concurrent or previous malignant disease; WHO performance status of 1 or less; and feasibility of both radical surgery and radiotherapy.
+
+The clinical evaluation of the patients was done by the gynaecological surgeon together with the radiation oncologist to avoid bias in the randomisation; in fact, patients with unfavourable clinical characteristics are usually treated by radiotherapy alone.
+
+The patients were randomly assigned radical surgery (n=172) or radical radiotherapy (n=171).
+
+Radiotherapy included: external pelvic irradiation with 18 MV photon beam by the multiportal technique; one dose of 1¡¤8--2¡¤0Gy at the isocentre; and two or more portals treated daily.
+
+When lymphangiography showed common iliac or paraortic metastases, paraortic lymph nodes were treated with a dose of 45 Gy over 5 weeks and two shaped opposed fields (AP-PA).
+
+Dissection of the pelvic lymph node consisted of removal of all fatty lymph-node bearing tissue anterior, lateral, and posterior to the common, external, and internal iliac vessels, and anterior to the obturator nerve.
+
+The pathologist provided us with histological subtypes, grade, depth of invasion, tumour size, presence of capillary-like-space involvement, paracervical-tissue involvement, and number, site, and type of lymph-node metastases.
+
+The primary outcome measures were 5-year overall survival and the rate of complications.
+
+Survival and recurrence Median follow-up was 87 (range 57--120) months.
+
+Two deaths were related to the primary treatment, both in the surgery group: ileal spontaneous perforation (11 months after adjuvant radiotherapy) and pulmonary embolism (17 days after surgery).
+
+Discussion Our review of the published research suggests that cure rates are similar for patients with stage-I cervical cancers who undergo surgery or radiotherapy.
+
+Newton5 reported that the 5-year survival rate for 119 patients with stage-I disease accrued over 10 years in a partly randomised study was 81% for radical surgery and 74% for radiotherapy; this difference was not significant.
+
+Morley and Seski's study, of 446 patients with stage-Ib disease recruited between 1945 and 1975 and treated with radical hysterectomy and bilateral pelvic lymphadenectomy or external irradiation and brachyradiotherapy, reported crude 5-year survival of 87% and 83%, respectively.
+
+In our study, 5-year actuarial survival was the same in the surgery and radiation groups (83%), which suggests that there is no treatment of choice with respect to local control of disease.
+
+Apart from survival, optimum treatment strategies depend on the benefits and disadvantages of each treatment and on prognostic factors (cervical diameter, histotype, and lymph-node status).
+
+Surgery also offers other advantages: pelvic relapses can be successfully cured by radiotherapy, whereas salvage surgery after primary irradiation carries a high rate of failures and severe morbidity.
+
+Complications after radiotherapy arise later than after surgery, although radiotherapy-related complications are often permanent.
+
+Morbidity is associated with both treatment strategies, though the most severe complications, such as operative mortality, urological complications, and tissue damage from irradiation, have been reduced during the past 20 years.
+
+In our experience, the combination of surgery and adjuvant radiotherapy carries the worst morbidity, especially long-term (delayed in onset) complications, that are difficult to record during the follow-up.
+
+Hydroureteronephroses, oedema of the lower limbs, various vesical complications, and bowel morbidity are more common and compromising in women who undergo surgery plus radiotherapy.
+
+On the other hand, the low rate of major complications after radiotherapy (12%) suggests that this approach is well-tolerated by most patients.
+
+The women with a cervical diameter larger than 4 cm had the most unfavourable pathological prognostic factors and were at risk of a relapse independently from any other clinical factor.
+
+In Italy, a prospective randomised trial has been under way since 1993 to assess the best adjuvant treatment (chemotherapy or radiotherapy) for high-risk patients after radical surgery for FIGO stage Ib--IIa cancer.
+
+Improvements in local control and survival could be achieved by combined treatments, which would avoid the discomforting complications associated with surgery plus radiotherapy.

@@ -1,0 +1,99 @@
+Hormonal therapy produces responses in 25% to 30% of unselected patients, with median response durations in the same range.
+
+However, the frequency of hormonal responses can be increased significantly by selecting patients whose tumors contain specific cytosolic receptors for estrogen or progesterone or both.
+
+Although complete responses can be seen with both forms of therapy, there are few cures of breast cancer once metastases have been demonstrated.
+
+If it were assumed that breast cancers are heterogeneous in terms of their estrogen receptor (ER) content, ie, composed of ER positive (ER +) and ER negative (ER -) cells in various proportions, then they may have a differential response to endocrine and cytotoxic chemotherapy.
+
+Using a similar technique Nenci was able to demonstrate that breast tumors are rarely composed of homogeneous cell types, ie, almost all breast cancers are composed of mixed receptor-positive and receptor-negative cell populations in variable proportions.
+
+Nenci also found that positivity of 20% of the cells was sufficient to give a positive ER by cytosolic assay.
+
+The rationale for combining hormonal therapy with cytotoxic chemotherapy is based on the assumption that breast cancers are heterogeneous in terms of ER content, and that there is a differential responsiveness of ER + and ER - cells to hormonal and chemotherapy.
+
+It is also assumed that neither chemotherapy nor hormonal therapy will interfere with action of the other form of treatment so that the response rates for the combination will be at least additive, and not antagonistic.
+
+With this theoretical background, Cancer and Leukemia Group B (CALGB) designed protocol 8081 to determine if the addition of a hormonally active agent (tamoxifen) would enhance the response rate, response duration, and survival of women with advanced breast cancer treated with combination chemotherapy.
+
+A previous CALGB study demonstrated that the combination of cyclophosphamide, doxorubicin (Adriamycin; Adria Laboratories, Columbus, OH), 5-fluorouracil (5-FU), vincristine, and prednisone (CAFVP) or CAF were each superior to the widely used combination of cyclophosphamide, methotrexate, and 5-FU (CMF).
+
+The same study also confirmed that CAF was less toxic than CAFVP.
+
+Patients were prospectively randomized after stratification by ER content, menopausal status, dominant site of metastatic disease, and prior adjuvant chemotherapy.
+
+A history of myocardial infarction within 6 months of protocol entry, congestive heart failure requiring digitalis, or angina were all causes for exclusion.
+
+Randomization was accomplished by a "sealed envelope method" using a Latin square design balancing within and across institutions and stratification factors.
+
+If this were not possible, patients were stratified according to the ER determination made on the primary tumor.
+
+Patients were classified as having either visceral or other (osseous or soft tissue) dominant sites of disease on study entry.
+
+Response Criteria A complete response (CR) required disappearance of all signs and symptoms attributable to the tumor, including the disappearance of all lesions for at least 1 month.
+
+Stable disease (stable) was a reduction in tumor size of < 50% or an increase < 25% over the original measurements.
+
+For bone lesions, this meant no change.
+
+Progression of osteolytic lesions or the appearance of new osteolytic lesions on x-ray also constituted progression of disease.
+
+Statistical Methods Differences in distributions of duration of response, time to treatment failure, and survival time were evaluated using a Cox proportional hazard multivariate model19 or, univariately, the log rank test.
+
+Differences in response frequencies and patient characteristics were evaluated using a multivariate linear logistic model, or, univariately, the chi square test.
+
+Seventy-seven percent of the patients on the CAF regimen and 75% of those on the TCAF regimen had a performance score of 0 or 1.
+
+No differences were found between the CAF and TCAF regimens, although the sample size was very small.
+
+Univariately, regardless of treatment (TCAF v CAF), ER positivity was significantly related to the duration of response, with ER + and ER unknown patients responding longer than ER - patients (Fig 5).
+
+The overall median TTF was 10.6 months.
+
+TTF did not differ significantly between the two treatment groups, with medians of 11.4 and 9.5 months; P = .25.
+
+Among ER+ patients, TTF by treatment (TCAF v CAF) did not differ significantly (P = .71).
+
+In a model that controlled for these factors, the P value for the comparison of treatment groups was .56.
+
+The overall median survival was 19.6 months (Fig 6).
+
+Survival distributions did not differ significantly between the two treatment groups (medians, 20.6 and 19.9 months; P = .76).
+
+A secondary objective of this study was to evaluate prospectively the response of ER + v ER - tumors to CAF chemotherapy.
+
+When the 190 evaluable patients receiving CAF were analyzed by ER status (Table 7), there was no significant difference in response rate between ER + and ER - tumors (56%).
+
+Toxicity Toxicity data were available on 375 of 379 cases (98.9% of cases entered) and are displayed in Table 8.
+
+DISCUSSION Our data demonstrate that there is no significant benefit to adding tamoxifen to CAF chemotherapy in the treatment of advanced breast cancer.
+
+Tamoxifen did not enhance the response rate, response duration or survival in ER + patients over CAF alone.
+
+Monoclonal antibody studies have demonstrated that breast cancers are heterogeneous in ER content; ie, breast cancers are composed of ER+ and ER- cells.
+
+Clearly, there is a differential response of ER + v ER - cells to hormonal therapy with at least some ER + cells responsive and ER - cells resistant.
+
+Other retrospective reports have also yielded inconsistent data.
+
+This arrest of cell division renders cells resistant to cycle-specific agents such as 5-FU and methotrexate, and less susceptible to other drugs such as doxorubicin and cyclophosphamide.
+
+Combining chemotherapy with hormonal therapy is not a new idea; the first clinical trials were reported over 15 years ago.
+
+However, to date, there have been no convincing data that the addition of hormonal therapy has enhanced the response rate, response duration, or survival over chemotherapy alone.
+
+Cocconi et al evaluated CMF (cyclophosphamide + methotrexate + 5-FU) with or without tamoxifen.
+
+Lastly, Kiang et al randomized 40 ER + postmenopausal women with advanced breast cancer to estrogen therapy with diethylstilbesterol (DES) or DES + chemotherapy with cyclophosphamide and 5-FU (CF).
+
+The survival of 21 ER + patients treated with combined DES + CF was significantly longer than 19 ER + treated with DES followed by chemotherapy after relapse or treatment failure.
+
+Despite the fact that bone is a frequent site of metastases from breast cancer, patients with metastases only to bone are often excluded from treatment protocols because of difficulties in assessing objective response.
+
+Segaloff included sclerosis and eventual disappearance of pure osteolytic lesions as an objective response in the response criteria for the Cooperative Breast Group.
+
+The healing of osteolytic lesions also constitutes a response as defined by the UICC.
+
+However, bone lesions are frequently sclerotic, or mixed lytic and blastic, making objective evaluation of response by standard radiologic criteria difficult.
+
+Pain "flares" are sometimes seen with successful hormonal or chemotherapy but Coombes et al" found that pain relief was the most consistent index of response to treatment, since nearly all responding patients with bone metastases eventually became pain free.

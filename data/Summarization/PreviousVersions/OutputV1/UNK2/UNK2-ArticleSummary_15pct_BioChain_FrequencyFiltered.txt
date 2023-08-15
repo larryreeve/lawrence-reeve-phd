@@ -1,0 +1,89 @@
+
+
+Most studies evaluating ondansetron for BMT preparative regimens prior to the initiation  of this
+study were small and nonrandomized [6, 8, 19, 25]. Dosing regimens varied from intermittent doses
+(0.15 mg/kg q 2 h´3 daily doses) to continuous infusions (1–3 mg/h) preceded by loading doses of
+8–12 mg. Several  European studies evaluated ondansetron administered as an i.v. loading dose (8–12
+mg i.v.) followed by continuous infusion of  1–4 mg/h (daily ondansetron dose ranged from 32 to 108
+mg) in non-BMT patients receiving cisplatin-based chemotherapy.  Marty et al.  observed similar
+response rates between a single 32-mg i.v. dose and an 8-mg i.v. loading dose followed by a 1 mg/h
+continuous infusion of ondansetron in acute cisplatin-induced nausea and vomiting (76% vs 72%
+complete or major response in  the single dose arm vs the continuous infusion arm).
+
+
+Despite the similar results observed regarding both the method of ondansetron administration (bolus
+vs continuous infusion)  and the actual dosage administered (1 vs up to 4 mg/h), it was believed
+that higher than conventional ondansetron dosage  regimens and, perhaps, continuous administration
+might be needed in the BMT setting. Therefore, our objective was to conduct a prospective, 
+randomized, non-blinded, controlled study comparing two different administration methods for
+high-dose ondansetron during a  BMT preparative regimen in breast cancer patients.
+
+
+Patients were eligible for participation in this IRB-approved study if they met the following
+criteria, more than 18 but less  than 65 years of age, non-pregnant female, with a histologically
+confirmed diagnosis of breast cancer, undergoing high-dose  chemotherapy in preparation for
+autologous bone marrow transplantation, and provision of written informed consent. Patients  were
+excluded for the following reasons, a Karnofsky performance status of <60%, chronic nausea and/or
+vomiting or nausea and/or vomiting of other etiologies, including, but not limited to, gastric
+outlet obstruction, increased intracranial  pressure or brain metastases, documented vomiting or
+retching episodes or uncontrolled nausea in the 12 h prior to the first  dose of i.v. ondansetron,
+radiation therapy administered as part of the preparative regimen, or medications with known or 
+potential antiemetic activity administered in the 12 h prior to the initiation of i.v. ondansetron. 
+According their guidelines, the emetogenic potential of  cyclophosphamide or carboplatin as a single
+agent was graded as a level 4 (60–90% emesis frequency without effective  antiemetic prophylaxis,
+Fig. 1). 
+
+
+Antiemetic therapy.Upon enrollment, patients were randomized to either an intermittent (INT) or a
+continuous intravenous infusion (CIV)  ondansetron regimen using a 1,1 block randomization scheme. 
+
+
+The history included a review of demographic information and historical status of cancer. Laboratory
+analysis,  including blood chemistries, was conducted within 24 h before and after the study.
+
+
+Control of emesis was graded daily for each 24-h period as complete (zero emetic episodes), major
+(one to two emetic episodes), minor (three to four emetic episodes) and failure (five or more emetic
+episodes or the  requirement of rescue therapy). 
+
+
+Statistical analysis was performed using a Chi-square test or a Fisher’s exact test when comparing
+means. The t-test was used to compare means for demographic data and number  of rescue medications. 
+
+
+There was no statistical difference  between treatment groups in the worst grade of emesis (P=0.49,
+2-tail Fisher’s exact test). Table 2 illustrates the median numbers of vomits and retches and the 
+nausea score per day. 
+
+
+Of the 2 patients who had an overall CR rate, 1 had received diphenhydramine and 1 had not. The most
+ common adverse effects occurring during the study period are outlined in order of decreasing
+frequency in Table 3. 
+
+
+No  significant differences in efficacy or toxicity were detected between the CIV and INT
+ondansetron groups. 
+
+
+Other potential mechanisms to target may include the effect of chemotherapy  metabolites on the
+central and enteric nervous systems as well as disruption of gut motility.
+
+
+Agura et al. found similar  results when he compared two dose levels of ondansetron (0.1 mg/kg LD
+followed by 0.035 mg/kg per h vs 0.2 mg/kg LD followed by 0.07 mg/kg per h) with metoclopramide plus
+droperidol in 60 BMT patients. 
+
+
+Although several other antiemetic studies in BMT patients have been reported since the initiation of
+this trial, it is  difficult to compare them because, (1) patient populations vary with respect to
+history of prior chemotherapy exposure, (2)  preparative regimens differ in combinations of drugs
+used, inclusion or exclusion of radiation therapy, and in the schedule  of drug administration, (3)
+antiemetic combinations, dosages and duration of administration are not consistent, and (4) 
+definitions of outcomes are not standardized. The incidence and severity of nausea and vomiting is
+higher in women, so that the  results of this study performed in breast cancer patients should be
+evaluated with caution when they are compared with those  of studies in other BMT populations.
+
+
+There were no differences between ondansetron given as a continuous infusion (8 mg LD i.v., then 2
+mg/h i.v.) or intermittent bolus dosing (24 mg i.v. b.i.d.) for the control of nausea and vomiting
+in breast cancer patients undergoing autologous BMT.  

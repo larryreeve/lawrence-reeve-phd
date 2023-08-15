@@ -1,0 +1,92 @@
+
+
+The nationwide use of such screening programs has greatly reduced the incidence of invasive cervical
+cancer.
+
+
+A previous study reported improved survival among women with locally advanced cervical cancer who
+received prophylactic radiation to the para-aortic nodes. 
+
+
+We report the first results of this study.
+
+
+We enrolled women of all ages who had stages IIB through IVA squamous-cell carcinoma,
+adenocarcinoma, or adenosquamous carcinoma of the cervix according to the staging system of the
+International Federation of Gynecology and Obstetrics (Table 1) or stage IB or IIA of one of these
+cancers with a tumor diameter of at least 5 cm or biopsy-proved metastasis to pelvic lymph nodes. 
+Women were excluded from the study if they met any of the following criteria, disease outside the
+pelvic area or spread to para-aortic lymph nodes, a prior cancer other than cutaneous basal-cell
+carcinoma, medical contraindications to chemotherapy, a rare histologic subtype, and prior
+hysterectomy or transperitoneal staging procedure for cervical cancer, pelvic radiotherapy, or
+systemic chemotherapy.
+
+
+The patients in each treatment group were stratified according to the tumor stage (IB, IIA, or IIB
+vs. III or IVA) and the staging method used for para-aortic lymph nodes (clinical vs. surgical).
+
+
+For patients who were assigned to receive radiotherapy and chemotherapy, the treatment field
+extended from the space between L4 and L5 to the midpubis or to a line 4 cm below the most distal
+vaginal or cervical site of disease. 
+
+
+The protocol specified that all patients receive a total cumulative dose to point A (a reference
+location 2 cm lateral and 2 cmsuperior to the cervical os) of at least 85 Gy. 
+
+
+Once treatment ended, patients were evaluated every three months for the first two years, every four
+months during the third year, every six months during the fourth and fifth years, and then annually.
+Disease status and the degree of treatment-related toxic effects were assessed by history taking,
+physical examination, and appropriate laboratory and radiologic tests. 
+
+
+Toxicity was assessed at the time of each evaluation with use of the Cooperative Group Common
+Toxicity Criteria, the Acute Radiation Morbidity Scoring Criteria, and the Late Radiation Morbidity
+Scoring Scheme of the RTOG and the European Organization for Research and Treatment of Cancer.
+
+
+Overall survival was the primary end point for the comparison of the two treatments and was
+calculated from the date of study entry until the date of death or the date of the last follow-up
+visit. 
+
+
+Five-year rates of secondary end points such as locoregional recurrence, para-aortic recurrence, and
+distant metastasis were estimated with the use of cumulative-incidence methods,and treatment effects
+were tested with use of the Gray algorithm. 
+
+
+The nominal significance level required for early reporting was origioriginally set at P=0.005, but
+we subsequently adopted a more conservative approach, because it allowed the number of deaths
+observed to determine the nominal level required for early reporting. 
+
+
+Fifteen patients (4 percent) — six in the combined-therapy group and nine in the radiotherapy group
+— were subsequently disqualified because of failure to undergo the required evaluation of
+para-aortic lymph nodes (eight patients), the presence of extrapelvic cancer (two), the presence of
+a rare histologic subtype (one), the presence of a stage IB1 tumor with no involvement of pelvic
+nodes (one), the absence of pretreatment data (two), and receipt of chemotherapy before radiotherapy
+(one). 
+
+
+Eleven patients (3 percent) did not undergo brachytherapy, three patients refused, and eight
+patients did not undergo it for other reasons. The median total duration of radiation was 58 days,
+with a mean dose of 89 Gy delivered to point A in each group. 
+
+
+The relative likelihood of disease-free survival in the combined-therapy group, as compared with the
+radiotherapy group, was 0.48 (95 percent confidence interval, 0.35 to 0.66). 
+
+
+Although the group reported significant improvements in overall and disease-free survival with the
+addition of hydroxyurea therapy, the study has been criticized for the use of a low dose of
+radiation and the poor survival rates in both groups and because more than half of the 190 patients
+who were enrolled could not be evaluated. The results of the Patterns of Care studies and large
+retrospective analyses suggest that these features correlate with survival rates and rates of local
+control of cervical cancer. 
+
+
+In our study, the benefit of para-aortic radiation may have been less than that observed in an
+earlier RTOG trial, because our trial required more rigorous staging of para-aortic lymph nodes and
+included patients with more advanced pelvic disease. The acute side effects were severe, possibly
+because of the addition of chemotherapy or the altered regimen of fractionation.

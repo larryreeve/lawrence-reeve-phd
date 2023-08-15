@@ -1,0 +1,61 @@
+Introduction Nausea and vomiting are significant side effects in bone marrow transplant (BMT) patients who receive high-dose preparative regimens.
+
+Owing to the higher doses of chemotherapy given in preparation for BMT and to the combinations of agents administered, chemotherapy-based preparative regimens have the potential to produce more nausea and vomiting than high-dose cisplatin.
+
+In another series of autologous BMT patients, Antman et al. observed moderate to severe nausea and vomiting despite the administration of prophylactic antiemetics.
+
+Because of the success rate of ondansetron in controlling cisplatin-induced nausea and vomiting, its use has been evaluated in the BMT setting.
+
+Most studies evaluating ondansetron for BMT preparative regimens prior to the initiation of this study were small and nonrandomized [6, 8, 19, 25].
+
+Overall response rates in these chemotherapy-based preparative regimens ranged from 9% to 82%, with complete responses varying from 9% to 67%.
+
+Several European studies evaluated ondansetron administered as an i.v. loading dose (8--12 mg i.v.) followed by continuous infusion of 1--4 mg/h (daily ondansetron dose ranged from 32 to 108 mg) in non-BMT patients receiving cisplatin-based chemotherapy.
+
+Complete plus major response rates (0--2 emetic episodes) were similar (50--60%) over the entire dosage range.
+
+Marty et al. observed similar response rates between a single 32-mg i.v. dose and an 8-mg i.v. loading dose followed by a 1 mg/h continuous infusion of ondansetron in acute cisplatin-induced nausea and vomiting (76% vs 72% complete or major response in the single dose arm vs the continuous infusion arm).
+
+We wanted to evaluate a patient population receiving the same chemotherapy drugs (and hence the same emetogenic potential) on the same schedule to avoid difficulty in interpretation of results.
+
+Therefore, our objective was to conduct a prospective, randomized, non-blinded, controlled study comparing two different administration methods for high-dose ondansetron during a BMT preparative regimen in breast cancer patients.
+
+According their guidelines, the emetogenic potential of cyclophosphamide or carboplatin as a single agent was graded as a level 4 (60--90% emesis frequency without effective antiemetic prophylaxis; Fig. 1).
+
+Antiemetic therapy Upon enrollment, patients were randomized to either an intermittent (INT) or a continuous intravenous infusion (CIV) ondansetron regimen using a 1:1 block randomization scheme.
+
+The need for rescue therapy was left to the discretion of the patient and/or investigator.
+
+Success was defined as complete control, major control (1--2 emetic episodes), or minor control (3--4 emetic episodes).
+
+There were no significant differences in study results (data not shown) whether the remaining results were included or not.
+
+Our success rates were high on the 1st day of chemotherapy (day --7), at 97% and 88% for the INT and CIV arms, respectively (Fig. 2).
+
+Interestingly, the success rate dropped to 56% and 50%, respectively, for the 2nd day of chemotherapy (day --6), and continued to decline to approximately a third of patients having success of emesis control on day --5.
+
+By the last 2 days of the study period (day --3 and --2), success rates ranged from only 10% to 16%.
+
+Barbonis et al. and Frakes et al. also identified a decline in emesis control from the 1st day of chemotherapy to the last day of chemotherapy administration.
+
+The inability to sustain high levels of emetic control beyond day 1 of chemotherapy suggests that nonserotonergic mechanisms associated with nausea and vomiting may contribute significantly from day 2 onward.
+
+Many studies have demonstrated that a serotonin antagonist in combination with dexamethasone yields better emesis control than a serotonin antagonist alone.
+
+Overall, ondansetron and granisetron were more effective than tropisetron for controlling emesis, but the best control occurred when these agents were used in combination with dexamethasone.
+
+The median number of vomits and retches per day was below five throughout the entire study period (Table 2).
+
+Although the percentage of patients receiving rescue antiemetics was less than 10% on the initial day of chemotherapy, this number increased over the next 2 days of chemotherapy and plateaued such that approximately 80% of patients required rescue antiemetics during the last 3 days of the study period (Fig. 3).
+
+Of those patients requiring rescue antiemetics, the median number of doses administered per day ranged from zero to 4 over the study period.
+
+These results are similar to the low success rates for emesis control discussed above and support the need for additional antiemetic therapy in combination with ondansetron.
+
+Overall, response rates in our study did not differ significantly from trials using more standard doses of ondansetron.
+
+Agura et al. found similar results when he compared two dose levels of ondansetron (0.1 mg/kg LD followed by 0.035 mg/kg per h vs 0.2 mg/kg LD followed by 0.07 mg/kg per h) with metoclopramide plus droperidol in 60 BMT patients.
+
+This study also suggests that higher doses of 5HT3 receptor antagonists may not be necessary in the BMT population.
+
+Although several other antiemetic studies in BMT patients have been reported since the initiation of this trial, it is difficult to compare them because: (1) patient populations vary with respect to history of prior chemotherapy exposure, (2) preparative regimens differ in combinations of drugs used, inclusion or exclusion of radiation therapy, and in the schedule of drug administration, (3) antiemetic combinations, dosages and duration of administration are not consistent, and (4) definitions of outcomes are not standardized.

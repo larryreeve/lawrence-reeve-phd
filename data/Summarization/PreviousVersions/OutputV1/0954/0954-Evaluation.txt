@@ -1,0 +1,88 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\0954\0954-Abstract-A.txt data\input\0954\0954-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...139687 ms
+
+Chaining summary file data\input\0954\0954-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  22969 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\0954\0954-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  154640 ms
+	Chain processing time: 16 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    3.31
+	Std Dev:      7.46
+	Strong Score: 18.22
+
+	T061-Therapeutic or Preventive Procedure: 25.00
+	T170-Intellectual Product: 20.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    14.38
+	Std Dev:      52.21
+	Strong Score: 118.80
+
+	T061-Therapeutic or Preventive Procedure: 210.00
+	T081-Quantitative Concept: 208.00
+	T170-Intellectual Product: 252.00
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 3
+	Number of concepts in Summary: 11
+
+	Number of strong chains in Full-text with concepts from Summary: 3
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 11
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,2 of 7)
+-------------
+
+0) BackgroundRadiotherapy after mastectomy to treat early breast cancer has been known since the 1940s to reduce rates of local relapse. 
+1) MethodsFrom 1978 through 1986, 318 premenopausal women with node-positive breast cancer were randomly assigned, after modified radical mastectomy, to receive chemotherapy plus radiotherapy or chemotherapy alone. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,22 of 88)
+-------------
+
+0) andthe possibility that eliminating bulky disease with radiationmay improve the effect of chemotherapy, becausechemotherapy may be more effective when theoverall disease burden is low.
+1) This report presents our findingsafter 15 years of follow-up.
+2) METHODSFrom 1979 through 1986, 318 premenopausal women withnewly diagnosed stage I or II breast cancer were enrolled in thestudy after undergoing modified radical mastectomy if, after axillary-node dissection, one or more level I or II lymph nodes werefound to be positive on pathological examination. 
+3) Among these 68 patients, 33 were assigned tochemotherapy and 35 were assigned to chemotherapy and radiotherapy.
+4) In the survival analysis, the time to the end pointsassociated with each event was calculated from the date of the tissuediagnosis of breast cancer. 
+5) In all the analyses, the data were censoredas of the date of that follow-up. 
+6) During the 15 years of follow-up, breast cancer hadrecurred in 176 patients and 144 patients died. 
+7) Study GroupsTable 2 and Figures 1 through 4 show the resultsin the two groups of patients. 
+8) In the group treatedwith chemotherapy plus radiotherapy, 79 of 164 patientshad recurrences — locoregional, systemic, orboth — as compared with 97 of 154 patients inthe group given chemotherapy alone. 
+9) Radiation also improved outcomein the 68 patients randomly assigned to ovarian ablation, in regard to disease-free survival (relativerisk, 0.72), survival free of systemic disease(relative risk, 0.76), and overall survival (relativerisk, 0.88).
+10) Subgroups Based on Nodal InvolvementThe reduction in the relative risk of a recurrencethat was obtained by adding radiation to chemotherapywas similar in the subgroup with one to threepositive nodes and the subgroup with four or morepositive nodes (Table 3). 
+11) There were no statisticallysignificant differences between these subgroups withregard to either survival free of systemic disease(P for interaction 0.9) or rates of locoregional recurrence(P 0.73).
+12) Side Effects of RadiationArm edema developed in 15 of the 154 irradiatedpatients. 
+13) Interventions were required in six (an elasticsleeve in four, a pump in one, and physiotherapyin one), as compared with five patients in the chemotherapygroup, one of whom required physiotherapy.
+14) Limited apical lung fibrosis developed inmost of the irradiated patients, but only one had interstitialpneumonitis requiring corticosteroids, withfull resolution on chest radiography several weekslater. 
+15) There wasan important increase in the number of deaths notdue to breast cancer among the irradiated patients(P 0.002). 
+16) Of these, only the Danish studyfound that radiotherapy had a benefit of a magnitudesimilar to that in our trial, and there was asignificant survival benefit in favor of radiotherapy(P 0.001). 
+17) Because all our patients were uniformly treatedwith chest-wall and nodal radiation, our results maynot apply to patients treated with breast irradiationalone after conservative surgery. 
+18) Four randomizedtrials comparing breast irradiation with no irradiationin patients who underwent conservative surgery showed significant reductions in the rate ofrelapse in the breast but no effect on systemic recurrencesor overall survival. 
+19) Therefore, it may be necessaryto add nodal radiation to breast irradiation inpremenopausal node-positive patients who are treatedwith partial mastectomy and adjuvant chemotherapy.
+20) The routine use ofradiation in all node-positive patients would representa substantial shift in treatment for breast cancer.
+21) The elimination of locoregionalcancer cells by radiotherapy added to adjuvantchemotherapy may reduce mortality in selectedpatients with breast cancer.

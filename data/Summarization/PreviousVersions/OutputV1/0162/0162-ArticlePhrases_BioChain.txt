@@ -1,0 +1,1295 @@
+toxicologic effects(toxicologic effects)
+cyclophosphamide(cyclophosphamide)
+	C10583|Cyclophosphamide|
+methotrexate(methotrexate)
+	C25677|Methotrexate|
+fluorouracil(fluorouracil)
+	C16360|Fluorouracil|
+chemotherapy(chemotherapy)
+	C13217|pharmacotherapeutic|
+	C13216|Pharmacotherapy|
+	C392920|Chemotherapy-Oncologic Procedure|
+histologically positive axillary nodes(positive axillary nodes)
+	C677929|positive axillary lymph nodes|
+course(course)
+	C449922|Course (attribute)|
+eligible patients(eligible patients)
+further treatment(further treatment)
+progress reports(progress reports)
+	C242586|Progress Report|
+significant difference(significant difference)
+favoring patients(patients)
+	C30705|Patients|
+adjuvant CMF(adjuvant)
+	C1551|Adjuvants, Immunologic|
+benefit(benefit)
+	C557186|Benefit status (observable entity)|
+	C235735|Unexpected therapeutic effect (observable entity)|
+	C557186|Benefit status (observable entity)|
+results(results)
+	C456984|Test finding (finding)|
+multimodality approach(multimodality approach)
+indeed important advance(important advance)
+optimal duration(optimal duration)
+relative shortterm adjuvant systemic treatment(relative shortterm adjuvant systemic treatment)
+patients considerable amount(patients amount)
+new prospective study(new prospective study)
+preliminary 3-yr results(preliminary results)
+cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+Similar findings(findings)
+	C243095|findings|
+5-yr results(results)
+	C456984|Test finding (finding)|
+total(total)
+	C439810|Total (qualifier value)|
+patients(patients)
+	C30705|Patients|
+histologically positive axillary nodes(positive axillary nodes)
+	C677929|positive axillary lymph nodes|
+age yr(age yr)
+cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+treatment group(treatment group)
+	C886148|Treatment procedure education, group|
+patients(patients)
+	C30705|Patients|
+technique(technique)
+	C449851|Techniques|
+permuted block(block)
+	C28778|Obstruction|
+apparent lack(apparent lack)
+adjuvant chemotherapy(adjuvant chemotherapy)
+	C85533|Chemotherapy, Adjuvant|
+randomization(randomization)
+	C34656|Random Allocation|
+postmenopausal patients(postmenopausal patients)
+patients(patients)
+	C30705|Patients|
+modified radical mastectomy(modified radical mastectomy)
+	C24883|Mastectomy, Modified Radical|
+	C1320277|Modified radical mastectomy (procedure)|
+small fraction(small fraction)
+postoperative radiotherapy(postoperative radiotherapy)
+	C436206|Postoperative course of radiotherapy (procedure)|
+other ancillary treatment(other ancillary treatment)
+Adjuvant chemotherapy(chemotherapy)
+	C13217|pharmacotherapeutic|
+	C13216|Pharmacotherapy|
+	C392920|Chemotherapy-Oncologic Procedure|
+dose schedule(dose schedule)
+cyclophosphamide(cyclophosphamide)
+	C10583|Cyclophosphamide|
+mg(mg)
+	C619894|magnesium mesoporphyrin|
+	C289053|MG115|
+	C24481|Mg-UTP|
+	C796640|MG98|
+	C66497|MG-6758|
+	C617935|magnesium GTPase|
+	C126774|magnesium citrate|
+	C128362|MG 46|
+	C605378|MG-6236|
+	C86619|Mg CTP|
+	C611637|MG-6812|
+	C65528|magnesium protoporphyrin|
+	C333746|Michaelis-Gutmann body (morphologic abnormality)|
+	C487172|Mg ANTIBODY|
+	C766198|MG624|
+	C128364|MG 8926|
+	C621548|MG 18949|
+	C24467|Magnesium|
+	C721495|MG 217|
+	C964518|magnesium dechelatase|
+	C965516|MG 262|
+	C246694|MG132|
+	C487173|Mg ANTIGEN|
+	C128363|MG 8823|
+	C253830|magnesium chelatase|
+	C128361|MG-28734|
+	C626128|5'-O-(6-O-malonylglucopyranosyl)pyridoxine|
+	C487172|Mg ANTIBODY|
+	C128360|MG 22429|
+	C128359|MG 13054|
+	C240291|Mg reduced|
+	C65530|magnesium pyrophosphate|
+	C487173|Mg ANTIGEN|
+	C768956|bis(isoorotato)diaquamagnesium(II) dihydrate|
+	C24467|Magnesium|
+	C276041|Chronic respiratory disease due to Mycoplasma gallisepticum (disorder)|
+	C626723|MG 28362|
+sq m(sq m)
+	C965983|p-methoxy-2-styrylquinoline|
+methotrexate(methotrexate)
+	C25677|Methotrexate|
+mg(mg)
+	C619894|magnesium mesoporphyrin|
+	C289053|MG115|
+	C24481|Mg-UTP|
+	C796640|MG98|
+	C66497|MG-6758|
+	C617935|magnesium GTPase|
+	C126774|magnesium citrate|
+	C128362|MG 46|
+	C605378|MG-6236|
+	C86619|Mg CTP|
+	C611637|MG-6812|
+	C65528|magnesium protoporphyrin|
+	C333746|Michaelis-Gutmann body (morphologic abnormality)|
+	C487172|Mg ANTIBODY|
+	C766198|MG624|
+	C128364|MG 8926|
+	C621548|MG 18949|
+	C24467|Magnesium|
+	C721495|MG 217|
+	C964518|magnesium dechelatase|
+	C965516|MG 262|
+	C246694|MG132|
+	C487173|Mg ANTIGEN|
+	C128363|MG 8823|
+	C253830|magnesium chelatase|
+	C128361|MG-28734|
+	C626128|5'-O-(6-O-malonylglucopyranosyl)pyridoxine|
+	C487172|Mg ANTIBODY|
+	C128360|MG 22429|
+	C128359|MG 13054|
+	C240291|Mg reduced|
+	C65530|magnesium pyrophosphate|
+	C487173|Mg ANTIGEN|
+	C768956|bis(isoorotato)diaquamagnesium(II) dihydrate|
+	C24467|Magnesium|
+	C276041|Chronic respiratory disease due to Mycoplasma gallisepticum (disorder)|
+	C626723|MG 28362|
+sq m intravenously(sq m)
+	C965983|p-methoxy-2-styrylquinoline|
+fluorouracil(fluorouracil)
+	C16360|Fluorouracil|
+mg(mg)
+	C619894|magnesium mesoporphyrin|
+	C289053|MG115|
+	C24481|Mg-UTP|
+	C796640|MG98|
+	C66497|MG-6758|
+	C617935|magnesium GTPase|
+	C126774|magnesium citrate|
+	C128362|MG 46|
+	C605378|MG-6236|
+	C86619|Mg CTP|
+	C611637|MG-6812|
+	C65528|magnesium protoporphyrin|
+	C333746|Michaelis-Gutmann body (morphologic abnormality)|
+	C487172|Mg ANTIBODY|
+	C766198|MG624|
+	C128364|MG 8926|
+	C621548|MG 18949|
+	C24467|Magnesium|
+	C721495|MG 217|
+	C964518|magnesium dechelatase|
+	C965516|MG 262|
+	C246694|MG132|
+	C487173|Mg ANTIGEN|
+	C128363|MG 8823|
+	C253830|magnesium chelatase|
+	C128361|MG-28734|
+	C626128|5'-O-(6-O-malonylglucopyranosyl)pyridoxine|
+	C487172|Mg ANTIBODY|
+	C128360|MG 22429|
+	C128359|MG 13054|
+	C240291|Mg reduced|
+	C65530|magnesium pyrophosphate|
+	C487173|Mg ANTIGEN|
+	C768956|bis(isoorotato)diaquamagnesium(II) dihydrate|
+	C24467|Magnesium|
+	C276041|Chronic respiratory disease due to Mycoplasma gallisepticum (disorder)|
+	C626723|MG 28362|
+sq m intravenously(sq m)
+	C965983|p-methoxy-2-styrylquinoline|
+drug(drug)
+	C13227|Pharmaceutical Preparations|
+total(total)
+	C439810|Total (qualifier value)|
+MTX mg(mg)
+	C619894|magnesium mesoporphyrin|
+	C289053|MG115|
+	C24481|Mg-UTP|
+	C796640|MG98|
+	C66497|MG-6758|
+	C617935|magnesium GTPase|
+	C126774|magnesium citrate|
+	C128362|MG 46|
+	C605378|MG-6236|
+	C86619|Mg CTP|
+	C611637|MG-6812|
+	C65528|magnesium protoporphyrin|
+	C333746|Michaelis-Gutmann body (morphologic abnormality)|
+	C487172|Mg ANTIBODY|
+	C766198|MG624|
+	C128364|MG 8926|
+	C621548|MG 18949|
+	C24467|Magnesium|
+	C721495|MG 217|
+	C964518|magnesium dechelatase|
+	C965516|MG 262|
+	C246694|MG132|
+	C487173|Mg ANTIGEN|
+	C128363|MG 8823|
+	C253830|magnesium chelatase|
+	C128361|MG-28734|
+	C626128|5'-O-(6-O-malonylglucopyranosyl)pyridoxine|
+	C487172|Mg ANTIBODY|
+	C128360|MG 22429|
+	C128359|MG 13054|
+	C240291|Mg reduced|
+	C65530|magnesium pyrophosphate|
+	C487173|Mg ANTIGEN|
+	C768956|bis(isoorotato)diaquamagnesium(II) dihydrate|
+	C24467|Magnesium|
+	C276041|Chronic respiratory disease due to Mycoplasma gallisepticum (disorder)|
+	C626723|MG 28362|
+sq m(sq m)
+	C965983|p-methoxy-2-styrylquinoline|
+FU mg(mg)
+	C619894|magnesium mesoporphyrin|
+	C289053|MG115|
+	C24481|Mg-UTP|
+	C796640|MG98|
+	C66497|MG-6758|
+	C617935|magnesium GTPase|
+	C126774|magnesium citrate|
+	C128362|MG 46|
+	C605378|MG-6236|
+	C86619|Mg CTP|
+	C611637|MG-6812|
+	C65528|magnesium protoporphyrin|
+	C333746|Michaelis-Gutmann body (morphologic abnormality)|
+	C487172|Mg ANTIBODY|
+	C766198|MG624|
+	C128364|MG 8926|
+	C621548|MG 18949|
+	C24467|Magnesium|
+	C721495|MG 217|
+	C964518|magnesium dechelatase|
+	C965516|MG 262|
+	C246694|MG132|
+	C487173|Mg ANTIGEN|
+	C128363|MG 8823|
+	C253830|magnesium chelatase|
+	C128361|MG-28734|
+	C626128|5'-O-(6-O-malonylglucopyranosyl)pyridoxine|
+	C487172|Mg ANTIBODY|
+	C128360|MG 22429|
+	C128359|MG 13054|
+	C240291|Mg reduced|
+	C65530|magnesium pyrophosphate|
+	C487173|Mg ANTIGEN|
+	C768956|bis(isoorotato)diaquamagnesium(II) dihydrate|
+	C24467|Magnesium|
+	C276041|Chronic respiratory disease due to Mycoplasma gallisepticum (disorder)|
+	C626723|MG 28362|
+sq m(sq m)
+	C965983|p-methoxy-2-styrylquinoline|
+dose reduction schedule(dose reduction schedule)
+myelosuppression(myelosuppression)
+	C854467|Myelosuppression (finding)|
+dose(dose)
+	C1115464|DOSE NUMBER|
+	C524811|Dose Fractionation|
+	C935905|dose-limiting|
+	C677884|dose-rate|
+	C524811|Dose Fractionation|
+leukocyte count(leukocyte count)
+	C23508|White Blood Cell Count procedure|
+platelet count(platelet count)
+	C1287267|Finding of platelet count (finding)|
+	C32181|Platelet Count|
+treatment(treatment)
+	C87111|Therapeutic procedure|
+	C39798|therapeutic aspects|
+Toxic manifestations(manifestations)
+	C494323|[X]Other manifestations of thiamin deficiency (disorder)|
+	C154238|[X]Other ocular manifestations of vitamin A deficiency (disorder)|
+	C260299|Tongue manifestations of general diseases|
+	C513313|Monitor for neuromuscular manifestations of hypomagnesemia|
+	C155902|Acute pulmonary manifestations due to radiation|
+	C494323|[X]Other manifestations of thiamin deficiency (disorder)|
+	C27854|Neurologic Manifestations|
+	C27854|Neurologic Manifestations|
+	C513267|Monitor for hematological manifestations of hypophosphatemia|
+	C516707|Reports absence of physical manifestations of anxiety|
+	C859077|Gout with other manifestations|
+	C1135187|Cystic fibrosis with gastrointestinal manifestations|
+	C339992|Influenza with respiratory manifestations NOS (disorder)|
+	C513294|Monitor for integument manifestations of hypocalcemia|
+	C152947|Other specified anthrax manifestations (disorder)|
+	C154629|Other specified manifestations of hyperkinetic syndrome of childhood|
+	C513314|Monitor for neuromuscular manifestations of hypophosphatemia|
+	C155871|Influenza with other manifestations NOS (disorder)|
+	C342262|Diabetes mellitus, adult onset, with other specified manifestation (disorder)|
+	C513197|Monitor for cardiovascular manifestations of hyponatremia|
+	C513189|Monitor for cardiac manifestations of hypernatremia|
+	C154176|Type I diabetes mellitus with renal manifestations|
+	C29665|[X]Other manifestations of vitamin A deficiency (disorder)|
+	C154238|[X]Other ocular manifestations of vitamin A deficiency (disorder)|
+	C513146|Monitor for GI manifestations of hypophosphatemia|
+	C29166|Oral Manifestations|
+	C342247|Diabetes mellitus, adult onset, with ophthalmic manifestation (disorder)|
+	C513148|Monitor for GI manifestations of metabolic alkalosis|
+	C15411|Eye Manifestations|
+	C513198|Monitor for cardiovascular manifestations of hypophosphatemia|
+	C513191|Monitor for cardiac manifestations of metabolic alkalosis|
+	C348816|Cystic fibrosis with intestinal manifestations (disorder)|
+	C513143|Monitor for GI manifestations of hypocalcemia|
+	C513132|Monitor for CNS manifestations of hypercalcemia|
+	C494350|Cystic fibrosis with other manifestations (disorder)|
+	C513017|Monitor cardiac manifestations of hyperkalemia|
+	C513338|Monitor for pulmonary manifestations of metabolic alkalosis|
+	C513142|Monitor for GI manifestations of hypercalcemia|
+	C154180|Type I diabetes mellitus with neurological manifestations|
+	C513337|Monitor for pulmonary manifestations of hypophosphatemia|
+	C752303|Urological Manifestations|
+	C260238|Cutaneous manifestations of general diseases|
+	C513536|Monitor neurological manifestations of hyperkalemia|
+	C11881|Diabetic Nephropathies|
+	C525041|Neurobehavioral Manifestations|
+	C513133|Monitor for CNS manifestations of hypermagnesemia|
+	C37285|Skin Manifestations|
+	C513302|Monitor for manifestations of electrolyte imbalance|
+	C494350|Cystic fibrosis with other manifestations (disorder)|
+	C154257|Other specified gouty manifestation NOS (morphologic abnormality)|
+	C348815|Cystic fibrosis with pulmonary manifestations|
+	C154183|Diabetes with other specified manifestations|
+	C810252|Diabetes with other manifestations|
+	C152947|Other specified anthrax manifestations (disorder)|
+	C342261|Diabetes mellitus, juvenile type, with other specified manifestation (disorder)|
+	C348816|Cystic fibrosis with intestinal manifestations (disorder)|
+	C153239|[X]Other manifestations of yaws (disorder)|
+	C339992|Influenza with respiratory manifestations NOS (disorder)|
+	C153239|[X]Other manifestations of yaws (disorder)|
+	C512951|Monitor GI manifestations of hypokalemia|
+	C342249|Diabetes mellitus, adult onset, with neurological manifestation (disorder)|
+	C513684|Monitor pulmonary manifestations of hypokalemia|
+	C513194|Monitor for cardiopulmonary manifestations of respiratory alkalosis|
+	C513425|Monitor for skeletal manifestations of hypophosphatemia|
+	C494350|Cystic fibrosis with other manifestations (disorder)|
+	C29665|[X]Other manifestations of vitamin A deficiency (disorder)|
+	C810251|Diabetes with circulatory manifestations|
+	C15411|Eye Manifestations|
+	C154178|Type I diabetes mellitus with ophthalmic manifestations|
+	C11869|Diabetic oculopathy (disorder)|
+	C513136|Monitor for CNS manifestations of hypophosphatemia|
+	C513145|Monitor for GI manifestations of hyponatremia|
+	C259983|Pulmonary manifestations of general diseases|
+	C513192|Monitor for cardiopulmonary manifestations of hypermagnesemia|
+	C342256|Diabetes mellitus, adult onset, with renal manifestation (disorder)|
+	C11882|Diabetic Neuropathies|
+	C154238|[X]Other ocular manifestations of vitamin A deficiency (disorder)|
+	C155871|Influenza with other manifestations NOS (disorder)|
+	C513195|Monitor for cardiovascular manifestations of hypercalcemia|
+	C513312|Monitor for neuromuscular manifestations of hypocalcemia|
+	C513144|Monitor for GI manifestations of hypomagnesemia|
+	C513190|Monitor for cardiac manifestations of hypomagnesemia|
+	C513703|Monitor renal manifestations of hypokalemia|
+	C752251|Muscle Disease Manifestations|
+	C11869|Diabetic oculopathy (disorder)|
+	C21414|Influenza with respiratory manifestation other than pneumonia (disorder)|
+	C513311|Monitor for neuromuscular manifestations of hypermagnesemia|
+	C29510|other and unspecified manifestations of thiamine deficiency|
+	C513310|Monitor for neuromuscular manifestations of hypercalcemia|
+	C513196|Monitor for cardiovascular manifestations of hypocalcemia|
+	C494323|[X]Other manifestations of thiamin deficiency (disorder)|
+	C152947|Other specified anthrax manifestations (disorder)|
+	C752252|Neuromuscular Manifestations|
+	C513135|Monitor for CNS manifestations of hypomagnesemia|
+	C525041|Neurobehavioral Manifestations|
+	C153239|[X]Other manifestations of yaws (disorder)|
+	C513134|Monitor for CNS manifestations of hypocalcemia|
+	C260078|Oral manifestations of general diseases|
+	C513537|Monitor neurological manifestations of hypokalemia|
+	C513018|Monitor cardiac manifestations of hypokalemia|
+	C27854|Neurologic Manifestations|
+	C154180|Type I diabetes mellitus with neurological manifestations|
+mucositis(mucositis)
+	C236177|Inflammatory disease of mucous membrane (disorder)|
+cystitis(cystitis)
+	C10692|Cystitis|
+temporary dose reduction only(temporary dose reduction only)
+Primary treatment failure(treatment failure)
+	C162643|Treatment Failure|
+feasible histologic examination(histologic examination)
+radiographs(radiographs)
+	C407702|Orthognathic surgery on radiographs (procedure)|
+	C563453|Full mouth periapical radiographs (procedure)|
+	C563453|Full mouth periapical radiographs (procedure)|
+	C407702|Orthognathic surgery on radiographs (procedure)|
+presence(presence)
+	C392148|Providing presence (regime/therapy)|
+exact timing(exact timing)
+treatment(treatment)
+	C87111|Therapeutic procedure|
+	C39798|therapeutic aspects|
+following systemic treatment(following systemic treatment)
+patients(patients)
+	C30705|Patients|
+positive(positive)
+	C205159|Positive (qualifier value)|
+ovariectomy(ovariectomy)
+	C29936|Ovariectomy|
+additive hormonal therapy(additive hormonal therapy)
+particularly tamoxifen(tamoxifen)
+	C39286|Tamoxifen|
+combined sometimes(combined)
+	C205195|Combined (qualifier value)|
+estrogen receptors(estrogen receptors)
+	C34804|Estrogen Receptors|
+systemic treatment(systemic treatment)
+	C854608|Systemic antifungal treatment|
+	C854610|Systemic antiviral treatment|
+preferentially adriamycin containing regimen(adriamycin containing regimen)
+possible patients(possible patients)
+second line cytotoxic chemotherapy(second line cytotoxic chemotherapy)
+hormonal manipulations(hormonal manipulations)
+premenopausal women(premenopausal women)
+retrospective evaluation(retrospective evaluation)
+presence(presence)
+	C392148|Providing presence (regime/therapy)|
+additional women(additional women)
+fixation(fixation)
+	C728733|Psychological fixation|
+	C185023|Fixation - action|
+muscle(muscle)
+	C26845|Muscle|
+total(total)
+	C439810|Total (qualifier value)|
+women(women)
+	C43209|Human Females|
+	C43210|Human adult females|
+total(total)
+	C439810|Total (qualifier value)|
+planned adjuvant(planned adjuvant)
+CMF cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+women(women)
+	C43209|Human Females|
+	C43210|Human adult females|
+patients(patients)
+	C30705|Patients|
+majority(majority)
+	C680220|majority|
+cm(cm)
+	C475210|cm (qualifier value)|
+Estrogen receptor(receptor)
+	C597357|receptor|
+status(status)
+	C449438|Status (attribute)|
+dextran-coated charcoal assay(charcoal assay)
+ER tumors(tumors)
+	C27651|Neoplasms|
+positive(positive)
+	C205159|Positive (qualifier value)|
+negative(negative)
+	C205160|Negative (qualifier value)|
+remaining tumors(remaining tumors)
+borderline values(borderline values)
+median follow-up(median)
+	C876920|Median Statistical Measurement|
+	C549183|Median (qualifier value)|
+mo(mo)
+	C26402|Molybdenum|
+follow-up program(program)
+	C681480|program profile|
+	C33334|Program Effectiveness|
+	C33331|Program Appropriateness|
+	C33336|Program Evaluation|
+	C33328|Program Accessibility|
+	C242549|Program Sustainability|
+	C680839|program implementation|
+	C242549|Program Sustainability|
+	C682350|program dropout|
+	C682346|program participant|
+	C473164|Program writer (occupation)|
+	C33333|Program Development|
+	C33336|Program Evaluation|
+	C682344|program applicant|
+	C681479|Program Descriptions|
+	C33336|Program Evaluation|
+	C682349|program completer|
+	C681477|program announcement|
+	C33335|Program Efficiency|
+	C681478|program proposal|
+	C33327|Program Acceptability|
+	C680834|program planning|
+	C681479|Program Descriptions|
+	C683739|program management|
+patients(patients)
+	C30705|Patients|
+complete physical examination(complete physical examination)
+	C436120|Physical examination, complete (procedure)|
+	C436120|Physical examination, complete (procedure)|
+skeleton(skeleton)
+	C37253|Skeletal system|
+	C816871|Skeleton|
+	C1283922|Entire skeleton|
+skull(skull)
+	C37303|Bone structure of cranium|
+spine(spine)
+	C37949|Vertebral column|
+	C1267072|Entire vertebral column|
+	C1280065|Entire spine|
+pelvis(pelvis)
+	C30797|Pelvis|
+	C1279864|Entire pelvis|
+upper third(upper third)
+	C442049|Upper third (qualifier value)|
+liver scan(liver scan)
+	C203758|Radioisotope study of liver (procedure)|
+	C203758|Radioisotope study of liver (procedure)|
+bilateral mammography(bilateral mammography)
+	C203027|Bilateral mammography (procedure)|
+hemogram(hemogram)
+	C200631|Complete blood count without differential (procedure)|
+biochemical tests(biochemical tests)
+physical examination(physical examination)
+	C31809|Clinical examination|
+mastectomy(mastectomy)
+	C24881|Mastectomy|
+then mo(then mo)
+third years(third years)
+4 6 mo thereafter(4 6 mo)
+Biochemical tests(tests)
+	C392366|Tests (qualifier value)|
+serum bilirubin(serum bilirubin)
+	C863144|Serum bilirubin|
+	C428442|Serum bilirubin NOS (procedure)|
+	C1318178|Serum bilirubin NOS|
+total proteins(total proteins)
+	C1254580|Intravascular Total Proteins Test|
+alkaline phosphatase(alkaline phosphatase)
+	C1318717|Alkaline phosphatase stain|
+	C2059|Alkaline Phosphatase|
+mo(mo)
+	C26402|Molybdenum|
+Chest roentgenogram(roentgenogram)
+	C1306645|Plain film (procedure)|
+mo(mo)
+	C26402|Molybdenum|
+bone x-rays(bone)
+	C262950|Skeletal bone|
+	C391978|Bone Tissue|
+	C1266908|Entire bone (organ)|
+	C1266909|Entire bony skeleton|
+year(year)
+	C439234|year (qualifier value)|
+Liver scan(scan)
+	C441633|Scanning|
+mammography(mammography)
+	C24671|Mammography|
+examinations(examinations)
+	C554839|Examinations - miscellaneous (procedure)|
+	C586307|Examination administration|
+short-term interval(interval)
+	C1272706|Interval (qualifier value)|
+exact time(exact time)
+extent(extent)
+	C439792|Extents (qualifier value)|
+vast majority(vast majority)
+baseline(baseline)
+	C168634|BaseLine|
+routine bone scans(routine bone scans)
+suspicious radiographic findings(suspicious radiographic findings)
+persisting bone pain(persisting bone pain)
+Primary treatment failure(treatment failure)
+	C162643|Treatment Failure|
+local regional s(local regional s)
+distant s(distant s)
+combination(combination)
+	C205195|Combined (qualifier value)|
+proportion(proportion)
+	C1286089|Proportion of nipple (observable entity)|
+	C1286216|Proportion of foot (observable entity)|
+	C1286190|Proportion of hand (observable entity)|
+	C1285980|proportion of uterus (observable entity)|
+	C1286144|Proportion of thorax (observable entity)|
+surviving(surviving)
+	C557089|Finding of relatives surviving (finding)|
+	C557087|Last surviving member of family (finding)|
+	C557089|Finding of relatives surviving (finding)|
+	C557089|Finding of relatives surviving (finding)|
+	C557087|Last surviving member of family (finding)|
+	C557089|Finding of relatives surviving (finding)|
+yr(yr)
+	C439234|year (qualifier value)|
+log rank test(log rank test)
+values(values)
+	C42295|VALUING|
+comparative RFS(comparative)
+	C681074|comparative advantage|
+	C9491|Comparative Study|
+	C33913|Psychology, Comparative|
+	C9491|Comparative Study|
+	C457358|Comparative dimensions (qualifier value)|
+	C31844|Physiology, Comparative|
+	C33913|Psychology, Comparative|
+	C2811|Anatomy, Comparative|
+	C2811|Anatomy, Comparative|
+	C19639|Histology, Comparative|
+	C237415|Comparative Psychiatry|
+	C683941|comparative analysis|
+results(results)
+	C456984|Test finding (finding)|
+nodal status(nodal status)
+	C1300899|Status of extra-capsular extension of nodal tumor (observable entity)|
+	C1300899|Status of extra-capsular extension of nodal tumor (observable entity)|
+treatment regimens(treatment regimens)
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+confidence limits(confidence limits)
+	C237530|Confidence Limits|
+percent difference(percent difference)
+standard error(standard error)
+	C871916|Standard Error of Measurement|
+overall RFS difference(overall difference)
+somewhat contrasting results(somewhat results)
+postmenopausal patients(postmenopausal patients)
+only fictitious difference(only fictitious difference)
+postmenopausal women(postmenopausal women)
+treatment(treatment)
+	C87111|Therapeutic procedure|
+	C39798|therapeutic aspects|
+menopausal groups(menopausal groups)
+5-yr total survival(total survival)
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+findings(findings)
+	C243095|findings|
+premenopausal patients(premenopausal patients)
+72% 5-yr survival(72% survival)
+findings(findings)
+	C243095|findings|
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+frequency(frequency)
+	C376249|With frequency|
+incidence(incidence)
+	C220856|incidence of cases|
+	C21149|Incidence|
+substantial difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+postmenopausal women(postmenopausal women)
+overall survival(overall survival)
+absence(absence)
+	C332907|Congenital absence|
+	C270823|Petit mal status|
+	C14553|Epilepsy, Absence|
+	C152158|Failure of lactation unspecified (disorder)|
+	C14553|Epilepsy, Absence|
+	C442733|Absence findings (qualifier value)|
+	C235956|Absence attacks|
+	C3130|Anoxia|
+	C14553|Epilepsy, Absence|
+findings(findings)
+	C243095|findings|
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+statistical significance(statistical significance)
+	C237881|Statistical Significance|
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+overall survival(overall survival)
+premenopausal women(premenopausal women)
+significantly longer survival(longer survival)
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+striking difference(striking difference)
+ER tumors(tumors)
+	C27651|Neoplasms|
+visceral involvement(visceral involvement)
+	C85131|Gangliosidosis GM1|
+frequency(frequency)
+	C376249|With frequency|
+s(s)
+	C1320599|S-s- phenotype (finding)|
+	C72354|Protein Disulfide Isomerase|
+disease(disease)
+	C12634|Disease|
+more indolent course(more indolent course)
+ER tumors(tumors)
+	C27651|Neoplasms|
+further progression(further progression)
+similar type(similar type)
+nodal status(nodal status)
+	C1300899|Status of extra-capsular extension of nodal tumor (observable entity)|
+	C1300899|Status of extra-capsular extension of nodal tumor (observable entity)|
+statistically significant difference(significant difference)
+6-cycle group(group)
+	C441833|Groups (qualifier value)|
+	C1300322|Group (social concept)|
+Acute toxic reactions(toxic reactions)
+hair loss(hair loss)
+	C2170|Alopecia|
+most distressing side effects(most distressing side effects)
+dose limiting factor(dose limiting factor)
+severe leukopenia(severe leukopenia)
+thrombocytopenia(thrombocytopenia)
+	C40034|Thrombocytopenia|
+prolonged myelosuppression(prolonged myelosuppression)
+infectious complications(infectious complications)
+	C32965|Pregnancy Complications, Infectious|
+	C32965|Pregnancy Complications, Infectious|
+Only small subgroup(small subgroup)
+planned program(planned program)
+patients(patients)
+	C30705|Patients|
+toxic treatment program(toxic treatment program)
+drug injections(drug injections)
+timing(timing)
+	C449243|Timing (attribute)|
+visible disease(visible disease)
+treatment groups(treatment groups)
+	C419094|Radiotherapy treatment groups (procedure)|
+	C419094|Radiotherapy treatment groups (procedure)|
+contralateral breast cancer(contralateral breast cancer)
+	C1096616|Contralateral breast cancer|
+Four additional patients(additional patients)
+second tumors(second tumors)
+endometrial carcinoma in situ(endometrial carcinoma situ)
+patients(patients)
+	C30705|Patients|
+endometrial carcinoma(endometrial carcinoma)
+	C476089|Endometrial Carcinoma|
+	C476089|Endometrial Carcinoma|
+thyroid cancer(thyroid cancer)
+	C1318516|Malignant tumor of thyroid gland (disorder)|
+	C7115|Thyroid Cancer|
+myoblastoma(myoblastoma)
+	C27043|Myoblastoma|
+mo(mo)
+	C26402|Molybdenum|
+So far patient(far patient)
+developed acute leukemia(developed acute leukemia)
+comparative frequency(comparative frequency)
+relative frequency(relative frequency)
+cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+total survival(total survival)
+none(none)
+	C549184|None (qualifier value)|
+observation(observation)
+	C700325|Patient observation|
+	C302523|Observation in research|
+cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+apparently superior results(apparently superior results)
+confidence(confidence)
+	C237529|Self-confidence (observable entity)|
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+long-term analysis(analysis)
+	C936012|Analysis|
+	C2778|Analysis of substances|
+survival(survival)
+	C220921|survival aspects|
+	C38952|Continuance of life|
+other findings(other findings)
+	C159131|[D]Other nonspecific abnormal finding NOS (context-dependent category)|
+cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+dose level(dose level)
+main important pharmacologic factor affecting tumor response(main important pharmacologic factor affecting tumor response)
+peak level(peak level)
+total amount(total amount)
+clinical findings(clinical findings)
+	C586173|Clinical finding (finding)|
+above-mentioned statement(statement)
+	C808073|STATEMENT OF ADEQUACY|
+	C1321079|Statement of needs (qualifier value)|
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+three different dose levels(three different dose levels)
+important finding to(important finding)
+pattern(pattern)
+	C449774|Patterns (qualifier value)|
+difference(difference)
+	C12213|Differential Threshold|
+	C12213|Differential Threshold|
+distant areas(distant areas)
+preliminary 3-yr results(preliminary results)
+utilizing single multidrug regimen(utilizing single multidrug regimen)
+duration(duration)
+	C449238|Duration|
+Present results(results)
+	C456984|Test finding (finding)|
+patients(patients)
+	C30705|Patients|
+cyclophosphamide(cyclophosphamide)
+	C10583|Cyclophosphamide|
+adriamycin(adriamycin)
+	C85752|Adriamycin|
+wk(wk)
+	C439230|week (qualifier value)|
+same regimen(same regimen)
+wk(wk)
+	C439230|week (qualifier value)|
+median 2.6 yr(median 2.6 yr)
+survival difference(survival difference)
+findings(findings)
+	C243095|findings|
+previous trial(previous trial)
+patient selection(patient selection)
+	C242802|Patient Selection|
+procedures(procedures)
+	C184661|Procedures|
+	C25664|Methodology|
+type(type)
+	C455704|Type type|
+	C332307|With type (attribute)|
+methods(methods)
+	C25664|Methodology|
+	C25663|Methods|
+follow-up examinations(examinations)
+	C554839|Examinations - miscellaneous (procedure)|
+	C586307|Examination administration|
+women(women)
+	C43209|Human Females|
+	C43210|Human adult females|
+medical oncologists(medical oncologists)
+research nurses(research nurses)
+5-yr results(results)
+	C456984|Test finding (finding)|
+two series(two series)
+cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+same results(same results)
+adjuvant CMF(adjuvant)
+	C1551|Adjuvants, Immunologic|
+cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+course(course)
+	C449922|Course (attribute)|
+first(first)
+	C205435|First (qualifier value)|
+important one(important one)
+real difference(real difference)
+adjuvant chemotherapy(adjuvant chemotherapy)
+	C85533|Chemotherapy, Adjuvant|
+postmenopausal women(postmenopausal women)
+different results(different results)
+only small fraction(only small fraction)
+findings(findings)
+	C243095|findings|
+menopausal status(menopausal status)
+treatment outcome(treatment outcome)
+	C599860|Non-human treatment outcome|
+	C85415|Treatment outcome|
+Manchester study groups(study groups)
+actuarial 5-yr RFS(actuarial)
+	C1296|Actuarial Analysis|
+	C1296|Actuarial Analysis|
+melphalan(melphalan)
+	C25241|Melphalan|
+only group significantly(only group)
+premenopausal patients(premenopausal patients)
+findings(findings)
+	C243095|findings|
+premenopausal women(premenopausal women)
+adjuvant combination chemotherapy(adjuvant combination chemotherapy)
+Effective adjuvant combination chemotherapy(adjuvant combination chemotherapy)
+results(results)
+	C456984|Test finding (finding)|
+recent retrospective studies(recent retrospective studies)
+response rate(response rate)
+	C878525|Cancer treatment response rate|
+	C237629|Frequency of Responses|
+results(results)
+	C456984|Test finding (finding)|
+ER tumors(tumors)
+	C27651|Neoplasms|
+possible therapeutic role(possible therapeutic role)
+premenopausal women(premenopausal women)
+significantly longer survival(longer survival)
+clear explanation(clear explanation)
+frequency(frequency)
+	C376249|With frequency|
+ER tumors(tumors)
+	C27651|Neoplasms|
+slow growing disease(slow growing disease)
+therapeutic efficacy(therapeutic efficacy)
+clinical reason to(clinical reason)
+	C1276303|Treatment delay - clinical reason (finding)|
+	C1276303|Treatment delay - clinical reason (finding)|
+administration(administration)
+	C1554|Administration|
+	C1262471|Administration (procedure)|
+combined chemotherapy hormonal therapy(combined chemotherapy hormonal therapy)
+superior results(superior results)
+most important practical aspect(most important practical aspect)
+single drug combination(single drug combination)
+maximal tumor cytoreduction(maximal tumor)
+clinical findings(clinical findings)
+	C586173|Clinical finding (finding)|
+conclusion(conclusion)
+	C679250|disease outcome|
+maximum therapeutic effect(maximum therapeutic effect)
+sound clinical reasons to(sound clinical reasons)
+treatment(treatment)
+	C87111|Therapeutic procedure|
+	C39798|therapeutic aspects|
+same drugs(same drugs)
+observation(observation)
+	C700325|Patient observation|
+	C302523|Observation in research|
+cycles(cycles)
+	C205836|Ovarian Cycle|
+	C8858|Citric Acid Cycle|
+	C7586|Cell Cycle|
+	C87128|Ultradian Cycles|
+	C23675|Life Cycle Stages|
+	C8858|Citric Acid Cycle|
+	C404572|Female infertility of anovulatory origin NOS (disorder)|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C5551|Biorhythms|
+	C205835|Endometrial Cycle|
+	C7586|Cell Cycle|
+	C871618|Work Rest Cycles|
+	C25329|Menstrual Cycle|
+	C1289|Activity Cycles|
+	C86321|Futile Cycling|
+	C79709|Lunar Cycle|
+	C950151|Estrous Cycle|
+	C15585|Family Life Cycles|
+Arizona group(group)
+	C441833|Groups (qualifier value)|
+	C1300322|Group (social concept)|
+different combination regimen(different combination regimen)
+adriamycin(adriamycin)
+	C85752|Adriamycin|
+cyclophosphamide(cyclophosphamide)
+	C10583|Cyclophosphamide|
+different adjuvant treatments(different adjuvant treatments)
+extremely important clinical observation(extremely important clinical observation)
+frequency(frequency)
+	C376249|With frequency|
+moderate patients(moderate patients)
+unnecessary side effects(unnecessary side effects)
+negative psychologic reactions(negative psychologic reactions)
+treatment duration(treatment duration)
+	C444921|Duration of treatment (qualifier value)|
+less protracted exposure(less protracted exposure)
+alkylating agents(alkylating agents)
+	C2073|Alkylating Agents|
+adriamycin(adriamycin)
+	C85752|Adriamycin|
+potential risk(potential risk)
+chronic organ damage(chronic organ damage)
+s(s)
+	C1320599|S-s- phenotype (finding)|
+	C72354|Protein Disulfide Isomerase|
+classes(classes)
+	C441884|Classes (qualifier value)|
+Repetitive dose treatments(dose treatments)
+vast majority(vast majority)
+fluctuating(fluctuating)
+	C231241|Fluctuating (qualifier value)|
+sometimes larger numbers(larger numbers)
+resistant neoplastic cells overgrow(resistant neoplastic cells)
+host(host)
+	C1167395|host|
+40-yr-old mutation theory(mutation theory)
+neoplastic cells(neoplastic cells)
+	C41373|Tumor Stem Cells|
+basic law(basic law)
+consistent observations(consistent observations)
+sequential delivery(sequential delivery)
+non cross-resistant drugs often(non drugs often)
+delay failures(delay failures)
+doses(doses)
+	C1115737|NUMBER OF PREVIOUS DOSES|
+	C752079|Maximum Tolerated Dose|
+	C752079|Maximum Tolerated Dose|
+schedules(schedules)
+	C86960|Schedules|
+sequential delivery(sequential delivery)
+current results(current results)
+adriamycin containing regimen(adriamycin containing regimen)
+clinical research efforts(clinical research efforts)
+current protocols(current protocols)
+alternating delivery(alternating delivery)
+adriamycin(adriamycin)
+	C85752|Adriamycin|
+previous experience(previous experience)
+treatments(treatments)
+	C87111|Therapeutic procedure|
+full drug doses(full drug doses)
+CMF regimen(regimen)
+	C677937|regimen|
+three drugs(three drugs)
+intravenously wk(wk)
+	C439230|week (qualifier value)|
+FU mg(mg)
+	C619894|magnesium mesoporphyrin|
+	C289053|MG115|
+	C24481|Mg-UTP|
+	C796640|MG98|
+	C66497|MG-6758|
+	C617935|magnesium GTPase|
+	C126774|magnesium citrate|
+	C128362|MG 46|
+	C605378|MG-6236|
+	C86619|Mg CTP|
+	C611637|MG-6812|
+	C65528|magnesium protoporphyrin|
+	C333746|Michaelis-Gutmann body (morphologic abnormality)|
+	C487172|Mg ANTIBODY|
+	C766198|MG624|
+	C128364|MG 8926|
+	C621548|MG 18949|
+	C24467|Magnesium|
+	C721495|MG 217|
+	C964518|magnesium dechelatase|
+	C965516|MG 262|
+	C246694|MG132|
+	C487173|Mg ANTIGEN|
+	C128363|MG 8823|
+	C253830|magnesium chelatase|
+	C128361|MG-28734|
+	C626128|5'-O-(6-O-malonylglucopyranosyl)pyridoxine|
+	C487172|Mg ANTIBODY|
+	C128360|MG 22429|
+	C128359|MG 13054|
+	C240291|Mg reduced|
+	C65530|magnesium pyrophosphate|
+	C487173|Mg ANTIGEN|
+	C768956|bis(isoorotato)diaquamagnesium(II) dihydrate|
+	C24467|Magnesium|
+	C276041|Chronic respiratory disease due to Mycoplasma gallisepticum (disorder)|
+	C626723|MG 28362|
+sq m(sq m)
+	C965983|p-methoxy-2-styrylquinoline|
+MTX mg(mg)
+	C619894|magnesium mesoporphyrin|
+	C289053|MG115|
+	C24481|Mg-UTP|
+	C796640|MG98|
+	C66497|MG-6758|
+	C617935|magnesium GTPase|
+	C126774|magnesium citrate|
+	C128362|MG 46|
+	C605378|MG-6236|
+	C86619|Mg CTP|
+	C611637|MG-6812|
+	C65528|magnesium protoporphyrin|
+	C333746|Michaelis-Gutmann body (morphologic abnormality)|
+	C487172|Mg ANTIBODY|
+	C766198|MG624|
+	C128364|MG 8926|
+	C621548|MG 18949|
+	C24467|Magnesium|
+	C721495|MG 217|
+	C964518|magnesium dechelatase|
+	C965516|MG 262|
+	C246694|MG132|
+	C487173|Mg ANTIGEN|
+	C128363|MG 8823|
+	C253830|magnesium chelatase|
+	C128361|MG-28734|
+	C626128|5'-O-(6-O-malonylglucopyranosyl)pyridoxine|
+	C487172|Mg ANTIBODY|
+	C128360|MG 22429|
+	C128359|MG 13054|
+	C240291|Mg reduced|
+	C65530|magnesium pyrophosphate|
+	C487173|Mg ANTIGEN|
+	C768956|bis(isoorotato)diaquamagnesium(II) dihydrate|
+	C24467|Magnesium|
+	C276041|Chronic respiratory disease due to Mycoplasma gallisepticum (disorder)|
+	C626723|MG 28362|
+sq m(sq m)
+	C965983|p-methoxy-2-styrylquinoline|
+platelets 100,000/cu mm(platelets mm)
+treatment(treatment)
+	C87111|Therapeutic procedure|
+	C39798|therapeutic aspects|
+1 2 wk to(1 2 wk)
+constant delivery(constant delivery)
+postoperative course(postoperative course)
+	C436206|Postoperative course of radiotherapy (procedure)|
+presence(presence)
+	C392148|Providing presence (regime/therapy)|
+therapeutic effectiveness(therapeutic effectiveness)
+prolonged administration unnecessary(prolonged administration unnecessary)
+Only long-term analysis(analysis)
+	C936012|Analysis|
+	C2778|Analysis of substances|
+questions(questions)
+	C600648|Examination Questions [Publication Type]|
+	C508431|Answer questions|
+	C566219|Difficulty asking questions (finding)|
+	C566219|Difficulty asking questions (finding)|
+addition(addition)
+	C79380|Frameshift Mutation|
+results(results)
+	C456984|Test finding (finding)|
+excellent results(excellent results)
+fluorouracil(fluorouracil)
+	C16360|Fluorouracil|
+adriamycin(adriamycin)
+	C85752|Adriamycin|
+cyclophosphamide(cyclophosphamide)
+	C10583|Cyclophosphamide|
+tumor cell burden(tumor cell burden)
+important prognostic factor(important prognostic factor)
+new prospective trials(new prospective trials)
+potential efficacy(potential efficacy)

@@ -1,0 +1,1416 @@
+treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+Combination chemotherapy
+	C0013218|Drug Therapy, Combination|T061
+response durations
+	C0237585|Response Duration|T079
+Hormonal therapy
+	C0278784|Hormone therapy (procedure)|T061
+responses
+	C0871261|Responses|T054
+frequency
+	C0376249|With frequency|T081
+tumors
+	C0027651|Neoplasms|T191
+specific cytosolic receptors
+	C0205369|Specific (qualifier value)|T080
+	C0872141|cytosolic receptor|T116
+	C1263442|SPECIFIC|T121
+progesterone
+	C0033308|Progesterone|T125
+complete responses
+	C0677874|In complete remission (qualifier value)|T033
+few cures
+	C0205388|Few (qualifier value)|T081
+breast cancers
+	C0006142|Malignant neoplasm of breast|T191
+ER
+	C0279756|estrogen receptor negative|T034
+content
+	C0423896|Feeling content (finding)|T041
+ER
+	C0279756|estrogen receptor negative|T034
+ER negative
+	C0205160|Negative (qualifier value)|T080
+	C0279756|estrogen receptor negative|T034
+ER
+	C0279756|estrogen receptor negative|T034
+cells
+	C0007634|Cells|T025
+differential response
+	C0871261|Responses|T054
+	C0443199|Differential (qualifier value)|T080
+cytotoxic chemotherapy
+	C0677881|Cytotoxic drug therapy NOS (procedure)|T061
+differential responses
+	C0871261|Responses|T054
+	C0443199|Differential (qualifier value)|T080
+ER cells
+	C0279756|estrogen receptor negative|T034
+	C0007634|Cells|T025
+differential response
+	C0871261|Responses|T054
+	C0443199|Differential (qualifier value)|T080
+ER cells
+	C0279756|estrogen receptor negative|T034
+	C0007634|Cells|T025
+al
+	C0002367|Aluminum|T196
+tumor heterogeneity
+	C0019409|Heterogeneity|T102
+	C0027651|Neoplasms|T191
+breast tumors
+	C0006149|Breast Neoplasms|T191
+receptor negative cell populations
+	C0032659|Population|T081
+	C0597357|receptor|T192
+	C1269647|Entire cell|T025
+	C0205160|Negative (qualifier value)|T080
+	C0007634|Cells|T025
+positivity
+	C0205159|Positive (qualifier value)|T080
+positive ER
+	C0205159|Positive (qualifier value)|T080
+	C0279756|estrogen receptor negative|T034
+breast cancers
+	C0006142|Malignant neoplasm of breast|T191
+differential responsiveness
+	C0443199|Differential (qualifier value)|T080
+	C0205342|Responsive (qualifier value)|T169
+ER cells
+	C0279756|estrogen receptor negative|T034
+	C0007634|Cells|T025
+chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+hormonal therapy
+	C0278784|Hormone therapy (procedure)|T061
+response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+Cancer
+	C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+	C0006826|Malignant Neoplasms|T191
+	C0998265|Cancer Genus|T009
+Leukemia Group B
+	C0348801|Group B streptococcal pneumonia|T047
+	C0441836|Group B rank|T185
+	C0023418|Leukemia|T191
+addition
+	C0442796|Additive (qualifier value)|T080
+tamoxifen
+	C0039286|Tamoxifen|T109
+response rate
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+response duration
+	C0237585|Response Duration|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+previous CALGB study
+	C0205156|Previous (qualifier value)|T082
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+combination
+	C0205195|Combined (qualifier value)|T080
+doxorubicin
+	C0013089|Doxorubicin|T195
+Adriamycin
+	C0085752|Adriamycin|T195
+Adria Laboratories
+	C0022877|Laboratories|T073
+	C0331763|Adria Pharmaceuticals|T093
+OH
+	C0220853|Hydroxide Ion|T196
+vincristine
+	C0042679|Vincristine|T109
+prednisone
+	C0032952|Prednisone|T125
+methotrexate
+	C0025677|Methotrexate|T109
+CMF
+	C0950521|CMF|T061
+same study also
+	C0445247|Same (qualifier value)|T080
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+Tamoxifen
+	C0039286|Tamoxifen|T109
+relative lack
+	C0080103|Relative (related person)|T099
+	C0205345|Relative|T080
+	C0332268|Lacking (qualifier value)|T080
+Patients
+	C0030705|Patients|T101
+menopausal status
+	C0232967|Menopausal|T169
+	C0449438|Status (attribute)|T080
+dominant site
+	C0205145|Associated topography (attribute)|T082
+	C0870441|Dominance|T078
+	C0870442|Domination|T055
+prior adjuvant chemotherapy
+	C0281265|prior adjuvant chemotherapy|T033
+Preliminary data
+	C0439611|Preliminary (qualifier value)|T079
+final report
+	C0460114|Final report (administrative concept)|T058
+MATERIALS
+	C0520510|Materials|T167
+METHODS Patient Eligibility Eligibility requirements
+	C0025664|Methodology|T170
+	C0030705|Patients|T101
+	C0025663|Methods|T170
+histologically documented carcinoma
+	C1301725|Documented (qualifier value)|T058
+	C0205462|Histologic|T169
+	C0007097|Carcinoma|T191
+measurable disease
+	C0677909|measurable disease|T047
+CALGB performance score
+	C0597198|Performance|T055
+	C0449820|Scores (qualifier value)|T081
+age years
+	C0439234|year (qualifier value)|T079
+	C0001779|Age (qualifier value)|T079
+radiation therapy
+	C0034619|radiotherapeutic|T170
+	C0034618|Radiation therapy|T061
+Patients
+	C0030705|Patients|T101
+WBC count
+	C0023508|White Blood Cell Count procedure|T059
+blood urea nitrogen level
+	C0456079|Disease classification level|T185
+	C0600137|Blood Urea Nitrogen|T123
+	C0005845|Blood urea nitrogen measurement|T059
+dL
+	C0439241|dL (qualifier value)|T081
+serum creatinine
+	C0201976|SERUM CREATININE TESTS|T059
+	C0600061|Serum creatinine level|T034
+dL
+	C0439241|dL (qualifier value)|T081
+normal values
+	C0086715|Normal Range|T081
+bilirubin
+	C0005437|Bilirubin|T123
+abnormal values
+	C0042295|VALUING|T080
+	C0205161|Abnormal (qualifier value)|T169
+Informed consent
+	C0021430|Informed Consent|T058
+Patients
+	C0030705|Patients|T101
+above criteria
+	C0243161|criteria|T170
+	C1282910|Supra- (qualifier value)|T082
+second primary neoplasm
+	C0085183|Neoplasms, Second Primary|T191
+carcinoma in situ
+	C0007099|Carcinoma in Situ|T191
+psychiatric disease
+	C0205487|Psychiatric (qualifier value)|T169
+	C0012634|Disease|T047
+patient to
+	C0030705|Patients|T101
+informed consent
+	C0021430|Informed Consent|T058
+therapy
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+history
+	C0019664|Recording of previous events|T090
+	C1321503|History of (contextual qualifier) (qualifier value)|T033
+	C0019665|history|T170
+	C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+	C0262926|Medical History|T033
+congestive heart failure requiring digitalis
+	C0012252|Genus: Digitalis|T002
+	C0304520|Digitalis preparation|T109
+	C0018802|Heart Failure, Congestive|T047
+angina
+	C0002962|Angina Pectoris|T047
+Radiation therapy
+	C0034619|radiotherapeutic|T170
+	C0034618|Radiation therapy|T061
+lumbar spine
+	C0024091|Bone structure of lumbar vertebra|T023
+	C1269871|Entire lumbar spine|T029
+palliative radiotherapy
+	C1285530|Palliative - procedure intent (qualifier value)|T080
+	C0034619|radiotherapeutic|T170
+	C0034618|Radiation therapy|T061
+Patients
+	C0030705|Patients|T101
+received prior ajuvant chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0544683|Reception|T042
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+Patients
+	C0030705|Patients|T101
+receiving adjuvant therapy
+	C0544683|Reception|T042
+	C0677850|adjuvant therapy|T061
+tamoxifen
+	C0039286|Tamoxifen|T109
+Stratification
+	C0205363|Stratified (qualifier value)|T080
+Randomization Patients
+	C0030705|Patients|T101
+	C0034656|Random Allocation|T062
+negative
+	C0205160|Negative (qualifier value)|T080
+positive
+	C0205159|Positive (qualifier value)|T080
+dominant site
+	C0205145|Associated topography (attribute)|T082
+	C0870441|Dominance|T078
+	C0870442|Domination|T055
+prior adjuvant chemotherapy
+	C0281265|prior adjuvant chemotherapy|T033
+hormonal therapy
+	C0278784|Hormone therapy (procedure)|T061
+menopausal status
+	C0232967|Menopausal|T169
+	C0449438|Status (attribute)|T080
+pre
+	C0740175|Before values (qualifier value)|T079
+postmenopausal patients
+	C0030705|Patients|T101
+	C0232970|Postmenopausal state (finding)|T079
+premenopausal patients
+	C0279752|premenopausal|T079
+	C0030705|Patients|T101
+single stratum
+	C0205171|Singular|T081
+	C0037179|Unmarried person|T098
+	C0087136|Unmarried|T098
+Randomization
+	C0034656|Random Allocation|T062
+envelope method
+	C0025663|Methods|T170
+Latin square design balancing
+	C0205120|Square (qualifier value)|T082
+	C0014653|Equilibrium|T040
+stratification factors
+	C0205363|Stratified (qualifier value)|T080
+protocol
+	C0442711|Protocols documentation|T170
+use
+	C0042153|utilization|T081
+al
+	C0002367|Aluminum|T196
+values
+	C0042295|VALUING|T080
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+protein
+	C0202202|Protein measurement|T059
+	C0033684|Proteins|T116
+positive
+	C0205159|Positive (qualifier value)|T080
+fmol
+	C0439195|fmol (qualifier value)|T081
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+protein negative
+	C0202202|Protein measurement|T059
+	C0033684|Proteins|T116
+	C0205160|Negative (qualifier value)|T080
+ER assay
+	C0243073|assay|T059
+	C0279756|estrogen receptor negative|T034
+patient
+	C0030705|Patients|T101
+ER
+	C0279756|estrogen receptor negative|T034
+ER assay
+	C0243073|assay|T059
+	C0279756|estrogen receptor negative|T034
+not possible patients
+	C0030705|Patients|T101
+	C0332149|Possible|T080
+ER assays
+	C0243073|assay|T059
+	C0279756|estrogen receptor negative|T034
+quality
+	C0332306|With quality (attribute)|T080
+reference powders
+	C0205543|Referred (qualifier value)|T080
+	C0032861|Powders|T122
+Patients
+	C0030705|Patients|T101
+soft tissue
+	C0225317|Soft tissues (body structure)|T024
+dominant sites
+	C0205145|Associated topography (attribute)|T082
+	C0870441|Dominance|T078
+	C0870442|Domination|T055
+Visceral metastases
+	C1290850|Secondary malignant neoplastic disease (disorder)|T191
+	C0027627|Neoplasm Metastasis|T191
+	C0442045|Visceral (qualifier value)|T082
+disease
+	C0012634|Disease|T047
+pulmonary parenchyma
+	C0819757|Structure of parenchyma of lung|T023
+	C1279455|Entire lung parenchyma|T029
+pleura
+	C0032225|Pleura|T017
+	C1279036|Entire pleura|T023
+brain
+	C0006104|Brain|T023
+	C1269537|Entire brain|T023
+bone marrow
+	C0005953|Bone Marrow|T024
+Osseous disease indicated metastases
+	C0153690|Secondary malignant neoplasm of bone (disorder)|T191
+	C0012634|Disease|T047
+	C0021212|Indicators|T130
+	C1235732|Indicator|T012
+	C0237000|Indications|T078
+Soft tissue disease
+	C0012634|Disease|T047
+	C0225317|Soft tissues (body structure)|T024
+lymph nodes
+	C0024204|lymph nodes|T023
+stage IV
+	C0441772|Stage 4 (qualifier value)|T170
+breast cancer
+	C0006142|Malignant neoplasm of breast|T191
+multiple sites
+	C0205145|Associated topography (attribute)|T082
+	C0439064|Numerous (qualifier value)|T081
+visceral disease
+	C0012634|Disease|T047
+	C0442045|Visceral (qualifier value)|T082
+Patients
+	C0030705|Patients|T101
+last menstrual period
+	C0425932|Date of last menstrual period|T033
+Treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+patients
+	C0030705|Patients|T101
+chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+tamoxifen
+	C0039286|Tamoxifen|T109
+Chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+14-day period
+	C0332182|Periodic (qualifier value)|T079
+	C0439228|day (qualifier value)|T079
+Patients
+	C0030705|Patients|T101
+cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+doxorubicin
+	C0013089|Doxorubicin|T195
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+Patients
+	C0030705|Patients|T101
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+Dose calculations
+	C0444686|Calculated (qualifier value)|T169
+	C0178602|Dosages (qualifier value)|T081
+ideal body weight
+	C0421272|Ideal body weight (observable entity)|T033
+actual weight
+	C0237400|Actual|T080
+	C0005910|Body Weight|T060
+	C0043100|Weight|T081
+methotrexate
+	C0025677|Methotrexate|T109
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+Dose modifications
+	C0205349|Altered (qualifier value)|T169
+	C0178602|Dosages (qualifier value)|T081
+doxorubicin
+	C0013089|Doxorubicin|T195
+platelet count
+	C0032181|Platelet Count|T059
+	C1287267|Finding of platelet count (finding)|T034
+Reductions
+	C0301630|Reduction (chemical)|T070
+	C0441610|Reduction - action|T061
+SGOT
+	C0201899|Aspartate aminotransferase assay|T059
+diarrhea
+	C0011991|Diarrhea|T184
+cystitis
+	C0010692|Cystitis|T047
+Ancillary Therapy Palliative radiation
+	C1285530|Palliative - procedure intent (qualifier value)|T080
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+	C0851346|Radiation|T070
+Chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+patients
+	C0030705|Patients|T101
+irradiation
+	C1282930|Irradiation (physical force)|T070
+	C0034618|Radiation therapy|T061
+	C0851346|Radiation|T070
+Response Criteria complete response
+	C0243161|criteria|T170
+	C0677874|In complete remission (qualifier value)|T033
+	C0871261|Responses|T054
+CR
+	C0008574|Chromium|T123
+new lesions
+	C0205314|New (qualifier value)|T079
+	C0221198|Lesion|T033
+CR meant recalcification
+	C0444504|Mean (qualifier value)|T081
+	C0008574|Chromium|T123
+	C0876919|Meaning|T078
+partial response
+	C0677924|partial response|T080
+PR
+	C0279766|progesterone receptor negative|T034
+50% reduction
+	C0301630|Reduction (chemical)|T070
+	C0441610|Reduction - action|T061
+enlargement
+	C0020564|Hypertrophy|T190
+	C1293134|Enlargement procedure (procedure)|T061
+PR meant partial recalcification
+	C0444504|Mean (qualifier value)|T081
+	C0279766|progesterone receptor negative|T034
+	C0876919|Meaning|T078
+	C0728938|Partial (qualifier value)|T081
+Stable disease
+	C0677946|stable disease|T191
+reduction
+	C0301630|Reduction (chemical)|T070
+	C0441610|Reduction - action|T061
+meant change
+	C0444504|Mean (qualifier value)|T081
+	C0392747|Changing|T169
+	C0443172|Changed status|T081
+	C0876919|Meaning|T078
+new lesions
+	C0205314|New (qualifier value)|T079
+	C0221198|Lesion|T033
+Progressive disease
+	C0677932|progressive disease|T191
+PD
+	C0030230|Palladium|T196
+appearance
+	C0233426|Personal appearance|T032
+	C0700364|Appearance|T080
+metastases
+	C1290850|Secondary malignant neoplastic disease (disorder)|T191
+	C0027627|Neoplasm Metastasis|T191
+patient
+	C0030705|Patients|T101
+progressive disease
+	C0677932|progressive disease|T191
+Progression
+	C0449258|Progression (attribute)|T169
+appearance
+	C0233426|Personal appearance|T032
+	C0700364|Appearance|T080
+Patients
+	C0030705|Patients|T101
+weeks
+	C0439230|week (qualifier value)|T079
+progressive disease
+	C0677932|progressive disease|T191
+patient
+	C0030705|Patients|T101
+treatment failure
+	C0162643|Treatment Failure|T080
+Responding patients
+	C0030705|Patients|T101
+	C0871261|Responses|T054
+stable disease
+	C0677946|stable disease|T191
+prohibitive drug toxicity
+	C0013221|Drug Toxicity|T037
+	C0138547|Prohibit|T118
+Statistical Methods Differences
+	C0025664|Methodology|T170
+	C0443199|Differential (qualifier value)|T080
+	C0220917|statistical|T170
+	C0025663|Methods|T170
+time
+	C0040223|Time|T079
+survival time
+	C0040223|Time|T079
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+log rank test
+	C0699794|Rank|T170
+	C0335467|Logger (occupation)|T097
+	C0392366|Tests (qualifier value)|T170
+Differences
+	C0443199|Differential (qualifier value)|T080
+patient characteristics
+	C0815172|patient characteristics|T201
+multivariate linear logistic model
+	C0023965|Logistic Models|T170
+	C0205132|Linear|T082
+chi square test
+	C0008041|Chi-Square Test|T081
+Medians
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+survival curves
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+	C0205134|Curved (qualifier value)|T082
+term statistically significant refers
+	C0237881|Statistical Significance|T081
+	C0205543|Referred (qualifier value)|T080
+RESULTS total
+	C0439810|Total (qualifier value)|T080
+	C1274040|Result (navigational concept)|T169
+protocol
+	C0442711|Protocols documentation|T170
+incomplete data
+	C0205257|Incomplete|T081
+	C0728938|Partial (qualifier value)|T081
+evaluable patients
+	C0220825|Evaluation|T169
+	C0030705|Patients|T101
+	C1261322|Assessment procedure (procedure)|T058
+prior adjuvant chemotherapy
+	C0281265|prior adjuvant chemotherapy|T033
+months
+	C0439231|month (qualifier value)|T079
+nonmeasurable bone disease
+	C0005940|Bone Diseases|T047
+adjuvant group
+	C1300322|Group (social concept)|T096
+	C0441833|Groups (qualifier value)|T170
+	C0001551|Adjuvants, Immunologic|T129
+Patient Characteristics
+	C0815172|patient characteristics|T201
+Measurable Disease treatment groups
+	C0036669|Sensitivity Training Groups|T065
+	C0677909|measurable disease|T047
+Approximately three quarters
+	C0332232|Approximate (qualifier value)|T169
+	C0205449|Three (qualifier value)|T081
+visceral disease
+	C0012634|Disease|T047
+	C0442045|Visceral (qualifier value)|T082
+third
+	C0205437|Third (qualifier value)|T081
+one third ER
+	C0205437|Third (qualifier value)|T081
+	C0205447|One (qualifier value)|T081
+	C0279756|estrogen receptor negative|T034
+Seventy seven percent
+	C0205453|Seven (qualifier value)|T081
+	C0439165|Percent (qualifier value)|T081
+performance score
+	C0597198|Performance|T055
+	C0449820|Scores (qualifier value)|T081
+Patient Characteristics
+	C0815172|patient characteristics|T201
+Nonmeasurable Disease
+	C0012634|Disease|T047
+patients
+	C0030705|Patients|T101
+prior radiotherapy
+	C0034619|radiotherapeutic|T170
+	C0750516|PRIOR|T078
+	C0034618|Radiation therapy|T061
+chi square test
+	C0008041|Chi-Square Test|T081
+more pain
+	C0205172|More (qualifier value)|T081
+	C0030193|Pain|T184
+chi square test
+	C0008041|Chi-Square Test|T081
+visceral disease
+	C0012634|Disease|T047
+	C0442045|Visceral (qualifier value)|T082
+Response Four patients
+	C0030705|Patients|T101
+	C0871261|Responses|T054
+	C0205450|Four (qualifier value)|T081
+inadequate records
+	C0034869|Records|T170
+	C0205412|Inadequate (qualifier value)|T080
+hip fracture
+	C0019557|Hip Fractures|T037
+CRs
+	C0008574|Chromium|T123
+difference
+	C0443199|Differential (qualifier value)|T080
+PRs
+	C0279766|progesterone receptor negative|T034
+TCAF patients
+	C0030705|Patients|T101
+patients
+	C0030705|Patients|T101
+difference
+	C0443199|Differential (qualifier value)|T080
+CR
+	C0008574|Chromium|T123
+PR
+	C0279766|progesterone receptor negative|T034
+best response
+	C0332272|Better (qualifier value)|T080
+	C0871261|Responses|T054
+	C0205170|Good (qualifier value)|T080
+significant differences
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+ER status
+	C0449438|Status (attribute)|T080
+	C0279756|estrogen receptor negative|T034
+Patients
+	C0030705|Patients|T101
+higher response rate
+	C0205250|High|T080
+	C0237629|Frequency of Responses|T079
+	C0235146|Euphoric mood|T041
+	C0878525|Cancer treatment response rate|T079
+osseous disease
+	C0012634|Disease|T047
+	C0695720|Osseous|T097
+patients
+	C0030705|Patients|T101
+higher response rate
+	C0205250|High|T080
+	C0237629|Frequency of Responses|T079
+	C0235146|Euphoric mood|T041
+	C0878525|Cancer treatment response rate|T079
+response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+there significant difference
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+higher response rate
+	C0205250|High|T080
+	C0237629|Frequency of Responses|T079
+	C0235146|Euphoric mood|T041
+	C0878525|Cancer treatment response rate|T079
+only performance status
+	C0935728|performance status|T033
+significant prognostic factor
+	C0220901|prognostic|T170
+	C0750502|Significant (qualifier value)|T078
+treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+P value
+	C0879541|p-value|T081
+Response rates
+	C0871208|Rating|T062
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+CR
+	C0008574|Chromium|T123
+PR
+	C0279766|progesterone receptor negative|T034
+chi square test
+	C0008041|Chi-Square Test|T081
+stable disease
+	C0677946|stable disease|T191
+subjective improvement
+	C0439655|Subjective observation (qualifier value)|T080
+	C0184511|Improved (qualifier value)|T080
+	C1272745|Improving (qualifier value)|T170
+	C0332161|Attenuated by (contextual qualifier) (qualifier value)|T080
+none
+	C0549184|None (qualifier value)|T081
+progression
+	C0449258|Progression (attribute)|T169
+difficulty
+	C1299586|Has difficulty doing (qualifier value)|T033
+then bone only patients
+	C1266909|Entire bony skeleton|T022
+	C0262950|Skeletal bone|T021
+	C0030705|Patients|T101
+	C1266908|Entire bone (organ)|T023
+	C0391978|Bone Tissue|T024
+Time
+	C0040223|Time|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+duration
+	C0449238|Duration|T079
+differences
+	C0443199|Differential (qualifier value)|T080
+TCAF regimens
+	C0677937|regimen|T061
+sample size
+	C0242618|Sample Size|T081
+Duration
+	C0449238|Duration|T079
+Time
+	C0040223|Time|T079
+Survival Duration
+	C0038952|Continuance of life|T052
+	C0449238|Duration|T079
+	C0220921|survival aspects|T081
+death
+	C0011065|Cessation of life|T040
+date patient
+	C0030705|Patients|T101
+	C0011008|Dates|T079
+patient
+	C0030705|Patients|T101
+time
+	C0040223|Time|T079
+progression
+	C0449258|Progression (attribute)|T169
+death
+	C0011065|Cessation of life|T040
+patient
+	C0030705|Patients|T101
+date
+	C0011008|Dates|T079
+Survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+date
+	C0011008|Dates|T079
+median duration
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+	C0449238|Duration|T079
+12.0 months
+	C0439231|month (qualifier value)|T079
+duration
+	C0449238|Duration|T079
+CAF treatment programs
+	C0679841|treatment program|T058
+median durations
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+	C0449238|Duration|T079
+months
+	C0439231|month (qualifier value)|T079
+ER positivity
+	C0205159|Positive (qualifier value)|T080
+	C0279756|estrogen receptor negative|T034
+ER unknown patients
+	C0439673|Unknown (qualifier value)|T078
+	C0030705|Patients|T101
+	C0279756|estrogen receptor negative|T034
+Median durations
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+	C0449238|Duration|T079
+8.5 months
+	C0439231|month (qualifier value)|T079
+significant differences
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+menopausal status
+	C0232967|Menopausal|T169
+	C0449438|Status (attribute)|T080
+significant difference
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+addition
+	C0442796|Additive (qualifier value)|T080
+response duration
+	C0237585|Response Duration|T079
+Response rate
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+response duration
+	C0237585|Response Duration|T079
+detrimental effect
+	C1280500|Effect (qualifier value)|T080
+10.6 months
+	C0439231|month (qualifier value)|T079
+9.5 months
+	C0439231|month (qualifier value)|T079
+following significant prognostic factors
+	C0220901|prognostic|T170
+	C0750502|Significant (qualifier value)|T078
+	C0332282|Following (attribute)|T079
+performance status
+	C0935728|performance status|T033
+number
+	C0449788|Count of entities (property) (qualifier value)|T081
+ER status
+	C0449438|Status (attribute)|T080
+	C0279756|estrogen receptor negative|T034
+P value
+	C0879541|p-value|T081
+overall median survival
+	C0549183|Median (qualifier value)|T082
+	C0282416|Overall [Publication Type]|T170
+	C0876920|Median Statistical Measurement|T081
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+19.6 months
+	C0439231|month (qualifier value)|T079
+Survival distributions
+	C0038952|Continuance of life|T052
+	C0037775|Spatial Distribution|T082
+	C0220921|survival aspects|T081
+medians
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+19.9 months
+	C0439231|month (qualifier value)|T079
+Two factors
+	C0205448|Two (qualifier value)|T081
+dominant site
+	C0205145|Associated topography (attribute)|T082
+	C0870441|Dominance|T078
+	C0870442|Domination|T055
+soft tissue
+	C0225317|Soft tissues (body structure)|T024
+medians
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+22.0 months
+	C0439231|month (qualifier value)|T079
+ER status
+	C0449438|Status (attribute)|T080
+	C0279756|estrogen receptor negative|T034
+medians
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+23.1 months
+	C0439231|month (qualifier value)|T079
+significant differences
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+treatments
+	C0087111|Therapeutic procedure|T061
+secondary objective
+	C0018017|Goals|T170
+	C0036525|Metastatic to|T169
+	C0175668|Secondary to|T079
+prospectively response
+	C0871261|Responses|T054
+evaluable patients
+	C0220825|Evaluation|T169
+	C0030705|Patients|T101
+	C1261322|Assessment procedure (procedure)|T058
+significant difference
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+ER tumors
+	C0027651|Neoplasms|T191
+	C0279756|estrogen receptor negative|T034
+response duration
+	C0237585|Response Duration|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+Toxicity Toxicity data
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+three early deaths
+	C0205449|Three (qualifier value)|T081
+	C0205085|Early (qualifier value)|T079
+	C0011065|Cessation of life|T040
+one patient
+	C0030705|Patients|T101
+	C0205447|One (qualifier value)|T081
+treatment withheld
+	C0871549|Withholding Treatment|T058
+produced equivalent incidences
+	C0021149|Incidence|T081
+	C0033268|Production|T057
+	C0439185|Eq (qualifier value)|T081
+thrombocytopenia
+	C0040034|Thrombocytopenia|T047
+nausea
+	C0027497|Nausea|T033
+vomiting
+	C0042963|Vomiting|T184
+	C0401156|Vomiting NOS (disorder)|T047
+infection
+	C0021311|Infection|T047
+Tamoxifen
+	C0039286|Tamoxifen|T109
+seven toxic deaths
+	C0205453|Seven (qualifier value)|T081
+	C0011065|Cessation of life|T040
+	C0600688|Toxic effect|T037
+one
+	C0205447|One (qualifier value)|T081
+other lethal toxicity
+	C1031740|Lethe|T009
+	C0205394|Other|T080
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+congestive heart failure
+	C0018802|Heart Failure, Congestive|T047
+DISCUSSION
+	C0557061|Discussion (procedure)|T061
+significant benefit
+	C0814225|benefits|T081
+	C0750502|Significant (qualifier value)|T078
+lack
+	C0332268|Lacking (qualifier value)|T080
+Tamoxifen
+	C0039286|Tamoxifen|T109
+response rate
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+response duration
+	C0237585|Response Duration|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+one
+	C0205447|One (qualifier value)|T081
+protocol
+	C0442711|Protocols documentation|T170
+Monoclonal antibody studies
+	C0580327|Antibody studies (procedure)|T059
+	C0746619|MONOCLONAL|T033
+breast cancers
+	C0006142|Malignant neoplasm of breast|T191
+breast cancers
+	C0006142|Malignant neoplasm of breast|T191
+ER cells
+	C0279756|estrogen receptor negative|T034
+	C0007634|Cells|T025
+differential response
+	C0871261|Responses|T054
+	C0443199|Differential (qualifier value)|T080
+more
+	C0205172|More (qualifier value)|T081
+cytotoxic chemotherapy
+	C0677881|Cytotoxic drug therapy NOS (procedure)|T061
+hormonal therapy
+	C0278784|Hormone therapy (procedure)|T061
+secondary question
+	C0876928|Questioning|T041
+	C0036525|Metastatic to|T169
+	C0175668|Secondary to|T079
+differential response
+	C0871261|Responses|T054
+	C0443199|Differential (qualifier value)|T080
+retrospective data
+	C0035363|Retrospective Studies|T081
+al retrospectively
+	C0035363|Retrospective Studies|T081
+	C0002367|Aluminum|T196
+patients
+	C0030705|Patients|T101
+Objective responses
+	C0018017|Goals|T170
+	C0871261|Responses|T054
+ER
+	C0279756|estrogen receptor negative|T034
+fmol
+	C0439195|fmol (qualifier value)|T081
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+patients
+	C0030705|Patients|T101
+fmol
+	C0439195|fmol (qualifier value)|T081
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+cases
+	C0868928|Case (qualifier value)|T169
+Kiang
+	C0325167|Equus kiang (organism)|T015
+al
+	C0002367|Aluminum|T196
+just opposite
+	C0022437|Justice|T080
+ER patients
+	C0030705|Patients|T101
+	C0279756|estrogen receptor negative|T034
+Other retrospective reports
+	C0684224|Report (document)|T170
+	C0035363|Retrospective Studies|T081
+	C0205394|Other|T080
+inconsistent data
+	C0442809|Inconsistent (qualifier value)|T080
+retrospective review
+	C0035363|Retrospective Studies|T081
+	C0282443|Review [Publication Type]|T170
+response
+	C0871261|Responses|T054
+impact
+	C0726639|Impact|T168
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+only prospectively randomized study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+response
+	C0871261|Responses|T054
+ER
+	C0279756|estrogen receptor negative|T034
+ER cases
+	C0868928|Case (qualifier value)|T169
+	C0279756|estrogen receptor negative|T034
+identical response rates
+	C0205280|Identical (qualifier value)|T080
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+ER patients
+	C0030705|Patients|T101
+	C0279756|estrogen receptor negative|T034
+significantly longer response durations
+	C0750502|Significant (qualifier value)|T078
+	C0237585|Response Duration|T079
+	C0205166|Long (qualifier value)|T080
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+differential response
+	C0871261|Responses|T054
+	C0443199|Differential (qualifier value)|T080
+cytotoxic chemotherapy
+	C0677881|Cytotoxic drug therapy NOS (procedure)|T061
+hormonal therapy
+	C0278784|Hormone therapy (procedure)|T061
+lack
+	C0332268|Lacking (qualifier value)|T080
+lack
+	C0332268|Lacking (qualifier value)|T080
+chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+hormonal therapy
+	C0278784|Hormone therapy (procedure)|T061
+therapy
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+al
+	C0002367|Aluminum|T196
+al
+	C0002367|Aluminum|T196
+tamoxifen
+	C0039286|Tamoxifen|T109
+cells
+	C0007634|Cells|T025
+G
+	C0162832|APC Gene|T028
+phases
+	C0205390|Phase (qualifier value)|T079
+	C0585064|Numerical phases (qualifier value)|T079
+arrest
+	C0237477|Arrested progression|T079
+	C0392351|Law enforcement arrest|T064
+methotrexate
+	C0025677|Methotrexate|T109
+cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+al
+	C0002367|Aluminum|T196
+tamoxifen
+	C0039286|Tamoxifen|T109
+cytotoxic potential
+	C0010868|Cytotoxin|T123
+	C0596402|Cytotoxicity|T049
+	C0237399|Potential|T080
+doxorubicin
+	C0013089|Doxorubicin|T195
+Combining chemotherapy
+	C0013218|Drug Therapy, Combination|T061
+not new idea
+	C1031756|Idea|T009
+	C0205314|New (qualifier value)|T079
+first clinical trials
+	C0008976|Clinical Trials|T062
+	C0205435|First (qualifier value)|T081
+addition
+	C0442796|Additive (qualifier value)|T080
+response rate
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+response duration
+	C0237585|Response Duration|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+postoophorectomy studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+enhanced response rate
+	C0086222|Enhancer|T114
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+Cooperative Breast Cancer Group
+	C0006142|Malignant neoplasm of breast|T191
+	C0677877|cooperative group|T093
+benefit
+	C0814225|benefits|T081
+use
+	C0042153|utilization|T081
+response duration
+	C0237585|Response Duration|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+More recent trials
+	C0205172|More (qualifier value)|T081
+	C0332185|Recent episode (qualifier value)|T079
+al
+	C0002367|Aluminum|T196
+al
+	C0002367|Aluminum|T196
+benefit
+	C0814225|benefits|T081
+survival advantage
+	C0308269|ADVANTAGE|T131
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+al
+	C0002367|Aluminum|T196
+CMF
+	C0950521|CMF|T061
+al
+	C0002367|Aluminum|T196
+CMF v CMF tamoxifen v CMF medroxyprogesterone acetate
+	C0950521|CMF|T061
+	C0065864|Medroxyprogesterone 17-Acetate|T121
+patients
+	C0030705|Patients|T101
+al
+	C0002367|Aluminum|T196
+addition
+	C0442796|Additive (qualifier value)|T080
+cyclophosphamide 5-FU prednisone
+	C0010583|Cyclophosphamide|T115
+	C0032952|Prednisone|T125
+improved time
+	C0040223|Time|T079
+	C0184511|Improved (qualifier value)|T080
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+three clinical trials
+	C0008976|Clinical Trials|T062
+	C0205449|Three (qualifier value)|T081
+patients
+	C0030705|Patients|T101
+hormonal therapy
+	C0278784|Hormone therapy (procedure)|T061
+chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+al
+	C0002367|Aluminum|T196
+ER
+	C0279756|estrogen receptor negative|T034
+ER
+	C0279756|estrogen receptor negative|T034
+postmenopausal women
+	C0043210|Human adult females|T098
+	C0043209|Human Females|T098
+	C0232970|Postmenopausal state (finding)|T079
+benefit
+	C0814225|benefits|T081
+al
+	C0002367|Aluminum|T196
+ER patients
+	C0030705|Patients|T101
+	C0279756|estrogen receptor negative|T034
+benefit
+	C0814225|benefits|T081
+Kiang
+	C0325167|Equus kiang (organism)|T015
+al
+	C0002367|Aluminum|T196
+ER postmenopausal women
+	C0043210|Human adult females|T098
+	C0043209|Human Females|T098
+	C0232970|Postmenopausal state (finding)|T079
+	C0279756|estrogen receptor negative|T034
+DES
+	C0012203|Diethylstilbestrol|T131
+DES chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0012203|Diethylstilbestrol|T131
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+treatment failure
+	C0162643|Treatment Failure|T080
+ER patients
+	C0030705|Patients|T101
+	C0279756|estrogen receptor negative|T034
+advantage
+	C0308269|ADVANTAGE|T131
+bone
+	C1266909|Entire bony skeleton|T022
+	C0262950|Skeletal bone|T021
+	C1266908|Entire bone (organ)|T023
+	C0391978|Bone Tissue|T024
+frequent site
+	C0205145|Associated topography (attribute)|T082
+	C0332183|Frequent (qualifier value)|T079
+patients
+	C0030705|Patients|T101
+Segaloff included sclerosis
+	C0332257|Including (qualifier value)|T169
+	C0036429|Sclerosis|T033
+healing
+	C0043240|Wound Healing|T040
+response
+	C0871261|Responses|T054
+bone lesions
+	C0238792|Bone lesion|T047
+objective evaluation
+	C0018017|Goals|T170
+	C0220825|Evaluation|T169
+	C1261322|Assessment procedure (procedure)|T058
+Serial bone scans
+	C0031082|Periodicals|T170
+	C0203640|Serial scanning (procedure)|T060
+	C1266909|Entire bony skeleton|T022
+	C0262950|Skeletal bone|T021
+	C0203668|Radioisotope scan of bone (procedure)|T060
+	C1266908|Entire bone (organ)|T023
+	C0391978|Bone Tissue|T024
+bone scans
+	C0203668|Radioisotope scan of bone (procedure)|T060
+technique
+	C0449851|Techniques|T170
+response
+	C0871261|Responses|T054
+Pain
+	C0030193|Pain|T184
+chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+Coombes
+	C0331946|Combe|T093
+al
+	C0002367|Aluminum|T196
+pain relief
+	C0451615|Pain relief|T061
+most consistent index
+	C0918012|Indexes|T170
+	C0332290|Consistent with (qualifier value)|T078
+	C0205393|Most (qualifier value)|T081
+nearly responding patients
+	C0030705|Patients|T101
+	C0871261|Responses|T054
+	C0475806|1/3 metre (finding)|T033
+patients
+	C0030705|Patients|T101
+prolonged chronic course
+	C0449922|Course (attribute)|T079
+	C0439590|Prolonged (qualifier value)|T079
+	C0205191|Chronic (qualifier value)|T079
+significantly longer survival
+	C0750502|Significant (qualifier value)|T078
+	C0038952|Continuance of life|T052
+	C0205166|Long (qualifier value)|T080
+	C0220921|survival aspects|T081
+exclusion
+	C0680251|exclusion|T169
+criteria
+	C0243161|criteria|T170
+frequently lacking
+	C0332268|Lacking (qualifier value)|T080
+	C0332183|Frequent (qualifier value)|T079
+criteria
+	C0243161|criteria|T170
+new lesions
+	C0205314|New (qualifier value)|T079
+	C0221198|Lesion|T033
+greater intensity
+	C0443228|Greater (qualifier value)|T081
+patient
+	C0030705|Patients|T101
+treatment failure
+	C0162643|Treatment Failure|T080
+increase
+	C0442805|Increase (qualifier value)|T169
+pain
+	C0030193|Pain|T184
+patient
+	C0030705|Patients|T101
+probably treatment failure
+	C0750492|Probably|T078
+	C0332148|Probable diagnosis|T080
+	C0162643|Treatment Failure|T080
+objective criteria
+	C0018017|Goals|T170
+	C0243161|criteria|T170
+probably only means
+	C0444504|Mean (qualifier value)|T081
+	C0750492|Probably|T078
+	C0332148|Probable diagnosis|T080
+	C0876919|Meaning|T078
+name
+	C0027365|Names|T170
+deterioration
+	C0868945|Deterioration|T067
+increased pain
+	C0205217|Increased (qualifier value)|T169
+	C0030193|Pain|T184
+more objective criteria
+	C0205172|More (qualifier value)|T081
+	C0018017|Goals|T170
+	C0243161|criteria|T170
+addition
+	C0442796|Additive (qualifier value)|T080
+advantage
+	C0308269|ADVANTAGE|T131
+failure to
+	C0680095|Personal failure|T055
+	C0231174|Failure (biologic function)|T169
+advantage
+	C0308269|ADVANTAGE|T131
+use
+	C0042153|utilization|T081
+postmenopausal women
+	C0043210|Human adult females|T098
+	C0043209|Human Females|T098
+	C0232970|Postmenopausal state (finding)|T079

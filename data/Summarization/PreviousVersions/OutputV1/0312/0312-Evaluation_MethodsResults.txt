@@ -1,0 +1,119 @@
+
+C:\Data\BioChainV1>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChainv1\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  ..\biochain\data\inputv1\0312\0312-Abstract-A.txt ..\biochain\data\inputv1\0312\0312-Article_MethodsResults.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...138484 ms
+
+Chaining summary file ..\biochain\data\inputv1\0312\0312-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  24000 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file ..\biochain\data\inputv1\0312\0312-Article_MethodsResults.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  201187 ms
+	Chain processing time: 16 ms
+
+
+
+Abstract:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.86
+	Std Dev:      2.58
+	Strong Score: 6.03
+
+
+	Chain T061-Therapeutic or Preventive Procedure: score=9.00
+		Concept Hormone therapy (procedure), count=1
+		Concept Pharmacotherapy, count=2
+		Concept Chemotherapy-Oncologic Procedure, count=3
+		Concept adjuvant therapy, count=1
+
+	Chain T169-Functional Concept: score=9.00
+		Concept Metastatic to, count=1
+		Concept Menopausal, count=2
+		Concept pharmacotherapeutic, count=3
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    7.44
+	Std Dev:      35.37
+	Strong Score: 78.18
+
+
+	Chain T081-Quantitative Concept: score=264.00
+		Concept survival aspects, count=8
+		Concept fmol (qualifier value), count=1
+		Concept Percent (qualifier value), count=1
+		Concept Chi-Square Test, count=4
+		Concept Seven (qualifier value), count=2
+		Concept Toxicity aspects, count=2
+		Concept One (qualifier value), count=3
+		Concept Two (qualifier value), count=1
+		Concept Incomplete, count=1
+		Concept Partial (qualifier value), count=2
+		Concept Four (qualifier value), count=1
+		Concept Eq (qualifier value), count=1
+		Concept utilization, count=1
+		Concept None (qualifier value), count=1
+		Concept Dosages (qualifier value), count=2
+		Concept dL (qualifier value), count=1
+		Concept Median Statistical Measurement, count=7
+		Concept Incidence, count=1
+		Concept p-value, count=2
+		Concept Changed status, count=1
+		Concept Statistical Significance, count=1
+		Concept More (qualifier value), count=1
+		Concept Mean (qualifier value), count=3
+		Concept Normal Range, count=1
+		Concept Singular, count=1
+		Concept milligram, count=4
+		Concept Three (qualifier value), count=2
+		Concept Numerous (qualifier value), count=1
+		Concept Logistic Models, count=1
+		Concept Scores (qualifier value), count=1
+		Concept Weight, count=1
+		Concept Third (qualifier value), count=1
+		Concept Count of entities (property) (qualifier value), count=1
+		Concept Sample Size, count=1
+	Recall: Chain with no concepts from Abstract: T081-Quantitative Concept(idx=81)
+
+Concepts in abstract:
+--------------------
+	hormone therapy (procedure):T061
+	chemotherapy-oncologic procedure:T061
+	menopausal:T169
+	adjuvant therapy:T061
+	metastatic to:T169
+	evaluation:T169
+	pharmacotherapy:T061
+	pharmacotherapeutic:T169
+
+Concepts in abstract with no match in full-text strong chains:
+-------------------------------------------------------------
+	hormone therapy (procedure):T061
+	chemotherapy-oncologic procedure:T061
+	menopausal:T169
+	adjuvant therapy:T061
+	metastatic to:T169
+	evaluation:T169
+	pharmacotherapy:T061
+	pharmacotherapeutic:T169
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 1
+	Number of concepts in Abstract: 8
+
+	Number of strong chains in Full-text with concepts from Abstract: 0
+	  Recall: 0.00
+
+	Number of Abstract concepts having strong chains in full-text: 0
+	  Precision: 0.00
+
+

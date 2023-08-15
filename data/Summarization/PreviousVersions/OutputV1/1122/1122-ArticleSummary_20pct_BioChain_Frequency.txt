@@ -1,0 +1,76 @@
+
+
+A retrospective study of patients undergoing radical hysterectomy at Memorial Sloan–Kettering Cancer
+Center (MSKCC) from 1939 to 1977 identified the following risk factors, metastatic tumor to the
+pelvic lymph nodes, large cervical tumor, parametrial extension of disease, nonsquamous or grade 3
+histology, and deep (.75%) cervical stromal invasion. 
+
+
+Whole pelvic postoperative radiation therapy has been found to possibly decrease the incidence of
+local/regional recurrence with little or no effect on overall survival. This report summarizes the
+preliminary results of the trial which closed to patient accrual in June 1994. 
+
+
+Patients with clinical Stage IB–IIA cancer of the uterine cervix treated by radical hysterectomy,
+bilateral pelvic lymphadenectomy, and aortic lymph node sampling were eligible for entry into this
+prospective study if they had one or more of the following risk factors, (1) metastatic disease to
+pelvic lymph nodes, (2) large primary tumors greater than or equal to 4 cm in diameter, (3) deeply
+invasive lesions with 75% or greater stromal invasion, (4) nonsquamous histology, and/or (5) occult
+parametrial involvement or positive surgical margins. In the second arm of the study, patients were
+randomized to treatment with a similar regimen of chemotherapy as described above without pelvic
+radiation, following the first two cycles of cisplatin and bleomycin, the patient then received the
+third and fourth treatment of cisplatin alone at 3-to 4-week intervals. 
+
+
+Additional entry criteria included histologic confirmation of negative para-aortic lymph nodes,
+normal renal function (creatinine clearance of greater than 60 ml/min), normal liver function tests,
+hemoglobin of greater than 8.0 g/dl, and a normal DLCO pulmonary function test. 
+
+
+Overall and disease-free survival curves were computed using the method of Kaplan–Meier and the
+differences in survival were compared by the log-rank method. 
+
+
+Seventy-five patients had a Stage IB cervical cancer risk factors and 64 had 1 to 2 risk factors, 33
+of these patients and the remaining 14 patients had a Stage IIA cancer. 
+
+
+Forty-five patients were randomized to the chemotherapy withdrawn by the institutional principal
+investigator due to plus radiation therapy treatment arm and 44 patients received poor medical
+condition of the patient (n ? 1). There were 12 major protocol viola-patients received only a
+portion of the proscribed treatment, tions, including 7 patients who were randomized (6 to che-one
+patient, randomized to chemotherapy, withdrew after chemotherapy plus radiation therapy and 1
+patient to chemother-experiencing an allergic bleomycin reaction during the initial chemotherapy
+alone) and then either refused treatment (n ?6) or were infusion of bleomycin during cycle 1. Four
+patients randomized to chemotherapy plus radiation refused either the radia-to follow-up or had no
+follow-up data available for analysis.  tion therapy (n ?3) or had a major violation in the
+radiation Thus, there were 33 patients who received the combination therapy treatment plan when
+intravaginal radiation therapy of chemotherapy and pelvic radiation and 39 who received was
+administered, and she did not receive the last 2 cycles chemotherapy alone who could be evaluated
+for disease-of cisplatin (n ?1). free and overall survival. 
+
+
+One patient developed radiation proctitis re-has been no significant difference in disease-free
+survival requiring a colostomy after completion of the prescribed dose between the two treatment
+groups (Fig. 2), 10 patients in of pelvic radiation therapy. the chemotherapy plus pelvic radiation
+therapy arm have experienced recurrences compared to 9 recurrences in the 
+
+
+Among patients with 3 or more risk factors, there was also no differ-The debate regarding the role
+of adjuvant therapy for paence in the disease-free survival or overall survival when tients at high
+risk for recurrence after radical hysterectomy compared to patients with 1–2 risk factors (Fig. 3). 
+
+
+Major toxicity suggest that a 65% 5-year survival rate after therapy combinincluded one patient who
+did not receive the second cycle ing radical hysterectomy, pelvic lymphadenectomy, and of bleomycin
+due to the onset of pulmonary symptoms and postoperative pelvic radiotherapy for patients with
+pelvic a significant decrease in pulmonary function compared to a lymph node metastases is an
+improvement compared to his-pretreatment study. 
+
+
+The advantages of eliminating the radiation therapy component of postoperative therapy are apparent
+in that the duration of treatment is shorter, costs are reduced, and the long-term side effects of
+pelvic radiotherapy after radical pelvic surgery are eliminated. Investigators who design adjuvant
+trials for patients at high risk for recurrence after radical hysterectomy for invasive cervical
+cancer must balance the potential benefit to be gained by a minority of patients against the risks
+inherent in treating all patients.

@@ -1,0 +1,79 @@
+INTRODUCTION Radical external beam plus intracavitary radiation continues to be the standard therapy for advanced cervical cancer to which all new therapies must be compared.
+
+While this treatment is relatively effective in small volume tumors, tumor control and survival decline as the bulk of pelvic disease and FIGO stage advance.
+
+Overall 5-year survival rates are reported for stage IIB cancers between 50 and 80% and from 25 to 50% for stage III.
+
+No substantial improvements have been made in the treatment of advanced cervical cancer in the past two decades.
+
+As the bulk of pelvic disease increases, the proportion of patients with disease recurrent or persistent in the pelvis as the only site of failure increases compared to the proportion developing distant metastases.
+
+The problem of enhancing pelvic control and survival cannot be approached simply by increasing conventionally delivered radiation dose since late complications produced by radiation are at the upper limit of acceptability with currently employed doses.
+
+These include modifications of radiation treatment volume or fractionation including extended field radiation, hyperfractionated RT, strategies to overcome the negative impact of tumor hypoxia such as hyperbaric oxygen, or hypoxic cell radiation sensitizers.
+
+In addition to modifications of radiation therapy multiple studies have investigated, and are investigating, strategies that combine radiation with chemotherapy either as neoadjuvant or concurrent administration.
+
+These advantages include no delay in the start of definitive irradiation, no prolongation of overall treatment time (thus minimizing the theoretical risk of accelerated clonogen proliferation during the antineoplastic course), and possible interaction of the concurrently administered chemotherapy with radiation through such mechanisms as inhibition of repair of radiation damage, cell synchronization, recruitment of nonproliferating cells into cell cycle, and reduction of the hypoxic fraction.
+
+Theoretical disadvantages of concurrent administration include increased acute toxicity which might limit or delay the delivery of definitive irradiation or increased late toxicity particularly if the drugs and radiation do not exhibit ''toxicity'' independence.
+
+Last, it is unlikely that concurrent chemotherapy usually given as only one or two doses would significantly reduce established distant micrometastases.
+
+Stratum 1 included those with FIGO stage IB/IIA or stage IIB with parametrial involvement limited to one or both medial parametria.
+
+Stratum 2 included those with FIGO stage IIB disease with any lateral parametrial involvement or stage IIIB with involvement of one pelvic sidewall.
+
+Patients were randomized to receive either (a) standard external beam pelvic irradiation (EBRT) in a dose of 5000 cGy in 25 fractions defined at 100% versus, (b) RT as in arm (a) with infusional intravenous 5-FU in a dose of 1 g/m2 daily on the first and last 4 days of RT, (c) partially hyperfractionated RT, 5280 cGy in 33 fractions, 2 fractions per day on the first and last 4 days of RT, or (d) arm (c) with the same infusional 5-FU.
+
+Where possible, chemotherapy infusion was given on four consecutive days without a weekend break.
+
+Statistical Methods and Study Design The outcomes of interest in this study were pelvic control, survival, and disease-free survival, as well as the serious late complication rate.
+
+Assuming that the magnitude and direction of the 5-FU effects were similar in arms (b) and (d) then the effect of the addition of 5-FU could be tested by comparing arms (b) and (d) with arms (a) and (c).
+
+The Kaplan--Meier method was used to calculate median follow-up duration, censoring patients who died.
+
+Complications Complications were considered acute and severe if occurring during or within 3 months from the end of radiation therapy and requiring hospitalization, e.g., diarrhea.
+
+Thereasons for exclusion were the presence of extrapelvic disease at presentation in 7, patient refusal after randomization in 4, and missing chart/information in 2.
+
+One hundred and eighty-seven of 221 patients had squamous cell carcinoma, 17 adenocarcinoma, 12 adenosquamous, and the remainder clear cell or unclassified.
+
+Capillary lymphatic space (CLS) involvement was commented on in 146 of 221 (66%).
+
+Of the patients randomized to receive standard radiation with 5-FU, four received no chemotherapy and three received less than 1 g/m2 with each course.
+
+In patients randomized to receive hyperfractionated irradiation and 5-FU, three received no chemotherapy and three received less than 1 g/m2 with each course.
+
+Pelvic Control and Survival With a median duration of follow-up of 59 months, 119 of 221 patients are alive, 111 without evidence of disease, and 8 with disease present.
+
+One patient died of complications and 13 died of causes other than disease or complications.
+
+Table 3 shows the Kaplan--Meier estimates of 5-year disease-free survival and pelvic control for each stratum.
+
+There is no significant difference in the overall 5-year disease-free survival between the treatment arms.
+
+Whereas there was once again a trend in favor of concurrent 5-FU, particularly in combination with standard radiation, the difference was not statistically significant.
+
+Pelvic control was 66% for those who did not receive 5-FU compared to 84% for those who did (P 5 0.07).
+
+However, in evaluating the importance of the contribution of the change in fractionation to the differences observed, there was no significant difference in the 5-year survival of those treated on standard radiation versus those treated with hyperfractionated irradiation whether or not 5-FU was used.
+
+When the radiation fraction size is reduced as in this altered fractionation scheme a compensatory increase in total dose over the same overall time is required to reach a biologically similar dose.
+
+It was hoped that the use of two treatments daily during the 5-FU infusion would increase any opportunity for 5-FU-radiation interaction by increasing the total amount of radiation given concurrently with 5-FU.
+
+Stratum 2 was examined for differences in pelvic control and survival between the treatment arms and no significant differences were observed.
+
+We wished to determine whether there was an accumulation of ''bad risk'' factors in the group receiving standard radiation alone or alternatively that there was an accumulation of ''good risk'' factors in patients receiving standard RT and 5-FU.
+
+For those receiving standard RT, the pelvic control rate was 60% but the disease-free survival was only 39%.
+
+The crude incidence of 5.9% (13 of 221) presents a good estimate of the overall risk for chronic bowel complications in survivors, since most occur in the first 3 years after radiation therapy.
+
+The median duration of follow up on this series at 59 months is sufficient to observe approximately 80% of expected events.
+
+The specific strata selected were based on previous retrospective data indicating significantly different prognoses for these specific clinical groupings of bulk of pelvic disease.
+
+The tumor- and patient-related factors examined were FIGO stage (IB versus IIA versus IIB), size of tumor (greater or less than 6 cm and greater or less than 7 cm), grade of tumor the presence or absence of capillary-like space involvement, nodal involvement, and patient age as a continuous variable.

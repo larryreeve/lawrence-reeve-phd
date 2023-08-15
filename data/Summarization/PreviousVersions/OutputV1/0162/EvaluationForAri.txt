@@ -1,0 +1,33 @@
+Abstract strong chains:
+	Avg score:    1.79
+	Std Dev:      4.10
+	Strong score: 9.99
+
+	T169:Functional Concept(18.00)
+Full-text strong chains:
+	Avg score:    25.49
+	Std Dev:      99.50
+	Strong score: 224.49
+
+	T169:Functional Concept(609.00)
+	T061:Therapeutic or Preventive Procedure(378.00)
+	T081:Quantitative Concept(333.00)
+
+Recall: Strong chain from full-text with with no concepts from abstract:
+chain 'T169:Functional Concept' has concept 'C1274040:Result (navigational concept)'
+	T061:Therapeutic or Preventive Procedure
+chain 'T081:Quantitative Concept' has concept 'C0220921:survival aspects'
+
+Precision: Abstract concepts with no match in any strong chains of full-text:
+
+
+Evaluation:
+-----------
+	Number of strong chains in full-text: 3
+	Number of concepts in abstract: 9
+
+	Number of strong chains in full-text with concepts from abstract: 2
+	  Recall: 0.67
+
+	Number of strong concepts in abstract having strong chains in full-text: 9
+	  Precision: 1.00

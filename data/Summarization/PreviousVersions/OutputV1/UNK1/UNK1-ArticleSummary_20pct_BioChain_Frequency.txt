@@ -1,0 +1,106 @@
+
+
+RESULTS of several studies, including findings from two recent randomized trials have demonstrated
+that long-term survival of  early-stage breast cancer patients receiving conservative treatment was
+not significantly different than for those receiving  a mastectomy. However, except for the study by
+Wolberg et al, the methods used in these comparative analyses were relatively weak. For example,
+several of the studies  reported using samples that were self-selected and small, the studies of
+Schain et al"2 and Steinberg et all's used retrospective self-report, without controlling for the
+time since treatment. Our research group, first at the National Cancer Institute (NCI) and  now at
+the University of Pittsburgh School of Medicine, has been following two samples of early-stage
+breast cancer patients,  a proportion of each having received breast-sparing procedures. As the
+National Surgical Adjuvant Breast  and Bowel Project (NSABP) B-06 trial had ended 4 months before
+patients started being accrued to this present study, patients  "elected" (ie, were not randomized,
+but "negotiated" in some sense) their treatment modality. 
+
+
+Approximately half of the NCI sample received  excisional biopsy (a reflection of the randomization
+procedure used in that trial), whereas a larger proportion of the  Pittsburgh stage I and II breast
+cancer sample elected excisional biopsy. 
+
+
+The assessment schedule for the two study sites was identical, and the test battery was similar for
+both the Pittsburgh and  NCI samples. As detailed in our earlier publications,"2 in addition to a
+structured interview being conducted approximately  five days postsurgery, all patients were
+assessed using the Profile of Mood States (POMS), 21 and were rated by independent  observers for
+their disability status using the Karnofsky rating scale. We expanded our measurement of perceived
+social support and coping styles used by patients because of our earlier  NCI findings, and because
+of other research suggesting that such factors play an important role in both adjustment and host 
+status during distress. Thus, we measured in a more detailed and methodologically sophisticated way
+the character of  perceived social support in this sample, using a selfreport instrument that was
+developed at the University of Michigan  specifically to measure the quality of social support in
+breast cancer populations. This scale allows the quantification of  perceived emotional support from
+a variety of others, including spouse (or intimate other), family members, and friends.  
+
+
+Using repeated measures two-way analysis of covariance (ANCOVA) tests,26 we analyzed differences in
+psychological distress  and functional status, stratifying by type of surgery (excisional biopsy v
+mastectomy) and time of measurement (baseline v  3-month follow-up). However, we did make direct
+comparisons between the two samples at baseline,  using t tests to examine distress differences
+between identical baseline surgical treatments. For both samples, menopausal  status and
+chemotherapy and radiotherapy treatment were co-varied at follow-up. Specifically, for the
+Pittsburgh sample, in  addition to menopausal status, number of radiotherapy treatments (ranging
+from 0 to nth treatment at follow-up) and type ofchemotherapy categorized according to toxicity of
+side effects (0 = none, 1 = tamoxifen alone, 2 = multimodality  chemotherapy) were co-varied in all
+ANVOCA analyses. For the  Pittsburgh sample, we examined emotional distress scores (POMS total and
+subscores), physical disability, and perceived  social support factors as dependent variables. 
+Anxiety tended to decrease over time for all patients, although less so for  the excisional biopsy
+patients (F = 3.5, P < .06), and fatigue tended to increase over the 3-month follow-up period, again
+ with excisional biopsy patients reporting higher average levels of fatigue than mastectomy patients
+(F = 6.5, P < .01).  Interestingly, coincident with the biopsy patients reporting either greater
+distress in general, or increasing distress over time, they also reported significantly less social
+support from family and friends than the  mastectomy patient group. In fact, there was a group  x
+time interaction on this latter variable, with biopsy patients reporting a significant decrease in
+emotional support from  people in general over the 3-month follow-up period compared with mastectomy
+patients (F = 5.4, P < .02). 
+
+
+Table 3 displays means, standard errors, and the main effect and interaction results for the repeat
+measures ANOVA for the NCI sample. When comparing surgery groups, trends occurred for fatigue  and
+depression, with mastectomy patients reporting more depression and fatigue overall than excisional
+biopsy patients.  
+
+
+As there were no significant differences in disease status, age, or educational  levels, one major
+difference at this point was the experience of being randomized to surgical treatment or not. 
+However, for patients who received an excisional biopsy, the patients at the Pittsburgh site were
+significantly more  depressed (t = 3.4, P < .001) and angry (t = 2.1, P < .04), and had overall
+significantly higher total distress scores (t =  2.0, P < .04) at baseline than patients at the NCI
+research site. 
+
+
+First, when early-stage breast cancer patients have  some choice regarding extent of surgery, with
+the potential option of "sparing" the compromised breast, emotional distress in  general increases,
+at least in the short run (in this case, over a 3-month follow-up period). 
+
+
+As discussed  earlier, given the proportion of patients in the sample receiving a mastectomy,
+approximately 30%, it is highly likely based  on other literature'" that most of the mastectomy
+patients did not receive breast-sparing treatment for medical, rather than  psychological reasons. 
+However, despite this unknown, if there were any biological advantage in the data, it would have 
+favored the lumpectomy patients. 
+
+
+Although  there were no significant biological or demographic differences between the Pittsburgh and
+NCI samples, the women who  participated in the trial knew that they would be randomized within an
+experimental context, and may have been attracted to such a process for a variety of reasons,
+including the possible desire not to make a treatment choice. Those  receiving a biopsy compared
+with mastectomy patients tended to report that they coped by using escape fantasies in dealing  with
+life's difficulties. 
+
+
+Future studies, analyzing patients' perceptions of the need for treatment as a  contributor to
+distress sequelae, might shed light in this regard. Having made the above qualifications withrespect
+to unknowns, ie, pretreatment personality and actual suitability for excisional biopsy, as well as
+the limits of  self-report, one implication that could be drawn here is that to make a treatment
+choice within a risky context of perceived unknowns is threat-producing. 
+
+
+Nevertheless, we may not be doing a good job translating journal reports for patient comprehension
+and consumption. Whatever the basis of the breastsparing choice ("narcissism," "escape,"
+"appropriate self-interest," and  so on), it may well be the case that the woman is not prepared for
+the scarring and the physical monitoring that follow. One could argue that even short-term mental
+health needs, if unmet, cause unnecessary suffering that perhaps could be alleviated by support
+interventions and the like. They concluded that the level of distress among women treated  with
+lumpectomy and radiation "was a disappointing finding, but one which cannot be ignored. Is she
+cosmetically better off? 

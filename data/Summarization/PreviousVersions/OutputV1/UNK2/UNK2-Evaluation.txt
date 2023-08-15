@@ -1,0 +1,106 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\UNK2\UNK2-Abstract-A.txt data\input\UNK2\UNK2-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...107532 ms
+
+Chaining summary file data\input\UNK2\UNK2-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  32172 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\UNK2\UNK2-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  259609 ms
+	Chain processing time: 32 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.93
+	Std Dev:      3.08
+	Strong Score: 7.09
+
+	T081-Quantitative Concept: 16.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    13.34
+	Std Dev:      59.72
+	Strong Score: 132.79
+
+	T081-Quantitative Concept: 429.00
+Summary concept prospective studies:T081 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 1
+	Number of concepts in Summary: 9
+
+	Number of strong chains in Full-text with concepts from Summary: 1
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 8
+	  Precision: 0.89
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,4 of 13)
+-------------
+
+0) Nausea and vomiting are significant side effects in bone marrow transplant (BMT) patients who receive high-dose preparative regimens. 
+1) Our objective was to conduct a prospective, randomized study comparing two different administration methods of high-dose ondansetron during a BMT preparative regimen in breast cancer patients. 
+2) All patients received ondansetron as an intermittent (INT=24 mg i.v. q 12 h/day) or continuous intravenous infusion (CIV=8 mg i.v. loading dose followed by a continuous infusion of 2 mg/h per day). 
+3) There were no differences in efficacy when high-dose ondansetron was given as CIV or INT for the control of nausea and vomiting in breast cancer patients undergoing high-dose CT for autologous BMT. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,40 of 159)
+-------------
+
+0) This isdue to the higher than standard doses and the combinationsof chemotherapy utilized, and also to the known variancesin emetogenicity patterns. 
+1) To date, no dose-limitingadverse events have been reported with ondansetron.
+2) We wanted to evaluate apatient population receiving the same chemotherapy drugs(and hence the same emetogenic potential) on the sameschedule to avoid difficulty in interpretation of results.
+3) Patients were excluded for the following reasons, a Karnofskyperformance status of <60%, chronic nausea and/or vomiting or nauseaand/or vomiting of other etiologies, including, but not limited to,gastric outlet obstruction, increased intracranial pressure or brainmetastases, documented vomiting or retching episodes or uncontrollednausea in the 12 h prior to the first dose of i.v. ondansetron,radiation therapy administered as part of the preparative regimen, ormedications with known or potential antiemetic activity administeredin the 12 h prior to the initiation of i.v. ondansetron. 
+4) The restrictedmedications included benzodiazepines, butyrophenones, corticosteroids,cannabinoids, phenothiazines, antihistamines, tricyclicantidepressants, monoamine oxidase inhibitors, metoclopramide, trimethobenzamide,scopolamine, fluoxetine, dipravan, paroxetine andsertraline. 
+5) Patients were also excluded if they required any of the restrictedmedications during the study period. 
+6) Premedications for transfusions, such as diphenhydramine orhydrocortisone, were not excluded.
+7) All patients received a preparative regimen consisting of cyclophosphamide1500 mg/m2 i.v. q 24 h´4 doses, thio-TEPA 125 mg/m2i.v. q 24 h´4 doses and carboplatin 200 mg/m2 i.v. q 24 h´4 doses(Fig. 1). 
+8) Recently, Hesketh etal. classified the acute emetogenicity of antineoplastic agents.
+9) Although thio-TEPA’s emetogenicity is not ranked byHesketh et al. [14], the formula he proposed to rank the emetogenicityof combination chemotherapy indicates the maximum level 5(>90% emesis frequency without effective antiemetic prophylaxis)for this regimen.
+10) Antiemetic therapyUpon enrollment, patients were randomized to either an intermittent(INT) or a continuous intravenous infusion (CIV) ondansetron regimenusing a 1,1 block randomization scheme. 
+11) Ondansetron therapy was initiated 30 min beforethe first dose of chemotherapy for both study arms. 
+12) The history included a review of demographic information and historicalstatus of cancer. 
+13) An episode of vomiting was defined as expulsion of any stomachcontents through the mouth. 
+14) An episode of retching was defined asan attempt to vomit that was unproductive of stomach contents. 
+15) Continuous vomiting and/orretching was defined as two or more vomits and/or retches within 1min of each other. 
+16) Nausea was assessed by a numerical visual analoguescale ranging from 0 to 100 mm, with 0 mm representing nonausea and 100 mm representing the worst nausea ever experienced.
+17) Patients,assisted by nurses when necessary, were responsible for recordingthe number of vomits and retches. 
+18) The need for rescue therapy was left to the discretionof the patient and/or investigator. 
+19) At the end of each 24-h period oftherapy, emetic episodes were graded. 
+20) Clinical analysisEach patient was evaluated as having been a “success” or “failure.”
+21) A failure was definedas 5 or more emetic episodes or a requirement for rescue therapy.
+22) The proportion of successes and failures in each arm for each dayof the study was compared. 
+23) Thepercentage of patients requiring rescue antiemetics and the numberof rescue antiemetic doses administered each day were evaluated.
+24) The Wilcoxon signed-rank testwas used for nonparametric variables. 
+25) Data were analyzed for these two patientsup until the time they withdrew from the study (day –5and day –4). 
+26) Thirty-four patients were randomizedto INT ondansetron and 32 to CIV ondansetron. 
+27) Meanage, age range, ethnicity and disease status were evenlydistributed between treatment arms, as illustrated in Table 1.
+28) Means were compared with a t-test, and categorical variableswere compared with the Chi-square test. 
+29) The onlysignificant difference (P=0.05) detected between treatmentarms in Table 1 was the mean age. 
+30) This difference was notfelt to be clinically significant.
+31) The worst grade of emesis was determined for each patientover the entire study period. 
+32) There was no statisticaldifference between treatment groups in the worst grade ofemesis (P=0.49, 2-tail Fisher’s exact test). 
+33) Figure 2 illustrates the percentage ofpatients experiencing success (complete, major, or minorcontrol) of emesis control per day. 
+34) There was no significantdifference between treatment arms in grade of emesisper day for the entire study period. 
+35) No significant differenceswere detected between study arms for these threevariables. 
+36) Documentation of the number of retches waspoor, with only 43% of 386 possible values recorded.
+37) Vomiting and nausea scores were missing in 5% and 24%,respectively.
+38) From day –7 through day –2, the INT group received amean (±SEM) of 11.9 (±1.4) rescue medications and theCIV group received a mean (±SEM) of 14.4 (±1.9) rescuemedications (P=0.30). 
+39) Additional study ofvarious combinations of antiemetics in BMT recipients isneeded to help determine the most efficacious regimen inthese patients.

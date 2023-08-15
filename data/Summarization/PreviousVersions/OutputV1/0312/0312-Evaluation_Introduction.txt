@@ -1,0 +1,95 @@
+
+C:\Data\BioChainV1>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChainv1\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  ..\biochain\data\inputv1\0312\0312-Abstract-A.txt ..\biochain\data\inputv1\0312\0312-Article_Introduction.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...136360 ms
+
+Chaining summary file ..\biochain\data\inputv1\0312\0312-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  24204 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file ..\biochain\data\inputv1\0312\0312-Article_Introduction.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  45250 ms
+	Chain processing time: 16 ms
+
+
+
+Abstract:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.86
+	Std Dev:      2.58
+	Strong Score: 6.03
+
+
+	Chain T061-Therapeutic or Preventive Procedure: score=9.00
+		Concept Hormone therapy (procedure), count=1
+		Concept Pharmacotherapy, count=2
+		Concept Chemotherapy-Oncologic Procedure, count=3
+		Concept adjuvant therapy, count=1
+
+	Chain T169-Functional Concept: score=9.00
+		Concept Metastatic to, count=1
+		Concept Menopausal, count=2
+		Concept pharmacotherapeutic, count=3
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.91
+	Std Dev:      2.77
+	Strong Score: 6.45
+
+
+	Chain T061-Therapeutic or Preventive Procedure: score=12.00
+		Concept Hormone therapy (procedure), count=2
+		Concept CMF, count=1
+		Concept Pharmacotherapy, count=2
+		Concept Chemotherapy-Oncologic Procedure, count=2
+		Concept Drug Therapy, Combination, count=1
+		Concept Cytotoxic drug therapy NOS (procedure), count=1
+
+	Chain T191-Neoplastic Process: score=10.00
+		Concept Leukemia, count=1
+		Concept Malignant neoplasm of breast, count=2
+		Concept Breast Neoplasms, count=1
+		Concept Malignant Neoplasms, count=1
+		Concept Neoplasms, count=1
+		Concept Malignant neoplasm, primary (morphologic abnormality), count=1
+
+Concepts in abstract:
+--------------------
+	hormone therapy (procedure):T061
+	chemotherapy-oncologic procedure:T061
+	menopausal:T169
+	adjuvant therapy:T061
+	metastatic to:T169
+	evaluation:T169
+	pharmacotherapy:T061
+	pharmacotherapeutic:T169
+
+Concepts in abstract with no match in full-text strong chains:
+-------------------------------------------------------------
+	menopausal:T169
+	adjuvant therapy:T061
+	metastatic to:T169
+	evaluation:T169
+	pharmacotherapeutic:T169
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 2
+	Number of concepts in Abstract: 8
+
+	Number of strong chains in Full-text with concepts from Abstract: 2
+	  Recall: 1.00
+
+	Number of Abstract concepts having strong chains in full-text: 3
+	  Precision: 0.38
+
+

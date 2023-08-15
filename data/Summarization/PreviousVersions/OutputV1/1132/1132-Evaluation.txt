@@ -1,0 +1,106 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1132\1132-Abstract-A.txt data\input\1132\1132-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...41078 ms
+
+Chaining summary file data\input\1132\1132-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  25078 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\1132\1132-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  330250 ms
+	Chain processing time: 16 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.96
+	Std Dev:      2.66
+	Strong Score: 6.28
+
+	T081-Quantitative Concept: 12.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    14.45
+	Std Dev:      58.28
+	Strong Score: 131.00
+
+	T061-Therapeutic or Preventive Procedure: 180.00
+	T081-Quantitative Concept: 350.00
+	T169-Functional Concept: 264.00
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 3
+	Number of concepts in Summary: 7
+
+	Number of strong chains in Full-text with concepts from Summary: 3
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 7
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 9)
+-------------
+
+0) Because of the poor results in stage III B carcinoma of the cervix with standard treatment using radiotherapy alone, we designed a randomized trial to determine whether administration of chemotherapy before pelvic irradiation would improve survival. 
+1) Between May 1984 and August 1986, 107 patients with previously untreated squamous cell carcinoma were randomly assigned, after stratification by age (< 50 v > 50 years), extent of parametrial involvement (unilateral v bilateral), and lymphangiographic findings (negative v positive) to pelvic radiotherapy (RT, arm A) or three cycles of chemotherapy (CT, bleomycin, vincristine, mitomycin, and cisplatin [BOMP]), followed by the same radiotherapy regimen (CT + RT, arm B). 
+2) We conclude that, despite a satisfactory response rate, neoadjuvant BOMP chemotherapy adversely affects survival in stage III B cervical cancer and is associated with unacceptable toxicity. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,40 of 157)
+-------------
+
+0) Patients also needed to have adequate medullary reserve (WBC Ž 4,000/IpL, platelet count > 100,000/p.L) and normal renal (BUN < 8.9 mmol/L, creatinine < 130 Rimol/L, creatinine clearance > 1.17 mL/s) and liver (alkaline phosphatase < 110 U/L, bilirubin < 21 pimol/L) function. 
+1) The International Federation of Gynecology and Obstetrics staging criteria were used in this study. 
+2) Fifty-two patients were randomized to the CT + RT arm and 55 to the RT arm. 
+3) The superior limit of the radiation field was the L5-S1 junction, the lower limit was the caudal pole of obturator foramen, and the lateral boundaries were 1.5 cm beyond the lymph nodes as demonstrated on lymphangiography. 
+4) Both fields were treated on each day of treatment. 
+5) Paraaortic radiation was not given, even for the patients with positive paraaortic nodes on lymphangiography. 
+6) Chemotherapy consisted of bleomycin 15 U intramuscularly (IM) every 12 hours from days 1 to 4 (total dose, 120 U), vincristine 1 mg/m 2 IV on day 1, mitomycin 10 mg/im 2 IV on day 1, and cisplatin 50 mg/m2 IV on day 1, given on an outpatient basis every 3 weeks for three cycles. 
+7) Cisplatin was protected from light and given in 500 mL of normal saline over 1 hour to all patients. 
+8) Potassium chloride at 20 mEq/L and magnesium sulfate were added as needed. 
+9) Dexamethasone and metoclopramide were used as antiemetics. 
+10) Except for one patient, all others received three cycles of CT and were able to tolerate full protocol doses of vincristine, mitomycin, and cisplatin. 
+11) Survival was calculated by the Kaplan-Meier 1 method 2 and was measured from day 1 of therapy until last follow-up or death. 
+12) Actuarial survival curves were compared by the log-rank method. 
+13) RESULTS
+14) anesthesia. 
+15) Patients in the combined modality group were also assessed for local response at the completion of CT and before the start of RT. 
+16) However, this assessment was not done under anesthesia. 
+17) A CR was defined as the complete resolution of all measurable disease and symptoms, a partial response (PR) was defined as a 50% or more decrease in the sum of the products of perpendicular diameters of measurable disease, and stable disease (SD) was defined as less than a 50% decrease in the sum of the products of perpendicular diameters of the measurable lesions. 
+18) Following completion of irradiation, patients were assessed every 2 to 3 months for the first 2 years and every 6 months thereafter. 
+19) Disease status was evaluated by pelvic examination and by appropriate radiologic and laboratory investigations. 
+20) Pelvic failure was defined as disease recurring in the true pelvis including central and parametrial failure. 
+21) The median follow-up time for the RT arm is 51 months (range, 34 to 67) and is 44 months (range, 35 to 65) for the CT + RT. 
+22) The CR rate was 32.5% and 47% (P = .19) for the RT and CT + RT, respectively. 
+23) Seven patients were not included in response assessment in the combined modality group, four patients who died of CT complications, two whodied of metastatic disease, all of them before commencement of RT, and one other patient whose
+24) pelvic disease progressed during CT and who received palliative irradiation only because of poorgeneral condition. 
+25) The CR rate after three cycles of BOMP CT was 25.5%. 
+26) Median survivals were 25 months in the RT arm and 10.5 months in the CT + RT. 
+27) Pelvic disease remains the major site of failure, with at least 50% of the patients failing within the irradiated volume. 
+28) About two thirds of patients experienced moderate to severe nausea/ vomiting. 
+29) Leukopenia and thrombocytopenia were not a problem, with only 7.5% of the patients experiencing a leucocyte nadir of less than 1,000/ IiL. 
+30) Postmortem study showed no evidence of cervical cancer.
+31) DISCUSSION
+32) The reason for this surprising and disturbing finding is not entirely clear. 
+33) Since repopulation by surviving tumor clonogens is not a specific response to RT but rather results from killing of tumor cells, these authors have suggested that CT, which is effective in killing cells, could also lead to an accelerated regrowth of surviving clonogens, lessening the effect of subsequent RT. 
+34) explanation for the poorer results in these neoadjuvant trials is the enhancement of accelerated tumor cell proliferation during treatment. 
+35) The mechanisms by which this increased cell proliferation occurs are not entirely clear, although, as suggested by Tannock,34 it may result from improved nutrition of surviving cells following shrinkage of the tumor due to previous therapy. 
+36) It is now clear that response rate is a poor end point. 
+37) It is a subjective evaluation that frequently depends on the ability of the investigator to differentiate between residual local disease or treatment-induced parametrial fibrosis. 
+38) These authors treated 23 patients (20 cervical cancer, two vulvar, one ovarian) and observed the development of pulmonary toxicity in eight patients (34.5%), with five of them dying a respiratory death while free of disease. 
+39) The high toxicity rate of BOMP CT, in the dose and schedule used in this study, makes this combination unacceptable for routine use. 

@@ -1,0 +1,10 @@
+Purpose: To determine the cardioprotective effect of dexrazoxane (DZR) used in a doxorubicin-based combination therapy in advanced breast cancer.
+
+Patients and Methods: Between November 1988 and January 1991, 534 patients with advanced breast cancer were randomized to two multicenter, double-blind studies (088001 and 088006). Patients received fluorouracil, doxorubicin, and cyclophosphamide (FAC) with either DZR (DZR-to-doxorubicin ratio, 10:1) or placebo (PLA) every 3 weeks and were monitored with serial multiplegated acquisition (MUGA) scans.
+
+Results: The hazards ratio (HR) of PLA to DZR for a carci-c event, which was predefined ejection fraction changes or congestive heart failure (CHF), was 2.63 (95% confidence interval [Cl], 1.61 to 4.27; P < .001) for 088001 and 2.00 (95% CI, 1.01 to 3.96; P = .038) for
+088006. The objective response rates for 088001 were 46.8% for DZR and 60.5% for PLA, a difference of 14% (95% Cl, -25% to -2%; P = .019), and for 088006 were 53.7% for DZR and 49.3% for PLA, a difference of 4% (95% CI, -13% to 22%; P = .63). Time to progression
+and survival were not significantly different between treatment arms in either study. Toxicities on the DZR arms included lower granulocyte and platelet counts at nadir (P = .009 and P = .004, respectively) and more pain on injection (P = .001), with no difference in the rates of fever, infection, or hemorrhage.
+
+Conclusion: DZR had a significant cardioprotective effect as measured by noninvasive testing and clinical CHF. One of the two studies (088001) showed a lower response rate with DZR, but time to progression and survival were not significantly different. DZR is the first
+agent shown to reduce cardiotoxicity from doxorubicin. 

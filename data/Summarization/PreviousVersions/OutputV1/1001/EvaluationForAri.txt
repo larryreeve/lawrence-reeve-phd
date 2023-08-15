@@ -1,0 +1,35 @@
+Abstract strong chains:
+	Avg score:    3.04
+	Std Dev:      7.51
+	Strong score: 18.06
+
+	T170:Intellectual Product(36.00)
+Full-text strong chains:
+	Avg score:    24.08
+	Std Dev:      89.24
+	Strong score: 202.56
+
+	T081:Quantitative Concept(490.00)
+	T169:Functional Concept(481.00)
+	T061:Therapeutic or Preventive Procedure(247.00)
+	T170:Intellectual Product(230.00)
+
+Recall: Strong chain from full-text with with no concepts from abstract:
+chain 'T081:Quantitative Concept' has concept 'C0220921:survival aspects'
+chain 'T169:Functional Concept' has concept 'C0039798:therapeutic aspects'
+chain 'T061:Therapeutic or Preventive Procedure' has concept 'C0087111:Therapeutic procedure'
+chain 'T170:Intellectual Product' has concept 'C0025664:Methodology'
+
+Precision: Abstract concepts with no match in any strong chains of full-text:
+
+
+Evaluation:
+-----------
+	Number of strong chains in full-text: 4
+	Number of concepts in abstract: 6
+
+	Number of strong chains in full-text with concepts from abstract: 4
+	  Recall: 1.00
+
+	Number of strong concepts in abstract having strong chains in full-text: 6
+	  Precision: 1.00

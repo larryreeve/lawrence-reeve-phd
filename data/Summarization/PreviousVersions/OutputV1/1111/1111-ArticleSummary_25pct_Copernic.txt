@@ -1,0 +1,67 @@
+INTRODUCTION Stage I cervical cancer has a relatively favorable prognosis with an 80% cure rate achieved with radical hysterectomy or radiotherapy.
+
+Certain clinical and pathologic risk factors for Stage 1 cervical cancer recurrence have been identified.
+
+Pelvic lymph node metastases, for example have been known to decrease the 5-year survival from 82 to 90% in patients with negative nodes to 38 to 61% in patients with positive lymph nodes.
+
+Additional risk factors for recurrence, e.g., large tumor diameter (LTD), deep stromal invasion (DSI), and presence of tumor in the capillary lymphatic spaces (CLS) found on microscopic examination have been only recently recognized and less extensively investigated than lymph node metastases.
+
+However, sufficient data have been reported in the literature to categorize LTD, DSI, and CLS as independent risk factors because of their frequent association with increased cancer recurrence and mortality.
+
+An analysis of data on 575 women enrolled in a previous Gynecologic Oncology Group (GOG) study of clinical and pathologic predictors of surgically treated stage carcinoma of the cervix confirmed the roles of LTD, DSI, and CLS as risk factors, increasing the probability of cancer recurrence at 3 years from 2 to 31%.
+
+PATIENTS AND METHODS Study Design The GOG #92 multicenter prospective randomized study was designed to determine whether postoperative pelvic radiotherapy following radical hysterectomy and pelvic node dissection would reduce the rate of recurrence and decrease the mortality in Stage IB cervical cancer patients with large tumor diameter, deep stromal invasion by tumor, and presence of tumor in the capillary lymphatic spaces found on microscopic examination.
+
+The study's target sample size was set at 169 eligible patients based on a desire to detect a 55% decrease in recurrence rate (exponential model with l 5 0.01 recurrences/month) with the use of radiation therapy.
+
+Eligibility Written informed consent was obtained from all patients prior to entry on study fulfilling all institutional, state, and federal regulations.
+
+Institutional pathologists measured the depth of stromal tumor invasion with a millimeter ruler and made a determination of a presence or absence of CLS.
+
+Other eligibility criteria for enrollment into the study included normal blood counts, normal liver and kidney function, absence of genitourinary tract abnormality as determined by intravenous pyelogram, renal sonogram, or computerized tomography, and absence of intercurrent diseases or other conditions that might not permit completion of the study or the required follow-up.
+
+After the eligibility criteria were verified, patients were randomly assigned to one of the two regimens: pelvic radiation or no further therapy.
+
+Results of these tests as well as changes of therapy, adverse effects, progression, or death were reported.
+
+Review of operative reports was conducted to evaluate the completeness of surgical procedures.
+
+The difference in RFI and survival by treatment regimen was evaluated using the log-rank test applying the intent-to-treat principle.
+
+There were 128 (46%) patients with the risk factors of positive CLS and deep one-third stromal invasion, 65 (23%) had positive CLS, middle third stromal invasion and tumor size $2 cm, 82 (30%) had negative CLS, middle or deep third stromal invasion and a $4-cm tumor, and 2 (0.7%) had positive CLS, superficial stromal invasion, and tumor size $5 cm (Table 3).
+
+Thirty (21%) patients among those in the NFT group died, 25 (18%) from cancer, compared to 18 (13%) deaths in the RT group, 15 (11%) of whom died from cancer with one attributable to treatment (Table 5).
+
+Estimating tumor diameter by palpation is more subjective and imprecise than the direct measurement of the depth of invasion.
+
+In addition, preoperative tumor size cannot be verified for quality control.
+
+Nevertheless, we found tumor diameter to be the most significant risk factors in the Cox model analysis of our study results, confirming multiple data sets which demonstrate that the size of the primary cancer is critical for local control despite the imprecision of measurement.
+
+Significant interobserver variability was reported by Zaino et al. in a recent study on reproducibility of pathologists assessment of vascular invasion and other histological predictors.
+
+The formula combining the three risk factors that we used to determine patient eligibility may appear complicated.
+
+Nevertheless, the use of this formula by the participating institutions has been successful in achieving a high acceptance rate with only 22 patients (7%) found ineligible for the study.
+
+A detailed GOG clinical pathologic study had established that certain patients with poor prognostic factors related to the primary tumor (i.e., large tumor size, deep stromal invasion, and capillary lymphatic space tumor involvement) but without lymph node involvement had a risk of recurrence of 31% after radical hysterectomy and pelvic lymphadenectomy.
+
+The present prospective randomized study showed that adjunctive radiotherapy significantly reduced the number of cancer recurrences in women with the above risk factors by 44% and that the difference in recurrences between irradiated and nonirradiated patients was statistically significant at the P 5 0.019 level.
+
+However, caution must be observed due to the disproportionately higher number of patients that are "lost to followup" among those receiving radiation therapy and the need for further follow-up to determine what impact radiation therapy has on survival.
+
+The use of adjuvant radiotherapy to improve the outcome in the Stage I cervical cancer patients with large tumor diameter, deep invasion, and CLS has been previously proposed.
+
+One report showed that postoperative radiation "prevented local recurrences and improved ten year tumor-free-survival" in a small number of women with CLS, DSI, and microscopically involved lymph nodes.
+
+More recently, Thomas and Dembo postulated that women with negative nodes but primary tumor-related poor prognostic factors were more likely to recur in the pelvis than in distant sites and, therefore, may benefit from pelvic irradiation.
+
+By contrast, in women with positive nodes local failure is more frequently associated with metastases in distant sites that are not affected by pelvic irradiation.
+
+Interestingly, our prospective study did provide conclusive evidence of pelvic radiotherapy being effective in women with primary tumor-related risk factors but negative nodes.
+
+However, no such evidence from randomized trials is available about effective treatment of positive lymph nodes.
+
+In our study, major lifethreatening adverse effects were encountered in 5 (4%) women among the 128 who received radiotherapy.
+
+One of these women died from complications of enteric fistula and another died from cancer after successful management of intestinal injury.

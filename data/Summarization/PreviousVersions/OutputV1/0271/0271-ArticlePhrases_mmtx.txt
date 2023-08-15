@@ -1,0 +1,699 @@
+MAJOR ADVANCES
+	C0205164|Major (qualifier value)|T080
+	C0725066|Advance|T074
+widespread introduction
+	C0205391|Widespread (qualifier value)|T082
+	C1293116|Introduction (procedure)|T058
+multimodality treatments
+	C0009429|Combined Modality Therapy|T061
+development
+	C0243107|development aspects|T039
+	C0020119|Human Development|T039
+tamoxifen
+	C0039286|Tamoxifen|T109
+Patients
+	C0030705|Patients|T101
+substantial relief
+	C0564405|Feeling relief|T033
+patients probably
+	C0030705|Patients|T101
+	C0750492|Probably|T078
+	C0332148|Probable diagnosis|T080
+Advanced breast cancer
+	C0006142|Malignant neoplasm of breast|T191
+	C0205179|Advanced phase|T080
+	C1268990|Entire breast|T023
+	C0006141|Breast|T023
+	C0877373|Advanced cancer|T191
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+quality
+	C0332306|With quality (attribute)|T080
+clinical benefits
+	C0814225|benefits|T081
+	C0205210|Clinical (qualifier value)|T080
+clearly need
+	C0027552|Needs|T080
+	C0205305|Clear (qualifier value)|T080
+new agents
+	C0205314|New (qualifier value)|T079
+	C0450442|Agent (attribute)|T120
+Several bis substituted anthraquinones
+	C0003174|Anthraquinones|T109
+	C0443302|Several (qualifier value)|T081
+mitoxantrone
+	C0026259|Mitoxantrone|T109
+doxorubicin
+	C0013089|Doxorubicin|T195
+mitoxantrone
+	C0026259|Mitoxantrone|T109
+Early results
+	C0205085|Early (qualifier value)|T079
+	C1274040|Result (navigational concept)|T169
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+years ago
+	C0439234|year (qualifier value)|T079
+final report
+	C0460114|Final report (administrative concept)|T058
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+PATIENTS
+	C0030705|Patients|T101
+METHODS
+	C0025664|Methodology|T170
+	C0025663|Methods|T170
+Women
+	C0043210|Human adult females|T098
+	C0043209|Human Females|T098
+unresectable regional breast cancer
+	C0677964|unresectable|T169
+	C0006142|Malignant neoplasm of breast|T191
+	C1268990|Entire breast|T023
+	C0677938|regional cancer|T191
+	C0006141|Breast|T023
+	C0205147|Regional (qualifier value)|T082
+not received anthracyclines
+	C0544683|Reception|T042
+	C0282564|Anthracyclines|T109
+previous therapy
+	C0205156|Previous (qualifier value)|T082
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+Patients
+	C0030705|Patients|T101
+patients
+	C0030705|Patients|T101
+greater restriction
+	C0443288|Restricted (qualifier value)|T169
+	C0443228|Greater (qualifier value)|T081
+Patients
+	C0030705|Patients|T101
+evaluable disease
+	C0677887|evaluable disease|T047
+Patients
+	C0030705|Patients|T101
+renal dysfunction
+	C0151746|Abnormal renal function (finding)|T046
+patients
+	C0030705|Patients|T101
+written consent
+	C0341628|Writer (occupation)|T097
+	C0043266|Writing|T090
+doxorubicin
+	C0013089|Doxorubicin|T195
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+mitoxantrone
+	C0026259|Mitoxantrone|T109
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+Patients
+	C0030705|Patients|T101
+initial dose
+	C0205265|Initial (qualifier value)|T079
+	C0178602|Dosages (qualifier value)|T081
+Doses
+	C0719635|DOS|T109
+weeks
+	C0439230|week (qualifier value)|T079
+WBC nadir
+	C0023516|Leukocytes|T025
+Patients
+	C0030705|Patients|T101
+life-threatening marrow suppression
+	C0301625|Metabolic Suppression|T040
+	C0376558|Life|T078
+	C0221103|Visual Suppression|T046
+	C0728721|Psychological suppression|T041
+severe nonhematologic toxicity
+	C0205082|Severe (severity modifier) (qualifier value)|T080
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+dose
+	C0178602|Dosages (qualifier value)|T081
+crossover design
+	C0242817|Crossover Design|T062
+patients
+	C0030705|Patients|T101
+disease progression
+	C0242656|Disease Progression|T046
+alternate regimen
+	C0677937|regimen|T061
+	C0332270|Alternating (qualifier value)|T169
+Mitoxantrone
+	C0026259|Mitoxantrone|T109
+National Cancer Institute
+	C0015737|Federal Government|T092
+	C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+	C0021622|Institutes|T092
+	C0006826|Malignant Neoplasms|T191
+	C0998265|Cancer Genus|T009
+Pearl River
+	C0337050|Rivers|T070
+Patients
+	C0030705|Patients|T101
+physician
+	C0031831|Physicians|T097
+interim effects possibly
+	C1280500|Effect (qualifier value)|T080
+	C0332149|Possible|T080
+Increasing shortness
+	C0442808|Increasing (qualifier value)|T169
+	C0205167|Short (qualifier value)|T079
+abnormal gated acquisition
+	C0205161|Abnormal (qualifier value)|T169
+scan
+	C0441633|Scanning|T060
+systolic time interval
+	C1148547|Systolic Time Interval|T079
+measurements
+	C0242485|Measurement|T081
+physician
+	C0031831|Physicians|T097
+clinical diagnosis
+	C0332140|Diagnosis, clinical|T080
+CHF
+	C0018802|Heart Failure, Congestive|T047
+MUGA scans
+	C0521317|Multiple gated acquisition scanning (procedure)|T060
+STI measurements
+	C0242485|Measurement|T081
+Complete blood counts
+	C0009555|Blood Count, Complete|T059
+Patients
+	C0030705|Patients|T101
+two courses
+	C0205448|Two (qualifier value)|T081
+	C0750729|Courses (qualifier value)|T079
+documented disease progression
+	C1301725|Documented (qualifier value)|T058
+	C0242656|Disease Progression|T046
+Complete response
+	C0677874|In complete remission (qualifier value)|T033
+Partial response
+	C0677924|partial response|T080
+50% decrease
+	C0547047|Decrease (qualifier value)|T081
+Complete relief
+	C0564405|Feeling relief|T033
+	C0725685|Compleat|T168
+	C0205197|Complete (qualifier value)|T080
+pain
+	C0030193|Pain|T184
+clearly cancer
+	C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+	C0006826|Malignant Neoplasms|T191
+	C0998265|Cancer Genus|T009
+	C0205305|Clear (qualifier value)|T080
+analgesic therapy
+	C0412784|Analgesic technique (procedure)|T061
+Coombes
+	C0331946|Combe|T093
+al
+	C0002367|Aluminum|T196
+good correlation
+	C0205170|Good (qualifier value)|T080
+response
+	C0871261|Responses|T054
+standard Union Internationale Contre le Cancer
+	C0175675|Standards of Weights and Measures|T080
+	C0038137|standards characteristics|T170
+	C0936282|Malignant neoplasm, primary (morphologic abnormality)|T191
+	C0006826|Malignant Neoplasms|T191
+	C0998265|Cancer Genus|T009
+criteria
+	C0243161|criteria|T170
+pain
+	C0030193|Pain|T184
+palliation
+	C1285530|Palliative - procedure intent (qualifier value)|T080
+important goal
+	C0018017|Goals|T170
+randomized design
+	C0034656|Random Allocation|T062
+subjective end points
+	C0150100|ENDPOINT|T062
+	C0439655|Subjective observation (qualifier value)|T080
+more stringent criteria
+	C0205172|More (qualifier value)|T081
+	C0243161|criteria|T170
+al
+	C0002367|Aluminum|T196
+durable relief
+	C0564405|Feeling relief|T033
+duration
+	C0449238|Duration|T079
+Effusions
+	C0013687|Effusion (morphologic abnormality)|T046
+inflammatory skin lesions
+	C0333348|Inflammatory|T169
+	C0037284|Skin lesion (disorder)|T020
+sclerotic bone lesions
+	C0334135|Sclerotic (qualifier value)|T169
+	C0238792|Bone lesion|T047
+	C1266909|Entire bony skeleton|T022
+	C0262950|Skeletal bone|T021
+	C0748541|SCLEROTIC LESION|T033
+	C1266908|Entire bone (organ)|T023
+	C0391978|Bone Tissue|T024
+laboratory abnormalities
+	C0745587|LAB ABNORMALITY|T033
+Response determinations
+	C0871261|Responses|T054
+	C1148554|Determination Aspects|T059
+	C0680730|Adjudication|T064
+physician
+	C0031831|Physicians|T097
+research nurse
+	C0687693|Research nurse (occupation)|T097
+statistical analysis
+	C0871424|Statistical Analysis|T062
+corrected chi-square test
+	C0008041|Chi-Square Test|T081
+	C0205202|Remediated (finding)|T080
+Fisher
+	C0325045|Martes pennanti (organism)|T015
+exact test
+	C0059927|Exact|T122
+	C0392366|Tests (qualifier value)|T170
+total number
+	C0439810|Total (qualifier value)|T080
+	C0449788|Count of entities (property) (qualifier value)|T081
+RESULTS
+	C1274040|Result (navigational concept)|T169
+Patient characteristics
+	C0815172|patient characteristics|T201
+Ninety patients
+	C0030705|Patients|T101
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+Two patients
+	C0205448|Two (qualifier value)|T081
+	C0030705|Patients|T101
+one
+	C0205447|One (qualifier value)|T081
+one patient
+	C0030705|Patients|T101
+	C0205447|One (qualifier value)|T081
+initial mitoxantrone
+	C0205265|Initial (qualifier value)|T079
+	C0026259|Mitoxantrone|T109
+two patients
+	C0205448|Two (qualifier value)|T081
+	C0030705|Patients|T101
+serious toxicity
+	C0205404|Serious (qualifier value)|T080
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+subjective disease progression
+	C0242656|Disease Progression|T046
+	C0439655|Subjective observation (qualifier value)|T080
+Four patients
+	C0030705|Patients|T101
+	C0205450|Four (qualifier value)|T081
+mitoxantrone
+	C0026259|Mitoxantrone|T109
+one receiving doxorubicin
+	C0544683|Reception|T042
+	C0205447|One (qualifier value)|T081
+	C0013089|Doxorubicin|T195
+two courses
+	C0205448|Two (qualifier value)|T081
+	C0750729|Courses (qualifier value)|T079
+toxicity
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+patients
+	C0030705|Patients|T101
+progressive disease
+	C0677932|progressive disease|T191
+Thirty nine patients initially
+	C0030705|Patients|T101
+	C0205265|Initial (qualifier value)|T079
+	C0205455|Nine (qualifier value)|T081
+two full courses
+	C0205448|Two (qualifier value)|T081
+	C0443225|Full (qualifier value)|T080
+	C0750729|Courses (qualifier value)|T079
+Response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+two full courses
+	C0205448|Two (qualifier value)|T081
+	C0443225|Full (qualifier value)|T080
+	C0750729|Courses (qualifier value)|T079
+patients
+	C0030705|Patients|T101
+Courses
+	C0750729|Courses (qualifier value)|T079
+blood counts
+	C0005767|Blood|T024
+	C0005768|In Blood|T031
+	C0439157|counts (qualifier value)|T081
+initial performance status
+	C0205265|Initial (qualifier value)|T079
+	C0935728|performance status|T033
+Three patients
+	C0030705|Patients|T101
+	C0205449|Three (qualifier value)|T081
+standard regimens
+	C0175675|Standards of Weights and Measures|T080
+	C0677937|regimen|T061
+	C0038137|standards characteristics|T170
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+Patients
+	C0030705|Patients|T101
+interval
+	C1272706|Interval (qualifier value)|T079
+types
+	C0449470|Types (qualifier value)|T170
+responses
+	C0871261|Responses|T054
+sites
+	C0205145|Associated topography (attribute)|T082
+number
+	C0449788|Count of entities (property) (qualifier value)|T081
+patient response
+	C0030705|Patients|T101
+	C0871261|Responses|T054
+primary treatment
+	C0087111|Therapeutic procedure|T061
+	C0205225|Primary|T080
+	C0039798|therapeutic aspects|T169
+	C0439631|Primary operation (qualifier value)|T061
+secondary treatment
+	C0036525|Metastatic to|T169
+	C0087111|Therapeutic procedure|T061
+	C0175668|Secondary to|T079
+	C0039798|therapeutic aspects|T169
+response rate
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+One patient
+	C0030705|Patients|T101
+	C0205447|One (qualifier value)|T081
+complete response
+	C0677874|In complete remission (qualifier value)|T033
+95% confidence intervals
+	C0009667|Confidence Intervals|T081
+differences
+	C0443199|Differential (qualifier value)|T080
+only patients
+	C0030705|Patients|T101
+two full courses
+	C0205448|Two (qualifier value)|T081
+	C0443225|Full (qualifier value)|T080
+	C0750729|Courses (qualifier value)|T079
+response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+doxorubicin
+	C0013089|Doxorubicin|T195
+agent
+	C0450442|Agent (attribute)|T120
+response
+	C0871261|Responses|T054
+Again response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+mitoxantrone
+	C0026259|Mitoxantrone|T109
+doxorubicin
+	C0013089|Doxorubicin|T195
+Overall response rates
+	C0282416|Overall [Publication Type]|T170
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+secondary treatment
+	C0036525|Metastatic to|T169
+	C0087111|Therapeutic procedure|T061
+	C0175668|Secondary to|T079
+	C0039798|therapeutic aspects|T169
+response sites
+	C0205145|Associated topography (attribute)|T082
+	C0871261|Responses|T054
+agents
+	C0450442|Agent (attribute)|T120
+Responses
+	C0871261|Responses|T054
+two patients
+	C0205448|Two (qualifier value)|T081
+	C0030705|Patients|T101
+five courses
+	C0205451|Five (qualifier value)|T081
+	C0750729|Courses (qualifier value)|T079
+Pain relief
+	C0451615|Pain relief|T061
+sole criterion
+	C0230463|Sole of Foot|T029
+	C0243161|criteria|T170
+doxorubicin
+	C0013089|Doxorubicin|T195
+one receiving mitoxantrone
+	C0544683|Reception|T042
+	C0026259|Mitoxantrone|T109
+	C0205447|One (qualifier value)|T081
+Response durations
+	C0237585|Response Duration|T079
+time
+	C0040223|Time|T079
+Responses
+	C0871261|Responses|T054
+hematologic toxicity
+	C0205488|Hematologic (qualifier value)|T169
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+More patients
+	C0205172|More (qualifier value)|T081
+	C0030705|Patients|T101
+escalation
+	C0014829|Escalators|T073
+desired level
+	C0871633|desires|T055
+	C0456079|Disease classification level|T185
+patients
+	C0030705|Patients|T101
+frequency
+	C0376249|With frequency|T081
+median grade
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+	C0441800|Grade|T185
+Nausea
+	C0027497|Nausea|T033
+vomiting
+	C0042963|Vomiting|T184
+	C0401156|Vomiting NOS (disorder)|T047
+alopecia
+	C0002170|Alopecia|T184
+fatigue
+	C0015672|Fatigue|T184
+four others
+	C0205394|Other|T080
+	C0205450|Four (qualifier value)|T081
+deterioration
+	C0868945|Deterioration|T067
+failure
+	C0680095|Personal failure|T055
+	C0231174|Failure (biologic function)|T169
+therapy
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+DISCUSSION
+	C0557061|Discussion (procedure)|T061
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+comparative response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+response durations
+	C0237585|Response Duration|T079
+side effects
+	C0001688|adverse effects|T037
+doxorubicin
+	C0013089|Doxorubicin|T195
+failed therapy
+	C0231175|Failed|T169
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+Doxorubicin
+	C0013089|Doxorubicin|T195
+most active standard agent
+	C0175675|Standards of Weights and Measures|T080
+	C0038137|standards characteristics|T170
+	C0205177|Active|T169
+	C0450442|Agent (attribute)|T120
+	C0205393|Most (qualifier value)|T081
+partial response rates
+	C0871208|Rating|T062
+	C0677924|partial response|T080
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+	C0728938|Partial (qualifier value)|T081
+observed differences
+	C0700325|Patient observation|T061
+	C0870992|Observers|T097
+	C0302523|Observation in research|T062
+	C0443199|Differential (qualifier value)|T080
+Time
+	C0040223|Time|T079
+duration
+	C0449238|Duration|T079
+secondary treatment
+	C0036525|Metastatic to|T169
+	C0087111|Therapeutic procedure|T061
+	C0175668|Secondary to|T079
+	C0039798|therapeutic aspects|T169
+trend favoring doxorubicin
+	C0013089|Doxorubicin|T195
+	C0040833|trends|T079
+	C0309049|FAVOR (product)|T121
+eligible patients
+	C0030705|Patients|T101
+trend
+	C0040833|trends|T079
+doxorubicin
+	C0013089|Doxorubicin|T195
+difference
+	C0443199|Differential (qualifier value)|T080
+two larger studies
+	C0205448|Two (qualifier value)|T081
+	C0557651|Room of building - Study|T073
+	C0443228|Greater (qualifier value)|T081
+	C0947630|Scientific Study|T059
+Lederle Collaborative Study Group
+	C1300322|Group (social concept)|T096
+	C0681804|collaborative study|T062
+	C0331850|Lederle|T093
+	C0441833|Groups (qualifier value)|T170
+Still responses
+	C0871261|Responses|T054
+	C0424228|Stillness (finding)|T033
+22% overall response rate
+	C0282416|Overall [Publication Type]|T170
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+m d
+	C0332517|Diameter (qualifier value)|T032
+	C0011530|Deoxyribose|T123
+	C0439228|day (qualifier value)|T079
+breast cancer patients
+	C0006142|Malignant neoplasm of breast|T191
+	C0030705|Patients|T101
+response rate
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+six patients
+	C0030705|Patients|T101
+	C0205452|Six (qualifier value)|T081
+complete response
+	C0677874|In complete remission (qualifier value)|T033
+regimen
+	C0677937|regimen|T061
+slightly higher starting dose
+	C0750482|SLIGHTLY|T078
+	C0444956|High dose (qualifier value)|T081
+	C1272689|Started (qualifier value)|T080
+	C0452588|Start (substance)|T168
+Eastern Cooperative group
+	C0677877|cooperative group|T093
+dosage
+	C0178602|Dosages (qualifier value)|T081
+m d
+	C0332517|Diameter (qualifier value)|T032
+	C0011530|Deoxyribose|T123
+	C0439228|day (qualifier value)|T079
+prior chemotherapy regimen
+	C0750516|PRIOR|T078
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+partial responses
+	C0677924|partial response|T080
+Mitoxantrone
+	C0026259|Mitoxantrone|T109
+schedules
+	C0086960|Schedules|T170
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+lack
+	C0332268|Lacking (qualifier value)|T080
+mitoxantrone
+	C0026259|Mitoxantrone|T109
+nonhematologic side effects
+	C0001688|adverse effects|T037
+Nausea
+	C0027497|Nausea|T033
+fatigue
+	C0015672|Fatigue|T184
+Alopecia
+	C0002170|Alopecia|T184
+hair loss
+	C0002170|Alopecia|T184
+formal evaluation
+	C0220825|Evaluation|T169
+	C0376315|Manufactured form|T073
+	C1261322|Assessment procedure (procedure)|T058
+	C0348078|Qualitative form|T080
+performance status
+	C0935728|performance status|T033
+prolonged doxorubicin treatment
+	C0439590|Prolonged (qualifier value)|T079
+	C0087111|Therapeutic procedure|T061
+	C0013089|Doxorubicin|T195
+	C0039798|therapeutic aspects|T169
+prolonged treatment
+	C0439590|Prolonged (qualifier value)|T079
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+effect
+	C1280500|Effect (qualifier value)|T080
+also presented evidence
+	C0150312|Present|T169
+others
+	C0205394|Other|T080
+crossover design
+	C0242817|Crossover Design|T062
+observed cardiac toxicity
+	C0700325|Patient observation|T061
+	C0870992|Observers|T097
+	C0302523|Observation in research|T062
+	C0280951|cardiac toxicity|T037
+agent
+	C0450442|Agent (attribute)|T120
+incidence
+	C0220856|incidence of cases|T169
+	C0021149|Incidence|T081
+doxorubicin
+	C0013089|Doxorubicin|T195
+mitoxantrone
+	C0026259|Mitoxantrone|T109
+important responses
+	C0871261|Responses|T054
+Questions
+	C0750481|QUESTIONABLE|T078
+dosing
+	C0178602|Dosages (qualifier value)|T081
+scheduling
+	C0205539|Scheduled (qualifier value)|T169
+	C0086960|Schedules|T170
+optimum use
+	C0042153|utilization|T081
+Much higher doses
+	C0444956|High dose (qualifier value)|T081
+antitumor effect
+	C1280500|Effect (qualifier value)|T080
+Only few combinations
+	C0453882|Combinations (physical object)|T073
+	C0205388|Few (qualifier value)|T081
+experience
+	C0596545|experience|T041

@@ -1,0 +1,102 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1111\1111-Abstract-A.txt data\input\1111\1111-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...142828 ms
+
+Chaining summary file data\input\1111\1111-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  30484 ms
+	Chain processing time: 16 ms
+
+Chaining full-text file data\input\1111\1111-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  301875 ms
+	Chain processing time: 16 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.96
+	Std Dev:      2.71
+	Strong Score: 6.38
+
+	T081-Quantitative Concept: 12.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    23.11
+	Std Dev:      90.27
+	Strong Score: 203.65
+
+	T061-Therapeutic or Preventive Procedure: 330.00
+	T081-Quantitative Concept: 552.00
+	T170-Intellectual Product: 325.00
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 3
+	Number of concepts in Summary: 5
+
+	Number of strong chains in Full-text with concepts from Summary: 3
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 5
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,4 of 14)
+-------------
+
+0) The objective of this study was to evaluate the benefits and risk of adjuvant pelvic radiotherapy aimed at reducing recurrencein women with Stage IB cervical cancer treated by radical hysterectomy and pelvic lymphadenectomy.
+1) Twenty-one (15%) in the RT group and 39 (28%) in the NFT group had a cancer recurrence, 18 of whom were vaginal/pelvic in the RT and 27 in the NFT group. 
+2) Life table analysis indicated a statistically significant (47%) reduction in risk of recurrence(relative risk 5 0.53, P 5 0.008, one-tail) among the RT group, with recurrence-free rates at 2 years of 88% versus 79% for the RTand NFT groups, respectively. 
+3) One patient’s death was attributable to grade 4 GI adverse effects.
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,35 of 140)
+-------------
+
+0) A previous GOG study estimated that womenwith one of the following combinations of risk factors had, onaverage, a 31% chance of recurring in 3 years. 
+1) Women withone of the combinations of risk factors as defined in Table 1were eligible to enter this study.
+2) The study’s target sample size was set at 169 eligible patientsbased on a desire to detect a 55% decrease in recurrencerate (exponential model with l 5 0.01 recurrences/month)with the use of radiation therapy. 
+3) In 1993, the sample sizegoal was increased because of the lower than expected recurrencerate, a better estimate of the change in the recurrence rateover time, and a small, but significant, frequency of noncompliancein the radiation therapy (RT) regimen. 
+4) The revisedsample size goal was 260 patients and the final analysis ofrecurrence-free interval would occur once 60 recurrences wereobserved. 
+5) This goal would allow the detection of a 47% reductionin the risk of recurrence with complete compliance or50% reduction with 8% noncompliance among those registeredto the RT regimen. 
+6) All designs allowed for 80%statistical power when performing a one-tail test at the 0.05level.
+7) The ureter had to be unroofedfrom its entry into the broad ligament to its intramural portionin the bladder and dissected laterally from its attachments tothe cardinal ligament. 
+8) Pelvic lymphadenectomy required bilateralremoval of all nodal tissue and skeletonization of allvessels from the mid portion of the psoas muscle to uterermedially including the hypogastric artery and vein and fromthe obturator fossa anterior to the obturator nerve. 
+9) Tumordiameter was estimated by palpation. 
+10) Institutional pathologistsmeasured the depth of stromal tumor invasion with a millimeterruler and made a determination of a presence or absence ofCLS. 
+11) Radiation TherapyRadiation therapy was started within 4 to 6 weeks postoperatively.
+12) Patients received external beam irradiation and nobrachytherapy. 
+13) The pelvic irradiation was given with a fourfieldtechnique with a megavoltage beam, although cobalt-60was allowed if the SSD was greater than 80 cm. Radiation dosewas from 46 Gy in 23 fractions to 50.4 Gy in 28 fractions, 5fractions per week. 
+14) Treatment breaks forclinical problems (vomiting or diarrhea) were allowed to totalno more than 1 week.
+15) Intravenous pyelogram,renal sonogram, or computed tomography (CT) scan withcontrast was to be done at 6 months and then yearly. 
+16) Statistical MethodsThe primary outcome variable was recurrence-free interval(RFI). 
+17) Similarly, survival is defined from date ofstudy entry to death, or date last seen. 
+18) Sites of recurrence wereclassified as local if detected in the pelvis or vagina, and distantif detected in extrapelvic locations. 
+19) Life tables were computedusing the method of Kaplan and Meier. 
+20) The difference inRFI and survival by treatment regimen was evaluated using thelog-rank test applying the intent-to-treat principle. 
+21) One hundred and fifty-onepatients (55%) were white, 56 (20%) were black, 27 (10%)were Hispanic, and 21 (8%) were Asian. 
+22) The site of recurrence was unknown for 2 patients.
+23) Fortyfive(78%) of 58 recurrences were local only (vagina or pelvis)(Table 4). 
+24) Forty-eight patients have died as of this report (final analysisof survival awaits further follow-up until 60 deaths have occurred).
+25) Thirty (21%) patients among those in the NFT groupdied, 25 (18%) from cancer, compared to 18 (13%) deaths inthe RT group, 15 (11%) of whom died from cancer with oneattributable to treatment (Table 5). 
+26) The adverse effects by organ system and treatment group aredisplayed in Table 6. 
+27) One patient with severely decreased bladder volumerequired a permanent Indiana pouch urinary conduit forrelief of urinary incontinence. 
+28) Deep tumor invasion into cervicalstroma (measured either in millimeters or in thirds of the totalcervical thickness) has been also shown in association withlymph node metastases, recurrence, and poorer survival.
+29) Boyce et al. emphasizedthat a combination of risk factors correlated better with thesurvival than one factor alone.
+30) In addition, preoperative tumor size cannot be verifiedfor quality control. 
+31) It should be noted that the 27% recurrence rate at 3 years inour study population is lower than the anticipated one-third.
+32) This difference can be explained by an overestimation of riskby the regression model which commonly occurs, this phenomenais sometimes referred to as regression to the mean.
+33) Especially vulnerable to adverse radiation effectsare the bladder and the ureters due to compromisedcirculation from surgical dissection and the intestines becauseof adhesions and reduced motility. 
+34) Thus, adjunctive radiotherapy is beneficial for Stage I cervicalcancer patients with clinical–pathological risk factors forrecurrence other than positive nodes. 

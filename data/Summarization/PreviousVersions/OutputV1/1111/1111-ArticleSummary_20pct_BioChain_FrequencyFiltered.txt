@@ -1,0 +1,104 @@
+
+
+Pelvic lymph node metastases, for example have been known to decrease the 5-year survival from 82 to
+90% in patients with negative nodes to 38 to 61% in patients with positive lymph nodes. An analysis
+of data on 575 women enrolled in a previous Gynecologic Oncology Group (GOG) study of clinical and
+pathologic predictors of surgically treated stage carcinoma of the cervix confirmed the roles of
+LTD, DSI, and CLS as risk factors, increasing the probability of cancer recurrence at 3 years from 2
+to 31%. 
+
+
+In 1988 the GOG initiated a prospective randomized study (GOG #92), reported here, to investigate
+the benefits and risks of adjuvant radiotherapy for Stage I cervical cancer patients treated by
+conventional radical hysterectomy and pelvic lymphadenectomy and who were at high risk for
+recurrence, because of LTD, DSI, CLS, but excluding patients with lymph node metastases.
+
+
+The GOG #92 multicenter prospective randomized study was designed to determine whether postoperative
+pelvic radiotherapy following radical hysterectomy and pelvic node dissection would reduce the rate
+of recurrence and decrease the mortality in Stage IB cervical cancer patients with large tumor
+diameter, deep stromal invasion by tumor, and presence of tumor in the capillary lymphatic spaces
+found on microscopic examination. 
+
+
+The study’s target sample size was set at 169 eligible patients based on a desire to detect a 55%
+decrease in recurrence rate (exponential model with l 5 0.01 recurrences/month) with the use of
+radiation therapy. The revised sample size goal was 260 patients and the final analysis of
+recurrence-free interval would occur once 60 recurrences were observed. 
+
+
+Patients were eligible for the study if they had primary Stage IB squamous, adenosquamous carcinoma,
+or adenocarcinoma of cervix initially treated with a standard radical hysterectomy and who had
+negative lymph nodes but one of the previously described combination of risk factors. Pelvic
+lymphadenectomy required bilateral removal of all nodal tissue and skeletonization of all vessels
+from the mid portion of the psoas muscle to uterer medially including the hypogastric artery and
+vein and from the obturator fossa anterior to the obturator nerve. Other eligibility criteria for
+enrollment into the study included normal blood counts, normal liver and kidney function, absence of
+genitourinary tract abnormality as determined by intravenous pyelogram, renal sonogram, or
+computerized tomography, and absence of intercurrent diseases or other conditions that might not
+permit completion of the study or the required follow-up. 
+
+
+The pelvic irradiation was given with a fourfield technique with a megavoltage beam, although
+cobalt-60 was allowed if the SSD was greater than 80 cm. Radiation dose was from 46 Gy in 23
+fractions to 50.4 Gy in 28 fractions, 5 fractions per week. 
+
+
+Results of these tests as well as changes of therapy, adverse effects, progression, or death were
+reported.
+
+
+All histology slides were reviewed by two pathologists of the GOG Pathology Committee who measured
+the depth of stromal invasion expressed in thirds of cervical thickness and ascertained the presence
+or absence of the capillary lymphatic space tumor involvement and the tumor cell type. The
+Radiotherapy Committee examined therapy forms, diagrams of irradiated fields, dosimetry curves, and
+portal fields for each external field. 
+
+
+Statistical Methods.Imbalances between patient and disease characteristics and treatment regimens
+was accomplished using the Pearson’s x2 test. 
+
+
+The median age at study entry was 41 (range, 20–80) and the 25th and 75th percentiles were 34 and
+50, respectively. However, the overall risk for recurrence was very similar in each regimen when all
+three risk factors were considered as a group (See Cox Model analyses).
+
+
+Thirty-nine (27.9%) of the 140 women in the NFT group developed cancer recurrence, 27 (19.3%) local
+(vagina or pelvis), and 10 (7.1%) distant. Eighty-six percent of patients have either died or have
+been followed at least 3 years. 
+
+
+In an attempt to evaluate the impact of this imbalance, the log–rank test was recalculated assuming
+the first five patients lost (the excess number) in the RT group recurred at the time of their last
+clinical evaluation. 
+
+
+Both large tumor diameter and deep stromal invasion are indices of large tumor volume, conceivably
+affecting cancer progression and its metastatic spread. 
+
+
+Nevertheless, we found tumor diameter to be the most significant risk factors in the Cox model
+analysis of our study results, confirming multiple data sets which demonstrate that the size of the
+primary cancer is critical for local control despite the imprecision of measurement. 
+
+
+We reanalyzed our results using the Cox model trying to simplify the formula or to use only a single
+risk factor as a predictor. A detailed GOG clinical pathologic study had established that certain
+patients with poor prognostic factors related to the primary tumor (i.e., large tumor size, deep
+stromal invasion, and capillary lymphatic space tumor involvement) but without lymph node
+involvement had a risk of recurrence of 31% after radical hysterectomy and pelvic lymphadenectomy. 
+The present prospective randomized study showed that adjunctive radiotherapy significantly reduced
+the number of cancer recurrences in women with the above risk factors by 44% and that the difference
+in recurrences between irradiated and nonirradiated patients was statistically significant at the P
+5 0.019 level. It is conceivable that higher pelvic radiation doses could further reduce the pelvic
+local failure rate. However, addition of vault brachytherapy is unlikely to improve the results
+since there were only two isolated vault failures. One report showed that postoperative radiation
+“prevented local recurrences and improved ten year tumor-free-survival” in a small number of women
+with CLS, DSI, and microscopically involved lymph nodes. 
+
+
+Since the node-negative group accounts for one-half of all Stage IB cervical cancer deaths adjuvant
+radiotherapy for women with risk factors should substantially reduce the overall Stage IB mortality.
+Increased morbidity in patients receiving full course radiotherapy following radical surgery for
+cervical cancer has been reported. 

@@ -1,0 +1,83 @@
+
+
+While no therapy has been proven more effective than radical external-beam plus intracavitary
+radiotherapy, considerable research effort, including addition of chemotherapy plus radiation, is
+currently being put into improving survival rate in patients with advanced carcinoma of the cervix. 
+The concurrent use of radiation and chemotherapy, either as a single agent or in combination, has
+also been demonstrated to be effective in the local control of advanced carcinoma of the cervix with
+acceptable toxicity as presented by several reports, and was also supported by our previous phase I
+and II trial. However, most series were nonrandomized and failed to achieve an improvement in
+long-term survival. Thus, we designed the randomized trial to compare the tumor response and
+survival rate of patients with advanced cervical carcinoma receiving concurrent chemotherapy and
+radiotherapy versus patients receiving radiotherapy alone. The purpose of this randomized trial was
+to assess whether the chemoradiation is better than radiotherapy alone for locally advanced cervical
+carcinoma. 
+
+
+MATERIALS AND METHODS.
+
+
+Other eligibility criteria consisted of a pathologically verified squamous cell carcinoma of the
+cervix, a Karnofsky performance status index of 80% or above, and an age of younger than 70 years. 
+Extraperitoneal staging laparotomy was performed if aspiration cytology was negative. 
+
+
+External beam irradiation was started on Day 1 and delivered using a linear accelerator of 10-MV
+photons to the whole pelvis using a four-field box technique. In the concurrent chemoradiotherapy
+group, chemotherapeutic regimens consisted of cisplatin (50 mg/m2 body-surface area intravenously at
+the rate of 1 mg/min on Day 1), vincristine (1 mg/m2 intravenously push on Day 2), and bleomycin (25
+mg/m2 body-surface area intravenously infusion in divided doses on Days 2, 3, and 4) which were
+given starting on Day 1 of radiotherapy and then every 3 weeks for a total of four courses. Flexible
+granulocyte colony-stimulating factor (G-CSF) 2 mg/kg/day administration was used to prevent
+neutropenia and further infection. 
+
+
+The primary objectives were to compare the two treatment groups with respect to tumor response,
+failure patterns, disease-free interval, and actuarial survival. The secondary objectives were to
+compare the two treatment groups with respect to treatment-related toxicities, treatment delays, and
+completeness. 
+
+
+At a two-sided P value of 0.05, with the use of a Pearson x2 approximation, the estimated power was
+80% an improvement of 25% in survival with the concurrent therapy at the a Å 0.05 level (two-sided
+test). The actuarial disease-free survival and overall survival of patients with complete follow-up
+were estimated by the life-table method of Kaplan and Meier. 
+
+
+The median follow-up was 46.8 months (range, 12 ­ 69 months). Of the chemoradiotherapy group, 43
+patients completed four courses of chemotherapy, 11 patients received three courses, and 6 patients
+received two courses of chemotherapy. 
+
+
+An analysis of the patterns of failure reveals that the incidence of pelvic failure was equally
+distributed between the treatment groups (31.7% versus 30.6%, P Å 0.93). 
+
+
+Analysis by Kaplan ­ Meier method showed that the actuarial survival was not statistically different
+between the chemoradiotherapy and radiotherapy groups (mean survival time, 38.1 months versus 41.5
+months, P Å 0.27).
+
+
+Treatment results using radiation alone in women with locally advanced cervical cancer are
+unsatisfactory. These failures may be attributed to large central tumor volumes, parametrial
+extensions of disease resistant to local therapies, or metastatic disease outside the radiation
+field. Several studies have confirmed that bulky cervical cancer and extensive parametrial invasion
+are indeed poor prognostic features. Radiation effects are dependent on well-oxygenated tumor cells.
+In theory, bulky tumors have significant hypoxic cell populations that are relatively
+radioresistant. Therefore, in an attempt to improve tumor control and survival in patients with
+advanced cervical carcinoma, the treatment efficacy and tolerability of combined radiotherapy and
+chemotherapy using cisplatin-based chemotherapy for the treatment of patients with advanced cervical
+cancer needs to be explored. Only a randomized trial, using a single agent of weekly cisplatin in
+combination with radiotherapy, has shown a significant improvement in local ­ regional control when
+compared with radiation alone. To further increase the systemic activity and the radiation-enhancing
+potential of the chemotherapy, we chose cisplatin-based regimens with vincristine and bleomycin in
+this trial because it had proven high efficacy of local control in our previous phase I and II
+trials for patients with advanced cervical carcinoma. Our results indicated that, despite the
+excellent early tumor response seen during treatment, the benefit of concurrent chemoradiation in
+terms of reduced mortality and increased pelvic control rates may not be as great as that suggested
+by other reports. The most likely explanation for the poor results in the concurrent
+chemoradiotherapy group is the higher treatmentrelated toxicity, and that could limit the dose of
+definitive radiation employed or interrupt the planned radiotherapy. The accelerated repopulation in
+the treatment may involve only a small number of surviving cells, which could be omitted by
+posttreatment investigations. It may be that the multiagent chemotherapy with these drugs, dose, and
+schedule used in this study is too toxic to use with concomitant radiation therapy. 

@@ -1,0 +1,53 @@
+Peripheral blood progenitor cell (PBPC) transplantation has become a widely accepted therapeutic option for patients with chemotherapy-sensitive malignancies.
+
+The transfusion of PBPCs offers several advantages over bone marrow transplantation.
+
+Collection of PBPCs can be performed without general anesthesia, engraftment is faster, and supportive care and costs are reduced.
+
+PBPCs are harvested by leukapheresis after mobilization with chemotherapy and/or granulocyte--colony-stimulating factor (G--CSF) or granulocyte-macrophage--CSF (GM--CSF).
+
+The number of progenitor cells in the harvest is usually quantified by immunophenotyping for CD34+ cells6 and/or by evaluating the proliferative potential through measurement of colony-forming units--granulocyte-macrophage (CFU--GM).
+
+The yield of CD34+ cells obtained by leukapheresis is significantly influenced by the extent and duration of prior chemotherapy, therapy with stem cell-toxic drugs such as carmustine or melphalan, and extensive radiotherapy.
+
+Large-volume leukapheresis (LVL) is defined either by processing a minimum of 15 L of peripheral blood or by processing more than three times the total peripheral blood volume.
+
+In addition, patient tolerance may limit the clinical use of LVL.
+
+We therefore performed a prospective, randomized, sequential crossover trial in patients with breast cancer (BC) or non-Hodgkin's lymphoma (NHL) to evaluate the effect of LVL compared with normal-volume leukapheresis (NVL) on the absolute number of harvested CD34+ cells and on the extraction efficacy, defined as the difference between the yield in the harvest and the decrease in the total number of CD34+ cells in peripheral blood during leukapheresis.
+
+The main evaluation criteria of the study were the comparison of the number of CD34+ cells per harvest and the extraction efficacy for CD34+ cells in LVL and NVL.
+
+Inclusion criteria for patients with NHL were large-cell lymphoma with persistent disease after standard chemotherapy or at relapse or low-grade NHL stage III/IV and progressive disease.
+
+The other 8 patients with BC underwent mobilization with epirubicin at 90 mg per m©÷ and cyclophosphamide at 600 mg per m2.
+
+In patients undergoing harvest in complete remission, the bag containing the maximum number of PBPCs and the smallest volume was chosen for transfusion.
+
+RESULTS Yield of CD34+ cells and extraction efficacy The median number of CD34+ cells was significantly higher in LVL than in NVL (Table 3 and Fig. 2).
+
+Transplantation With Day 1 and Day 2 leukapheresis procedures taken together, one transplantation dose and a back-up dose were collected in all patients with BC, but in only 11 of the 15 patients with NHL (p = 0.026, chi-square test with Yates's correction).
+
+One other patient received both autologous bone marrow and autologous PBPCs.
+
+In PBPC transplantation, patients received a median of 2.7 ¡¿ 106 CD34+ cells per kg of BW (range, 1.0-7.8 ¡¿ 106) and a median of 2.0 ¡¿ 105 CFU--GM per kg of BW after cryopreservation (range, 0.7-10.4 ¡¿ 105).
+
+Twenty-five transplantations were performed in 24 patients with grafts from study leukapheresis procedures alone.
+
+In 23 transplantations, the graft of one leukapheresis component was sufficient in PBPC content.
+
+Seventeen patients, 14 with BC and 3 with NHL, received a graft from an LVL.
+
+Of the 6 patients being given grafts from an NVL, only 3 with BC had sufficient numbers of PBPCs in one-half of the collection; the others, 2 with BC and 1 with NHL, received a total harvest.
+
+When all procedures were considered, the median number of CD34+ cells and the median extraction efficacy were significantly higher in LVL than in NVL.
+
+In both LVL and NVL, the median extraction efficacy was greater than zero, which suggests that additional PBPCs must have been recruited into the peripheral blood during leukapheresis, as also reported by others.
+
+Factors such as the percentage of CD34+ cells in bone marrow before mobilization therapy may have an influence on the extraction efficacy during leukapheresis.
+
+During LVL, patients received significant amounts of heparin.
+
+The leukapheresis size, the obviously varied extent of recruitment of PBPCs during the harvest, and the different extraction efficacies may influence the relationship between preleukapheresis numbers of CD34+ cells and the yield in the PBPC harvest.
+
+Nevertheless, some data showed that sufficient amounts of PBPCs for transplantation can be harvested by a single LVL in most pediatric patients after mobilization with G--CSF alone39 and in adult patients with NHL, Hodgkin's disease, or acute lymphoblastic leukemia after mobilization with chemotherapy and G--CSF.

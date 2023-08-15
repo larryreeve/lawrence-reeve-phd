@@ -1,0 +1,346 @@
+SINCE JUNE 1973, the therapeutic and toxicologic effects of CMF (cyclophosphamide, methotrexate, and fluorouracil) chemotherapy were evaluated at the Istituto Nazionale Tumori of Milan as adjuvant treatment in patients with operable breast cancer and histologically positive axillary nodes. 
+
+The aim of the first program was to evaluate whether CMF given after radical surgery was able to alter the course of the disease. 
+
+After radical mastectomy, eligible patients were prospectively randomized to receive either no further treatment or 12 monthly cycles of adjuvant CMF. 
+
+All our progress reports have consistently demonstrated that there was a significant difference in the relapse-free survival (RFS) favoring patients who received adjuvant CMF. 
+
+The 7-yr results of this first program are now available,6 and they confirm the benefit of CMFtreated patients (RFS 49.2%) as compared to women subjected to radical mastectomy alone (RFS 35.8%, p < 0.002). 
+
+These results, as well as those reported in similar studies, suggest that the multimodality approach with cyclical combination chemotherapy is indeed an important advance in the strategy of primary management of resectable breast cancer, and therefore it is worthy of more widespread consideration.
+
+Among the numerous questions to be answered by current adjuvant studies is the optimal duration of treatment. 
+
+In fact, a relative shortterm adjuvant systemic treatment would spare the patients a considerable amount of toxicity. 
+
+For this reason, in September 1975, we started a new prospective study with the intent to evaluate the possibility of reducing the duration of adjuvant CMF without compromising the therapeutic effect of combined treatment. 
+
+The preliminary 3-yr results have shown that in premenopausal women, 6 cycles of CMF yielded results that were identical to those obtained with 12 cycles. 
+
+Similar findings were reported in the 4-yr analysis for the total patient population. 
+
+This article presents the 5-yr results achieved in our study.
+
+MATERIALS AND METHODS.
+
+Study Design and Treatment Schedule.
+
+Between September 1975 and May 1978, a total of 466 consecutive patients were entered into a prospective randomized study. 
+
+Within 4 wk from surgery, patients with TI-3a breast cancer, histologically positive axillary nodes, age < 70 yr, and living fairly close to the Institute were allocated to receive either 12 or 6 cycles of CMF. 
+
+Before being allocated to either treatment group, patients were stratified according to the number of axillary nodes involved (1-3 or more than 3). 
+
+The technique of block randomization (permuted block of length 4 for 2 regimens) was utilized. 
+
+Based on the 3-yr analysis of our first CMF study showing an apparent lack of therapeutic advantage following adjuvant chemotherapy in postmenopausal women, randomization for this group of patients was discontinued at the end of November 1976. 
+
+Therefore, all postmenopausal patients were allocated to receive 12 CMF cycles between December 1976 and March 1977 when accrual for postmenopausal patients was definitely discontinued.
+
+All patients were subjected to either Halsted or modified radical mastectomy, but a small fraction (16%) was subjected to extended radical mastectomy. 
+
+No postoperative radiotherapy or any other ancillary treatment was given. 
+
+Adjuvant chemotherapy was started within 2-4 wk from mastectomy. 
+
+The dose schedule of CMF was as follows, cyclophosphamide (CTX) 100 mg/sq m by mouth from day 1 to day 14, methotrexate (MTX) 40 mg/sq m intravenously on days 1 and 8, and fluorouracil (FU) 600 mg/sq m intravenously on days 1 and 8. 
+
+No drug was administered from day 15 to day 28, and CMF was recycled on day 29. 
+
+A total of 18 patients older than 65 yr (CMF 12, 12, CMF 6, 6) were started on low-dose CMF (MTX 30 mg/sq m, FU 400 mg/sq m). 
+
+During treatment, a dose reduction schedule was applied to all patients showing myelosuppression on days 1 and 8 of each treatment cycle. 
+
+The dose of all three drugs was reduced by 50% when the leukocyte count ranged from 3900 to 2500/cu mm or the platelet count from 99,000 to 75,000/cu mm. In the presence of more severe myelosuppression, treatment was delayed until at least half of the dose could be administered. 
+
+Toxic manifestations other than myelosuppression (e.g., mucositis or cystitis) required temporary dose reduction only if severe.
+
+Primary treatment failure was accurately assessed by clinical, radiologic, and whenever feasible, histologic examination of the site(s) of first relapse. 
+
+All radiographs were repeatedly reviewed by a team of radiologists to confirm the presence and exact timing of recurrence. 
+
+At first relapse, treatment was uniform for both groups of women. 
+
+The following systemic treatment was mainly utilized, patients in whom estrogen receptors were positive were subjected to hormonal manipulations (ovariectomy in premenopausal women and additive hormonal therapy, particularly tamoxifen, in postmenopausal patients), combined sometimes with chemotherapy. 
+
+When estrogen receptors were negative or could not be determined, systemic treatment consisted of combination chemotherapy utilizing preferentially an adriamycin- containing regimen. 
+
+Whenever possible, patients who refused second-line cytotoxic chemotherapy were treated utilizing hormonal manipulations according to their age.
+
+Patient Population.
+
+Of 466 patients entered into the study, 7 premenopausal women were considered nonevaluable because of protocol violations. 
+
+In fact, the retrospective evaluation of roentgenograms revealed the presence of distant metastases prior to radical mastectomy in 3 patients (CMF 12, 1, CMF 6, 2), while 4 additional women (CMF 12, 3, CMF 6, 1) had fixation of the primary tumor to the underlying pectoral fascia or muscle (T3b). 
+
+Therefore, a total of 459 patients were found evaluable for treatment comparison, i.e., 243 women (premenopausal 160, postmenopausal 83) allocated in the 12-cycle group and 216 (premenopausal 164, postmenopausal 52) in the 6-cycle group, respectively. 
+
+A total of 22 patients (premenopausal 12/324 or 4%, postmenopausal 9/135 or 7%) refused to complete the planned adjuvant program mainly because of negative psychologic reasons. 
+
+This was especially observed in women planned to receive 12 CMF cycles (18 of 243 or 7%) compared to those entered into the 6-cycle regimen (4 of 216 or 2%). 
+
+Furthermore, in 5 additional patients, CMF was temporarily discontinued at some time during treatment (for 2-3 mo) because women complained of constant nausea due to oral cyclophosphamide. 
+
+All these patients were considered evaluable.
+
+The majority of our patients (62%) had less than 3 nodes involved, and in half of the women tumors ranged between 2 and 5 cm on pathologic measurement. 
+
+Estrogen receptor (ER) status could be determined at the time of mastectomy in 255 women (55.6%) by using the dextran-coated charcoal assay, according to the technique currently used in our laboratory. 
+
+ER tumors were considered positive in 177 patients (69.4%), negative in 47 (18.4%), while the remaining tumors (12.2%) were considered to have borderline values.
+
+The median follow-up at the time of present analysis was 56 mo for the entire series of 459 evaluable patients.
+
+Study Parameters.
+
+Details on baseline studies and follow-up program were as previously reported,1, 2 and they can be summarized as follows. 
+
+Prior to mastectomy, all patients underwent complete physical examination, x-ray of chest and skeleton (skull, spine, pelvis, upper third of femurs), liver scan, bilateral mammography, hemogram, and biochemical tests. 
+
+In the absence of symptoms, physical examination was performed once a month during the first year following mastectomy, then every 3 mo during the second and third years, and every 4-6 mo thereafter. 
+
+Biochemical tests (serum bilirubin, total proteins, alkaline phosphatase, SGOT and SGPT, and LDH) were repeated every 6 mo during the first 3 yr and once a year thereafter. 
+
+Chest roentgenogram as performed every 4 mo for the first year and semiannually thereafter, while bone x-rays were carried out twice a year. 
+
+Liver scan and mammography of residual breast were done once a year. 
+
+In the presence of controversial radiologic findings, examinations were performed more often than originally planned. 
+
+The short-term interval between two examinations was planned to carefully assess the exact time and extent of new disease manifestations. 
+
+It is noteworthy that the vast majority of our patients did comply with such strict criteria. 
+
+In the present series, baseline and routine bone scans were systematically performed in about half of patients. 
+
+They were also performed whenever there were suspicious radiographicfindings or persisting bone pain in the presence of negative roentgenograms. 
+
+Primary treatment failure was defined as the first documented evidence of new disease manifestation(s) in either local-regional area(s), distant site(s), or a combination of the two.
+
+Statistical Evaluation.
+
+RFS was considered as the time elapsed from the date of radical mastectomy to the first evidence of treatment failure. 
+
+The proportion of patients relapse-free or surviving are given for one point in time (5 yr) as derived from plots. 
+
+Probabilities represent comparison of the entire plots, computed by use of the productlimit method, and were calculated using the log-rank test and values of significance. 
+
+RESULTS.
+
+Results as Function of Treatment Programs.
+
+Figure 1 shows that the comparative RFS at 5 yr was practically identical in the two treatment groups (CMF 12, 59%, CMF 6, 65.6%, p =0.17). 
+
+Table 1 details the results according to menopausal and nodal status. 
+
+It appears evident that treatment regimens were unable to significantly affect the RFS within each patient subset. 
+
+In postmenopausal women with more than 3 nodes, the difference between CMF 12 (34.4%) and CMF 6 (54.9%, p = 0.18) is only apparent since the confidence-limits throughout the curve totally blurred the percent difference (standard error, or SE, at 5 yr, 8.4 and 11.3, respectively). 
+
+It is important to emphasize that overall no RFS difference was documented between preand postmenopausal patients (CMF 12, 59.3% versus 57.6%, CMF 6, 66.5% versus 63.1%,respectively). 
+
+The somewhat contrasting results observed in the 6-cycle group in pre- and postmenopausal patients with 1-3 nodes (80.3% versus 66.1%) again reflect only a fictitious difference (SE, 4.1 and 8.1, respectively). 
+
+The same is true for pre- and postmenopausal women with more than 3 nodes (45.7% L 6.8% versus 54.9% ± 11.3%). 
+
+On the contrary, in both treatmentand menopausal groups, RFS was affected by the number of involved nodes (Table 1). 
+
+Figure 2 shows the 5-yr total survival. 
+
+Again, no difference was observed in the two treatment groups. 
+
+The same held true when findings were related to menopausal status. 
+
+In fact, premenopausal patients in the 12-cycle group had a 72% 5-yr survival compared to 77.1% for women in the 6-cycle group (p = 0.20). 
+
+The findings for postmenopausal women were 74.2% and 76.6%, respectively (p = 0.72).
+
+Site of First Relapse.
+
+No difference in the pattern of treatment failure was evident between the treatment groups (Table 2). 
+
+It is important to note that the frequency of local-regional recurrences, either alone or associated to distant metastases, was in the range of 8%-10%. 
+
+The incidence of contralateral breast involvement alone, which in our series has always been considered as primary treatment failure, was 2.5% versus 2.3%. 
+
+No substantial difference was also documented in the pattern of new disease manifestations, either local-regional or distant, between pre- and postmenopausal women.
+
+Results as Function of ER status.
+
+Regardless of the type of treatment, RFS and overall survival were correlated with the presence (ER +) or absence (ER -) of estrogen receptors in the primary tumor. 
+
+Table 3 details the findings observed at 5 yr from mastectomy. 
+
+As can be seen, RFS was superior in patients with ER + tumors, but this difference failed to reach statistical significance in all patient subsets. 
+
+Also, no difference was evident when overall survival of postmenopausal women was examined (ER+ 82.5% versus ER- 76.2%, p =0.32). 
+
+By contrast, premenopausal women with ER + tumors had a significantly longer survival than their matches with ER- tumors (79.9% versus 67.6%, p = 0.03). 
+
+At present, this difference is somewhat difficult to explain. 
+
+In fact, there was no striking difference in the pattern of new disease manifestations between ER + and ER - tumors, since visceral involvement was documented in 31.2% and 35.3%, respectively, of relapsed patients. 
+
+However, in spite of the fact that frequency of objective remission was superimposable (-30%) in both ER groups regardless of treatment administered and site(s) of first involvement, the disease in ER + tumors had amore indolent course, while ER - tumors showed further progression within a few months.
+
+Results as Function of Dose Levels of CMF.
+
+The importance of the level of doses administered has been detailed in one of our previous reports. 4 A similar type of analysis was performed on patients entered into this study. 
+
+Table 4 shows that also in this series there was evidence of a dose-response effect, regardless of menopausal and nodal status (CMF 12, level I 68.9% versus level 11147.2%, p < 0.05, CMF 6, level I 66.6% versus level III 51.5%, p = 0.10). 
+
+Furthermore, within each dose level, there was no statistically significant difference between patients in the 12- or 6-cycle group.
+
+Early and Late Toxicity.
+
+Acute toxic reactions have been previously reported. 
+
+Nausea, vomiting, and hair loss were the most distressing side effects. 
+
+Myelosuppression represented the dose-limiting factor in the large majority of patients (70%-80%), but severe leukopenia and/or thrombocytopenia were rare (10%), and prolonged myelosuppression beyond the fourth week from drug discontinuation was never observed. 
+
+No hematologic or infectious complications from repeated episodes of myelosuppression were documented, and no evidence of liver damage attributable to prolonged administration of methotrexate was detected.
+
+Only a small subgroup of 22 patients (4.8%) refused to complete the planned program, and this was essentially due to negative psychologic reasons since these patients objected to being on a heavy and toxic treatment program (drug injections and timing of follow-up) without having visible disease.
+
+Frequency of second tumors was similar in both treatment groups. 
+
+As already reported (Table 2), contralateral breast cancer was documented in a total of 11 patients (CMF 12, 6, CMF 6, 5). 
+
+Four additional patients showed second tumors other than breast cancer. 
+
+In one patient of the 6-cycle group, endometrial carcinoma in situ was documented within 16 mo from mastectomy, 3 patients in the 12-cycle group developed endometrial carcinoma, thyroid cancer, and myoblastoma, respectively, and in all patients second neoplasms were diagnosed between 46 and 49 mo from mastectomy. 
+
+So far no patient has developed acute leukemia. 
+
+Table 5 presents the comparative frequency of second tumors between our first two CMF programs. 
+
+As can be seen, the relative frequency ranged between0.5% for the 6-cycle group and 1.7% for the control group of the previous series.
+
+DISCUSSION.
+
+The 5-yr results of the present study are now sufficiently mature to indicate with confidence that 6 cycles of CMF are equivalent to 12 cycles in terms of RFS and total survival. 
+
+In fact, in all variables examined, none of the two treatments under evaluation was significantly different from the other. 
+
+The observation that in some patient subsets 6 cycles of CMF yielded apparently superior results to 12 cycles is probably related to the relative number of patients in each group and to the different median follow-up in postmenopausal women  whose accrual was discontinued in December 1976. 
+
+In fact, confidence limits of the various series totally blurred the difference throughout the curves. 
+
+A long-term analysis would probably clarify this aspect. 
+
+Besides RFS and survival, other findings would support evidence that 6 cycles of CMF are as effective as 12 cycles. 
+
+One of them is the dose level of CMF, the importance of  which has been extensively evaluated in a recent publication. 
+
+Our data suggest that the main important pharmacologic factor affecting tumor response is the peak level of drugs administered and not their total amount. 
+
+Present clinical findings (Table 4) would indeed substantiate the above-mentioned statement, since no difference was detected when the three different dose levels were analyzed within the two treatment groups. 
+
+Another important finding to be considered is the pattern of new disease manifestations where no differencein the frequency of local-regional and/or distant areas was evident between the two treatment groups. 
+
+Thus, all above reported findings strongly support our preliminary 3-yr results and indicate that utilizing a single multidrug regimen, it is possible to reduce the duration of adjuvant treatment in operable breast cancer without compromising the therapeutic results. 
+
+Present results are in line with those reported in a similar study carried out at the Sidney Farber Cancer Institute. 
+
+In this trial, patients with > 4 positive axillary nodes or with a positive node in the highest axillary zone were randomized to receive cyclophosphamide and adriamycin for 5 courses (15 wk) or the same regimen given for 10 courses (30 wk). 
+
+Henderson et al.15 reported that at 6 yr of follow-up (median 2.6 yr), no RFS or survival difference was evident between the two groups.
+
+Our findings can be further utilized to make interstudy comparisons between present results and those of our previous trial. 
+
+In fact, patient selection, staging procedures, type of surgery, methods of drug administration, and follow-up examinations were similar in both trials. 
+
+Furthermore, all women were accurately treated and followed in a single center by the same staff of surgeons, medical oncologists, and research nurses. 
+
+The 5-yr results achieved in the first study are reported in Table 6 and compared with those obtained in the present series. 
+
+It appears evident that, (A) the two series given 12 cycles of CMF achieved the same results, (B) the data reported in the three series treated with CMF are almost equivalent, (C) adjuvant CMF, whether administered for 12 or 6 cycles, was able to alter the course of operable breast cancer with positive axillary lymph nodes compared to the group subjected to radical mastectomy alone. 
+
+Other considerations of practical importance can also be derived from our current findings. 
+
+The first and most important one is that there appears to be no real difference following adjuvant chemotherapy, namely CMF, between the RFS of pre- versus postmenopausal women (CMF 12, 59.3% versus 57.6%, CMF 6, 66.5% versus 63.1%, respectively). 
+
+We had previously reported4 that the different results observed in our first adjuvant program were probably due to the low-dose CMF started in 31 of 104 postmenopausal patients (30%) because of elderly age. 
+
+Low-dose CMF was applied only in 12 of 83 (14%) of the present 12-cycle group and in 6 of 52 (12%) of the 6-cycle group. 
+
+Thus, in the present study, only a small fraction of patients was started on drug doses that once more proved to be therapeutically ineffective. 
+
+The findings supporting evidence of a therapeutic efficacy of adjuvant combination chemotherapy in postmenopausal patients can also be found in the results reported by other investigators who have never observed that menopausal status affected treatment outcome. 
+
+More recently, the Guy's Hospital and Manchester study groups reported the actuarial 5-yr RFS of a randomized study comparing radical mastectomy alone versus melphalan versus CMF and showed that the only group significantly improved by adjuvant CMF was that of postmenopausal women, while premenopausal patients had findings that were superimposable in all three treatment groups. 
+
+A trend favoring postmenopausal versus premenopausal women given adjuvant combination chemotherapy was also observed by the NSABP group. 
+
+Effective adjuvant combination chemotherapy seems to be unaffected by ER status, at least when RFS is considered. 
+
+Our results have been confirmed through different reports. 
+
+In spite of initial controversial findings, recent retrospective studies carried out in advanced breast cancer have consistently shown lack of significant correlation between ER status and response rate to cytotoxic chemotherapy. 
+
+The results obtained in our series between ER + and ER - tumors, coupled with the overall findings observed in the two menopausal groups, further contribute to minimize the possible therapeutic role of chemotherapy-induced adjuvant castration in premenopausal women. 
+
+The fact that premenopausal women with ER + showed a significantlylonger survival than their matches with ER - tumors remains to be further evaluated. 
+
+At present, we have no clear explanation for this difference. 
+
+Patterns of first treatment failure were not different in the two series and, regardless of treatment instituted upon relapse, frequency of objective remissions were similar between the two groups followed by short-lived remissions in ER - tumors, while ER + tumors tended to show slow growing disease. 
+
+Based on our current findings, i.e., therapeutic efficacy of adjuvant CMF regardless of ER status, there seems to be no clinical reason to withhold the administration of adjuvant combination chemotherapy in node positive women even in the presence of ER + tumors. 
+
+Whether combined chemotherapy-hormonal therapy in this group of patients could yield superior results compared to chemotherapy alone, remains to be determined not only through appropriate randomized studies, but also through long-term analyses. 
+
+The most important practical aspect of our current study is at which point a single drug combination has provided all the benefit possible, i.e., maximal tumor cytoreduction, in the majority of patients. 
+
+Through the analysis of our results in advanced breast cancer treated with CMF, Skipper came to the conclusion that in clinically metastatic disease the nadir in surviving tumor cells is probably reached in the majority of patients in less than 6 cycles. 
+
+Our clinical findings from anadjuvant treatment support this conclusion and indicate that the maximum therapeutic effect can be obtained with 6 or probably less than 6 cycles of CMF. 
+
+Therefore, there are no sound clinical reasons to prolong treatment utilizing the same drugs beyond a 6-mo period. 
+
+This observation is indirectly supported by findings obtained at the Memorial Sloan-Kettering Cancer Center where 24 cycles of CMF were unable to obtain results superior to those achieved in our series. 
+
+Also, the Arizona group utilizing a different combination regimen, i.e., adriamycin plus cyclophosphamide, for about 6 mo achieved a 5-yr RFS that is very similar to that observed in ourstudies. 
+
+Thus, from available reports it appears that different adjuvant treatments consisting of a single multidrug regimen can achieve comparable RFS results regardless of treatment duration. 
+
+This is an extremely important clinical observation. 
+
+In fact, although both frequency and intensity of acute toxicity from adjuvant therapy such as CMF are moderate, patients can be spared unnecessary side effects, including negative psychologic reactions, if treatment duration is rendered more tolerable. 
+
+Moreover, a less protracted exposure to cytotoxic regimens, including alkylating agents and adriamycin, could decrease the potential risk of delayed morbidity, namely cancerogenesis and chronic organ damage. 
+
+The reason(s) why RFS was not improved by prolonging chemotherapy once pathologic complete remission has been achieved, in our own trial and in other adjuvant trials for breast cancer, as well as in a variety of neoplastic diseases, can now be interpreted by considering the problem of specifically multidrug-resistant phenotypes. 
+
+Briefly, all classes of drugs select and allow overgrowth of specifically drug-resistant neoplastic cells. 
+
+Repetitive dose treatments either eradicate all or the vast majority of drug-sensitive neoplastic cells or hold them in check, leaving fluctuating and sometimes larger numbers of drug-resistant cells. 
+
+Eventually, and regardless of prolonged chemotherapy, the resistant neoplastic cells overgrow, become clinically evident, and kill the host. 
+
+The 40-yr-old mutation theory of Luria and Delbruck developed for bacterial cells was recently adapted to cancer, i.e., neoplastic cells mutate spontaneously to a state of specific resistance to a wide variety of anticancer drugs. 
+
+This appears to be a basic law that underlies and explains some (not all) important and consistent observations in the area of cancer chemotherapy. 
+
+In our optimal kinetic situation, cyclic or sequential delivery of equally effective and non-cross-resistant drugs often will prevent or delay failures due to overgrowth of drug-resistant sublines of neoplastic cells, as recently demonstrated in advanced Hodgkin's disease. 
+
+However, it should be kept in mind that, as emphasized by Skipper, 28 doses and schedules employed usually are of greater importance than the variable of cyclic or sequential delivery of combinations.
+
+Since our current results with adjuvant CMF are comparable to those utilizing a 5-drug combination or an adriamycin-containing regimen, clinical research efforts should now aim at improving the intrinsic limitation of a single multidrug regimen. 
+
+Our current protocols are testing sequential versus alternating delivery of CMF and adriamycin, since our previous experience has demonstrated that both treatments are equally effective and non-cross-resistant. 
+
+Furthermore, to insure full drug doses in the new protocols, we have modified the CMF regimen and all three drugs are administered intravenously every 3 wk (CTX and FU 600 mg/sq m, MTX 40 mg/sq m). 
+
+In the presence of myelosuppression(leukocytes < 3800/cu mm and/or platelets < 100,000/cu mm) on day 22, treatment is delayed 1-2 wk to allow a constant delivery of full doses.
+
+In conclusion, the 5-yr results of our randomized study confirm that CMF, particularly when delivered at nearly full doses, can indeed alter the postoperative course of breast cancer with positive axillary nodes. 
+
+The presence of specifically multidrug-resistant phenotypes limits the therapeutic effectiveness of a single combination and renders its prolonged administration unnecessary. 
+
+Only long-term analysis will answer the questions of whether the addition of adjuvant hormone therapy to chemotherapy will improve the results in ER + tumors and whether the excellent results reported by the M D Anderson Hospital with FAC (fluorouracil, adriamycin, cyclophosphamide) in women with > 4 axillary nodes 7 will be reproducible. 
+
+At present, tumor cell burden in the axilla appears to consistently represent an important prognostic factor, even in the presence of full dose chemotherapy, while new prospective trials should explore the potential efficacy of multiple non-cross-resistant drug combinations delivered for a relatively short time.
+

@@ -1,0 +1,81 @@
+Fifty-four patients with advanced breast cancer who had failed prior nonanthracycline combination chemotherapy were randomized to treatment with either epirubicin 85 mg/m2 or doxorubicin 60 mg/m2 intravenously every three weeks.
+
+Of 52 evaluable patients, 25% (six of 24) treated with epirubicin, and 25% (seven of 28) treated with doxorubicin experienced major therapeutic responses.
+
+The median duration of response to epirubicin was 11.9 months compared to 7.1 months with doxorubicin.
+
+Cardiotoxicity was monitored by serial multigated radionuclide cineangiocardiography performed at rest and after exercise.
+
+Fifteen patients treated with epirubicin and 18 patients treated with doxorubicin had at least two determinations of left ventricular ejection fraction and were evaluable for laboratory cardiotoxicity.
+
+Using methods of survival analysis, the median doses to the development of laboratory cardiotoxicity were estimated to be 935 mg/m2 of epirubicin and 468 mg/m2 of doxorubicin.
+
+The median cumulative dose at which congestive heart failure occurred was 1,134 mg/m2 of epirubicin compared with 492 mg/m2 of doxorubicin.
+
+Epirubicin is a new anthracycline with reduced cardiac toxicity, but preserved efficacy in the treatment of patients with advanced breast cancer.
+
+In retrospective studies, the incidence of symptomatic congestive heart failure (CHF) was estimated to be approximately 3% to 4% after a cumulative DOX dose of 450 mg/m2 and 6% to 10% after 550 mg/m2; the incidence of CHF rises steeply after higher cumulative doses.On the basis of these retrospective studies, an empiric dose limitation of 450 to 550 mg/m2 has been recommended when DOX is used on a standard every three week schedule.
+
+The antitumor activity of EPI in animal models is similar to that of DOX, but EPI is a less toxic compound with regard to both cytotoxicity and cardiac injury.
+
+We used multigated radionuclide cineangiocardiography (RNCA) to assess cardiac toxicity in this prospective, randomized study comparing the efficacy, acute, and chronic toxicities of EPI with DOX in patients with advanced breast cancer.
+
+MATERIALS AND METHODS Patient Eligibility This study was conducted in patients with advanced breast cancer who had progressed after receiving combination chemotherapy.
+
+Pretreatment Evaluation and Follow-up Studies Pretreatment evaluation of patients included complete history and physical examination, complete blood cell count (CBC), 12-channel biochemical profile, serum creatinine, chest roentgenogram, ECG, and bone scan.
+
+Randomization was performed using the method of random permuted blocks, which assured an equal number of patients in each arm at specified time points.
+
+Any patient who developed progressive disease within three months of starting therapy was considered to have progressed even if she had demonstrated transient tumor regression.
+
+Duration of response was measured from the first day of initiation of therapy until progressive disease was documented.
+
+In the case of DOX, at a cumulative dose of 50 mg/m2 patients were offered the option to discontinue therapy or to continue with close monitoring of cardiac function with RNCA.
+
+The additional patient randomized to EPI died with progressive breast cancer and nadir sepsis 15 days after her first dose of EPI; she is excluded from analysis of therapeutic results, but is included in the analysis of hematologic toxicity.
+
+There was no difference (log rank test, P = .90) in the median time to progression between the patients on the EPI arm (3.9 months) and those on the DOX arm (5.1 months).
+
+Fifteen patients on the EPI arm and 18 patients on the DOX arm had at least one followup RNCA and were evaluable for laboratory cardiotoxicity.
+
+Of the 15 evaluable patients treated with EPI, six had received prior radiotherapy to the chest wall, internal mammary lymph nodes, sternum, or thoracic spine prior to entry on this study, and two had a history of well-controlled mild hypertension.
+
+Of the 18 evaluable patients treated with DOX, seven had prior radiation exposure to the heart, two had hypertension, and two had both hypertension and prior radiotherapy.
+
+The median dose to development of cardiotoxicity for all evaluable patients was 935 mg/m2 for EPI and 468 mg/m2 for DOX (Fig 2A).
+
+These data were also analyzed taking into consideration the difference in myelosuppressive potency between the two drugs.
+
+Overall, 100% of the planned dose of EPI (85 mg/m2) was administered; however, only 86% (52 mg/m2) of the planned dose of DOX was given.
+
+Thus, all EPI doses were multiplied by 52/85 to compare the two drugs in equivalent units, and Kaplan-Meier estimates plotted (Fig 2B).
+
+A decrease in LVEF of> 5% with stress was not observed in the absence of a> 10% decrease in resting LVEF from baseline.
+
+Four patients treated with EPI and five patients treated with DOX developed clinical congestive heart failure (CHF).
+
+There was a statistically significant greater cumulative dose to CHF for patients receiving EPI (log rank test, P - .008) with and without adjustment for the difference in myelosuppressive potency.
+
+DISCUSSION In this study, EPI had therapeutic activity in breast cancer similar to DOX, but produced less cardiotoxicity than the parent compound.
+
+Long-term administration of DOX on a conventional every three week schedule is limited by the development of dose-related congestive cardiomyopathy.
+
+Although empiric dose restriction is widely practiced, many patients experience the onset of CHF before they receive 550 mg/m2 of the drug.
+
+Thirteen percent of patients in another recent study developed CHF at a median dose of 405 mg/m 2 when DOX was given on an every three week schedule.
+
+22 With optimal monitoring, one might be able to detect subclinical cardiac injury and prevent CHF by stopping the drug; this implies, however, the interruption of effective antineoplastic therapy.
+
+Two recent studies that used endomyocardial biopsy have demonstrated that a larger total cumulative dose of DOX can be tolerated if the drug is given weekly or by continuous intravenous infusion.
+
+This is similar to the 27% response rate reported by the Early Clinical Trials Group of the EORTC (European Organization for the Research on Treatment of Cancer).
+
+In the present study, each drug was given every three weeks in doses that produced equivalent degrees of myelosuppression; a preplanned limitation on the total cumulative dose of EPI was not used.
+
+ADDENDUM Since this manuscript was prepared for publication, an additional patient treated with DOX developed clinical congestive heart failure in the postoperative period following exploratory laparotomy.
+
+This patient had shown a decrease in left ventricular ejection fraction and was included in the analysis of laboratory cardiac toxicity.
+
+She developed evidence of laboratory cardiotoxicity after a cumulative dose of 615 mg/m of DOX.
+
+No further DOX was administered before her development of clinical congestive heart failure.

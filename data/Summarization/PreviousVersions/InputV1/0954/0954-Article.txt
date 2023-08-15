@@ -1,0 +1,370 @@
+ADJUVANT RADIOTHERAPY AND CHEMOTHERAPY IN NODE-POSITIVE PREMENOPAUSAL WOMEN WITH BREAST CANCER
+
+ABSTRACT
+Background
+Radiotherapy after mastectomy to
+treat early breast cancer has been known since the
+1940s to reduce rates of local relapse. However, the
+routine use of postoperative radiotherapy began to
+decline in the 1980s because it failed to improve
+overall survival. We prospectively tested the efficacy
+of combining radiotherapy with chemotherapy.
+Methods
+From 1978 through 1986, 318 premenopausal
+women with node-positive breast cancer were
+randomly assigned, after modified radical mastectomy,
+to receive chemotherapy plus radiotherapy or
+chemotherapy alone. Radiotherapy was given to the
+chest wall and locoregional lymph nodes between
+the fourth and fifth cycles of cyclophosphamide, methotrexate,
+and fluorouracil.
+Results
+After 15 years of follow-up, the women
+assigned to chemotherapy plus radiotherapy had a
+33 percent reduction in the rate of recurrence (relative
+risk, 0.67; 95 percent confidence interval, 0.50 to
+0.90) and a 29 percent reduction in mortality from
+breast cancer (relative risk, 0.71; 95 percent confidence
+interval, 0.51 to 0.99), as compared with the
+women treated with chemotherapy alone.
+Conclusions
+Radiotherapy combined with chemotherapy
+after modified radical mastectomy decreases
+rates of locoregional and systemic relapse and reduces
+mortality from breast cancer.
+
+TRIALS of postoperative radiotherapy for
+breast cancer conducted during the 1960s
+and 1970s showed significant reductions
+in rates of locoregional recurrence but no
+improvement in overall survival.
+1,2
+This result has
+been attributed to micrometastases, which determine
+prognosis regardless of the effect of the locoregional
+therapy. Additional concern was raised by
+data suggesting that irradiated patients have reduced
+survival rates, due to either immune suppression
+3
+or
+cardiac complications.
+2,4,5
+In the late 1970s, adjuvant chemotherapy became
+a standard treatment for high-risk premenopausal
+patients with breast cancer.
+6-8
+The use of adjuvant
+radiation subsequently declined, because it did not
+appear to prolong survival. Nevertheless, there are
+reasons to reconsider radiotherapy, including the
+limited value of adjuvant chemotherapy for bulky
+disease,
+9-11
+a synergistic effect of chemotherapy plus
+radiation on residual locoregional tumor,
+
+and
+the possibility that eliminating bulky disease with radiation
+may improve the effect of chemotherapy, because
+chemotherapy may be more effective when the
+overall disease burden is low.
+
+To test the hypothesis
+that adding radiation to adjuvant systemic
+therapy improves the outcome in patients with breast
+cancer, we designed a randomized trial in 1978 in
+British Columbia. This report presents our findings
+after 15 years of follow-up.
+METHODS
+From 1979 through 1986, 318 premenopausal women with
+newly diagnosed stage I or II breast cancer were enrolled in the
+study after undergoing modified radical mastectomy if, after axillary-
+node dissection, one or more level I or II lymph nodes were
+found to be positive on pathological examination. The mastectomy
+was performed according to standard surgical practice between
+1979 and 1986. After written informed consent was obtained,
+the patients were randomly assigned to one of two groups:
+those receiving adjuvant chemotherapy plus locoregional radiotherapy
+in five fields (the chemotherapy–radiotherapy group, with
+164 patients) and those receiving chemotherapy alone (the chemotherapy
+group, with 154 patients). The characteristics of the
+patients were evenly balanced, as Table 1 shows.
+Surgery
+All the patients underwent modified radical mastectomy, with
+dissection of level I and II axillary lymph nodes. The surgery was
+performed by specialists who referred all the patients to the British
+Columbia Cancer Agency, the provincial cancer institute, for
+registration, randomization, and the planning of the chemotherapy
+and radiation treatments.
+Chemotherapy
+The chemotherapy consisted of cyclophosphamide (600 mg
+per square meter of body-surface area), methotrexate (40 mg per
+square meter), and fluorouracil (600 mg per square meter) (the
+CMF regimen), given intravenously every 21 days as described by
+Bonadonna et al.,
+7
+initially for 12 months (80 patients), and in
+the case of patients randomized after 1981, for 6 months.
+Radiation
+The radiation therapy was administered between the fourth
+and fifth cycles of chemotherapy. Sixteen daily treatments were delivered over a period of three to four weeks. The postmastectomy
+chest wall received a dose of 37.5 Gy through two tangential
+fields. The mid-axilla received a dose of 35 Gy through an anterior
+supraclavicular–axillary field with a posterior axillary boost.
+A direct internal mammary field delivered a dose of 35 Gy at a
+depth of 3 cm. All the fields were treated with cobalt-60. The interval
+between the fourth and fifth cycles of chemotherapy was
+five to six weeks. Also, as part of a second randomization, 68 patients
+with estrogen-positive tumors were treated with radiationinduced
+ovarian ablation that included 20 Gy over a period of five
+days plus prednisone (7.5 mg per day) for two years, as described
+by Meakin et al.
+16
+Among these 68 patients, 33 were assigned to
+chemotherapy and 35 were assigned to chemotherapy and radiotherapy.
+Statistical Analysis
+In the various analyses, we studied the following end points:
+any relapse of breast cancer (or death without a known relapse of
+breast cancer), for the analysis of disease-free survival; locoregional
+recurrence as a first event, before a systemic recurrence (in the
+ipsilateral chest wall or an axillary, internal mammary, or supraclavicular
+node), for the analysis of survival free of locoregional
+disease; any systemic relapse, with or without a locoregional relapse
+(or death without a known systemic relapse), for the analysis
+of survival free of systemic disease; death from breast cancer, for
+the analysis of breast-cancer–specific survival; and any death, for
+the analysis of overall survival. Survival curves were estimated by the Kaplan–Meier method.
+17
+Significance levels, estimates of relative risk, and 95 percent confidence
+intervals were calculated with a proportional-hazards regression
+model.
+
+Two-sided P values of less than 0.05 were considered
+to represent statistical significance. The analysis was done
+for the whole group of 318 patients and also for subgroups with
+involvement in either one to three axillary nodes or four or more
+nodes. Differences between these subgroups with respect to the
+relative risk associated with the radiation were studied by testing
+for significant interactions with the proportional-hazards regression
+model. In the survival analysis, the time to the end points
+associated with each event was calculated from the date of the tissue
+diagnosis of breast cancer. Eleven patients (3.5 percent) were
+lost to follow-up — three (1.9 percent) from the chemotherapy
+group and eight (4.9 percent) from the chemotherapy–radiotherapy
+group. All 11 patients were alive and had no recurrences at
+their last known follow-up. In all the analyses, the data were censored
+as of the date of that follow-up. Of the 164 patients randomly
+assigned to chemotherapy and radiotherapy, 12 did not receive
+radiotherapy and were treated with chemotherapy alone
+(7 declined radiotherapy, 3 had metastases before radiotherapy,
+and 2 had postsurgical complications). Eight patients randomly
+assigned to chemotherapy had radiotherapy at their own request
+or that of their physicians. All the analyses presented were performed
+on an intention-to-treat basis (according to the initial
+randomization).
+RESULTS
+All Patients
+A total of 318 patients were randomized, and
+among the survivors the median follow-up was 150
+months (150 months in the chemotherapy group
+and 150 in the chemotherapy–radiotherapy group).
+During the 15 years of follow-up, breast cancer had
+recurred in 176 patients and 144 patients died. Of
+the 176 patients with recurrences, the disease returned
+locoregionally as a first event in 55 and systemically
+in 169; 14 additional patients had locoregional
+recurrences after a systemic recurrence. There
+was no difference with regard to any survival end
+point between the patients who had 12 months of
+chemotherapy and those who had only 6 months
+(P
+
+0.60 for disease-free survival at 15 years; P
+
+0.70
+for overall survival).
+Study Groups
+Table 2 and Figures 1 through 4 show the results
+in the two groups of patients. In the group treated
+with chemotherapy plus radiotherapy, 79 of 164 patients
+had recurrences — locoregional, systemic, or
+both — as compared with 97 of 154 patients in
+the group given chemotherapy alone. These values
+translate into an overall reduction of 33 percent in
+the rate of recurrence of breast cancer (relative risk,
+0.67; 95 percent confidence interval, 0.50 to 0.90;
+P
+
+0.007), with an improvement of 17 percentage
+points in disease-free survival at the 15-year followup
+(Fig. 1). There was an overall reduction of 34
+percent in the rate of systemic recurrence (relative
+risk, 0.66; 95 percent confidence interval, 0.49 to
+0.89; P
+
+0.006) in the group treated with combined
+therapy (75 of 164 patients vs. 94 of 154 patients in the group treated only with chemotherapy), and a
+17-percentage-point improvement in systemic disease-
+free survival (Fig. 2). The rate of locoregional
+recurrence was reduced by 56 percent (relative risk,
+0.44; 95 percent confidence interval, 0.26 to 0.77;
+P
+
+0.003) in the group given chemotherapy plus radiotherapy
+(19 events, vs. 36 events in the group
+treated with chemotherapy only), for an absolute
+improvement of 20 percent in survival free of local
+disease. Mortality from breast cancer was reduced by
+29 percent in the chemotherapy–radiotherapy group
+(relative risk, 0.71; 95 percent confidence interval,
+0.51 to 0.99; P
+
+0.05), with 62 deaths, as compared
+with 76 in the chemotherapy-only group, which represented
+an improvement of 10 percentage points in
+breast-cancer–specific survival (Fig. 3). There were
+66 deaths in the group given the combined treatment
+and 78 deaths in the chemotherapy group, for
+a 26 percent reduction in overall mortality at 15
+years (relative risk, 0.74; 95 percent confidence interval,
+0.53 to 1.02; P
+
+0.07) and an 8 percent improvement
+in overall survival (Table 2 and Fig. 4).
+Among the 94 patients who had systemic relapses
+after chemotherapy alone, 19 were alive at the time
+of the 15-year analysis, as compared with 9 of the 75
+patients with such relapses in the chemotherapy–
+radiotherapy group. Radiation also improved outcome
+in the 68 patients randomly assigned to ovarian ablation, in regard to disease-free survival (relative
+risk, 0.72), survival free of systemic disease
+(relative risk, 0.76), and overall survival (relative
+risk, 0.88).
+Subgroups Based on Nodal Involvement
+The reduction in the relative risk of a recurrence
+that was obtained by adding radiation to chemotherapy
+was similar in the subgroup with one to three
+positive nodes and the subgroup with four or more
+positive nodes (Table 3). There were no statistically
+significant differences between these subgroups with
+regard to either survival free of systemic disease
+(P for interaction
+
+0.9) or rates of locoregional recurrence
+(P
+
+0.73).
+Side Effects of Radiation
+Arm edema developed in 15 of the 154 irradiated
+patients. Interventions were required in six (an elastic
+sleeve in four, a pump in one, and physiotherapy
+in one), as compared with five patients in the chemotherapy
+group, one of whom required physiotherapy.
+Limited apical lung fibrosis developed in
+most of the irradiated patients, but only one had interstitial
+pneumonitis requiring corticosteroids, with
+full resolution on chest radiography several weeks
+later. In one patient with a right-sided breast lesion,
+congestive heart failure developed 14 years after radiotherapy, at the age of 63. We considered this
+event related not to the adjuvant radiation but rather
+to treatment with doxorubicin, which was given
+at a cumulative dose of 540 mg for metastases to the
+lung and pleura. There were no cases of brachial plexopathy.
+The incidence of second cancers and the associated
+mortality were distributed evenly between
+the two groups (Table 4).
+DISCUSSION
+This study of premenopausal women with breast
+cancer demonstrates that locoregional radiotherapy
+reduces the rates of locoregional and systemic relapses
+and the chance of dying from breast cancer.
+There was no excess mortality we could attribute to
+the long-term side effects of radiotherapy. Our trial
+did not stratify the patients according to nodal status,
+but a test for interaction showed no significant
+difference in the magnitude of the benefit from radiotherapy between the subgroup with three or fewer
+positive nodes and the subgroup with four or
+more positive nodes. These data based on a 15-year
+follow-up indicate that radiation can offer substantial
+protection from systemic relapse to node-positive
+patients. It is possible that we will see additional
+benefit in overall survival, because at this writing 19
+patients in the chemotherapy group remain alive
+with systemic recurrence, as compared with only
+9 in the combined-treatment group; most of these
+28 patients are expected to die of breast cancer.
+The benefits of radiotherapy found in our study,
+but not in most earlier studies, merit comment.
+The meta-analysis performed by the Early Breast Cancer
+Trialists’ Collaborative Group,1 which analyzed
+all the randomized radiation trials begun before
+1985, found a 67 percent reduction in rates of
+locoregional relapse (P0.001) and a 6 percent
+reduction in mortality from breast cancer (P0.03),
+but no improvement in overall survival. There was
+an important increase in the number of deaths not
+due to breast cancer among the irradiated patients
+(P0.002). A previous meta-analysis and several individual
+trials found that the latter was due to a substantial
+increase in mortality from cardiac causes.
+These studies, however, included all the radiation
+trials started in the 1960s, using older equipment
+and radiation techniques and considered obsolete by
+present standards. Also, in various past trials different
+areas were encompassed in the irradiated volume,
+and the trials differed in techniques of radiation,
+treatment planning, age, nodal status, and the
+use of adjuvant chemotherapy. Therefore, the metaanalyses
+of previous studies may not be relevant to
+current practice.
+There are at least nine reported randomized trials
+comparing the combined treatment with chemotherapy
+alone. Of these, only the Danish study
+found that radiotherapy had a benefit of a magnitude
+similar to that in our trial, and there was a
+significant survival benefit in favor of radiotherapy
+(P0.001). The patients in that study were similar
+to those in our cohort; there was a large and homogeneous
+group of premenopausal, node-positive
+patients treated with chemotherapy and five-field
+radiotherapy. The other eight studies were not
+similar to ours or the Danish trial, either because the
+number of randomized premenopausal patients was
+small or because the radiotherapy techniques or the
+chemotherapy schedules were heterogeneous.
+Our data suggest that locoregional disease is not
+only a marker of systemic disease but also, in some
+patients, a potential source for its future dissemination.
+The Stockholm trial also provides evidence
+that locoregional radiotherapy in node-positive patients
+decreases the risk of systemic metastases. In this
+context, the interaction with adjuvant chemotherapy
+may be important, because chemotherapy is expected to eliminate systemic micrometastases more effectively
+than locoregional disease. In node-positive
+patients, adding locoregional radiotherapy may
+be essential to prevent secondary dissemination from
+the residual locoregional metastatic disease, and it
+could increase the potential for cure.
+Because all our patients were uniformly treated
+with chest-wall and nodal radiation, our results may
+not apply to patients treated with breast irradiation
+alone after conservative surgery. Four randomized
+trials comparing breast irradiation with no irradiation
+in patients who underwent conservative surgery showed significant reductions in the rate of
+relapse in the breast but no effect on systemic recurrences
+or overall survival. Therefore, it may be necessary
+to add nodal radiation to breast irradiation in
+premenopausal node-positive patients who are treated
+with partial mastectomy and adjuvant chemotherapy.
+Locoregional radiation is not routinely used at
+present in patients with node-positive breast cancer,
+although it is coming into use to treat patients with
+10 or more positive nodes and occasionally those
+with 4 or more positive nodes. The routine use of
+radiation in all node-positive patients would represent
+a substantial shift in treatment for breast cancer.
+Our data indicate that locoregional disease remaining
+after definitive surgery may be an important source of systemic disease. The elimination of locoregional
+cancer cells by radiotherapy added to adjuvant
+chemotherapy may reduce mortality in selected
+patients with breast cancer.

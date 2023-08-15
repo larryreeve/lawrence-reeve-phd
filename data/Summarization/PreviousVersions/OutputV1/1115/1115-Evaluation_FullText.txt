@@ -1,0 +1,209 @@
+
+C:\Data\BioChainV1>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChainv1\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  ..\biochain\data\inputv1\1115\1115-Abstract-A.txt ..\biochain\data\inputv1\1115\1115-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...136297 ms
+
+Chaining summary file ..\biochain\data\inputv1\1115\1115-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  31984 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file ..\biochain\data\inputv1\1115\1115-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  333562 ms
+	Chain processing time: 16 ms
+
+
+
+Abstract:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.11
+	Std Dev:      3.22
+	Strong Score: 7.55
+
+
+	Chain T061-Therapeutic or Preventive Procedure: score=12.00
+		Concept Bathing, count=3
+		Concept hyperfractionation, count=1
+		Concept Therapeutic procedure, count=1
+		Concept Exploration procedure (procedure), count=2
+
+	Chain T081-Quantitative Concept: score=12.00
+		Concept cGy (qualifier value), count=1
+		Concept Multivariate Analysis, count=1
+		Concept cm (qualifier value), count=1
+		Concept utilization, count=1
+		Concept Fractions of (qualifier value), count=1
+		Concept One (qualifier value), count=1
+		Concept Median Statistical Measurement, count=1
+		Concept Gy (qualifier value), count=1
+		Concept Two (qualifier value), count=1
+		Concept Partial (qualifier value), count=1
+		Concept Disease-Free Survival, count=1
+		Concept benefits, count=1
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    18.47
+	Std Dev:      79.42
+	Strong Score: 177.30
+
+
+	Chain T081-Quantitative Concept: score=588.00
+		Concept Risk, count=1
+		Concept survival aspects, count=13
+		Concept cGy (qualifier value), count=1
+		Concept Survival Rate, count=2
+		Concept Toxicity aspects, count=2
+		Concept One (qualifier value), count=6
+		Concept Fractions of (qualifier value), count=5
+		Concept Two (qualifier value), count=5
+		Concept Second (qualifier value), count=2
+		Concept Partial (qualifier value), count=2
+		Concept Biomechanical compliance, count=2
+		Concept Four (qualifier value), count=2
+		Concept Twelve (qualifier value), count=1
+		Concept Odds Ratio, count=1
+		Concept cm (qualifier value), count=6
+		Concept utilization, count=4
+		Concept Dosages (qualifier value), count=8
+		Concept L (qualifier value), count=1
+		Concept Median Statistical Measurement, count=8
+		Concept Probability, count=1
+		Concept Incidence, count=3
+		Concept Nine (qualifier value), count=1
+		Concept Confidence Intervals, count=1
+		Concept Changed status, count=2
+		Concept Volume (property) (qualifier value), count=2
+		Concept More (qualifier value), count=1
+		Concept First (qualifier value), count=2
+		Concept Singular, count=1
+		Concept dose-rate, count=1
+		Concept Magnitudes (qualifier value), count=2
+		Concept Low dose (qualifier value), count=1
+		Concept Numerous (qualifier value), count=1
+		Concept Radiation Dosage, count=1
+		Concept With frequency, count=1
+		Concept Disease-Free Survival, count=11
+		Concept Greater (qualifier value), count=1
+		Concept Few (qualifier value), count=2
+		Concept Size (attribute), count=4
+		Concept Gy (qualifier value), count=1
+		Concept Count of entities (property) (qualifier value), count=5
+		Concept Proportional Hazards Models, count=2
+		Concept MeV (qualifier value), count=1
+		Concept benefits, count=5
+
+	Chain T169-Functional Concept: score=224.00
+		Concept Increase (qualifier value), count=3
+		Concept Changing, count=2
+		Concept exclusion, count=1
+		Concept Surgical aspects, count=2
+		Concept Compensatory, count=2
+		Concept Causality, count=1
+		Concept Exposure condition, count=1
+		Concept Perforation (morphologic abnormality), count=1
+		Concept Not free of (attribute), count=6
+		Concept Biologic (qualifier value), count=1
+		Concept Causing (attribute), count=1
+		Concept Alternating (qualifier value), count=1
+		Concept Mechanism (attribute), count=1
+		Concept Increased (qualifier value), count=2
+		Concept Insufficient, count=2
+		Concept Investigates (attribute), count=1
+		Concept symptoms, count=1
+		Concept Present, count=1
+		Concept biopsy characteristics, count=1
+		Concept etiology, count=1
+		Concept incidence of cases, count=3
+		Concept Histopathological aspects, count=1
+		Concept Altered (qualifier value), count=1
+		Concept control, count=1
+		Concept Result (navigational concept), count=4
+		Concept Light color, count=1
+		Concept therapeutic aspects, count=3
+		Concept pharmacotherapeutic, count=8
+		Concept Follow-up status (finding), count=2
+
+	Chain T170-Intellectual Product: score=180.00
+		Concept Simile, count=4
+		Concept chart, count=1
+		Concept Methods, count=5
+		Concept Improving (qualifier value), count=6
+		Concept Ib (qualifier value), count=3
+		Concept Elimination outcomes, count=1
+		Concept prediction, count=1
+		Concept prognostic, count=3
+		Concept Alpha (qualifier value), count=2
+		Concept Guidelines, count=1
+		Concept Schedules, count=2
+		Concept treatment factors, count=1
+		Concept Methodology aspects, count=1
+		Concept Roman numeral II, count=1
+		Concept Type of cell (qualifier value), count=1
+		Concept statistical, count=2
+		Concept Methodology, count=3
+		Concept Overall [Publication Type], count=4
+		Concept Beta greek letter, count=2
+		Concept Models, count=1
+		Concept Groups (qualifier value), count=1
+		Concept Techniques, count=2
+		Concept standards characteristics, count=5
+		Concept criteria, count=1
+		Concept Report (document), count=1
+		Concept guiding characteristics, count=1
+		Concept Proportional Hazards Models, count=2
+		Concept radiotherapeutic, count=1
+		Concept FIGO Stage (attribute), count=3
+		Concept Protocols documentation, count=1
+		Concept Tests (qualifier value), count=1
+	Recall: Chain with no concepts from Abstract: T169-Functional Concept(idx=169)
+
+Concepts in abstract:
+--------------------
+	fractions of (qualifier value):T081
+	one (qualifier value):T081
+	cgy (qualifier value):T081
+	bathing:T061
+	multivariate analysis:T081
+	exploration procedure (procedure):T061
+	radiation therapy:T061
+	survival aspects:T081
+	cm (qualifier value):T081
+	benefits:T081
+	disease-free survival:T081
+	gy (qualifier value):T081
+	two (qualifier value):T081
+	partial (qualifier value):T081
+	median statistical measurement:T081
+	utilization:T081
+	hyperfractionation:T061
+	therapeutic procedure:T061
+
+Concepts in abstract with no match in full-text strong chains:
+-------------------------------------------------------------
+	bathing:T061
+	multivariate analysis:T081
+	exploration procedure (procedure):T061
+	radiation therapy:T061
+	hyperfractionation:T061
+	therapeutic procedure:T061
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 3
+	Number of concepts in Abstract: 18
+
+	Number of strong chains in Full-text with concepts from Abstract: 2
+	  Recall: 0.67
+
+	Number of Abstract concepts having strong chains in full-text: 12
+	  Precision: 0.67
+
+

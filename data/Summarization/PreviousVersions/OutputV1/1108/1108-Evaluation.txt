@@ -1,0 +1,98 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1108\1108-Abstract-A.txt data\input\1108\1108-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...59437 ms
+
+Chaining summary file data\input\1108\1108-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  35063 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\1108\1108-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  283610 ms
+	Chain processing time: 31 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.48
+	Std Dev:      5.09
+	Strong Score: 11.65
+
+	T081-Quantitative Concept: 27.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    25.02
+	Std Dev:      105.77
+	Strong Score: 236.56
+
+	T061-Therapeutic or Preventive Procedure: 255.00
+	T081-Quantitative Concept: 720.00
+	T169-Functional Concept: 300.00
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 3
+	Number of concepts in Summary: 10
+
+	Number of strong chains in Full-text with concepts from Summary: 3
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 10
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 11)
+-------------
+
+0) ResultsThe relative risks of progression of disease and death among the 183 women assigned to receive radiotherapy and chemotherapy with cisplatin, as compared with the 186 women assigned to receive radiotherapy alone, were 0.51 (95 percent confidence interval, 0.34 to 0.75) and 0.54 (95 percent confidence interval, 0.34 to 0.86), respectively. 
+1) In the combined-therapy group there were higher frequencies of transient grade 3 (moderate) and grade 4 (severe) adverse hematologic effects (21 percent, vs.
+2) 2 percent in the radiotherapy group) and adverse gastrointestinal effects (14 percent vs. 5 percent).
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,32 of 126)
+-------------
+
+0) In addition, patients hadto be medically suitable for hysterectomy.
+1) The institutions that participated in the study are listed in theAppendix. 
+2) Written informed consent was obtained before entryinto the study, fulfilling all institutional, state, and federal regulations.
+3) RadiotherapyAll patients were scheduled to undergo external irradiation, intracavitarybrachytherapy, and extrafascial hysterectomy, with halfthe patients randomly assigned to receive weekly intravenous infusionsof cisplatin during the period of radiotherapy.
+4) The prescribed regimen of radiotherapy was identical in bothgroups. 
+5) Standard Fletcher–Suit or Henschke applicators were used. 
+6) The corpus and cervix wereremoved but not contiguous parametrial tissue. 
+7) The uterine vesselswere transected at the uterine wall medial to the ureters,which were not unroofed. 
+8) Survival was calculated from the date of entryinto the study to the date of death or the last follow-up visit. 
+9) All reported P values are two-tailed.
+10) The first stopping rule was chosen to rejectthe null hypothesis at the 1 percent level, whereas the second waschosen so that the level of rejection for both interim tests was2 percent. 
+11) To simplifypresentation, the P values were not adjusted for the results of thetwo interim analyses.
+12) Thus, a total of 369 patients were evaluated,186 in the radiotherapy group and 183 in thecombined-therapy group.
+13) There was a slightlyhigher percentage of patients with grade 3 tumorsin the combined-therapy group (38 percent, vs. 31percent in the radiotherapy group).
+14) The median total treatment time was 50 daysin both groups (Table 2).
+15) More patients in the group given radiotherapy alonerefused to undergo the operation (nine, vs. five inthe combined-therapy group), and more patients inthis group also had an early recurrence (eight vs.
+16) Adverse EffectsThere were no treatment-related deaths, but 64patients (35 percent) in the combined-therapy grouphad grade 3 (moderate) or grade 4 (severe) adverseeffects, as compared with 25 patients (13 percent) inthe group given radiotherapy alone. 
+17) These reactionsconsisted almost exclusively of transient hematologiceffects (39 and 3 patients in the respective groups)and gastrointestinal effects (26 and 9 patients) (Table3). 
+18) Grade 3 hematologic toxicity was defined asa total white-cell count of less than 2000 per cubicmillimeter, and grade 4 as a total white-cell count ofless than 1000 per cubic millimeter. 
+19) Thefrequency of grade 1 (minimal) and grade 2 (mild)genitourinary and neurologic adverse effects washigher in the combined-therapy group.
+20) Progression-free SurvivalThe disease recurred in 69 patients in the groupgiven radiotherapy alone (37 percent) and 38 patientsgiven radiotherapy and cisplatin (21 percent) (Table4). 
+21) This difference predominantly reflects the factthat there were fewer local recurrences in the combined-therapy group (16, vs. 39 in the radiotherapygroup). 
+22) SurvivalThe median duration of follow-up was 36 months.
+23) Forty-nine of the patients in the group given radiotherapyalone died of cervical cancer (26 percent),as compared with 27 of the patients in the groupgiven radiotherapy and cisplatin (15 percent) (Table4). 
+24) Adjustment for these factorshad no significant effect on the differences betweenthe groups in survival and progression-free survival.
+25) This approach was, however,associated with considerable morbidity.
+26) This controversy stimulated an earlierGynecologic Oncology Group trial in which patientswere randomly assigned to undergo either hysterectomyafter radiotherapy or radiotherapy alone(unpublished data). 
+27) Therefore, we chose to test the value of concurrenttreatment with cisplatin during radiotherapy followedby hysterectomy as compared with that of radiotherapyalone followed by hysterectomy.
+28) Like others,we found that the size of the tumorwas an important prognostic factor. 
+29) The possibility that these drugs may have additiveeffects, regardless of the mechanism, when givenconcurrently with radiotherapy has been the subjectof study. 
+30) This difference appeared to bedue to the lower rate of relapses in the pelvic regionin the combined-therapy group. 
+31) In the earlier GynecologicOncology Group study that assessed the value ofextrafascial hysterectomy after radiotherapy, surgerywas associated with a significant reduction in therate of relapses in the pelvic region, but the overallrisk of recurrence was not significantly reduced (relativerisk, 0.76, 95 percent confidence interval, 0.52to 1.12) and there was no significant difference insurvival (relative risk of death, 0.91). 

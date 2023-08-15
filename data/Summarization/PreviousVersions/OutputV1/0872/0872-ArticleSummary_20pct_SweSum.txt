@@ -1,0 +1,38 @@
+Although Schwartz et al showed a 16% incidence of CHF in high-risk patients, 87% of the CHF patients improved with medical therapy. Therefore, these established guidelines identified patients who could receive and tolerate higher doses of doxorubicin. 
+
+PATIENTS AND METHODS 
+
+Patient Eligibility 
+
+Female patients 2 18 years of age who had histologically confirmed stage IIIB or IV carcinoma of the breast were eligible for studies 088001 and 088006, activated in February 1988 and May 1989, respectively. Patients who had previously received chemotherapy were not eligible unless they had completed adjuvant chemotherapy that did not include an anthracycline or an anthracene at least 6 months before study entry. Patients must have discontinued hormonal therapy more than 1 week or completed radiation therapy more than 4 weeks before study entry. In the original protocol for study 088001, patients were required to have bidimensional measurable disease, but this was modified in April 1989 to include patients with nonmeasurable, but assessable disease. Study 088006 included patients with nonmeasurable disease from the onset. 
+
+
+Study Design 
+
+Each patient was assigned to a treatment arm according to a prospectively prepared randomization list. In study 088001, patients were initially stratified (in February 1988) within each center as to the presence or absence of one or more cardiac risk factors. Therefore, after 
+
+January 14, 1991, patients who were randomized to either arm of the studies and had received a cumulative dose of at least 300 mg/m2 of doxorubicin subsequently received open-label DZR. 
+
+
+Off-Study Criteria 
+
+Patients were removed from the study if they developed progressive disease, a cardiac event, or other toxicity that precluded further treatment. 
+
+The case report forms of patients reported to have CHF on or off study by December 31, 1993 were independently evaluated by a referee cardiologist who was blinded to the treatment arm the patient had received. There were 82 cardiac events in study 088001 and 43 in study 088006. Table 1 lists all patients randomized onto the two studies. There were 349 patients on study 088001 and 185 on study 088006. 
+
+
+There were nine patients (four on study 088001 and five on study 088006) randomized and not treated. The reasons for no treatment in the other eight patients are patient refusal in four, physician decision in one, pain that required radiation in one, study drug not available at site in one, and patient not eligible for study in one (protocol violation for entry criteria). There were 34 patients taken off studies 088001 and 088006 for protocol violations, including one patient who was never treated. Reasons for protocol violations included ineligibility for study entry (n = 8); study drug scheduling, recording, or dosing problems (n = 18); ejection fraction changes that did not fulfill criteria for cardiac event, but patient taken off study by investigator (n = 7); and an 8-week treatment 
+
+delay (n = 1). The treatment groups were well balanced for all patient characteristics. Cardiac risk factors for these patients were also well balanced and are listed in Table 3. In study 088001, 15% of DZR patients and 31% of PLA patients experienced a cardiac event, whereas in study 088006, these proportions were 14% and 31%. Table 4 shows that 24 patients from both studies (16 on study 088001 and eight on study 088006) developed CHF either on or off study. Two of these patients were randomized to receive DZR and 22 to PLA. The two patients (one on study 088001 and one on study 088006) who died of CHF were on the PLA arm and had received 450 mg/m2 and 500 mg/m2 of doxorubicin. Response Rate Results of the initial review of objective response rates (CRs and PRs) for patients with bidimensional measurable disease demonstrated a significantly higher objective response rate in patients on study 088001 who received PLA (63%) than in those who received DZR (48%) (P = .007, Pearson x2 test). Response rates were not significantly different in study 088006. The median time to progression was 254 days for patients in the DZR arm and 260 days for patients in the PLA arm. The time to progression for patients who had received previous chemotherapy and that for patients who had received prior hormonal therapy were not significantly different between treatment arms for either study 088001 or 088006. 0.59 to 1.14) in studies 088001 and 088006. The differences were not significant in either study after controlling for the previously listed prognostic factors. 
+
+
+Noncardiac Toxicity 
+
+Patients who received DZR and patients who received PLA in both studies were compared with regard to their highest toxicity grade experienced during courses before crossover to open-label DZR. Patients on the DZR arms had a 47% incidence of grade 1 thrombocytopenia, whereas patients on the PLA arms had a 29% incidence. The only significant finding was a lower WBC nadir for patients who received DZR. Thirty-five of 534 patients (6.6%) on both studies were withdrawn because of noncardiac adverse experiences. Seventeen of 249 patients (6.8%) were on the DZR arms and 18 of 285 patients (6.3%) were on the LA arms. Twenty of 534 patients (3.7%) died while on study. Cumulative doxorubicin doses - 1,000 mg/m2 were given to 14% of patients randomized to receive DZR, without cardiotoxicity. The majority of cardiac events were changes in LVEF and not CHF, although 4.5% of patients who entered studies 088001 and 088006 developed CHF secondary to doxorubicin treatment. Fifty percent of patients who developed CHF did so after treatment had ended. However, most of these patients did not develop clinical CHF. Also, in specifically evaluating responses in patients who had received previous chemotherapy or patients who had received previous hormonal therapy, the difference in response rates was of borderline significance. In a randomized study of sarcoma patients, doxorubicin administered as a 96-hour continuous infusion, rather than as a bolus, has been shown to decrease cardiotoxicity (P = .04). The first study found quality of life and time 
+
+to progression were significantly improved in patients who received continuous therapy. The second trial treated patients with six cycles of cyclophosphamide, doxorubicin, and fluorouracil (CAF) then randomized them to receive cyclophosphamide, methotrexate, and 
+
+fluorouracil (CMF) or observation.3 8 The median time to progression was shorter for patients randomized to the observation arm (P < .001), but survival times were equivalent. Toxicity was greater in the continuous arm, and some patients requested cessation of therapy. The conclusions were that if patients waited to stop therapy, survival would not be affected. In conclusion, two of these studies support continuous treatment with resultant longer time to progression. 
+
+
+Future studies of DZR will focus on evaluating the merit of continuing doxorubicin treatment beyond six courses of FAC in breast cancer patients who respond to treatment. In addition, studies are planned for pediatric patients, patientswith cardiac risk factors, combination studies of doxorubicin with other chemotherapy agents and DZR with the initiation of therapy, studies with dose-intensified doxorubicin, studies with anthracyclines other than doxorubicin, and studies in patients with other tumor types.

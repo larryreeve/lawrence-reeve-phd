@@ -1,0 +1,134 @@
+
+
+Using a similar technique Nenci was able to demonstrate that breast tumors are rarely composed of
+homogeneous cell types, ie, almost all breast cancers are composed of mixed receptor-positive and
+receptor-negative cell populations in variable proportions. The rationale for combining hormonal
+therapy with cytotoxic chemotherapy is based on the assumption that breast cancers are heterogeneous
+in terms of ER content, and that there is a differential responsiveness of ER + and ER - cells to
+hormonal and chemotherapy. 
+
+
+With this theoretical background, Cancer and Leukemia Group B (CALGB) designed protocol 8081 to
+determine if the addition of a hormonally active agent (tamoxifen) would enhance the response rate,
+response duration, and survival of women with advanced breast cancer treated with combination
+chemotherapy. A previous CALGB study demonstrated that the combination of cyclophosphamide,
+doxorubicin (Adriamycin, Adria Laboratories, Columbus, OH), 5-fluorouracil (5-FU), vincristine, and
+prednisone (CAFVP) or CAF were each superior to the widely used combination of cyclophosphamide,
+methotrexate, and 5-FU (CMF). 
+
+
+MATERIALS AND METHODSPatient EligibilityEligibility requirements for this study included
+histologically documented carcinoma of the breast that was locally recurrent, metastatic or
+surgically incurable (stage III or IV), measurable disease, a CALGB performance score of 3 or less,
+and age < 75 years. Patients had to have a WBC count of > 4,000/pL, platelets > 100,000/L, a blood
+urea nitrogen level of <20 mg/dL, serum creatinine of < 1.5 mg/dL, and normal values for SGOT and
+bilirubin, unless abnormal values resulted from metastatic involvement. Patients were ineligible if
+they did not satisfy all the above criteria or if they had a second primary neoplasm other than
+cured basal cell carcinoma of the skin or carcinoma in situ of the cervix. They were also excluded
+if they had medical or psychiatric disease that would not permit the patient to give informed
+consent or undergo therapy. 
+
+
+Stratification and RandomizationPatients were randomized from within 13 strata based on ER status
+(negative, positive, or unknown), dominant site of disease (visceral or nonvisceral), prior adjuvant
+chemotherapy or hormonal therapy, and menopausal status (pre- or postmenopausal) as follows, the
+postmenopausal patients were divided into 12 strata based on the other three factors, and the
+premenopausal patients were a single stratum (Table 1). 
+
+
+The protocol recommended the use of the dextran-coated charcoal ER assay. 
+
+
+Soft tissue disease was defined as local recurrence in the skin or lymph nodes or inoperable (stage
+IV) breast cancer. 
+
+
+Dose calculations were based on the patient's ideal body weight or actualweight, whichever was
+lower. 
+
+
+For bony metastases, a PR meant partial recalcification of osteolytic lesions without the
+development of new lesions. Stable disease (stable) was a reduction in tumor size of < 50% or an
+increase < 25% over the original measurements. For bone lesions, this meant no change. 
+
+
+Progressive disease (PD) indicated the appearance of new lesions subsequently proven to be
+metastases. 
+
+
+Statistical MethodsDifferences in distributions of duration of response, time to treatment failure,
+and survival time were evaluated using a Cox proportional hazard multivariate model19 or,
+univariately, the log rank test. Differences in response frequencies and patient characteristics
+were evaluated using a multivariate linear logistic model, or, univariately, the chi square test.  
+
+
+Roughly one third of the patients were ER-, one third ER +, and one third ER unknown in each arm of
+the protocol. Seventy-seven percent of the patients on the CAF regimen and 75% of those on the TCAF
+regimen had a performance score of 0 or 1.
+
+
+Comparability of Groups (Patient Characteristics),Nonmeasurable DiseaseWhen compared with the 379
+patients in the main analysis, the 26 patients with "bone-only" disease were more likely to have had
+prior radiotherapy (50% v 29%, P = .03, chi square test). 
+
+
+Response Four patients were considered inevaluable for the response analysis due to error,
+inadequate records, or hip fracture. 
+
+
+When treatment was added to the model, the P value was .15 for the significance of treatment regimen
+while controlling for performance status.
+
+
+However, more of the bone-only patients achieved stable disease or subjective improvement, and none
+had progression as the best response. 
+
+
+No differences were found between the CAF and TCAF regimens, although the sample size was very
+small.
+
+
+In a multivariate Cox proportional hazards model, the following significant prognostic factors
+relating to TTF were identified, performance status (0 better than 1,2,3, P = .02), number of
+disease sites (one better than two or more, P = .037), and ER status (negative worse than positive
+or unknown, P = .00006). 
+
+
+The overall median survival was 19.6 months (Fig 6). Two factors were prognostic for survival in a
+univariate analysis, dominant site of disease with visceral worse than osseous or soft tissue
+(medians, 18.3, 22.8, 22.0 months, P = .05), and ER status with negative worse than positive or
+unknown (medians, 15.8, 24.9, 23.1 months, P<.0001). 
+
+
+A secondary objective of this study was to evaluate prospectively the response of ER + v ER - tumors
+to CAF chemotherapy. When the 190 evaluable patients receiving CAF were analyzed by ER status (Table
+7), there was no significant difference in response rate between ER + and ER - tumors (56%). 
+
+
+ToxicityToxicity data were available on 375 of 379 cases (98.9% of cases entered) and are displayed
+in Table 8. There were three early deaths and one patient had treatment withheld after a hip
+fracture. Both programs produced equivalent incidences of leukopenia, thrombocytopenia, nausea and
+vomiting, and infection. 
+
+
+DISCUSSIONOur data demonstrate that there is no significant benefit to adding tamoxifen to CAF
+chemotherapy in the treatment of advanced breast cancer. Do cytotoxic chemotherapy and hormonal
+therapy compete for the same pool of ER + cells? Lippman et al retrospectively analyzed 70 patients
+with metastatic breast cancer treated with chemotherapy. 24 Objective responses were seen in 34 of
+45 (75%) ER- (< 10 fmol/mg) patients, but only three of 25 (12%) of ER + (--10 fmol/mg) cases
+responded (P<.0001). 
+
+
+Combining chemotherapy with hormonal therapy is not a new idea, the first clinical trials were
+reported over 15 years ago. 
+
+
+Serial bone scans may be helpful, but bone scans improve slowly, thus rendering this technique of
+greater value in documenting treatment failure rather than response. Pain "flares" are sometimes
+seen with successful hormonal or chemotherapy but Coombes et al" found that pain relief was the most
+consistent index of response to treatment, since nearly all responding patients with bone metastases
+eventually became pain free.
+
+
+TTF inherently incorporates deterioration of performance status and increased pain as well as more
+objective criteria such as progression on the bone scan.

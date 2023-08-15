@@ -1,0 +1,108 @@
+
+
+If it were assumed that breast cancers are heterogeneous in terms of their estrogen receptor (ER)
+content, ie, composed of ER positive (ER +) and ER negative (ER -) cells in various proportions,
+then they may have a differential response to endocrine and cytotoxic chemotherapy. 
+
+
+A previous CALGB study demonstrated that the combination of cyclophosphamide, doxorubicin
+(Adriamycin, Adria Laboratories, Columbus, OH), 5-fluorouracil (5-FU), vincristine, and prednisone
+(CAFVP) or CAF were each superior to the widely used combination of cyclophosphamide, methotrexate,
+and 5-FU (CMF). Tamoxifen was chosen as the hormonal agent because of its demonstrated efficacy in
+postmenopausal women with breast cancer and its relative lack of toxicity. 
+
+
+MATERIALS AND METHODSPatient EligibilityEligibility requirements for this study included
+histologically documented carcinoma of the breast that was locally recurrent, metastatic or
+surgically incurable (stage III or IV), measurable disease, a CALGB performance score of 3 or less,
+and age < 75 years. Patients had to have a WBC count of > 4,000/pL, platelets > 100,000/L, a blood
+urea nitrogen level of <20 mg/dL, serum creatinine of < 1.5 mg/dL, and normal values for SGOT and
+bilirubin, unless abnormal values resulted from metastatic involvement. A history of myocardial
+infarction within 6 months of protocol entry, congestive heart failure requiring digitalis, or
+angina were all causes for exclusion. 
+
+
+Stratification and RandomizationPatients were randomized from within 13 strata based on ER status
+(negative, positive, or unknown), dominant site of disease (visceral or nonvisceral), prior adjuvant
+chemotherapy or hormonal therapy, and menopausal status (pre- or postmenopausal) as follows, the
+postmenopausal patients were divided into 12 strata based on the other three factors, and the
+premenopausal patients were a single stratum (Table 1). 
+
+
+Using the data of Hilf et al, values of > 7 fmol/mg/protein were considered positive, and <7
+fmol/mg/ protein negative. 18 When no ER assay was performed, the patient was designated ER unknown.
+
+
+Visceral metastases included disease in the liver, pulmonary parenchyma or pleura, brain, or bone
+marrow. 
+
+
+TreatmentAfter appropriate stratification, patients were randomized to receive either chemotherapy
+or chemotherapy plus tamoxifen (Fig 1). Dose calculations were based on the patient's ideal body
+weight or actualweight, whichever was lower. 
+
+
+Reductions were also made for elevations of serum bilirubin and SGOT and for the occurrence of
+stomatitis, diarrhea, or cystitis.
+
+
+Response CriteriaA complete response (CR) required disappearance of all signs and symptoms
+attributable to the tumor, including the disappearance of all lesions for at least 1 month. For bony
+metastases, a PR meant partial recalcification of osteolytic lesions without the development of new
+lesions. 
+
+
+Progressive disease (PD) indicated the appearance of new lesions subsequently proven to be
+metastases. 
+
+
+Comparability of Groups (Patient Characteristics),Nonmeasurable DiseaseWhen compared with the 379
+patients in the main analysis, the 26 patients with "bone-only" disease were more likely to have had
+prior radiotherapy (50% v 29%, P = .03, chi square test). 
+
+
+However, more of the bone-only patients achieved stable disease or subjective improvement, and none
+had progression as the best response. 
+
+
+The median duration of response in this study was 12.0 months (Fig 4). 
+
+
+When the 190 evaluable patients receiving CAF were analyzed by ER status (Table 7), there was no
+significant difference in response rate between ER + and ER - tumors (56%). 
+
+
+There were three early deaths and one patient had treatment withheld after a hip fracture. Both
+programs produced equivalent incidences of leukopenia, thrombocytopenia, nausea and vomiting, and
+infection. The other lethal toxicity was congestive heart failure.  
+
+
+Our ER + and ER - cases had identical response rates (56%) to chemotherapy (CAF), but ER + patients
+had significantly longer response durations (P = .00015), TTF (P = .0061), and survival (P = .0058)
+than ER- patients (Fig 5).
+
+
+Combining chemotherapy with hormonal therapy is not a new idea, the first clinical trials were
+reported over 15 years ago. 
+
+
+More recent trials such as that reported by Cocconi et al and Viladiu et al seemed to show some
+benefit in response rate to combined chemohormonal therapy, but in neither trial was a survival
+advantage confirmed. Krook et al were unable to demonstrate that the addition of tamoxifen to CFP
+(cyclophosphamide + 5-FU + prednisone) improved time to disease progression or survival over
+treatment with CFP alone. 
+
+
+Lastly, Kiang et al randomized 40 ER + postmenopausal women with advanced breast cancer to estrogen
+therapywith diethylstilbesterol (DES) or DES + chemotherapy with cyclophosphamide and 5-FU (CF). 
+
+
+Serial bone scans may be helpful, but bone scans improve slowly, thus rendering this technique of
+greater value in documenting treatment failure rather than response. Pain "flares" are sometimes
+seen with successful hormonal or chemotherapy but Coombes et al" found that pain relief was the most
+consistent index of response to treatment, since nearly all responding patients with bone metastases
+eventually became pain free.
+
+
+If there is an increase in pain, or pain in a new site, the patient is probably a treatment failure,
+and objective criteria should be sought. 

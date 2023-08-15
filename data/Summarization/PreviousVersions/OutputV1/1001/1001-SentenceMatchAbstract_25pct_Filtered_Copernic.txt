@@ -1,0 +1,5 @@
+BioChain Summary File: data\output\1001\1001-AbstractSummary_25pct_Filtered_BioChain.txt
+	3 sentences
+External Summary File: data\output\1001\1001-AbstractSummary_25pct_Copernic.txt
+	3 sentences
+Total sentences matching BioChain: 2

@@ -1,0 +1,179 @@
+
+C:\Data\BioChainV1>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChainv1\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  ..\biochain\data\inputv1\1115\1115-Abstract-A.txt ..\biochain\data\inputv1\1115\1115-Article_MethodsResults.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...137156 ms
+
+Chaining summary file ..\biochain\data\inputv1\1115\1115-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  37375 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file ..\biochain\data\inputv1\1115\1115-Article_MethodsResults.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  229985 ms
+	Chain processing time: 15 ms
+
+
+
+Abstract:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.11
+	Std Dev:      3.22
+	Strong Score: 7.55
+
+
+	Chain T061-Therapeutic or Preventive Procedure: score=12.00
+		Concept Bathing, count=3
+		Concept hyperfractionation, count=1
+		Concept Therapeutic procedure, count=1
+		Concept Exploration procedure (procedure), count=2
+
+	Chain T081-Quantitative Concept: score=12.00
+		Concept cGy (qualifier value), count=1
+		Concept Multivariate Analysis, count=1
+		Concept cm (qualifier value), count=1
+		Concept utilization, count=1
+		Concept Fractions of (qualifier value), count=1
+		Concept One (qualifier value), count=1
+		Concept Median Statistical Measurement, count=1
+		Concept Gy (qualifier value), count=1
+		Concept Two (qualifier value), count=1
+		Concept Partial (qualifier value), count=1
+		Concept Disease-Free Survival, count=1
+		Concept benefits, count=1
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    12.41
+	Std Dev:      47.99
+	Strong Score: 108.39
+
+
+	Chain T061-Therapeutic or Preventive Procedure: score=112.00
+		Concept Patient observation, count=1
+		Concept Providing presence (regime/therapy), count=1
+		Concept Booster, count=1
+		Concept external radiation, count=1
+		Concept Bathing, count=8
+		Concept GENERAL OPERATIVE PROCEDURES, count=2
+		Concept Transfusion - action (qualifier value), count=2
+		Concept Primary operation (qualifier value), count=1
+		Concept Dose Fractionation, count=2
+		Concept Infusion (procedure), count=3
+		Concept Pharmacotherapy, count=3
+		Concept Chemotherapy-Oncologic Procedure, count=3
+		Concept hyperfractionation, count=3
+		Concept Radiation therapy, count=5
+		Concept Therapeutic procedure, count=1
+
+	Chain T081-Quantitative Concept: score=315.00
+		Concept cGy (qualifier value), count=1
+		Concept survival aspects, count=9
+		Concept Survival Rate, count=1
+		Concept Toxicity aspects, count=1
+		Concept One (qualifier value), count=5
+		Concept Fractions of (qualifier value), count=4
+		Concept Two (qualifier value), count=2
+		Concept Second (qualifier value), count=1
+		Concept Partial (qualifier value), count=2
+		Concept Biomechanical compliance, count=2
+		Concept Four (qualifier value), count=2
+		Concept Twelve (qualifier value), count=1
+		Concept cm (qualifier value), count=6
+		Concept utilization, count=1
+		Concept Dosages (qualifier value), count=6
+		Concept L (qualifier value), count=1
+		Concept Median Statistical Measurement, count=8
+		Concept Probability, count=1
+		Concept Incidence, count=2
+		Concept Nine (qualifier value), count=1
+		Concept Confidence Intervals, count=1
+		Concept Changed status, count=1
+		Concept Volume (property) (qualifier value), count=2
+		Concept First (qualifier value), count=1
+		Concept Singular, count=1
+		Concept dose-rate, count=1
+		Concept Low dose (qualifier value), count=1
+		Concept Magnitudes (qualifier value), count=1
+		Concept Radiation Dosage, count=1
+		Concept Disease-Free Survival, count=9
+		Concept Few (qualifier value), count=1
+		Concept Size (attribute), count=3
+		Concept Gy (qualifier value), count=1
+		Concept Count of entities (property) (qualifier value), count=2
+		Concept MeV (qualifier value), count=1
+		Concept Proportional Hazards Models, count=1
+
+	Chain T170-Intellectual Product: score=125.00
+		Concept Simile, count=2
+		Concept chart, count=1
+		Concept Methods, count=4
+		Concept Improving (qualifier value), count=3
+		Concept Ib (qualifier value), count=2
+		Concept Elimination outcomes, count=1
+		Concept prognostic, count=2
+		Concept Alpha (qualifier value), count=2
+		Concept Guidelines, count=1
+		Concept Schedules, count=1
+		Concept Type of cell (qualifier value), count=1
+		Concept statistical, count=2
+		Concept Methodology, count=2
+		Concept Beta greek letter, count=2
+		Concept Models, count=1
+		Concept Overall [Publication Type], count=1
+		Concept Techniques, count=2
+		Concept Groups (qualifier value), count=1
+		Concept standards characteristics, count=3
+		Concept criteria, count=1
+		Concept guiding characteristics, count=1
+		Concept Proportional Hazards Models, count=1
+		Concept radiotherapeutic, count=1
+		Concept FIGO Stage (attribute), count=2
+		Concept Protocols documentation, count=1
+		Concept Tests (qualifier value), count=1
+
+Concepts in abstract:
+--------------------
+	fractions of (qualifier value):T081
+	one (qualifier value):T081
+	cgy (qualifier value):T081
+	bathing:T061
+	multivariate analysis:T081
+	exploration procedure (procedure):T061
+	radiation therapy:T061
+	survival aspects:T081
+	cm (qualifier value):T081
+	benefits:T081
+	disease-free survival:T081
+	gy (qualifier value):T081
+	two (qualifier value):T081
+	partial (qualifier value):T081
+	median statistical measurement:T081
+	utilization:T081
+	hyperfractionation:T061
+	therapeutic procedure:T061
+
+Concepts in abstract with no match in full-text strong chains:
+-------------------------------------------------------------
+	multivariate analysis:T081
+	exploration procedure (procedure):T061
+	benefits:T081
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 3
+	Number of concepts in Abstract: 18
+
+	Number of strong chains in Full-text with concepts from Abstract: 3
+	  Recall: 1.00
+
+	Number of Abstract concepts having strong chains in full-text: 15
+	  Precision: 0.83
+
+

@@ -1,0 +1,84 @@
+
+
+THE American Joint Committee on Cancer and the International Federation of Gynecology and Obstetrics
+define stage IB cervical cancer as invasive cancer that is confined to the cervix, with a depth of
+more than 5 mm and a width of more than 7 mm. In patients with large stage IB cervical cancers,
+local control and survival are poorer than in patients with smaller stage I cancers, whether treated
+by surgery or irradiation. 
+
+
+In a previous randomized trial of combined external and intracavitary irradiation alone or followed
+by extrafascial hysterectomy, the Gynecologic Oncology Group found that hysterectomy did not improve
+survival, but it did significantly reduce the rate of relapse in the pelvic region (unpublished
+data). 
+
+
+Women of any age with biopsy-proved primary squamous-cell carcinoma, adenocarcinoma, or
+adenosquamous carcinoma of the cervix of stage IB (exophytic or expansile barrel-shaped tumors with
+a minimal diameter of 4 cm) were eligible for the study. Inaddition, patients could have no
+radiographic evidence of lymphadenopathy on computed tomographic scanning or lymphangiography, and
+in those with enlarged or suspicious-appearing lymph nodes, no evidence of cancer on fine-needle
+aspiration or histologic evaluation. Patients with histologic evidence of lymph-node involvementwere
+not eligible, nor were those who had previously received radiotherapy or chemotherapy or those with
+a history of cancer other than nonmelanoma skin cancer. 
+
+
+All patients were required to have a Gynecologic Oncology Group performance status of 0, 1, 2, or 3
+(equivalent to Karnofsky performance scores of 90 or 100, 70 or 80, 50 or 60, and 30 or 40,
+respectively) and adequate bone marrow, renal function, and hepatic function. Written informed
+consent was obtained before entry into the study, fulfilling all institutional, state, and federal
+regulations.
+
+
+External irradiation was withheld if the white-cell count fell below 1000 per cubic millimeter and
+was resumed once the count rose above that level. The dose to point A (a reference location 2 cm
+lateral and 2 cm superior to the cervical os) was 30 Gy, for a cumulative dose of 75 Gy, and the
+cumulative dose to point B (the pelvic wall) was 55 Gy.
+
+
+We estimated that 173 patients were needed in each treatment group in order to be able to detect a
+40 percent decrease in the recurrence rate in the group given radiotherapy and chemotherapy. The
+design called for a final analysis when 56 events (recurrences or deaths) had occurred in patients
+receiving the control regimen (radiotherapy alone) and provided the study with a statistical power
+of 80 percent with use of the log-rank test and a one-sided significance level of 0.05.
+
+
+Two scheduled interim analyses were conducted during the enrollment phase of the trial, the first
+was conducted after 29 recurrences had been reported, and the second after 47 recurrences had been
+reported. 
+
+
+Four were subsequently excluded after a central review by the pathology committee found that the
+specimen was inadequate for evaluation in the case of one patient,the primary lesion had been
+misidentified in the case of one patient, the cell type had been misidentified in the case of one
+patient, and the stage of the tumor had been overestimated in the case of one patient. 
+
+
+All patients had primary cervical cancers that were at least 4 cm in diameter, and the distribution
+of the tumors according to size was similar in the two groups. A total of 164 patients (90 percent)
+received four or more courses of cisplatin. The median weekly dose of cisplatin was 39.0 mg per
+square meter (10th and 90th percentiles, 32.3 and 40.3, respectively, range, 0 to 49.7). 
+
+
+Cox multiple regression analysis showed that the size of the tumor as assessed by physical
+examination and the histologic grade of the tumor were both significant prognostic factors. 
+Adjustment for these factors had no significant effect on the differences between the groups in
+survival and progression-free survival.  
+
+
+In 1992, when the current study was initiated, complete data on survival in the earlier trial were
+not available, but an early analysis showed a significantly lower rate of relapses in the pelvic
+region among women who underwent hysterectomy. 
+
+
+In the earlier Gynecologic Oncology Group study that assessed the value of extrafascial hysterectomy
+after radiotherapy, surgery was associated with a significant reduction in the rate of relapses in
+the pelvic region, but the overall risk of recurrence was not significantly reduced (relative risk,
+0.76, 95 percent confidence interval, 0.52 to 1.12) and there was no significant difference in
+survival (relative risk of death, 0.91). 
+
+
+The five randomized trials of cervical cancer that we have discussed involve different stages of
+cervical cancer and combinations of treatment, but they share a common result, all five studies
+found that concomitant treatment with cisplatin and radiotherapy led to better outcomes than
+radiotherapy alone or in combination with treatments that did not include cisplatin. 

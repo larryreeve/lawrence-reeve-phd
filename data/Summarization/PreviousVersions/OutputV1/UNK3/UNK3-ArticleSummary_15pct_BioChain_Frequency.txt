@@ -1,0 +1,84 @@
+
+
+Several  studies have been able to demonstrate a good correlation between the number of CD34+ cells
+in the harvest and the number of  CFU–GM. 
+
+
+The yield of CD34+ cells obtained by leukapheresis is significantly influenced by the extent and
+duration of prior  chemotherapy, therapy with stem cell-toxic drugs such as carmustine or melphalan,
+and extensive radiotherapy. 
+
+
+Inclusion criteria for patients with BC were >10  positive lymph nodes, positivity in all examined
+lymph nodes at first diagnosis, or local regional relapse within 2 years  after first diagnosis and
+initially positive lymph nodes. Exclusion criteria Exclusion criteria were refractoriness to
+platelet  transfusion, disorders of blood coagulation, heparin-induced thrombocytopenia, disease
+manifestation in the central nervous system, fever >38.5°C within 48 hours before leukapheresis,
+dilatative cardiomyopathy, symptomatic ischemic heart  disease, heart attack within 6 months before
+leukapheresis, chronic lung disease with hypoxemia, severe drug-resistant  hypertension, severe
+nonadjustable diabetes, epileptic seizures, impairment of renal function with serum creatinine >2.0
+mg  per dL, elevation of liver enzymes >3 times the normal value and/or a bilirubin value >2.0 mg
+per dL, clinical symptoms of  impaired cerebral blood circulation, severe psychiatric disease, and
+previous bone marrow or PBPC transplantation.
+
+
+Seven patients of  the NHL group had stage IV follicular lymphoma and were included in an ongoing
+randomized trial comparing the effect of HDCT  to that of conventional chemotherapy. Three patients
+with diffuse large-cell lymphoma and persistent disease after standard chemotherapy  and two with a
+chemotherapy-sensitive relapse were included. 
+
+
+In 18 patients with BC, the mobilization regimen given  consisted of epirubicin at 50 mg per m2,
+ifosfamide at 4000 mg per m2, cisplatinum at 50 mg per m², and etoposide at 500 mg  per m2 . The
+other 8 patients with BC underwent mobilization with epirubicin at 90 mg per m² and cyclophosphamide
+at 600 mg  per m2. 
+
+
+Leukapheresis procedures were begun when the white  cell count exceeded 1 × 109 per L. In all LVL
+procedures, 6  International Units (IU) of heparin (Hoffmann-La Roche, Grenzach-Wyhlen, Germany) per
+1 mL of ACD-A was used as additional  anticoagulant.28 The leukapheresis values are described in
+Table 2. 
+
+
+One patient underwent transplantation twice, and  thus a total of 38 PBPC transplantations were
+performed in 37 patients. 
+
+
+Considering this value for the two patient groups separately, in  patients with BC, the median
+number of CFU–GM per kg of BW after cryopreservation was significantly higher in the patients 
+undergoing LVL than in those undergoing NVL (3.5 vs. 2.4 × 105, p = 0.0047), whereas in the patients
+with NHL there was no  difference between LVL and NVL (2.7 and 2.1 × 105, p = 0.35).
+
+
+Of the 6 patients being given grafts from an NVL, only 3  with BC had sufficient numbers of PBPCs in
+one-half of the collection, the others, 2 with BC and 1 with NHL, received a total  harvest. 
+
+
+When all procedures were  considered, the median number of CD34+ cells and the median extraction
+efficacy were significantly higher in LVL than in NVL.  Our observation that the  extraction
+efficacy of LVL differed in patients with BC and those with NHL may help to explain conflicting data
+in the  literature. Upon return, these mobilized progenitor cells migrate into the bone marrow and
+reconstitute hematopoiesis. At  least from a kinetic point of view, a transient, rapid increase,
+such as that after physical exercise or the administration  of adrenocorticotropic hormone,
+endotoxin, dextran sulfate, or antibodies against the cell adhesion molecule VLA-4, can be 
+distinguished from a delayed, sustained increase that can be observed, for example, after the
+administration of G–CSF. 
+
+
+Preliminary data (Humpe A, manuscript in preparation) suggest that the decrease in CD34+ cell
+numbers in peripheral blood during leukapheresis and the increase in the numbers in the collection
+bag can be well described by a cell-kinetic model consisting of the three distributional
+compartments, bone marrow, peripheral blood, and extracorporeal volume. In vitro experiments were
+able to show that homing and transmigration of PBPCs are also dependent on PECAM-1 (CD31), a
+heparin-binding adhesion molecule. 35,36 Thus, it may be that heparin interacts with the
+microenvironment of PBPCs. 
+
+
+With both leukapheresis procedures taken together, none of the patients with BC failed to achieve 2
+× 106 CD34+ cells per kg of BW, but, in the NHL group, 26.7 percent of the patients still did not
+achieve a transplantation dose and a back-up dose. Recently published data18 showed that prior
+exposure to chemotherapy, especially to DexaBEAM, or prior radiotherapy has a significant influence
+on the yield of PBPCs. Apart from the harvest of a transplantation dose and an additional dose as
+back-up, the aim of a leukapheresis could be to harvest maximum numbers of CD34+ cells. Recent
+data15 suggest that hematopoietic toxicity, platelettransfusion support, and quality of life may be
+positively influenced by the return of more than 15 × 106 CD34+ cells per kg of BW after HDCT. 

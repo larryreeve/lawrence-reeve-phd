@@ -1,0 +1,94 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\0271\0271-Abstract-A.txt data\input\0271\0271-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...138485 ms
+
+Chaining summary file data\input\0271\0271-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  25890 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\0271\0271-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  211765 ms
+	Chain processing time: 16 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.26
+	Std Dev:      1.22
+	Strong Score: 2.71
+
+	T081-Quantitative Concept: 6.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    9.08
+	Std Dev:      42.20
+	Strong Score: 93.49
+
+	T081-Quantitative Concept: 308.00
+	T169-Functional Concept: 119.00
+	Recall: Chain with no concepts from Summary: T169-Functional Concept
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 2
+	Number of concepts in Summary: 4
+
+	Number of strong chains in Full-text with concepts from Summary: 1
+	  Recall: 0.50
+
+	Number of summary concepts having strong chains in full-text: 4
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 12)
+-------------
+
+0) Seventy-nine have received two full courses of therapy. 
+1) Controllable clinical congestive heart failure developed in seven patients, and four others had a deterioration of noninvasive measures of cardiac function without clinical failure. 
+2) Two of 22 (10%) patients receiving doxorubicin and five of 24 (21%) receiving mitoxantrone as secondary therapy responded. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,28 of 109)
+-------------
+
+0) MAJOR ADVANCES in breast cancerthroughout the past decade have includedthe widespread introduction of combination andmultimodality treatments and the development ofnew agents such as doxorubicin and tamoxifen.
+1) Several bis-substituted anthraquinones were introduced into clinical trials about 5 years ago asan entirely new class of anticancer agents. 
+2) Dihydroxyanthracenedione(mitoxantrone) hasemerged as the most promising of this group ofagents. 
+3) This is the finalreport of that study.
+4) All patientsgranted written consent after being informed of the experimentalnature of the therapies. 
+5) They were then randomized to receiveeither doxorubicin (60 mg/m2) or mitoxantrone (12 mg/m2) asinitial treatment. 
+6) Doses wererepeated every 3 weeks and increased by 25% until the patientachieved a WBC nadir of 5 2,500//L. 
+7) Increasingshortness of breath in the presence of a changing and abnormalgated acquisition (MUGA) scan (< 0.50) or systolic timeinterval (STI) measurements (AD _ 28%) or a physician'sclinical diagnosis of probable congestive heart failure (CHF)were designated as drug-related CHF. 
+8) Either MUGA scans orSTI measurements were scheduled before therapy, at least everythree courses, and at crossover. 
+9) Partial response required a 50% decrease in all lesionsthat persisted for at least one full course of therapy. 
+10) Completerelief of pain in the absence of analgesics for at least 4 weeks wasaccepted as a partial response if the pain was clearly cancerrelated and had initially required analgesic therapy for relief. 
+11) We have chosen to use pain as a response endpoint since palliation is an important goal in this setting and therandomized design helps alleviate bias that might result fromusing subjective end points. 
+12) Response determinationswere initially made by the patient's physician and a researchnurse. 
+13) They were then confirmed by at least one of the investigatorsin a blinded review of response data. 
+14) RESULTSPatient characteristics are presented in Table1. 
+15) The response rate to primary treatmentfor all eligible patients was 30% with doxorubicinand 17% with mitoxantrone. 
+16) One patienthad a complete response to each agent. 
+17) The95% confidence intervals overlapped, and thedifferences were not statistically significant (P <.2). 
+18) Seven of 46 patients whoreceived either agent as secondary therapy (aftercrossover) had a response. 
+19) Again the response rates (mitoxantrone, 21%, doxorubicin, 10%)were not significantly different for the twoagents. 
+20) Responses lasted for about 3months in most patients but continued for morethan a year in some.
+21) Nauseaand vomiting (P < .001), alopecia (P < .001),and fatigue (P < .05) occurred less frequently asa result of treatment with mitoxantrone and tendedto be less severe. 
+22) DISCUSSIONThis study was designed to determine comparativeresponse rates, response durations, andside effects of mitoxantrone and doxorubicin inpatients with breast cancer who had failed therapywith CMF. 
+23) The complete and partial response rates tothese agents are similar, and observed differencesare not statistically significant. 
+24) TheEastern Cooperative group used a dosage of 4mg/m 2/d for 3 days every 3 weeks on patients forwhom one prior chemotherapy regimen' 2 hadfailed, they have observed only two partial responsesin 34 patients (6%). 
+25) Mitoxantrone hasshown reproducible but modest efficacy as a single agent in the doses and schedules used in thesestudies. 
+26) Seven of 46 patients (15%) respondedto one agent after having failed to respond tothe other.
+27) Alopecia to a degree that isbothersome for the patient is unusual, althoughsome hair loss is seen in one third of the patientstreated with mitoxantrone. 

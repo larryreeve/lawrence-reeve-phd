@@ -1,0 +1,53 @@
+Ninety patients with breast cancer refractory to cyclophosphamide/fluorouracil/methotrexate (CMF) have been randomized in their treatment, receiving either doxorubicin or mitoxantrone.
+
+Seventy-nine have received two full courses of therapy.
+
+Twelve of the 40 (30%) who initially received doxorubicin responded, whereas eight of the 47 (17%) who received mitoxantrone responded.
+
+Patients who received mitoxantrone had less nausea, vomiting, alopecia, and fatique.
+
+Controllable clinical congestive heart failure developed in seven patients, and four others had a deterioration of noninvasive measures of cardiac function without clinical failure.
+
+One patient with clinical heart failure developing received only doxorubicin and one, only mitoxantrone, whereas the others received both agents.
+
+The duration of remission and time lapsed before disease progression were almost identical for the two regimens.
+
+Two of 22 (10%) patients receiving doxorubicin and five of 24 (21%) receiving mitoxantrone as secondary therapy responded.
+
+This suggests that there is not absolute cross-resistance between these agents.
+
+We conclude that the efficacy of these two drugs is comparable in patients refractory to CMF, though the nonhematologic side effects of mitoxantrone are less.
+
+MAJOR ADVANCES in breast cancer throughout the past decade have included the widespread introduction of combination and multimodality treatments and the development of new agents such as doxorubicin and tamoxifen.
+
+Patients presenting with symptomatic disease can now obtain substantial relief through firstline chemotherapy, and some patients probably live longer as a result of treatment.
+
+Advanced breast cancer, however, is not curable, and survival is inadequate in terms of both quality and duration."
+
+The therapies presently available for patients for whom first-line therapy has failed offer minimal, if any, clinical benefits.
+
+There is clearly a need for new approaches and new agents for therapy for this disease.
+
+Several bis-substituted anthraquinones were introduced into clinical trials about 5 years ago as an entirely new class of anticancer agents.
+
+In 1980, we initiated a prospective comparison of the most active standard agent for breast cancer, doxorubicin, and mitoxantrone as therapy for minimally pretreated patients with breast cancer.
+
+This is the final report of that study.
+
+PATIENTS AND METHODS Women with metastatic or unresectable regional breast cancer were eligible for this study if they had received no more than one prior chemotherapy regimen, they had not received anthracyclines, and their previous therapy had failed.
+
+Patients were required to be ambulatory for at least half a waking day (scoring from 0 to 2 on the Zubrod Activity Scale), though patients who had a greater restriction of activity owing to bone pain alone were permitted if they could otherwise be up and about.
+
+Patients with prolonged or life-threatening marrow suppression or severe nonhematologic toxicity (World Health Organization grade 3 or 48) had their dose reduced by 25% to 50%.
+
+A crossover design was also used: patients who experienced disease progression after two courses or those who failed to respond to four courses received the alternate regimen.
+
+Either MUGA scans or STI measurements were scheduled before therapy, at least every three courses, and at crossover.
+
+Patients were considered evaluable for response if they completed two courses of therapy or showed documented disease progression at any time.
+
+The response rate to primary treatment for all eligible patients was 30% with doxorubicin and 17% with mitoxantrone.
+
+If only patients who received two full courses of therapy are considered, the response rates to mitoxantrone and doxorubicin are 23% and 33%, respectively.
+
+We made no formal evaluation of the quality of life in this study, but the performance status tended to be worse in patients receiving prolonged doxorubicin treatment than in patients receiving prolonged treatment with mitoxantrone.

@@ -1,0 +1,65 @@
+RESULTS of several studies, including findings from two recent randomized trials have demonstrated that long-term survival of early-stage breast cancer patients receiving conservative treatment was not significantly different than for those receiving a mastectomy.
+
+There have been several studies over the years examining breast cancer patients' psychological adjustment to medical treatment.
+
+However, only six studies have been directly concerned with the comparative analysis of psychological status between patients treated with mastectomy v excisional biopsy plus radiation.
+
+These assessments were made before any surgery was actually performed.
+
+Although no prospective follow-up was reported for these patients, there was a clear assumption that the lumpectomy patients were psychologically better off, both pre- and postsurgery.
+
+Our research group, first at the National Cancer Institute (NCI) and now at the University of Pittsburgh School of Medicine, has been following two samples of early-stage breast cancer patients, a proportion of each having received breast-sparing procedures.
+
+These two prospective studies were not initiated in order to examine psychological sequelae of breast-sparing surgery v mastectomy.
+
+Approximately half of the NCI sample received excisional biopsy (a reflection of the randomization procedure used in that trial), whereas a larger proportion of the Pittsburgh stage I and II breast cancer sample elected excisional biopsy.
+
+It is also probably safe to assume for this sample that there was a discussion of treatment options with their surgeon, as well as a clinical rule-out for procedures that were deemed inappropriate for the individual case.
+
+Thus, treatment plans for the Pittsburgh sample were not made by a process of randomization, but by a clinical decision process involving discussion between physician and patient.
+
+We expanded our measurement of perceived social support and coping styles used by patients because of our earlier NCI findings, and because of other research suggesting that such factors play an important role in both adjustment and host status during distress.
+
+For both samples, menopausal status and chemotherapy and radiotherapy treatment were co-varied at follow-up.
+
+Specifically, for the Pittsburgh sample, in addition to menopausal status, number of radiotherapy treatments (ranging from 0 to nth treatment at follow-up) and type of chemotherapy categorized according to toxicity of side effects (0 = none, 1 = tamoxifen alone, 2 = multimodality chemotherapy) were co-varied in all ANVOCA analyses.
+
+For the NCI sample, a somewhat simpler co-varying scheme was used.
+
+First, in order to control for potentially inflated F values for repeated nivariate tests using the six subscales and total score of the POMS, we performed a multivariate analysis of covariance (MANCOVA) on this measure, testing for overall significant main effects and interactions using the POMS scale.
+
+Interestingly, coincident with the biopsy patients reporting either greater distress in general, or increasing distress over time, they also reported significantly less social support from family and friends than the mastectomy patient group.
+
+When comparing surgery groups, trends occurred for fatigue and depression, with mastectomy patients reporting more depression and fatigue overall than excisional biopsy patients.
+
+Finally, Table 4 shows means, standard deviations, and t tests, comparing the NCI and Pittsburgh sample directly on baseline distress symptoms, stratified by treatment group.
+
+That is, groups with identical surgical treatment (excisional biopsy plus axillary dissection or mastectomy) were compared within 1 week of surgery, before receiving any additional therapy.
+
+As can be seen, there were no significant differences between mastectomy patients at the two research sites on distress scores.
+
+As can also be seen, there were no significant differences in axillary nodal status or delay time to diagnosis for either surgery group between research sites.
+
+Thus, again, differential emotional distress scores may more likely be attributable to the significance of the treatment choice within the immediate healthcare context, rather than to differences in treatment technology or extent of disease at baseline.
+
+First, when early-stage breast cancer patients have some choice regarding extent of surgery, with the potential option of "sparing" the compromised breast, emotional distress in general increases, at least in the short run (in this case, over a 3-month follow-up period).
+
+Second, coincident with overall higher levels of emotional distress in patients opting for an excisional biopsy is a decrease in emotional support from significant others in the biopsy patients' environment.
+
+First, in the Pittsburgh sample, we do not know what proportion of early-stage breast cancer patients who received a mastectomy could have chosen a lumpectomy if they had preferred the latter breast-sparing technique.
+
+Those receiving a biopsy compared with mastectomy patients tended to report that they coped by using escape fantasies in dealing with life's difficulties.
+
+Further, if there are not significant differences between early-stage breast cancer patients in Wisconsin and those in Pennsylvania, then the findings of Wolberg et a1'6 may generalize to our Pittsburgh population.
+
+We will return to this latter possibility when discussing educational implications.
+
+Second, these data are predominantly self-report, albeit self-report on validated and reliable test instruments.
+
+Having made the above qualifications with respect to unknowns, ie, pretreatment personality and actual suitability for excisional biopsy, as well as the limits of self-report, one implication that could be drawn here is that to make a treatment choice within a risky context of perceived unknowns is threat-producing.
+
+Perhaps more simply accomplished is educating the patient regarding the clinical aftermath of breast-sparing surgery.
+
+One could argue that even short-term mental health needs, if unmet, cause unnecessary suffering that perhaps could be alleviated by support interventions and the like.
+
+Given the results of the recent trials, she is not biologically better off, as there appears to be no biological advantage favoring one surgery over another.

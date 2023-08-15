@@ -1,0 +1,117 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\0234\0234-Abstract-A.txt data\input\0234\0234-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...188516 ms
+
+Chaining summary file data\input\0234\0234-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  29375 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\0234\0234-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  391031 ms
+	Chain processing time: 32 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.05
+	Std Dev:      4.01
+	Strong Score: 9.07
+
+	T081-Quantitative Concept: 18.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    17.00
+	Std Dev:      83.33
+	Strong Score: 183.67
+
+	T081-Quantitative Concept: 656.00
+	T169-Functional Concept: 256.00
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 2
+	Number of concepts in Summary: 7
+
+	Number of strong chains in Full-text with concepts from Summary: 2
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 7
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 11)
+-------------
+
+0) Fifty-four patients with advanced breast cancer who had failed prior non-anthracycline combination chemotherapy were randomized to treatment with either epirubicin 85 mg/m2 or doxorubicin 60 mg/m2 intravenously every three weeks. 
+1) The median duration of response to epirubicin was 11.9 months compared to 7.1 months with doxorubicin. 
+2) Using methods of survival analysis, the median doses to the development of laboratory cardiotoxicity were estimated to be 935 mg/m2 of epirubicin and 468 mg/m2 of doxorubicin. 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,52 of 206)
+-------------
+
+0) DOXORUBICIN (DOX), or Adriamycin(Adria Laboratories, Columbus, Ohio), isone of the most useful antineoplastic agentsavailable. 
+1) Its use, however, is limited by cumulative,dose-dependent, chronic cardiotoxicity. 
+2) More recently, however, subclinical cardiacinjury has been documented at considerably lowerdoses. 
+3) Discontinuation of therapy in these patientsmay prevent cardiac failure, but also results incurtailment of the antineoplastic effect of DOX.
+4) One approach to solving this problem is thedevelopment of DOX analogues that retain antineoplasticactivity but possess reduced potentialfor cardiac damage. 
+5) Preclinical studies suggestthat this may be possible by structural alterationof the anthracyline molecule.'1 Epirubicin (4'-epi-doxorubicin, EPI) is one such compound. 
+6) Itis a stereoisomer of DOX in which the hydroxylgroup at the 4' position of the aminosugar side chain is epimerized (Fig 1). 
+7) Pharmacokinetic studies in tumor-bearing miceand rats" indicate that EPI is more extensivelymetabolized by liver than DOX. 
+8) The two compoundshave similar pharmacokinetic behavior inhumans, although EPI is eliminated more rapidly.
+9) In two clinical phase I studies, EPI was foundto have acceptable toxicity at doses of 85 to 90mg/m2 given intravenously (IV) every threeweeks. 
+10) We used multigated radionuclidecineangiocardiography (RNCA) to assess cardiactoxicity in this prospective, randomized studycomparing the efficacy, acute, and chronic toxicitiesof EPI with DOX in patients with advancedbreast cancer.
+11) MATERIALS AND METHODSPatient EligibilityThis study was conducted in patients with advanced breastcancer who had progressed after receiving combination chemotherapy.
+12) Areas of increased uptake on bonescan were further studied with roentgenograms to determine thenature of the abnormalities. 
+13) Liver scans were done only if therewas elevation of the hepatic enzymes on the biochemical profile.
+14) Blood counts were initially monitored weekly, and then lessfrequently after the pattern of myelosuppression was established.
+15) Allevaluable or measurable parameters of disease were reevaluatedat least every six weeks.
+16) Randomization was performed using the method of randompermuted blocks, which assured an equal number of patientsin each arm at specified time points.
+17) It was anticipatedthat these doses would produce equivalent degrees of myelosuppression.
+18) Doses were adjusted based on the degree of myelosuppressionobserved using a predetermined schedule. 
+19) Neitherpatients nor physicians were blinded with respect to treatment.
+20) Any patient whodeveloped progressive disease within three months of startingtherapy was considered to have progressed even if she had demonstratedtransient tumor regression. 
+21) Evaluation of ToxicityThe percent of projected dose received was calculated foreach patient as the average of all doses the patient received(mg/m 2) - 85 if the patient was randomized to EPI and - 60 ifthe patient was randomized to DOX.
+22) Cardiac toxicity was assessed in all patients by both clinicalevaluation and RNCA. 
+23) RNCA was done with thepatients in supine position at rest and during maximum symptom limited bicycle exercise. 
+24) Patients' RBCs were labeled invivo by injecting 10 to 20 mCi of technetium 99m IV 30 minutesafter stannous pyrophosphate injection. 
+25) Images of the left ventriclewere recorded by positioning the camera in the left anterioroblique position, using a computer-based procedure gated to theelectrocardiogram. 
+26) In our laboratory, during theperiod of time that this study was conducted, the reproducibilityof LVEF determination by RNCA was + 5%. 
+27) Althoughall patients had received prior chemotherapywhich included cyclophosphamide orother alkylating agent, no patient had been previously treated with mitomycin C. 
+28) Doses werereduced more frequently on the DOX arm ascompared to the EPI arm, in which two patients'doses were escalated. 
+29) The median actual doseadministered was 100% of the projected dose ofEPI and 86% of the planned dose of DOX (Wilcoxontest, P = .01).
+30) Response Rates and DurationsTwenty-four patients on the EPI arm and 28patients on the DOX arm are evaluable for therapeuticresponse (Table 2). 
+31) Six (25%) of the 24 evaluable patientstreated with EPI and seven (25%) of the 28 evaluablepatients on the DOX arm achieved PRs. 
+32) Inaddition, on the EPI arm, one patient experiencedan MR and eight patients had stable disease.
+33) Although the major responserates did not differ between the two arms (chisquaretest, P = .98), the difference in durationof response is of borderline significance (logranktest, P = .11). 
+34) Of the 13 patientswith PRs, six had tumors that were estrogen receptorpositive, six had estrogen receptor negativetumors, and in one patient the estrogenreceptor value was unknown. 
+35) The median WBC nadir was 2.0x 103/gL (range, 0.1 to 8.6) and the medianplatelet nadir was 132 x 103//pL (range, 20.0 to279.0) in patients receiving EPI, the medianWBC nadir was 1.8 x 10'/3tL (range, 0.3 to 6.9)and median platelet nadir was 130 x 103/pL(range 24.0 to 253.0) in patients on the DOXarm. 
+36) Other common toxicities included nausea,vomiting, and alopecia. 
+37) Ofthe 15 evaluable patients treated with EPI, sixhad received prior radiotherapy to the chest wall,internal mammary lymph nodes, sternum, orthoracic spine prior to entry on this study, andtwo had a history of well-controlled mild hypertension.
+38) A decrease in LVEF of > 5% with stress wasnot observed in the absence of a > 10% decreasein resting LVEF from baseline. 
+39) Nor did all patients experience asteady progressive decline in LVEF, most maintaineda stable LVEF until there was an acutedecrease. 
+40) One of the patients who developedCHF on the DOX arm is the patient who had theinitial resting LVEF of 48%, this patient also hada history of pulmonary emboli and it was unclearwhether this contributed to her cardiac decompensation.
+41) Six of 11 patients who received morethan 450 mg/m 2 of DOX did not develop signs orsymptoms of CHF. 
+42) Although empiric dose restrictionis widely practiced, many patients experience theonset of CHF before they receive 550 mg/m2 ofthe drug. 
+43) In nonrandomizedtrials, the use of a weekly DOX schedule hasbeen reported to permit administration of a highertotal dose of the drug. 
+44) Although the data are suggestive, it remains unproventhat the antitumor activity of DOX is fullypreserved when these schedules are used.
+45) The therapeutic index of an agent is defined bythe relationship between the dosage required toproduce therapeutic and toxic effects and by themagnitude of the favorable or unfavorable effectsobserved. 
+46) The other studies, which did use dose limits,provided data that could confirm the reliability ofthe survival analysis method we have used toassess the dose effect relationships with regard toRNCA changes.
+47) Although the numbers aresmall, in the Milan study three of five patientstreated with DOX in whom RNCA was performedshowed a decrease in LVEF of more than10% (375, 450, and 525 mg/m2). 
+48) In the multidrugstudy, therapy was discontinued in sevenpatients on the DOX-containing (FAC) arm becauseof cardiac dysfunction, including threewith heart failure.
+49) Thus, while assessment of LVEF byRNCA was useful in quantitating changes in cardiacfunction for the purposes of this study, itcannot be recommended for routine monitoringof individual patients as a predictor of impendingcardiac failure.
+50) These findings, which are supported by theindependent work of several other investigators,provide encouragement for further clinicaltrials with EPI. 
+51) This patient had shown a decrease inleft ventricular ejection fraction and was includedin the analysis of laboratory cardiac toxicity.

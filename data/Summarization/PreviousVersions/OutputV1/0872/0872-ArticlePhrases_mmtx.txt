@@ -1,0 +1,1947 @@
+ROLE
+	C0035820|Role|T054
+Adriamycin
+	C0085752|Adriamycin|T195
+MI
+	C0332288|Without|T080
+most active single agent
+	C0205177|Active|T169
+	C0205171|Singular|T081
+	C0450442|Agent (attribute)|T120
+	C0205393|Most (qualifier value)|T081
+	C0037179|Unmarried person|T098
+	C0087136|Unmarried|T098
+response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+continuous treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+	C0549178|Continuous (qualifier value)|T079
+quality
+	C0332306|With quality (attribute)|T080
+ability to
+	C0085732|Ability|T032
+probability
+	C0033204|Probability|T081
+CHF
+	C0018802|Heart Failure, Congestive|T047
+Reported risk factors
+	C0700287|Reporting|T058
+	C0035648|Risk Factors|T081
+prior radiation therapy
+	C0279134|prior radiation therapy|T033
+age
+	C0001779|Age (qualifier value)|T079
+history
+	C0019664|Recording of previous events|T090
+	C1321503|History of (contextual qualifier) (qualifier value)|T033
+	C0019665|history|T170
+	C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+	C0262926|Medical History|T033
+patients
+	C0030705|Patients|T101
+mortality rate
+	C0026565|Mortality Vital Statistics|T081
+prospective monitoring
+	C0150369|Preventive monitoring|T058
+al
+	C0002367|Aluminum|T196
+serial resting radionuclide angiography
+	C0031082|Periodicals|T170
+	C0035253|Rest|T056
+	C0034604|Radionuclide Angiography|T060
+incidence
+	C0220856|incidence of cases|T169
+	C0021149|Incidence|T081
+severity
+	C0449294|With severity (attribute)|T080
+morbidity
+	C0026538|Morbidity - disease rate|T102
+	C0220880|morbidity aspects|T170
+al
+	C0002367|Aluminum|T196
+16% incidence
+	C0220856|incidence of cases|T169
+	C0021149|Incidence|T081
+established guidelines
+	C0162791|Guidelines|T170
+	C0443211|Established (qualifier value)|T080
+	C0220845|guiding characteristics|T170
+patients
+	C0030705|Patients|T101
+higher doses
+	C0444956|High dose (qualifier value)|T081
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+empiric discontinuation
+	C0457454|Discontinuation (procedure)|T058
+	C0376548|Empiricism|T078
+Other studies
+	C0205394|Other|T080
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+doxorubicin administration
+	C0001554|Administration|T057
+	C1262471|Administration (procedure)|T061
+	C0013089|Doxorubicin|T195
+decrease
+	C0547047|Decrease (qualifier value)|T081
+absolute value
+	C0042295|VALUING|T080
+	C0205344|Absolute (qualifier value)|T080
+magnitude
+	C0439535|Magnitudes (qualifier value)|T081
+strongest predictor
+	C0681842|prediction|T170
+	C0442821|Strong (qualifier value)|T080
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+sequential radionuclide testing results
+	C0034595|Radioisotopes|T196
+	C1274040|Result (navigational concept)|T169
+	C0039593|Testing|T062
+use
+	C0042153|utilization|T081
+cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+continuous infusion
+	C0444889|Continuous infusion (qualifier value)|T061
+association
+	C0004083|Mental association|T041
+	C0699792|Relationship by association|T054
+Other methods
+	C0025664|Methodology|T170
+	C0205394|Other|T080
+	C0025663|Methods|T170
+cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+use
+	C0042153|utilization|T081
+iposomeencapsulated doxorubicin
+	C0013089|Doxorubicin|T195
+cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+al
+	C0002367|Aluminum|T196
+cardiomyopathy
+	C0027049|Cardiomyopathy|T047
+dexrazoxane
+	C0086444|Dexrazoxane|T109
+Zinecard
+	C0728750|Zinecard|T109
+Pharmacia Upjohn Inc
+	C0331920|Upjohn|T093
+	C0331955|Pharmacia|T093
+cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+bis dioxopiperazine compound
+	C0303156|Bismuth compound (substance)|T197
+complexes
+	C0439855|Complex (qualifier value)|T080
+generation
+	C0079411|Generations|T079
+protective effect
+	C1280500|Effect (qualifier value)|T080
+	C0033613|Protective Agents|T120
+toxicity
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+results
+	C1274040|Result (navigational concept)|T169
+two multicenter
+	C0205448|Two (qualifier value)|T081
+primary objective
+	C0018017|Goals|T170
+	C0205225|Primary|T080
+	C0439631|Primary operation (qualifier value)|T061
+cardioprotective effect
+	C1280500|Effect (qualifier value)|T080
+Additional objectives
+	C0018017|Goals|T170
+	C0442796|Additive (qualifier value)|T080
+safety
+	C0036043|Safety|T068
+doxorubicin
+	C0013089|Doxorubicin|T195
+cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+PATIENTS
+	C0030705|Patients|T101
+METHODS
+	C0025664|Methodology|T170
+	C0025663|Methods|T170
+Patient Eligibility
+	C0030705|Patients|T101
+Female patients years
+	C0015780|Female|T032
+	C0439234|year (qualifier value)|T079
+	C0030705|Patients|T101
+IV carcinoma
+	C0205281|Invasive (qualifier value)|T080
+	C0348016|Intravenous|T082
+	C0007097|Carcinoma|T191
+	C0442123|Intravascular (qualifier value)|T082
+	C0442106|Intervertebral (qualifier value)|T029
+	C0442122|Intravaginal (qualifier value)|T082
+Patients
+	C0030705|Patients|T101
+previously received chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0544683|Reception|T042
+	C0205156|Previous (qualifier value)|T082
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+completed adjuvant chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0016712|Freund's Adjuvant|T129
+	C0085533|Chemotherapy, Adjuvant|T061
+	C0013217|pharmacotherapeutic|T169
+	C0205197|Complete (qualifier value)|T080
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+anthracycline
+	C0003234|Anthracycline Antibiotics|T195
+	C0282564|Anthracyclines|T109
+anthracene
+	C0003162|anthracene|T130
+Patients
+	C0030705|Patients|T101
+hormonal therapy more
+	C0205172|More (qualifier value)|T081
+	C0278784|Hormone therapy (procedure)|T061
+completed radiation therapy more
+	C0205172|More (qualifier value)|T081
+	C0034619|radiotherapeutic|T170
+	C0205197|Complete (qualifier value)|T080
+	C0034618|Radiation therapy|T061
+patients
+	C0030705|Patients|T101
+bidimensional measurable disease
+	C0677909|measurable disease|T047
+patients
+	C0030705|Patients|T101
+assessable disease
+	C0012634|Disease|T047
+	C1261322|Assessment procedure (procedure)|T058
+Study included patients
+	C0332257|Including (qualifier value)|T169
+	C0030705|Patients|T101
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+Patients
+	C0030705|Patients|T101
+ECOG)24 performance status
+	C0935728|performance status|T033
+	C0430797|Electrocorticogram (procedure)|T060
+adequate WBC count x L
+	C0336769|Lighter, device (physical object)|T073
+	C1306462|Light color|T169
+	C0442022|Lumbar (qualifier value)|T082
+	C0023700|Lighting|T068
+	C0302908|Liquid substance|T167
+	C1304698|Liquid (finding)|T033
+	C0023508|White Blood Cell Count procedure|T059
+	C0205411|Adequate (qualifier value)|T080
+	C0475211|L (qualifier value)|T081
+	C0078606|xanthosine|T114
+	C0392223|Lights, manufactured|T074
+	C0205091|Left (qualifier value)|T082
+	C0023870|Lithium|T196
+	C0023693|Light|T070
+granulocyte count 1.9 X L
+	C0336769|Lighter, device (physical object)|T073
+	C0475211|L (qualifier value)|T081
+	C1306462|Light color|T169
+	C0442022|Lumbar (qualifier value)|T082
+	C0023700|Lighting|T068
+	C0302908|Liquid substance|T167
+	C0392223|Lights, manufactured|T074
+	C1304698|Liquid (finding)|T033
+	C0205091|Left (qualifier value)|T082
+	C0857490|Granulocyte count (procedure)|T059
+	C0023693|Light|T070
+	C0023870|Lithium|T196
+platelet count x L
+	C1306462|Light color|T169
+	C0336769|Lighter, device (physical object)|T073
+	C0442022|Lumbar (qualifier value)|T082
+	C0023700|Lighting|T068
+	C0302908|Liquid substance|T167
+	C1287267|Finding of platelet count (finding)|T034
+	C1304698|Liquid (finding)|T033
+	C0475211|L (qualifier value)|T081
+	C0078606|xanthosine|T114
+	C0032181|Platelet Count|T059
+	C0392223|Lights, manufactured|T074
+	C0205091|Left (qualifier value)|T082
+	C0023870|Lithium|T196
+	C0023693|Light|T070
+serum creatinine concentration 2.0 mg
+	C0086045|Concentration|T041
+	C0024467|Magnesium|T123
+	C0036818|Serum magnesium level observed|T034
+	C0439210|milligram|T081
+	C0683149|serum drug concentration|T081
+dL
+	C0439241|dL (qualifier value)|T081
+bilirubin concentration c 2.0 mg
+	C1318070|Bilirubin concentration|T034
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+	C0427734|Bilirubin concentration, test strip measurement (procedure)|T059
+dL
+	C0439241|dL (qualifier value)|T081
+functions
+	C0422812|Functions (observable entity)|T169
+Patients
+	C0030705|Patients|T101
+lower limit
+	C0449205|LIM (body structure)|T029
+	C0441994|Lower (qualifier value)|T169
+Patients
+	C0030705|Patients|T101
+cardiomyopathy
+	C0027049|Cardiomyopathy|T047
+current arrhythmia
+	C0003811|Arrhythmia|T046
+	C0521116|Current (qualifier value)|T079
+myocardial infarction
+	C0027051|Myocardial Infarction|T047
+MI
+	C0332288|Without|T080
+Written informed consent
+	C0341628|Writer (occupation)|T097
+	C0043266|Writing|T090
+	C0021430|Informed Consent|T058
+Study Design
+	C0035171|Research Design|T062
+patient
+	C0030705|Patients|T101
+separate list
+	C0443299|Separate (qualifier value)|T082
+	C0745732|LIST|T077
+absence
+	C0424530|Absences (finding)|T033
+nonmeasurable disease
+	C0012634|Disease|T047
+one
+	C0205447|One (qualifier value)|T081
+random sequence
+	C0439605|Random (qualifier value)|T082
+subsequent clinical assessments
+	C0205210|Clinical (qualifier value)|T080
+	C0750530|SUBSEQUENT|T078
+	C1261322|Assessment procedure (procedure)|T058
+patients
+	C0030705|Patients|T101
+absence
+	C0424530|Absences (finding)|T033
+more cardiac risk factors
+	C0205172|More (qualifier value)|T081
+	C0035648|Risk Factors|T081
+	C0205041|Cardio-|T082
+history
+	C0019664|Recording of previous events|T090
+	C1321503|History of (contextual qualifier) (qualifier value)|T033
+	C0019665|history|T170
+	C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+	C0262926|Medical History|T033
+previous MI
+	C0332288|Without|T080
+	C0205156|Previous (qualifier value)|T082
+significant arrhythmia
+	C0003811|Arrhythmia|T046
+	C0750502|Significant (qualifier value)|T078
+angina
+	C0002962|Angina Pectoris|T047
+hypertension
+	C0340274|Hypertension induced by pregnancy|T047
+	C0235220|Hypertensive disorder, systemic arterial (disorder)|T047
+	C0020538|Hypertension|T047
+diabetes mellitus
+	C0011849|Diabetes Mellitus|T047
+required medical treatment
+	C1171203|Medication Treatment|T061
+disease measurability
+	C0012634|Disease|T047
+	C0444706|Measured (qualifier value)|T080
+	C0079809|Measures|T081
+cardiac risk factors
+	C0035648|Risk Factors|T081
+	C0205041|Cardio-|T082
+disease measurability
+	C0012634|Disease|T047
+	C0444706|Measured (qualifier value)|T080
+	C0079809|Measures|T081
+Safety
+	C0036043|Safety|T068
+medical oncologists
+	C0278631|Medical oncologist (occupation)|T097
+ethicist
+	C0086267|Ethicists|T097
+independent review
+	C0282443|Review [Publication Type]|T170
+	C1299583|Independently able (qualifier value)|T033
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+arm
+	C0003792|Arm|T029
+	C0446516|Upper arm|T029
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+patients
+	C0030705|Patients|T101
+arm
+	C0003792|Arm|T029
+	C0446516|Upper arm|T029
+cumulative dose
+	C0178602|Dosages (qualifier value)|T081
+Drug Treatment Chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013227|Pharmaceutical Preparations|T121
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+m2 fluorouracil
+	C0016360|Fluorouracil|T114
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+m2 doxorubicin
+	C0013089|Doxorubicin|T195
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+m2 cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+ratio
+	C0456603|Ratio (property) (qualifier value)|T170
+rapid drip IV infusion
+	C0205281|Invasive (qualifier value)|T080
+	C0348016|Intravenous|T082
+	C0442123|Intravascular (qualifier value)|T082
+	C0442106|Intervertebral (qualifier value)|T029
+	C0439831|Rapid (qualifier value)|T080
+	C0013125|Intravenous Drip|T061
+	C0442122|Intravaginal (qualifier value)|T082
+placebo control
+	C0243148|control|T169
+	C0032042|Placebos|T074
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+mg mannitol
+	C0024467|Magnesium|T123
+	C0024730|Mannitol|T118
+	C0439210|milligram|T081
+United States Pharmacopeia
+	C0041703|United States|T083
+	C0376689|Pharmacopoeias|T170
+pellet
+	C0441436|Gun pellet|T073
+	C0993610|Pellet Drug Form|T122
+blinded study drug
+	C0013227|Pharmaceutical Preparations|T121
+	C0681870|blind study|T062
+minutes
+	C0439232|Minute of time|T079
+	C1282918|Minute (qualifier value)|T080
+	C0700321|Small|T080
+Treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+weeks
+	C0439230|week (qualifier value)|T079
+provided recovery
+	C0237820|recovery from disease|T040
+	C0359589|Provide (product)|T168
+initial dose ratio
+	C0456603|Ratio (property) (qualifier value)|T170
+	C0205265|Initial (qualifier value)|T079
+	C0178602|Dosages (qualifier value)|T081
+DZR mg
+	C0024467|Magnesium|T123
+	C0086444|Dexrazoxane|T109
+	C0439210|milligram|T081
+six deaths
+	C0205452|Six (qualifier value)|T081
+	C0011065|Cessation of life|T040
+five deaths
+	C0205451|Five (qualifier value)|T081
+	C0011065|Cessation of life|T040
+small-cell lung cancer study
+	C0149925|Carcinoma, Small Cell|T191
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+dose
+	C0178602|Dosages (qualifier value)|T081
+one death
+	C0205447|One (qualifier value)|T081
+	C0011065|Cessation of life|T040
+ratio
+	C0456603|Ratio (property) (qualifier value)|T170
+DZR mg
+	C0024467|Magnesium|T123
+	C0086444|Dexrazoxane|T109
+	C0439210|milligram|T081
+dose ratio
+	C0456603|Ratio (property) (qualifier value)|T170
+	C0178602|Dosages (qualifier value)|T081
+Dose Modifications
+	C0205349|Altered (qualifier value)|T169
+	C0178602|Dosages (qualifier value)|T081
+computer based expert system
+	C0009622|Computers|T073
+	C0178499|Base|T120
+	C0015324|Expert Systems|T170
+compliance
+	C0009563|Biomechanical compliance|T081
+	C0030680|Patient Compliance|T055
+dose modifications
+	C0205349|Altered (qualifier value)|T169
+	C0178602|Dosages (qualifier value)|T081
+investigator
+	C0035173|Research Personnel|T097
+specified data
+	C0205369|Specific (qualifier value)|T080
+registration
+	C0600375|Registers (PT)|T170
+computer generated program
+	C0237638|Generators|T073
+	C0079411|Generations|T079
+	C0037585|Computer software|T170
+patient
+	C0030705|Patients|T101
+body surface area
+	C0005902|Body Surface Area|T060
+recommended initial doses
+	C0719635|DOS|T109
+	C0205265|Initial (qualifier value)|T079
+	C0884365|Recommending|T061
+dose modifications
+	C0205349|Altered (qualifier value)|T169
+	C0178602|Dosages (qualifier value)|T081
+ECOG guidelines
+	C0162791|Guidelines|T170
+	C0220845|guiding characteristics|T170
+	C0430797|Electrocorticogram (procedure)|T060
+follow-up tests
+	C0392366|Tests (qualifier value)|T170
+	C0589120|Follow-up status (finding)|T169
+information
+	C0870705|Information|T078
+Dose reductions
+	C0178602|Dosages (qualifier value)|T081
+	C0301630|Reduction (chemical)|T070
+	C0441610|Reduction - action|T061
+cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+Treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+granulocyte count
+	C0857490|Granulocyte count (procedure)|T059
+platelet count less
+	C0032181|Platelet Count|T059
+	C1287267|Finding of platelet count (finding)|T034
+doses
+	C0719635|DOS|T109
+cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+absolute neutrophil count
+	C0948762|Absolute neutrophil count|T059
+pL
+	C0031676|Phospholipids|T119
+fever
+	C0015967|Fever|T184
+day-22 granulocyte count
+	C0439228|day (qualifier value)|T079
+	C0857490|Granulocyte count (procedure)|T059
+day-22 platelet count
+	C0032181|Platelet Count|T059
+	C1287267|Finding of platelet count (finding)|T034
+	C0439228|day (qualifier value)|T079
+L
+	C0336769|Lighter, device (physical object)|T073
+	C0475211|L (qualifier value)|T081
+	C1306462|Light color|T169
+	C0023700|Lighting|T068
+	C0302908|Liquid substance|T167
+	C0392223|Lights, manufactured|T074
+	C1304698|Liquid (finding)|T033
+	C0205091|Left (qualifier value)|T082
+	C0023693|Light|T070
+	C0023870|Lithium|T196
+Subsequent doses
+	C0719635|DOS|T109
+	C0750530|SUBSEQUENT|T078
+cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+Dose reductions
+	C0178602|Dosages (qualifier value)|T081
+	C0301630|Reduction (chemical)|T070
+	C0441610|Reduction - action|T061
+dose delay
+	C0178602|Dosages (qualifier value)|T081
+	C0205421|Deferred (qualifier value)|T079
+previous cycle
+	C0439596|Cyclic (qualifier value)|T079
+	C0205156|Previous (qualifier value)|T082
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+predetermined cumulative dose
+	C0178602|Dosages (qualifier value)|T081
+Monitoring
+	C0150369|Preventive monitoring|T058
+Patients
+	C0030705|Patients|T101
+baseline evaluation
+	C0220825|Evaluation|T169
+	C1261322|Assessment procedure (procedure)|T058
+	C0168634|BaseLine|T122
+history
+	C0019664|Recording of previous events|T090
+	C1321503|History of (contextual qualifier) (qualifier value)|T033
+	C0019665|history|T170
+	C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+	C0262926|Medical History|T033
+physical examination
+	C0031809|Clinical examination|T058
+tumor measurements
+	C0027651|Neoplasms|T191
+	C0242485|Measurement|T081
+chest radiograph
+	C0202783|Radiographic procedure on chest (procedure)|T060
+complete blood cell
+	C0725685|Compleat|T168
+	C0205197|Complete (qualifier value)|T080
+	C0005773|Blood Cells|T025
+CBC
+	C0009555|Blood Count, Complete|T059
+count
+	C0750480|COUNT|T078
+serum chemistries
+	C0007996|Science of Chemistry|T090
+	C0079107|chemical aspects|T185
+	C0229671|Serum|T024
+CBC counts
+	C0009555|Blood Count, Complete|T059
+	C0439157|counts (qualifier value)|T081
+courses I
+	C0750729|Courses (qualifier value)|T079
+Physical examinations
+	C0031809|Clinical examination|T058
+tumor measurements
+	C0027651|Neoplasms|T191
+	C0242485|Measurement|T081
+chest radiographs
+	C0202783|Radiographic procedure on chest (procedure)|T060
+serum chemistries
+	C0007996|Science of Chemistry|T090
+	C0079107|chemical aspects|T185
+	C0229671|Serum|T024
+Cardiac evaluation
+	C0220825|Evaluation|T169
+	C1261322|Assessment procedure (procedure)|T058
+	C0205041|Cardio-|T082
+baseline physical examination
+	C0031809|Clinical examination|T058
+	C0168634|BaseLine|T122
+ECG
+	C0013798|Electrocardiogram|T060
+	C0180580|Electrocardiographic monitoring (regime/therapy)|T061
+determination
+	C1148554|Determination Aspects|T059
+	C0680730|Adjudication|T064
+nuclear scan
+	C0441633|Scanning|T060
+	C0521447|Nuclear|T082
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+Patients
+	C0030705|Patients|T101
+progressive disease
+	C0677932|progressive disease|T191
+cardiac event
+	C0741923|CARDIAC EVENT|T047
+other toxicity
+	C0205394|Other|T080
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+further treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+Cardiac events
+	C0741923|CARDIAC EVENT|T047
+development
+	C0243107|development aspects|T039
+	C0020119|Human Development|T039
+basilar rales
+	C0240859|RALES, BASILAR|T033
+S3 gallop
+	C0232278|Protodiastolic gallop with abnormally audible third heart sound (finding)|T184
+paroxysmal nocturnal dyspnea
+	C0013405|Dyspnea, Paroxysmal|T047
+orthopnea
+	C0085619|[D]Orthopnea (context-dependent category)|T184
+significant dyspnea
+	C0013404|Dyspnea|T184
+	C0750502|Significant (qualifier value)|T078
+predetermined cumulative stopping dose
+	C0723457|Stop|T109
+	C0450446|Stops (attribute)|T073
+	C0178602|Dosages (qualifier value)|T081
+CHF
+	C0018802|Heart Failure, Congestive|T047
+clinical manifestations
+	C0205210|Clinical (qualifier value)|T080
+	C0205319|Manifest (qualifier value)|T169
+LVEF levels
+	C0441889|Levels (qualifier value)|T170
+reviewer
+	C0282443|Review [Publication Type]|T170
+determination
+	C1148554|Determination Aspects|T059
+	C0680730|Adjudication|T064
+CHF
+	C0018802|Heart Failure, Congestive|T047
+Assessment
+	C1261322|Assessment procedure (procedure)|T058
+Tumor response
+	C0027651|Neoplasms|T191
+	C0871261|Responses|T054
+standard ECOG criteria
+	C0175675|Standards of Weights and Measures|T080
+	C0243161|criteria|T170
+	C0038137|standards characteristics|T170
+	C0430797|Electrocorticogram (procedure)|T060
+Complete response
+	C0677874|In complete remission (qualifier value)|T033
+CR
+	C0008574|Chromium|T123
+partial response
+	C0677924|partial response|T080
+PR
+	C0279766|progesterone receptor negative|T034
+new disease activity
+	C0441655|Activities|T052
+	C0012634|Disease|T047
+	C0221187|Physical activity|T056
+	C0205314|New (qualifier value)|T079
+	C0600075|Endurance of activity|T033
+stable disease
+	C0677946|stable disease|T191
+SD
+	C0332147|Suspected diagnosis (contextual qualifier) (qualifier value)|T080
+new lesions
+	C0205314|New (qualifier value)|T079
+	C0221198|Lesion|T033
+progressive disease
+	C0677932|progressive disease|T191
+PD
+	C0030230|Palladium|T196
+new lesions
+	C0205314|New (qualifier value)|T079
+	C0221198|Lesion|T033
+unequivocal progression
+	C0449258|Progression (attribute)|T169
+Complete regression
+	C0684321|Regression - mental defense mechanism|T055
+	C0684320|Disease regression|T046
+	C0725685|Compleat|T168
+	C0205197|Complete (qualifier value)|T080
+partial regression
+	C0684321|Regression - mental defense mechanism|T055
+	C0684320|Disease regression|T046
+	C0728938|Partial (qualifier value)|T081
+appearance
+	C0233426|Personal appearance|T032
+	C0700364|Appearance|T080
+SD
+	C0332147|Suspected diagnosis (contextual qualifier) (qualifier value)|T080
+new lesions
+	C0205314|New (qualifier value)|T079
+	C0221198|Lesion|T033
+PD
+	C0030230|Palladium|T196
+appearance
+	C0233426|Personal appearance|T032
+	C0700364|Appearance|T080
+Blastic bone disease
+	C0005940|Bone Diseases|T047
+	C0337026|Blast (physical force)|T070
+	C0368761|blasts|T025
+response
+	C0871261|Responses|T054
+Statistical Analysis
+	C0871424|Statistical Analysis|T062
+analyses
+	C0002778|Analysis of substances|T059
+	C0936012|Analysis|T062
+dose ratio
+	C0456603|Ratio (property) (qualifier value)|T170
+	C0178602|Dosages (qualifier value)|T081
+patients
+	C0030705|Patients|T101
+treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+analyses
+	C0002778|Analysis of substances|T059
+	C0936012|Analysis|T062
+analyses
+	C0002778|Analysis of substances|T059
+	C0936012|Analysis|T062
+cut off date
+	C0000925|Incised wound - morphology (morphologic abnormality)|T037
+	C0011008|Dates|T079
+PLA groups
+	C0441833|Groups (qualifier value)|T170
+cumulative doxorubicin dose
+	C0178602|Dosages (qualifier value)|T081
+	C0013089|Doxorubicin|T195
+Kaplan Meier curves
+	C0205134|Curved (qualifier value)|T082
+doses
+	C0719635|DOS|T109
+log rank
+	C0699794|Rank|T170
+	C0335467|Logger (occupation)|T097
+generalized Wilcoxon tests
+	C0392366|Tests (qualifier value)|T170
+	C0205246|Generalized (qualifier value)|T082
+Cox proportional hazards model
+	C0010235|Cox Proportional Hazards Models|T170
+hazards ratio
+	C0456603|Ratio (property) (qualifier value)|T170
+	C0598697|hazard|T080
+HR
+	C0439227|Hour|T079
+overall risk
+	C0035647|Risk|T080
+	C0282416|Overall [Publication Type]|T170
+HR less
+	C0439227|Hour|T079
+Patients
+	C0030705|Patients|T101
+treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+Cox proportional hazards model
+	C0010235|Cox Proportional Hazards Models|T170
+two groups
+	C0205448|Two (qualifier value)|T081
+	C0441833|Groups (qualifier value)|T170
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+true HR
+	C0439227|Hour|T079
+	C0205238|True (qualifier value)|T080
+power to
+	C0032863|Power (Psychology)|T068
+difference
+	C0443199|Differential (qualifier value)|T080
+one-sided log rank test
+	C0205092|Unilateral (qualifier value)|T082
+	C0392366|Tests (qualifier value)|T170
+alpha level
+	C0439095|Alpha (qualifier value)|T170
+	C0456079|Disease classification level|T185
+cardiac events
+	C0741923|CARDIAC EVENT|T047
+cardiac events
+	C0741923|CARDIAC EVENT|T047
+Objective response rates
+	C0018017|Goals|T170
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+CRs
+	C0008574|Chromium|T123
+PRs
+	C0279766|progesterone receptor negative|T034
+Pearson X2 test
+	C0392366|Tests (qualifier value)|T170
+Patients
+	C0030705|Patients|T101
+best response
+	C0332272|Better (qualifier value)|T080
+	C0871261|Responses|T054
+	C0205170|Good (qualifier value)|T080
+SD
+	C0332147|Suspected diagnosis (contextual qualifier) (qualifier value)|T080
+PD
+	C0030230|Palladium|T196
+treatment failures
+	C0162643|Treatment Failure|T080
+time
+	C0040223|Time|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+Kaplan Meier curves
+	C0205134|Curved (qualifier value)|T082
+log rank
+	C0699794|Rank|T170
+	C0335467|Logger (occupation)|T097
+generalized Wilcoxon tests
+	C0392366|Tests (qualifier value)|T170
+	C0205246|Generalized (qualifier value)|T082
+Cox proportional hazards model
+	C0010235|Cox Proportional Hazards Models|T170
+HR
+	C0439227|Hour|T079
+Time
+	C0040223|Time|T079
+Patients
+	C0030705|Patients|T101
+disease progression
+	C0242656|Disease Progression|T046
+Survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+patients
+	C0030705|Patients|T101
+Noncardlac toxicities
+	C0600688|Toxic effect|T037
+nonhematologic toxicities
+	C0600688|Toxic effect|T037
+DZR groups
+	C0441833|Groups (qualifier value)|T170
+	C0086444|Dexrazoxane|T109
+blocked Wilcoxon
+	C0028778|Obstruction|T046
+Mantel Haenszel test
+	C0392366|Tests (qualifier value)|T170
+RESULTS
+	C1274040|Result (navigational concept)|T169
+total
+	C0439810|Total (qualifier value)|T080
+patients
+	C0030705|Patients|T101
+patients
+	C0030705|Patients|T101
+patients
+	C0030705|Patients|T101
+study drug
+	C0013227|Pharmaceutical Preparations|T121
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+patients
+	C0030705|Patients|T101
+one
+	C0205447|One (qualifier value)|T081
+patients
+	C0030705|Patients|T101
+dose ratio
+	C0456603|Ratio (property) (qualifier value)|T170
+	C0178602|Dosages (qualifier value)|T081
+study drug
+	C0013227|Pharmaceutical Preparations|T121
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+date
+	C0011008|Dates|T079
+analyses
+	C0002778|Analysis of substances|T059
+	C0936012|Analysis|T062
+only patients
+	C0030705|Patients|T101
+dose ratio
+	C0456603|Ratio (property) (qualifier value)|T170
+	C0178602|Dosages (qualifier value)|T081
+homogenous population
+	C0032659|Population|T081
+dose
+	C0178602|Dosages (qualifier value)|T081
+patients
+	C0030705|Patients|T101
+median follow-up time
+	C0549183|Median (qualifier value)|T082
+	C0040223|Time|T079
+	C0876920|Median Statistical Measurement|T081
+	C0589120|Follow-up status (finding)|T169
+days
+	C0439228|day (qualifier value)|T079
+days
+	C0439228|day (qualifier value)|T079
+median follow-up time
+	C0549183|Median (qualifier value)|T082
+	C0040223|Time|T079
+	C0876920|Median Statistical Measurement|T081
+	C0589120|Follow-up status (finding)|T169
+days
+	C0439228|day (qualifier value)|T079
+days
+	C0439228|day (qualifier value)|T079
+nine patients
+	C0030705|Patients|T101
+	C0205455|Nine (qualifier value)|T081
+one
+	C0205447|One (qualifier value)|T081
+patient
+	C0030705|Patients|T101
+insufficient data
+	C0231180|Insufficient|T169
+patient refusal
+	C0030705|Patients|T101
+physician decision
+	C0679006|decision|T170
+	C0031831|Physicians|T097
+pain
+	C0030193|Pain|T184
+required radiation
+	C0851346|Radiation|T070
+study drug
+	C0013227|Pharmaceutical Preparations|T121
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+patient
+	C0030705|Patients|T101
+protocol violation
+	C0442711|Protocols documentation|T170
+patients
+	C0030705|Patients|T101
+one patient
+	C0030705|Patients|T101
+	C0205447|One (qualifier value)|T081
+study drug scheduling
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+	C0678742|drug scheduling|T064
+dosing problems
+	C0033213|Problem (finding)|T033
+	C0178602|Dosages (qualifier value)|T081
+ejection fraction
+	C0489482|Ejection fraction|T060
+not fulfill criteria
+	C0243161|criteria|T170
+	C0242428|Satisfaction|T041
+patient
+	C0030705|Patients|T101
+8-week treatment delay
+	C0439230|week (qualifier value)|T079
+	C0087111|Therapeutic procedure|T061
+	C0205421|Deferred (qualifier value)|T079
+	C0039798|therapeutic aspects|T169
+Disease characteristics
+	C0012634|Disease|T047
+	C0599878|disease characteristic|T046
+dose
+	C0178602|Dosages (qualifier value)|T081
+treatment groups
+	C0036669|Sensitivity Training Groups|T065
+Cardiac risk factors
+	C0035648|Risk Factors|T081
+	C0205041|Cardio-|T082
+Investigators
+	C0035173|Research Personnel|T097
+mediastinal irradiation
+	C1282930|Irradiation (physical force)|T070
+	C0025066|Mediastinum|T029
+	C0034618|Radiation therapy|T061
+	C0851346|Radiation|T070
+review
+	C0282443|Review [Publication Type]|T170
+information largely
+	C0549177|Large|T080
+	C0443228|Greater (qualifier value)|T081
+	C0870705|Information|T078
+right
+	C0205090|Right (qualifier value)|T082
+left chest wall irradiation only
+	C1279035|Entire chest wall|T023
+	C0205076|Chest wall structure|T023
+	C1282930|Irradiation (physical force)|T070
+	C0205091|Left (qualifier value)|T082
+	C0034618|Radiation therapy|T061
+	C0851346|Radiation|T070
+mediastinal irradiation
+	C1282930|Irradiation (physical force)|T070
+	C0025066|Mediastinum|T029
+	C0034618|Radiation therapy|T061
+	C0851346|Radiation|T070
+number
+	C0449788|Count of entities (property) (qualifier value)|T081
+cardiac event
+	C0741923|CARDIAC EVENT|T047
+B
+	C0004927|Behavior|T055
+	C0175640|Baths (medical device)|T074
+	C0337527|Brothers|T099
+	C0150141|Bathing|T061
+	C1040746|Bacilli|T007
+	C0004587|Bacillus <bacterium>|T007
+	C0677505|Behaviors and observations relating to behavior|T033
+Kaplan Meier curves
+	C0205134|Curved (qualifier value)|T082
+PLA patients
+	C0030705|Patients|T101
+cardiac event
+	C0741923|CARDIAC EVENT|T047
+proportions
+	C0205351|Proportional (qualifier value)|T080
+HR
+	C0439227|Hour|T079
+overall risk
+	C0035647|Risk|T080
+	C0282416|Overall [Publication Type]|T170
+cardiac event
+	C0741923|CARDIAC EVENT|T047
+over 2.5 times
+	C0040223|Time|T079
+	C0392761|Timed (qualifier value)|T169
+	C0205136|Over (qualifier value)|T082
+	C0449243|Timing (attribute)|T079
+log rank test
+	C0699794|Rank|T170
+	C0335467|Logger (occupation)|T097
+	C0392366|Tests (qualifier value)|T170
+difference
+	C0443199|Differential (qualifier value)|T080
+generalized Wilcoxon test indicated borderline significance
+	C0750502|Significant (qualifier value)|T078
+	C0205246|Generalized (qualifier value)|T082
+HR
+	C0439227|Hour|T079
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+difference
+	C0443199|Differential (qualifier value)|T080
+little difference
+	C0443199|Differential (qualifier value)|T080
+	C0700321|Small|T080
+substantial difference
+	C0443199|Differential (qualifier value)|T080
+level
+	C0456079|Disease classification level|T185
+HR
+	C0439227|Hour|T079
+age
+	C0001779|Age (qualifier value)|T079
+diabetes mellitus
+	C0011849|Diabetes Mellitus|T047
+history ofcardiovascular disease
+	C0019664|Recording of previous events|T090
+	C1321503|History of (contextual qualifier) (qualifier value)|T033
+	C0012634|Disease|T047
+	C0019665|history|T170
+	C0262512|History of (present illness) (contextual qualifier) (qualifier value)|T032
+	C0262926|Medical History|T033
+hypertension
+	C0340274|Hypertension induced by pregnancy|T047
+	C0235220|Hypertensive disorder, systemic arterial (disorder)|T047
+	C0020538|Hypertension|T047
+prior mediastinal irradiation
+	C1282930|Irradiation (physical force)|T070
+	C0750516|PRIOR|T078
+	C0025066|Mediastinum|T029
+	C0034618|Radiation therapy|T061
+	C0851346|Radiation|T070
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+Wald X2 test
+	C0392366|Tests (qualifier value)|T170
+HR
+	C0439227|Hour|T079
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+Wald X2 test
+	C0392366|Tests (qualifier value)|T170
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+patients
+	C0030705|Patients|T101
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+developed CHF
+	C0180397|Developers|T130
+	C0243107|development aspects|T039
+	C0020119|Human Development|T039
+	C0018802|Heart Failure, Congestive|T047
+Two
+	C0205448|Two (qualifier value)|T081
+two patients
+	C0205448|Two (qualifier value)|T081
+	C0030705|Patients|T101
+one
+	C0205447|One (qualifier value)|T081
+one
+	C0205447|One (qualifier value)|T081
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+two patients
+	C0205448|Two (qualifier value)|T081
+	C0030705|Patients|T101
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+mg
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+Compliance
+	C0009563|Biomechanical compliance|T081
+	C0030680|Patient Compliance|T055
+scans
+	C0441633|Scanning|T060
+compliance rate
+	C0009563|Biomechanical compliance|T081
+	C0871208|Rating|T062
+	C0030680|Patient Compliance|T055
+DZR groups
+	C0441833|Groups (qualifier value)|T170
+	C0086444|Dexrazoxane|T109
+scans
+	C0441633|Scanning|T060
+compliance rate
+	C0009563|Biomechanical compliance|T081
+	C0871208|Rating|T062
+	C0030680|Patient Compliance|T055
+DZR groups
+	C0441833|Groups (qualifier value)|T170
+	C0086444|Dexrazoxane|T109
+Response Rate Results
+	C0237629|Frequency of Responses|T079
+	C1274040|Result (navigational concept)|T169
+	C0878525|Cancer treatment response rate|T079
+CRs
+	C0008574|Chromium|T123
+PRs
+	C0279766|progesterone receptor negative|T034
+significantly higher objective response rate
+	C0205250|High|T080
+	C0018017|Goals|T170
+	C0750502|Significant (qualifier value)|T078
+	C0237629|Frequency of Responses|T079
+	C0235146|Euphoric mood|T041
+	C0878525|Cancer treatment response rate|T079
+Pearson x2 test
+	C0392366|Tests (qualifier value)|T170
+Response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+responses
+	C0871261|Responses|T054
+used clinical judgment
+	C0042153|utilization|T081
+	C0205210|Clinical (qualifier value)|T080
+	C0022423|Judgment|T041
+results
+	C1274040|Result (navigational concept)|T169
+second review
+	C0205436|Second (qualifier value)|T081
+	C0282443|Review [Publication Type]|T170
+only strict written response criteria
+	C0243161|criteria|T170
+	C0341628|Writer (occupation)|T097
+	C0043266|Writing|T090
+results
+	C1274040|Result (navigational concept)|T169
+patients
+	C0030705|Patients|T101
+dose
+	C0178602|Dosages (qualifier value)|T081
+objective response rates
+	C0018017|Goals|T170
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+differences
+	C0443199|Differential (qualifier value)|T080
+PLA arm
+	C0003792|Arm|T029
+	C0446516|Upper arm|T029
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+response rate
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+received prior chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0544683|Reception|T042
+	C0013217|pharmacotherapeutic|T169
+	C0750516|PRIOR|T078
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+difference
+	C0443199|Differential (qualifier value)|T080
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+received prior hormonal therapy
+	C0544683|Reception|T042
+	C0278784|Hormone therapy (procedure)|T061
+	C0750516|PRIOR|T078
+difference
+	C0443199|Differential (qualifier value)|T080
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+Response rates
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+received previous chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0544683|Reception|T042
+	C0205156|Previous (qualifier value)|T082
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+difference
+	C0443199|Differential (qualifier value)|T080
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+DZR arm
+	C0003792|Arm|T029
+	C0446516|Upper arm|T029
+	C0086444|Dexrazoxane|T109
+difference
+	C0443199|Differential (qualifier value)|T080
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+Time
+	C0040223|Time|T079
+Survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+Kaplan Meier curves
+	C0205134|Curved (qualifier value)|T082
+HR
+	C0439227|Hour|T079
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+difference
+	C0443199|Differential (qualifier value)|T080
+median time
+	C0549183|Median (qualifier value)|T082
+	C0040223|Time|T079
+	C0876920|Median Statistical Measurement|T081
+days
+	C0439228|day (qualifier value)|T079
+days
+	C0439228|day (qualifier value)|T079
+difference
+	C0443199|Differential (qualifier value)|T080
+prior chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0750516|PRIOR|T078
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+number
+	C0449788|Count of entities (property) (qualifier value)|T081
+disease measurability
+	C0012634|Disease|T047
+	C0444706|Measured (qualifier value)|T080
+	C0079809|Measures|T081
+time
+	C0040223|Time|T079
+HR
+	C0439227|Hour|T079
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+difference
+	C0443199|Differential (qualifier value)|T080
+log rank
+	C0699794|Rank|T170
+	C0335467|Logger (occupation)|T097
+generalized Wilcoxon test
+	C0392366|Tests (qualifier value)|T170
+	C0205246|Generalized (qualifier value)|T082
+median time
+	C0549183|Median (qualifier value)|T082
+	C0040223|Time|T079
+	C0876920|Median Statistical Measurement|T081
+days
+	C0439228|day (qualifier value)|T079
+PLA arms
+	C0003792|Arm|T029
+difference
+	C0443199|Differential (qualifier value)|T080
+time
+	C0040223|Time|T079
+received previous chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0544683|Reception|T042
+	C0205156|Previous (qualifier value)|T082
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+received prior hormonal therapy
+	C0544683|Reception|T042
+	C0278784|Hormone therapy (procedure)|T061
+	C0750516|PRIOR|T078
+case
+	C0868928|Case (qualifier value)|T169
+log rank
+	C0699794|Rank|T170
+	C0335467|Logger (occupation)|T097
+generalized Wilcoxon test
+	C0392366|Tests (qualifier value)|T170
+	C0205246|Generalized (qualifier value)|T082
+Survival curves
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+	C0205134|Curved (qualifier value)|T082
+B
+	C0004927|Behavior|T055
+	C0175640|Baths (medical device)|T074
+	C0337527|Brothers|T099
+	C0150141|Bathing|T061
+	C1040746|Bacilli|T007
+	C0004587|Bacillus <bacterium>|T007
+	C0677505|Behaviors and observations relating to behavior|T033
+HRs
+	C0439227|Hour|T079
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+95% CI
+	C0162854|Commonwealth of Independent States|T083
+statistically significant differences
+	C0237881|Statistical Significance|T081
+	C0443199|Differential (qualifier value)|T080
+log rank
+	C0699794|Rank|T170
+	C0335467|Logger (occupation)|T097
+generalized Wilcoxon test
+	C0392366|Tests (qualifier value)|T170
+	C0205246|Generalized (qualifier value)|T082
+median survival time
+	C0591830|MST|T109
+days
+	C0439228|day (qualifier value)|T079
+days
+	C0439228|day (qualifier value)|T079
+days
+	C0439228|day (qualifier value)|T079
+differences
+	C0443199|Differential (qualifier value)|T080
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+prognostic factors
+	C0220901|prognostic|T170
+Dose Modification
+	C0205349|Altered (qualifier value)|T169
+	C0178602|Dosages (qualifier value)|T081
+Beginning
+	C0439659|Beginning|T079
+proportion
+	C0205351|Proportional (qualifier value)|T080
+doses
+	C0719635|DOS|T109
+cyclophosphamide mg
+	C0010583|Cyclophosphamide|T115
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+previous cycle
+	C0439596|Cyclic (qualifier value)|T079
+	C0205156|Previous (qualifier value)|T082
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+significant differences
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+dose reductions
+	C0178602|Dosages (qualifier value)|T081
+	C0301630|Reduction (chemical)|T070
+	C0441610|Reduction - action|T061
+dose delays
+	C0178602|Dosages (qualifier value)|T081
+	C0205421|Deferred (qualifier value)|T079
+still significant differences
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+	C0424228|Stillness (finding)|T033
+significant difference
+	C0750502|Significant (qualifier value)|T078
+	C0443199|Differential (qualifier value)|T080
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+median number
+	C0549183|Median (qualifier value)|T082
+	C0876920|Median Statistical Measurement|T081
+	C0449788|Count of entities (property) (qualifier value)|T081
+Noncardiac Toxicity
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+Patients
+	C0030705|Patients|T101
+patients
+	C0030705|Patients|T101
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+Toxicities
+	C0600688|Toxic effect|T037
+essentially same results
+	C0205224|Essential (qualifier value)|T080
+	C0445247|Same (qualifier value)|T080
+	C1274040|Result (navigational concept)|T169
+toxicity data
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+WBC count
+	C0023508|White Blood Cell Count procedure|T059
+toxicity
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+Granulocyte counts
+	C0857490|Granulocyte count (procedure)|T059
+Lower WBC
+	C0023516|Leukocytes|T025
+	C0441994|Lower (qualifier value)|T169
+granulocyte
+	C0018183|Granulocytes|T025
+Platelet counts
+	C0032181|Platelet Count|T059
+differences
+	C0443199|Differential (qualifier value)|T080
+Patients
+	C0030705|Patients|T101
+47% incidence
+	C0220856|incidence of cases|T169
+	C0021149|Incidence|T081
+patients
+	C0030705|Patients|T101
+29% incidence
+	C0220856|incidence of cases|T169
+	C0021149|Incidence|T081
+Differences
+	C0443199|Differential (qualifier value)|T080
+Platelet counts
+	C0032181|Platelet Count|T059
+differences
+	C0443199|Differential (qualifier value)|T080
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+differences
+	C0443199|Differential (qualifier value)|T080
+fever
+	C0015967|Fever|T184
+sepsis
+	C0243026|Systemic infection|T047
+	C1090821|Sepsis (Invertebrate)|T009
+infection
+	C0021311|Infection|T047
+pain
+	C0030193|Pain|T184
+difference
+	C0443199|Differential (qualifier value)|T080
+Nausea
+	C0027497|Nausea|T033
+vomiting
+	C0042963|Vomiting|T184
+	C0401156|Vomiting NOS (disorder)|T047
+differences
+	C0443199|Differential (qualifier value)|T080
+stomatitis
+	C0038362|Stomatitis|T047
+esophagitis
+	C0014868|Esophagitis|T047
+statistically significant differences
+	C0237881|Statistical Significance|T081
+	C0443199|Differential (qualifier value)|T080
+PLA arms
+	C0003792|Arm|T029
+toxicity
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+only significant finding
+	C0750502|Significant (qualifier value)|T078
+	C0243095|findings|T169
+lower WBC nadir
+	C0023516|Leukocytes|T025
+	C0441994|Lower (qualifier value)|T169
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+two
+	C0205448|Two (qualifier value)|T081
+two
+	C0205448|Two (qualifier value)|T081
+two
+	C0205448|Two (qualifier value)|T081
+two
+	C0205448|Two (qualifier value)|T081
+DISCUSSION
+	C0557061|Discussion (procedure)|T061
+results
+	C1274040|Result (navigational concept)|T169
+cardioprotective effect
+	C1280500|Effect (qualifier value)|T080
+cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+early analysis
+	C0205085|Early (qualifier value)|T079
+	C0002778|Analysis of substances|T059
+	C0936012|Analysis|T062
+patients
+	C0030705|Patients|T101
+open label DZR starting
+	C0181496|Labels|T073
+	C1272689|Started (qualifier value)|T080
+	C0175566|Open|T082
+	C0452588|Start (substance)|T168
+	C0086444|Dexrazoxane|T109
+	C1167624|Labeling|T041
+cumulative dose
+	C0178602|Dosages (qualifier value)|T081
+m doxorubicin
+	C0013089|Doxorubicin|T195
+Results
+	C1274040|Result (navigational concept)|T169
+significant cardioprotection
+	C0750502|Significant (qualifier value)|T078
+never received DZR
+	C0544683|Reception|T042
+	C0086444|Dexrazoxane|T109
+clinical trial
+	C0008976|Clinical Trials|T062
+	C1096775|Clinical Trial [Publication Type]|T170
+breast cancer patients to
+	C0006142|Malignant neoplasm of breast|T191
+	C0030705|Patients|T101
+higher cumulative doses
+	C0444956|High dose (qualifier value)|T081
+doxorubicin
+	C0013089|Doxorubicin|T195
+Cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+endomyocardial biopsies
+	C0189785|Endomyocardial biopsy (procedure)|T060
+Cumulative doxorubicin doses mg
+	C0719635|DOS|T109
+	C0013089|Doxorubicin|T195
+	C0024467|Magnesium|T123
+	C0439210|milligram|T081
+differences
+	C0443199|Differential (qualifier value)|T080
+noncardiac toxicity
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+Progression free survival
+	C0242792|Progression-Free Survival|T081
+overall survival
+	C0282416|Overall [Publication Type]|T170
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+current reported studies
+	C0700287|Reporting|T058
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+	C0521116|Current (qualifier value)|T079
+doxorubicin associated cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+	C0013089|Doxorubicin|T195
+	C0004083|Mental association|T041
+	C0699792|Relationship by association|T054
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+likelihood
+	C0750504|Likely|T078
+most substantial cardioprotective effect
+	C1280500|Effect (qualifier value)|T080
+	C0205393|Most (qualifier value)|T081
+majority
+	C0680220|majority|T054
+not CHF
+	C0018802|Heart Failure, Congestive|T047
+CHF
+	C0018802|Heart Failure, Congestive|T047
+Fifty percent
+	C0439165|Percent (qualifier value)|T081
+CHF
+	C0018802|Heart Failure, Congestive|T047
+so after treatment
+	C0001758|Aftercare|T058
+use
+	C0042153|utilization|T081
+doxorubicin associated toxicity
+	C0004083|Mental association|T041
+	C0568042|Doxorubicin poisoning (disorder)|T037
+	C0699792|Relationship by association|T054
+cardiac event
+	C0741923|CARDIAC EVENT|T047
+clinical CHF
+	C0205210|Clinical (qualifier value)|T080
+	C0018802|Heart Failure, Congestive|T047
+absolute cardioprotection
+	C0205344|Absolute (qualifier value)|T080
+patients
+	C0030705|Patients|T101
+measurements
+	C0242485|Measurement|T081
+cardiac event
+	C0741923|CARDIAC EVENT|T047
+Investigators
+	C0035173|Research Personnel|T097
+required scheduled scans
+	C0441633|Scanning|T060
+	C0205539|Scheduled (qualifier value)|T169
+scans
+	C0441633|Scanning|T060
+cycle
+	C0439596|Cyclic (qualifier value)|T079
+patients
+	C0030705|Patients|T101
+laboratory evidence
+	C0022877|Laboratories|T073
+number
+	C0449788|Count of entities (property) (qualifier value)|T081
+lower response rate
+	C0237629|Frequency of Responses|T079
+	C0441994|Lower (qualifier value)|T169
+	C0878525|Cancer treatment response rate|T079
+received previous chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0544683|Reception|T042
+	C0205156|Previous (qualifier value)|T082
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+patients
+	C0030705|Patients|T101
+received previous hormonal therapy
+	C0544683|Reception|T042
+	C0205156|Previous (qualifier value)|T082
+	C0278784|Hormone therapy (procedure)|T061
+difference
+	C0443199|Differential (qualifier value)|T080
+lower response rate
+	C0237629|Frequency of Responses|T079
+	C0441994|Lower (qualifier value)|T169
+	C0878525|Cancer treatment response rate|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+lower response rate
+	C0237629|Frequency of Responses|T079
+	C0441994|Lower (qualifier value)|T169
+	C0878525|Cancer treatment response rate|T079
+other data
+	C0205394|Other|T080
+result
+	C1274040|Result (navigational concept)|T169
+reduced antitumor effect
+	C0392756|Reduced (qualifier value)|T080
+	C1280500|Effect (qualifier value)|T080
+randomized study previously
+	C0205156|Previous (qualifier value)|T082
+	C0034656|Random Allocation|T062
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+study
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+question
+	C0750481|QUESTIONABLE|T078
+repeat
+	C0205341|Repeat (qualifier value)|T169
+clinical trial to
+	C0008976|Clinical Trials|T062
+	C1096775|Clinical Trial [Publication Type]|T170
+use
+	C0042153|utilization|T081
+Potential interference
+	C0237399|Potential|T080
+more difficult problem
+	C0205172|More (qualifier value)|T081
+	C0033213|Problem (finding)|T033
+	C0332218|Difficult (qualifier value)|T080
+tumor response rates
+	C0027651|Neoplasms|T191
+	C0237629|Frequency of Responses|T079
+	C0878525|Cancer treatment response rate|T079
+definite survival benefit
+	C0814225|benefits|T081
+	C0439544|Definite (qualifier value)|T080
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+extreme caution
+	C0205403|Extreme (qualifier value)|T080
+tumor responsiveness
+	C0027651|Neoplasms|T191
+	C0205342|Responsive (qualifier value)|T169
+other avenues
+	C0205394|Other|T080
+doxorubicin related cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+	C0013089|Doxorubicin|T195
+	C0445223|Related (finding)|T033
+others
+	C0205394|Other|T080
+doxorubicin
+	C0013089|Doxorubicin|T195
+bolus
+	C0677863|bolus|T061
+cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+liposomal encapsulation
+	C0677902|liposomal|T169
+	C0205223|Encapsulated (qualifier value)|T080
+cardiotoxicity
+	C0876994|Cardiotoxicity|T047
+Phase I studies
+	C0278783|phase I study|T062
+different toxicity profile
+	C0443199|Differential (qualifier value)|T080
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+stomatitis
+	C0038362|Stomatitis|T047
+dose limiting toxicities
+	C0935905|dose-limiting|T037
+	C0600688|Toxic effect|T037
+slow release effect
+	C0439834|Slow (qualifier value)|T080
+	C0680255|Discharge (release)|T058
+	C1280500|Effect (qualifier value)|T080
+	C0391871|Release procedure|T061
+recent report
+	C0700287|Reporting|T058
+	C0684224|Report (document)|T170
+	C0332185|Recent episode (qualifier value)|T079
+probucol
+	C0033215|Probucol|T109
+lipidlowering agent
+	C0450442|Agent (attribute)|T120
+use
+	C0042153|utilization|T081
+liposomal doxorubicin
+	C0717726|Liposomal Doxorubicin|T109
+probucol
+	C0033215|Probucol|T109
+more evidence regarding cardioprotection
+	C0205172|More (qualifier value)|T081
+utility
+	C0582205|Utilities (qualifier value)|T092
+Three reports
+	C0684224|Report (document)|T170
+	C0205449|Three (qualifier value)|T081
+continuous therapy
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+	C0549178|Continuous (qualifier value)|T079
+first study found quality
+	C0205435|First (qualifier value)|T081
+	C0332306|With quality (attribute)|T080
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+	C0243095|findings|T169
+time
+	C0040223|Time|T079
+continuous therapy
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+	C0549178|Continuous (qualifier value)|T079
+second trial treated patients
+	C0030705|Patients|T101
+	C0205436|Second (qualifier value)|T081
+doxorubicin
+	C0013089|Doxorubicin|T195
+fluorouracil
+	C0016360|Fluorouracil|T114
+cyclophosphamide
+	C0010583|Cyclophosphamide|T115
+methotrexate
+	C0025677|Methotrexate|T109
+fluorouracil
+	C0016360|Fluorouracil|T114
+CMF
+	C0950521|CMF|T061
+median time
+	C0549183|Median (qualifier value)|T082
+	C0040223|Time|T079
+	C0876920|Median Statistical Measurement|T081
+survival times
+	C0040223|Time|T079
+	C0038952|Continuance of life|T052
+	C0392761|Timed (qualifier value)|T169
+	C0449243|Timing (attribute)|T079
+	C0220921|survival aspects|T081
+Toxicity
+	C0040539|Toxicity aspects|T081
+	C0600688|Toxic effect|T037
+patients
+	C0030705|Patients|T101
+conclusions
+	C0917903|Conclude|T122
+patients
+	C0030705|Patients|T101
+therapy
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+chemotherapy
+	C0013216|Pharmacotherapy|T061
+	C0013217|pharmacotherapeutic|T169
+	C0392920|Chemotherapy-Oncologic Procedure|T061
+time
+	C0040223|Time|T079
+tumor related symptoms
+	C0027651|Neoplasms|T191
+	C0683368|symptoms|T169
+	C0445223|Related (finding)|T033
+small randomized study
+	C0034656|Random Allocation|T062
+	C0557651|Room of building - Study|T073
+	C0700321|Small|T080
+	C0947630|Scientific Study|T059
+continuous mitoxantrone
+	C0026259|Mitoxantrone|T109
+	C0549178|Continuous (qualifier value)|T079
+response duration
+	C0237585|Response Duration|T079
+survival
+	C0038952|Continuance of life|T052
+	C0220921|survival aspects|T081
+two
+	C0205448|Two (qualifier value)|T081
+continuous treatment
+	C0087111|Therapeutic procedure|T061
+	C0039798|therapeutic aspects|T169
+	C0549178|Continuous (qualifier value)|T079
+quality
+	C0332306|With quality (attribute)|T080
+patients
+	C0030705|Patients|T101
+net clinical benefit
+	C0814225|benefits|T081
+	C0205210|Clinical (qualifier value)|T080
+	C0439739|Reticular (qualifier value)|T082
+objective
+	C0018017|Goals|T170
+Future studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+	C0016884|Future|T079
+focus
+	C0205234|Focal (qualifier value)|T082
+studies
+	C0557651|Room of building - Study|T073
+	C0947630|Scientific Study|T059
+patientswith cardiac risk factors
+	C0035648|Risk Factors|T081
+	C0205041|Cardio-|T082
+combination
+	C0205195|Combined (qualifier value)|T080

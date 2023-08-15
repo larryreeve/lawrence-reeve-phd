@@ -1,0 +1,103 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\UNK3\UNK3-Abstract-A.txt data\input\UNK3\UNK3-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...110937 ms
+
+Chaining summary file data\input\UNK3\UNK3-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  21984 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\UNK3\UNK3-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  261593 ms
+	Chain processing time: 16 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.27
+	Std Dev:      2.98
+	Strong Score: 7.22
+
+	T081-Quantitative Concept: 12.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    17.38
+	Std Dev:      72.47
+	Strong Score: 162.32
+
+	T061-Therapeutic or Preventive Procedure: 238.00
+	T081-Quantitative Concept: 464.00
+	T169-Functional Concept: 210.00
+Summary concept colonies (qualifier value):T081 has no match
+Summary concept normal size (finding):T081 has no match
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 3
+	Number of concepts in Summary: 7
+
+	Number of strong chains in Full-text with concepts from Summary: 3
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 5
+	  Precision: 0.71
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 9)
+-------------
+
+0) The number of progenitor cells was evaluated in the harvest and before and after leukapheresis in the peripheral blood.
+1) RESULTS, The number of harvested CD34+ cells (4.8 × 106 vs. 3.4 × 106/kg body weight, p<0.001) and colonyforming units–granulocyte-macrophage (3.1 × 105 vs. 2.4 × 105/kg body weight, p = 0.0026) was significantly higher for LVL procedures than for NVL procedures. 
+2) The median extraction efficacy, defined as the difference between the yield in the harvest and the decrease in thetotal number of CD34+ cells in peripheral blood during leukapheresis, was significantly (p<0.0001) higher for LVL than for NVL (2.6 × 108 and 8 × 107, respectively). 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,35 of 137)
+-------------
+
+0) The yield of CD34+ cells obtained by leukapheresis issignificantly influenced by the extent and duration ofprior chemotherapy, therapy with stem cell-toxic drugssuch as carmustine or melphalan, and extensive radiotherapy.
+1) In some uncontrolled studies, an influence of theleukapheresis size on the number of PBPCs in the harvestwas observed. 
+2) Large-volume leukapheresis (LVL) is definedeither by processing a minimum of 15 L of peripheralblood or by processing more than three times the totalperipheral blood volume. 
+3) It has been suggestedthat it might be possible to harvest sufficient numbersof PBPCs for transplantation by one LVL only. 
+4) In 50percent of previously treated patients it has been possibleto harvest more than 1.0 × 106 CD34+ cells per kg of BW ina single LVL procedure. 
+5) However, these favorable resultscould not be confirmed in all investigations. 
+6) After giving informed consent, patients in each patientgroup, that is, BC and NHL, were randomly allocated bysealed-envelope technique to undergo either LVL in which4.5 ± 15 percent of the total peripheral blood volume wasprocessed and an NVL in which 2.5 ± 15 percent of the totalperipheral blood volume was processed on the consecutiveday, or vice versa (an NVL followed by an LVL). 
+7) Inclusion criteria for patients with NHL were large-cell lymphomawith persistent disease after standard chemotherapyor at relapse or low-grade NHL stage III/IV andprogressive disease. 
+8) All patients with chemotherapy-sensitivedisease were eligible. 
+9) Exclusion criteriaExclusion criteria were refractoriness to platelet transfusion,disorders of blood coagulation, heparin-inducedthrombocytopenia, disease manifestation in the centralnervous system, fever >38.5°C within 48 hours beforeleukapheresis, dilatative cardiomyopathy, symptomatic ischemicheart disease, heart attack within 6 months beforeleukapheresis, chronic lung disease with hypoxemia, severedrug-resistant hypertension, severe nonadjustable diabetes,epileptic seizures, impairment of renal function withserum creatinine >2.0 mg per dL, elevation of liver enzymes>3 times the normal value and/or a bilirubin value >2.0 mgper dL, clinical symptoms of impaired cerebral blood circulation,severe psychiatric disease, and previous bonemarrow or PBPC transplantation.
+10) Patients and study populationDuring the study period, a total of 100 patients underwentPBPC mobilization and harvest. 
+11) After mobilization and progenitorcell harvest, two patients with NHL and two withBC were not eligible for HDCT and PBPC transplantationbecause of progressive disease. 
+12) In patients with partial remission or initial bonemarrow involvement, PBPCs werecollected again after further cycles ofchemotherapy. 
+13) Bags of PBPCs harvestedas late as possible during treatmentbut still containing a sufficientnumber of PBPCs were chosen fortransplant.
+14) Calculations were performed with asoftware program (Statistical Analysis System, version 6.12,SAS Institute, Cary, NC). 
+15) Results were considered to be significantlydifferent when the p value was below 0.05.
+16) RESULTSYield of CD34+ cells and extraction efficacyThe median number of CD34+ cells was significantly higherin LVL than in NVL (Table 3 and Fig. 2). 
+17) In all butthree of these patients, the NVL was scheduled on Day 2.
+18) As this value was greater than zero for both procedures, NVLas well as LVL seems to lead to a recruitment of PBPCs.
+19) But patients with BC hadsignificantly higher (p = 0.012 and p = 0.028, respectively)median numbers of CD34+ cells per µL in peripheral bloodbefore leukapheresis than patients with NHL had (LVL, 61vs. 24, NVL, 64 vs. 23). 
+20) Moreover, in patients with BC, themedian extraction efficacy was significantly higher(p<0.0001) for LVL than for NVL, whereas, in patients withNHL, there was no difference (p = 0.24) between the twoprocedures (see Table 3).
+21) In PBPCtransplantation, patients received a median of 2.7 × 106CD34+ cells per kg of BW (range, 1.0-7.8 × 106) and a medianof 2.0 × 105 CFU–GM per kg of BW after cryopreservation(range, 0.7-10.4 × 105). 
+22) A platelet count >20,000per µL without transfusion support was reached after amedian of 12 days (8-70) after transplant.
+23) Twenty-five transplantations were performed in 24 patientswith grafts from study leukapheresis proceduresalone. 
+24) In 23 transplantations, the graft of one leukapheresiscomponent was sufficient in PBPC content. 
+25) Seventeen patients,14 with BC and 3 with NHL, received a graft from anLVL. 
+26) Only 1 of these patients with BC needed a total harvest,the other 16 received only one-half of the leukapheresiscomponent. 
+27) In both LVL and NVL, the median extractionefficacy was greater than zero, which suggests thatadditional PBPCs must have been recruited into the peripheralblood during leukapheresis, as also reported by others.
+28) The number of “recruited” CD34+ cells per kg of BWis in the magnitude of 1 (NVL) to 3.5 (LVL) times that in atransplantation dose. 
+29) Our observation that the extractionefficacy of LVL differed in patients with BC and those withNHL may help to explain conflicting data in the literature.
+30) In children, the processing of more blood volumes does notnecessarily lead to increased recruitment of PBPCs. 
+31) The phenomenonof hematopoietic progenitor cell mobilization is poorlyunderstood. 
+32) Stem and progenitor cells are released from thebone marrow into the peripheral blood, where they can beharvested by leukapheresis. 
+33) At least from a kinetic point of view,a transient, rapid increase, such as that after physical exerciseor the administration of adrenocorticotropic hormone,endotoxin, dextran sulfate, or antibodies againstthe cell adhesion molecule VLA-4, can be distinguishedfrom a delayed, sustained increase that can be observed, forexample, after the administration of G–CSF.
+34) Preliminarydata (Humpe A, manuscript in preparation) suggest that thedecrease in CD34+ cell numbers in peripheral blood duringleukapheresis and the increase in the numbers in thecollection bag can be well described by a cell-kinetic modelconsisting of the three distributional compartments, bonemarrow, peripheral blood, and extracorporeal volume. 

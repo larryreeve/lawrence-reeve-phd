@@ -1,0 +1,134 @@
+
+
+Many steroid and peptide hormones, growth factors, and other trophic substances are involved in the 
+growth regulation of breast cancer. Deprivation or antagonism  of estradiol, a growth-stimulating
+hormone for estrogen-dependent breast cancers, is especially  important. After DeSombre et al.
+showed that a luteinizing hormone-releasing hormone  (LHRH) analogue could induce tumor regression
+in an experimental tumor model system, the results of  the first clinical study with an LHRH
+analogue were reported by Klijn and de Jong. The application of depot formulations (long-acting
+subcutaneous or intramuscular  implants) of various LHRH agonists caused long-term suppression of
+ovarian estrogen secretion  (14,16–18). A recent randomized study of 138 premenopausal patients with
+estrogen receptor-positive  and progesterone receptor-positive metastatic breast cancer showed that
+treatment with the LHRH  agonist goserelin resulted in failure-free survival and overall survival
+similar to those observed after ovariectomy.
+
+
+Tamoxifen is now the standard first-line therapy for postmenopausal metastatic breast cancer and is 
+also accepted as an alternative to ovariectomy in premenopausal patients. However, the group of 
+premenopausal women treated with tamoxifen had very high levels of plasma estradiol, sometimes for 
+many years, because of the tamoxifen-induced stimulation of pituitary–ovarian functions. 
+Furthermore, only  two relatively small studies have compared the effectiveness of surgical
+castration with that of  tamoxifen and showed no major differences in results. 
+
+
+To test the hypothesis further, we designed a three-arm study to assess the antitumor and endocrine 
+effects of long-term firstline combined endocrine treatment with buserelin (an LHRH agonist) and 
+tamoxifen compared with treatment with each drug alone. 
+
+
+The patients were premenopausal and had metastatic or locally advanced breast  cancer. Eligibility
+criteria also  included a positive estrogen receptor and/or progesterone receptor status (ù10
+fmol/mg of protein),  irrespective of the duration of the disease-free interval, or an unknown
+steroid receptor status  and a disease-free interval of at least 2 years or longer.
+
+
+The following patients were excluded from the study, those with tumors that were both estrogen 
+receptor negative and progesterone receptor negative, those with a poor performance status (World 
+Health Organization [WHO] status of >3), those with rapidly progressing life-threatening disease 
+(including extensive liver metastases, carcinomatous lymphangitic disease of the lungs, or
+centralnervous system metastases), those with increased concentrations of plasma bilirubin (>30
+mmol/L) or  creatinine (>150 mmol/L), those with other concurrent or past malignancies (with the
+exception of  adequately treated basal or squamous cell cancer of the skin and in situ carcinoma of
+the cervix),  and those who were pregnant. However, patients with previous adjuvant treatment with
+tamoxifen and/or chemotherapy were allowed if they had received no adjuvant  chemotherapy for at
+least 6 months, if they had received no treatment with tamoxifen for more than  1 year before entry,
+and if amenorrhea had not occurred. These treatments were 1)  buserelin implants (6.6 mg implanted
+subcutaneously every 8 weeks, during the first 12 weeks, every  6 weeks), 2) a daily dose of
+tamoxifen (40 mg administered orally), or 3) a combination of both  drugs at the same dosages. 
+
+
+Methods and Follow-up.At each visit, all complaints, vaginal bleeding, hot flashes,  and other side
+effects were recorded, in addition to medications taken and performance status. At  each visit, a
+physical examination, measurement of palpable lesions, and limited blood tests  (alkaline
+phosphatase and g-glutamyltransferase) were also carried out. Complete routine hematologyand blood
+chemistry were done every 16 weeks. Objective clinical assessment included specific  x-rays,
+computed tomography scans of liver lesions, and photographs of skin metastasis every 8–16  weeks, as
+appropriate, and bone scans every 6 months. 
+
+
+In our analysis of the three treatment arms, we compared two time-to-event end points, 
+progression-free survival and overall survival, as well as one ordered categorical end point, 
+objective response rate, which consisted of four categories (i.e., complete remission, partial 
+remission, no change, and progressive disease). In addition,stratified analyses were done for the
+time-to-event end points, based  on the Cox proportional hazards model (36) with the use of patient
+characteristics for which there appeared to be an imbalance as stratification factors (e.g., WHO
+performance status). 
+
+
+Furthermore, the effect of four prognostic factors—i.e., disease-free interval (<2 years or ù2 
+years), age (ø40 years or >40 years), dominant site of disease (soft tissue, bone, or visceral), 
+and adjuvant chemotherapy (yes or no)—on progression-free survival was studied and tested by the 
+log-rank test. In addition, the four categories were combined into two categories—i.e., responders 
+(containing the categories complete remission and partial remission) and nonresponders(containing
+the categories no change and progressive disease)—and a x2 test was done on this binary  variable
+(39). 
+
+
+The protocol violations  included incorrect receptor status (three patients), postmenopausal status
+(one patient),  neoadjuvant chemotherapy (one patient), brain metastasis (one patient), treatment
+refusal (one  patient), and early termination of tamoxifen after 3 days because of hot flashes (one
+patient).  A statistically significant difference was observed only for performance status, showing
+a slightly more favorable distribution in the group treated  with tamoxifen. 
+
+
+The overall log-rank test for overall survival showed that  these values were statistically
+significantly different (P 4 .01) (Fig. 2). 
+
+
+The interaction between treatment and disease-free interval, however, was not statistically
+significant for progression-free survival (P 4 .43) and overall survival (P 4 .93). 
+
+
+In the two groups of patients treated with buserelin alone or buserelin with tamoxifen, both the 
+median and the mean levels of plasma estradiol dropped to normal postmenopausal values within 6 
+weeks and remained suppressed throughout treatment in all patients (Table 4 and Fig. 4). 
+
+
+Our combined-treatment regimen of buserelin and tamoxifen completely suppressed the 
+tamoxifen-stimulated pituitary–ovarian axis and resulted in plasma estrogen levels that were 
+similar to those observed during treatment with buserelin alone. In our trial, progression-free 
+survival (P 4 .03) and overall survival (P 4 .01) in the group receiving combined treatment were 
+statistically significantly superior to those in the groups receiving single-drug treatment (Figs. 
+1 and 2). 
+
+
+However, patients with estrogen receptor-negative tumors or an unknown  estrogen receptor
+status,irrespective of the length of the disease-free interval, were also  included in this study,
+which “diluted” the patient population with patients who had  hormone-resistant breast cancer. 
+Furthermore, preliminaryresults of a recent meta-analysis of 506 patients treated in four randomized
+trials (including this  study) showed that, for all three efficacy parameters (i.e., response rate,
+progression-free survival, and overall survival), combined treatment with an LHRH agonist plus
+tamoxifen was  superior to treatment with an LHRH agonist alone. 
+
+
+Probably because we excluded steroid receptor-negative patients, visceral metastasis was not an 
+important prognostic factor for progression-free survival and overall survival, but a relative high 
+overall response rate of 39% for all treatment groups together was found (even about 60% during 
+combined treatment). The highly heterogeneous conditions of individual patients during the course of
+metastatic disease require various treatment approaches. Thus, the most striking observation in our
+study is the highly statistically significant  improvement in overall survival of patients receiving
+the combination treatment.
+
+
+The greater reduction in tumor load might have  increased the sensitivity of the tumor to other
+types of subsequent treatment because of the  general relationship between tumor load and resistance
+to treatment. Ablation of functioning ovaries and combination chemotherapy with  cyclophosphamide,
+methotrexate, and 5-fluorouracil (CMF) have similar effects on disease-free  survival and overall
+survival. This hypothesis is supported by the results of two randomized trials that show that 
+adjuvant endocrine therapy,consisting of surgical or medical castration and treatment with 
+tamoxifen, was statistically significantly superior to standard chemotherapy with FAC 
+(5-fluorouracil, doxorubicin [i.e.
+
+
+We suggest that future studies also add aromatase inhibitors to  the combined-treatment regimen,
+this treatment should further suppress plasma estradiol levels.

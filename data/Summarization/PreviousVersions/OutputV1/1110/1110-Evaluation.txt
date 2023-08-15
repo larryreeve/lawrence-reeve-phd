@@ -1,0 +1,98 @@
+
+C:\Data\BioChain>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChain\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  data\input\1110\1110-Abstract-A.txt data\input\1110\1110-Article-A.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...162187 ms
+
+Chaining summary file data\input\1110\1110-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  33859 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file data\input\1110\1110-Article-A.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  329922 ms
+	Chain processing time: 15 ms
+
+
+
+Summary:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    0.68
+	Std Dev:      2.09
+	Strong Score: 4.86
+
+	T081-Quantitative Concept: 10.00
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    22.40
+	Std Dev:      99.10
+	Strong Score: 220.60
+
+	T061-Therapeutic or Preventive Procedure: 228.00
+	T081-Quantitative Concept: 720.00
+	T169-Functional Concept: 253.00
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 3
+	Number of concepts in Summary: 6
+
+	Number of strong chains in Full-text with concepts from Summary: 3
+	  Recall: 1.00
+
+	Number of summary concepts having strong chains in full-text: 6
+	  Precision: 1.00
+
+
+Summary-Abstract:
+Summary (2 StdDev, Compression=0.25,3 of 10)
+-------------
+
+0) Between 1990 and 1997, 403 women with advanced cervical cancerconfined to the pelvis (stages IIB through IVA or stage IB or IIA with a tumor diameter of at least 5 cm or involvement of pelvic lymph nodes) were randomly assigned to receive either 45 Gy of radiation to the pelvis and para-aortic lymph nodes or 45 Gy of radiation to the pelvis alone plus two cycles of fluorouracil and cisplatin (days 1 through 5 and days 22 through 26 of radiation). 
+1) Patients were then to receive one or two applications of low-dose-rate intracavitary radiation, with a third cycle of chemotherapy planned for the second intracavitary procedure in the combined-therapy group.
+2) Estimated cumulative rates of survival at five years were 73 percent among patients treated with radiotherapy and chemotherapy and 58 percent among patients treated with radiotherapy alone (P=0.004). 
+
+
+Summary-Full-Text:
+Summary (2 StdDev, Compression=0.25,32 of 127)
+-------------
+
+0) Patients wererequired to understand the trial and provide written informedconsent.
+1) For patients who were assignedto receive radiotherapy and chemotherapy, the treatmentfield extended from the space between L4 and L5 to the midpubisor to a line 4 cm below the most distal vaginal or cervicalsite of disease. 
+2) The protocol specified that all patients receive a total cumulativedose to point A (a reference location 2 cm lateral and 2 cmsuperior to the cervical os) of at least 85 Gy. 
+3) The suggested maximaldoses to the bladder, the rectum, and the lateral surface ofthe vagina were 75, 70, and 130 Gy, respectively.
+4) To avoid treatment delays, intracavitaryinsertions were performed without chemotherapy if apatient had a granulocyte count of less than 1500 per cubic millimeterand a platelet count of less than 100,000 per cubic millimeter.
+5) Follow-upDuring treatment, patients were evaluated weekly by clinical assessments,a complete blood count with differential and plateletcounts, and a pelvic examination. 
+6) Variations were scored as minor, major but acceptable,or major and unacceptable, if they differed by more than 5, 10, or20 percent, respectively, from the specified dose of radiation orduration of treatment. 
+7) The Cox proportional-hazards model was used to estimatethe hazard ratios.
+8) The statistical significance of associationsbetween treatment assignments and characteristics of thepatients was assessed by chi-square analysis. 
+9) To detectsuch a difference, we predicted that we would need to enroll 400women in the study over a four-year period and then follow themfor an additional four years. 
+10) Interim analyses were scheduled to occur when 50 percent ofthe patients had been enrolled and when the enrollment goal wasmet. 
+11) For this early report, we updated the results usingall information received and entered at study headquarters by November11, 1998.
+12) Fifteen patients (4 percent) — six in the combined-therapy group and ninein the radiotherapy group — were subsequently disqualifiedbecause of failure to undergo the requiredevaluation of para-aortic lymph nodes (eight patients),the presence of extrapelvic cancer (two), thepresence of a rare histologic subtype (one), the presenceof a stage IB1 tumor with no involvement ofpelvic nodes (one), the absence of pretreatment data(two), and receipt of chemotherapy before radiotherapy(one). 
+13) There were no significant differencesin these characteristics between the groups.
+14) Of the 195 patients in the combination-therapygroup, 159 (81 percent) completed at least two cyclesof chemotherapy, and 133 (68 percent) completedthree cycles. 
+15) Chemotherapy was discontinuedbecause of toxic effects in 9 patients, refusal to continuein the case of 17 patients, diminished performancestatus in 4 patients, and other reasons in 4 patients.
+16) The late complications of treatment are summarizedin Table 4. 
+17) There were no significant differencesin the seriousness of late effects between the treatmentgroups.
+18) OutcomeThe median duration of follow-up was 43 months.
+19) Follow-up data were available for 193 of the 195 patientsin the combined-therapy group and for all 193patients in the radiotherapy group. 
+20) In addition,13 patients in the combined-therapy groupand 32 patients in the radiotherapy group were alive but had recurrent cervical cancer. 
+21) Kaplan–Meieranalysis revealed that overall survival rates were significantlybetter among patients treated with radiotherapyand chemotherapy than among those treatedwith radiotherapy alone (73 percent vs. 58 percent,P=0.004) (Table 5 and Fig. 1). 
+22) Disease-free survivalat five years was 67 percent in the combined-therapygroup and 40 percent in the radiotherapy group,according to Kaplan–Meier analysis (P<0.001) (Fig.
+23) For these patients, overall survival was significantlybetter if they were treated with radiotherapyand chemotherapy. 
+24) For patientswith stage III or IVA disease, the five-year diseasefreesurvival rates were 58 percent in the combinedtherapygroup and 38 percent in the radiotherapygroup (P=0.13).
+25) DISCUSSIONWe found that the combination of pelvic radiationand concomitant chemotherapy with cisplatin andfluorouracil was more effective for locally advancedcervical cancer than pelvic and para-aortic radiationalone. 
+26) Although chemotherapy increased thehematologic toxicity, this effect was reversible andthe incidence of late side effects was similar in thetwo treatment groups.
+27) We are not the first to investigate the role of concomitantchemotherapy in the treatment of locallyadvanced cervical cancer. 
+28) The Gynecologic OncologyGroup has also studied the effect of radiotherapyin combination with either hydroxyurea or placeboin women with stage IIIB or IVA disease.19 Althoughthe group reported significant improvements in overalland disease-free survival with the addition of hydroxyureatherapy, the study has been criticized forthe use of a low dose of radiation and the poor survivalrates in both groups and because more thanhalf of the 190 patients who were enrolled couldnot be evaluated. 
+29) Our treatment regimen differed from previousregimens in several ways. 
+30) Our protocol emphasizedthe importance of delivering a radiation dose of atleast 85 Gy to point A within eight weeks wheneverpossible. 
+31) The results ofthe Patterns of Care studies and large retrospectiveanalyses suggest that these features correlate withsurvival rates and rates of local control of cervicalcancer.24,25 We also used a somewhat more aggressiveregimen of chemotherapy than have other groups.

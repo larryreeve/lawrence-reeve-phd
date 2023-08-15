@@ -1,0 +1,166 @@
+
+C:\Data\BioChainV1>java -cp "C:\Data\umls\mmtx\nls\mmtx\lib\mmtxProject.jar;C:\Data\umls\mmtx\nls\mmtx;C:\Data\umls\mmtx\nls\mmtx\config;C:\Data\BioChainv1\project\dist\biochain-1.0.jar" -ms500m -mx900m edu.drexelist.biochain.LexChainMain  ..\biochain\data\inputv1\1001\1001-Abstract-A.txt ..\biochain\data\inputv1\1001\1001-Article_IntroductionMethodsResults.txt 
+Initializing MetaMap Transfer...
+MetaMap Transfer initialization completed...57562 ms
+
+Chaining summary file ..\biochain\data\inputv1\1001\1001-Abstract-A.txt...
+Summary chaining completed...
+	MMTx processing time:  19078 ms
+	Chain processing time: 0 ms
+
+Chaining full-text file ..\biochain\data\inputv1\1001\1001-Article_IntroductionMethodsResults.txt...
+
+
+Full-text chaining completed...
+	MMTx processing time:  175563 ms
+	Chain processing time: 0 ms
+
+
+
+Abstract:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    1.50
+	Std Dev:      3.75
+	Strong Score: 9.00
+
+
+	Chain T081-Quantitative Concept: score=12.00
+		Concept Third (qualifier value), count=1
+		Concept survival aspects, count=1
+		Concept milligram, count=1
+		Concept Aspects of mortality statistics, count=1
+		Concept Mortality Vital Statistics, count=1
+		Concept Count of entities (property) (qualifier value), count=1
+		Concept Disease-Free Survival, count=1
+
+	Chain T169-Functional Concept: score=10.00
+		Concept Balanced - adjective, count=1
+		Concept Therapeutic, count=1
+		Concept Increased (qualifier value), count=1
+		Concept Occult (qualifier value), count=1
+		Concept therapeutic aspects, count=1
+		Concept Result (navigational concept), count=1
+
+	Chain T170-Intellectual Product: score=15.00
+		Concept Aspects of mortality statistics, count=1
+		Concept Methodology, count=1
+		Concept Rank, count=3
+		Concept Overall [Publication Type], count=2
+		Concept Cox microbiology subtype, count=3
+
+
+Full-text:
+Strong chains: (2 StdDev)
+-------------
+	Avg score:    10.44
+	Std Dev:      39.64
+	Strong Score: 89.71
+
+
+	Chain T081-Quantitative Concept: score=210.00
+		Concept survival aspects, count=7
+		Concept Aspects of mortality statistics, count=2
+		Concept Toxicity aspects, count=3
+		Concept One (qualifier value), count=6
+		Concept Seventh (qualifier value), count=1
+		Concept Two (qualifier value), count=4
+		Concept Second (qualifier value), count=1
+		Concept Four (qualifier value), count=2
+		Concept Eq (qualifier value), count=1
+		Concept Median Statistical Measurement, count=1
+		Concept Nine (qualifier value), count=1
+		Concept Changed status, count=1
+		Concept Confidence Intervals, count=2
+		Concept Gross (qualifier value), count=1
+		Concept More (qualifier value), count=2
+		Concept First (qualifier value), count=2
+		Concept Retrospective Studies, count=1
+		Concept milligram, count=1
+		Concept Six (qualifier value), count=1
+		Concept Mortality Vital Statistics, count=2
+		Concept Survival Analysis, count=1
+		Concept Death Rate, count=1
+		Concept Five (qualifier value), count=1
+		Concept Selection Bias, count=1
+		Concept Third (qualifier value), count=1
+		Concept Number eleven, count=1
+		Concept Few (qualifier value), count=1
+		Concept Eight (qualifier value), count=1
+		Concept Count of entities (property) (qualifier value), count=1
+		Concept Death rate aspects, count=1
+		Concept benefits, count=4
+
+	Chain T169-Functional Concept: score=220.00
+		Concept Calculated (qualifier value), count=1
+		Concept etiology, count=1
+		Concept Metastatic to, count=1
+		Concept Changing, count=1
+		Concept Case (qualifier value), count=1
+		Concept System (attribute), count=1
+		Concept Surgical aspects, count=2
+		Concept control, count=2
+		Concept Occult (qualifier value), count=1
+		Concept Radiologic (qualifier value), count=1
+		Concept kinetic characteristics, count=1
+		Concept Causality, count=1
+		Concept With staging (attribute), count=1
+		Concept Diagnostic, count=1
+		Concept Abnormal (qualifier value), count=1
+		Concept Excision - action (qualifier value), count=3
+		Concept Adherent, count=1
+		Concept Causing (attribute), count=1
+		Concept therapeutic aspects, count=10
+		Concept Evaluation, count=2
+		Concept Present, count=1
+		Concept Follow-up status (finding), count=3
+
+Concepts in abstract:
+--------------------
+	milligram:T081
+	occult (qualifier value):T169
+	result (navigational concept):T169
+	mortality vital statistics:T081
+	survival aspects:T081
+	methodology:T170
+	third (qualifier value):T081
+	count of entities (property) (qualifier value):T081
+	therapeutic aspects:T169
+	therapeutic:T169
+	disease-free survival:T081
+	increased (qualifier value):T169
+	aspects of mortality statistics:T081
+	methods:T170
+	rank:T170
+	balanced - adjective:T169
+	overall [publication type]:T170
+	cox microbiology subtype:T170
+	aspects of mortality statistics:T170
+
+Concepts in abstract with no match in full-text strong chains:
+-------------------------------------------------------------
+	result (navigational concept):T169
+	methodology:T170
+	therapeutic:T169
+	disease-free survival:T081
+	increased (qualifier value):T169
+	methods:T170
+	rank:T170
+	balanced - adjective:T169
+	overall [publication type]:T170
+	cox microbiology subtype:T170
+	aspects of mortality statistics:T170
+
+
+Evaluation:
+-----------
+	Number of strong chains in Full-text: 2
+	Number of concepts in Abstract: 19
+
+	Number of strong chains in Full-text with concepts from Abstract: 2
+	  Recall: 1.00
+
+	Number of Abstract concepts having strong chains in full-text: 8
+	  Precision: 0.42
+
+

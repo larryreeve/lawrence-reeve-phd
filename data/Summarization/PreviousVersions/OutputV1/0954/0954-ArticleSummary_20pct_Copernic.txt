@@ -1,0 +1,33 @@
+TRIALS of postoperative radiotherapy for breast cancer conducted during the 1960s and 1970s showed significant reductions in rates of locoregional recurrence but no improvement in overall survival.
+
+Additional concern was raised by data suggesting that irradiated patients have reduced survival rates, due to either immune suppression or cardiac complications.
+
+In the late 1970s, adjuvant chemotherapy became a standard treatment for high-risk premenopausal patients with breast cancer.
+
+The use of adjuvant radiation subsequently declined, because it did not appear to prolong survival.
+
+Nevertheless, there are reasons to reconsider radiotherapy, including the limited value of adjuvant chemotherapy for bulky disease, a synergistic effect of chemotherapy plus radiation on residual locoregional tumor, and the possibility that eliminating bulky disease with radiation may improve the effect of chemotherapy, because chemotherapy may be more effective when the overall disease burden is low.
+
+The surgery was performed by specialists who referred all the patients to the British Columbia Cancer Agency, the provincial cancer institute, for registration, randomization, and the planning of the chemotherapy and radiation treatments.
+
+Statistical Analysis In the various analyses, we studied the following end points: any relapse of breast cancer (or death without a known relapse of breast cancer), for the analysis of disease-free survival; locoregional recurrence as a first event, before a systemic recurrence (in the ipsilateral chest wall or an axillary, internal mammary, or supraclavicular node), for the analysis of survival free of locoregional disease; any systemic relapse, with or without a locoregional relapse (or death without a known systemic relapse), for the analysis of survival free of systemic disease; death from breast cancer, for the analysis of breast-cancer--specific survival; and any death, for the analysis of overall survival.
+
+Significance levels, estimates of relative risk, and 95 percent confidence intervals were calculated with a proportional-hazards regression model.
+
+The analysis was done for the whole group of 318 patients and also for subgroups with involvement in either one to three axillary nodes or four or more nodes.
+
+Differences between these subgroups with respect to the relative risk associated with the radiation were studied by testing for significant interactions with the proportional-hazards regression model.
+
+Eleven patients (3.5 percent) were lost to follow-up --- three (1.9 percent) from the chemotherapy group and eight (4.9 percent) from the chemotherapy--radiotherapy group.
+
+RESULTS All Patients A total of 318 patients were randomized, and among the survivors the median follow-up was 150 months (150 months in the chemotherapy group and 150 in the chemotherapy--radiotherapy group).
+
+These values translate into an overall reduction of 33 percent in the rate of recurrence of breast cancer (relative risk, 0.67; 95 percent confidence interval, 0.50 to 0.90; P 0.007), with an improvement of 17 percentage points in disease-free survival at the 15-year followup (Fig. 1).
+
+Mortality from breast cancer was reduced by 29 percent in the chemotherapy--radiotherapy group (relative risk, 0.71; 95 percent confidence interval, 0.51 to 0.99; P 0.05), with 62 deaths, as compared with 76 in the chemotherapy-only group, which represented an improvement of 10 percentage points in breast-cancer--specific survival (Fig. 3).
+
+Subgroups Based on Nodal Involvement The reduction in the relative risk of a recurrence that was obtained by adding radiation to chemotherapy was similar in the subgroup with one to three positive nodes and the subgroup with four or more positive nodes (Table 3).
+
+The patients in that study were similar to those in our cohort; there was a large and homogeneous group of premenopausal, node-positive patients treated with chemotherapy and five-field radiotherapy.
+
+Because all our patients were uniformly treated with chest-wall and nodal radiation, our results may not apply to patients treated with breast irradiation alone after conservative surgery.

@@ -1,0 +1,82 @@
+
+
+RESULTS of several studies, including findings from two recent randomized trials have demonstrated
+that long-term survival of  early-stage breast cancer patients receiving conservative treatment was
+not significantly different than for those receiving  a mastectomy. There have been several studies
+over the years examining  breast cancer patients' psychological adjustment to medical treatment. 
+However, except for the study by Wolberg et al, the methods used in these comparative analyses were
+relatively weak. For example, several of the studies  reported using samples that were self-selected
+and small, the studies of Schain et al"2 and Steinberg et all's used retrospective self-report,
+without controlling for the time since treatment. Our research group, first at the National Cancer
+Institute (NCI) and  now at the University of Pittsburgh School of Medicine, has been following two
+samples of early-stage breast cancer patients,  a proportion of each having received breast-sparing
+procedures. At Pittsburgh, approximately 100 stage I and II patients,  recruited primarily from the
+practices of four university-based surgeons, have been enrolled in a prospective study,  examining
+behavioral and immunological predictors of time to recurrence of disease. These two prospective
+studies were not initiated in order to examine psychological sequelae of  breast-sparing surgery v
+mastectomy. 
+
+
+The relatively larger proportion of Pittsburgh  patients receiving breast conservation surgery may
+also reflect the fact that the NSABP Headquarters is in Pittsburgh, and  the popularity of
+excisional biopsy has been greatly influenced by the NSABP experience in that city. It is also
+probably safe to assume for this sample that there was a discussion of treatment options  with their
+surgeon, as well as a clinical rule-out for procedures that were deemed inappropriate for the
+individual case.  
+
+
+The assessment schedule for the two study sites was identical, and the test battery was similar for
+both the Pittsburgh and  NCI samples. As detailed in our earlier publications,"2 in addition to a
+structured interview being conducted approximately  five days postsurgery, all patients were
+assessed using the Profile of Mood States (POMS), 21 and were rated by independent  observers for
+their disability status using the Karnofsky rating scale. 
+
+
+Using repeated measures two-way analysis of covariance (ANCOVA) tests,26 we analyzed differences in
+psychological distress  and functional status, stratifying by type of surgery (excisional biopsy v
+mastectomy) and time of measurement (baseline v  3-month follow-up). However, we did make direct
+comparisons between the two samples at baseline,  using t tests to examine distress differences
+between identical baseline surgical treatments. For both samples, menopausal  status and
+chemotherapy and radiotherapy treatment were co-varied at follow-up. Specifically, for the
+Pittsburgh sample, in  addition to menopausal status, number of radiotherapy treatments (ranging
+from 0 to nth treatment at follow-up) and type ofchemotherapy categorized according to toxicity of
+side effects (0 = none, 1 = tamoxifen alone, 2 = multimodality  chemotherapy) were co-varied in all
+ANVOCA analyses. First, in order to control for potentially inflated F values for repeated 
+nivariate tests using the six subscales and total score of the POMS, we performed a multivariate
+analysis of covariance (MANCOVA) on this measure, testing for overall significant main effects and
+interactions using the POMS scale. Specifically, they reported higher symptoms of confusion (F =
+5.8, P < .02), more anger (F = 10.2, P < .003), and more depression (F = 9.2, P < .005) than the
+mastectomy  group, and had higher overall total distress scores (F = 5.5, P < .02). Thus, the
+differences in  distress scores at follow-up were not likely a function of number of radiotherapy
+treatments, toxicity of chemotherapy, or  physical disability status. In fact, there was a group  x
+time interaction on this latter variable, with biopsy patients reporting a significant decrease in
+emotional support from  people in general over the 3-month follow-up period compared with mastectomy
+patients (F = 5.4, P < .02). 
+
+
+Table 3 displays means, standard errors, and the main effect and interaction results for the repeat
+measures ANOVA for the NCI sample. When comparing surgery groups, trends occurred for fatigue  and
+depression, with mastectomy patients reporting more depression and fatigue overall than excisional
+biopsy patients.  
+
+
+(Means are slightly different from means shown in Tables 2 and 3 due to differential numbers of
+patients entering the repeated  measures ANOVAs and t test comparisons.) 
+
+
+First, in  the Pittsburgh sample, we do not know what proportion of early-stage breast cancer
+patients who received a mastectomy could  have chosen a lumpectomy if they had preferred the latter
+breast-sparing technique. 
+
+
+In the layperson's view,  lumpectomy may still be an experimental treatment, and the patient lives
+everyday with the subjective experience of possibly  still harboring malignancy in the spared
+breast. 
+
+
+Nevertheless, we may not be doing a good job translating journal reports for patient comprehension
+and consumption. Whatever the basis of the breastsparing choice ("narcissism," "escape,"
+"appropriate self-interest," and  so on), it may well be the case that the woman is not prepared for
+the scarring and the physical monitoring that follow. Given the results of the recent trials, she is
+not biologically better off, as there appears to be no biological  advantage favoring one surgery
+over another. 

@@ -1,0 +1,127 @@
+THE ROLE OF DOXORUBICIN (Adriamycin; Pharmacia & Upjohn, Inc, Kalamazoo, MI) for the treatment of women with metastatic breast cancer is clearly established.
+
+It is the most active single agent for this disease' and, when used in combination chemotherapy,has been shown to produce response rates that range from 55% to 82%.2 It has been suggested that continuous treatment for advanced breast cancer compared with intermittent treatment improves quality of life.
+
+Reported risk factors for the development of doxorubicin cardiotoxicity include prior radiation therapy to the heart, age.
+
+Therefore, many patients with metastatic breast cancer who might potentially benefit from treatment with doxorubicin have been categorized as being at high risk for developing cardiotoxicity and are excluded from treatment.
+
+In two retrospective analyses, the mortality rate of doxorubicin-induced cardiomyopathy ranged from 43% to 59%, when no prospective monitoring for cardiotoxicity was used.
+
+However, in a large retrospective analysis reported by Schwartz et al, who used serial resting radionuclide angiography with guidelines established for monitoring patients, the incidence, severity, and morbidity of clinical CHF were reduced in patients at high risk for cardiomyopathy.
+
+Other studies have shown that following doxorubicin administration, a decrease in resting left ventricular ejection fraction (LVEF), in either absolute value or magnitude, was the strongest predictor of clinical cardiotoxicity.
+
+Also, studies have shown that sequential radionuclide testing results in serial assessments of LVEF that are reproducible with a low intrinsic variability.
+
+DZR is a bis-dioxopiperazine compound that is hydrolyzed to form a chelating agent similar in structure to EDTA.
+
+DZR does not interfere with the antitumor effect of doxorubicin against the MX-I human breast tumor line at dose ratios up to 20:1.
+
+In a prospective randomized trial, DZR was shown to have a protective effect against doxorubicin-induced cardiotoxicity in women with metastatic carcinoma of the breast.
+
+Also, DZR did not alter the rate of response to doxorubicin or increase the toxicity of the regimen.
+
+Study Design Each patient was assigned to a treatment arm according to a prospectively prepared randomization list.
+
+In study 088001, patients were initially stratified (in February 1988) within each center as to the presence or absence of one or more cardiac risk factors.
+
+In November 1990, this committee recommended that the studies be amended because of an excess of cases of cardiotoxicity on the placebo (PLA) arm in both studies.
+
+Therefore, after January 14, 1991, patients who were randomized to either arm of the studies and had received a cumulative dose of at least 300 mg/m2 of doxorubicin subsequently received open-label DZR.
+
+Drug Treatment Chemotherapy consisted of 500 mg/m2 fluorouracil, 50 mg/m2 doxorubicin, and 500 mg/m2 cyclophosphamide, which were administered intravenously (IV) on the first day of each treatment course DZR or PLA, designated as the blinded study drug, was administered in a volume of 50 mL/m2 (10:1 ratio of study drug to doxorubicin) by slow IV push or rapid-drip IV infusion.
+
+In study 088001, the initial dose ratio of the blinded study drug (DZR or PLA) to doxorubicin was 20:1 (DZR 1,000 mg/m2).
+
+During the first 9 months of the study, six deaths occurred on the DZR arm of 088001; five deaths occurred on the DZR arm of a parallel study (088002, a small-cell lung cancer study using a 20:1 dose).
+
+Monitoring Patients received a baseline evaluation before the start of treatment, including a history and physical examination, tumor measurements, chest radiograph, complete blood cell (CBC) count, and serum chemistries.
+
+The 53 patients on the PLA arm who were still receiving treatment on January 14, 1991 and crossed over to open-label DZR were not censored after crossing over.
+
+Patients who discontinued treatment without experiencing any of the four cardiac events were censored at the cumulative dose received when they went off treatment.
+
+The time to disease progression and survival were plotted using Kaplan-Meier curves and compared using both the log-rank and the generalized Wilcoxon tests.
+
+The Cox proportional hazards model was used to estimate the HR both for time to progression and for survival, both before and after controlling for three prognostic factors.
+
+Time to progression was defined as the time from randomization to progression either on or off treatment.
+
+Patients were censored if they had no disease progression as of their last known follow-up visit or if they had died without disease progression.
+
+Survival was defined as the time from randomization to death, and patients who had not died were censored at their last known date alive.
+
+The PLA and DZR groups were compared by stratifying by study and using either the blocked Wilcoxon or Mantel-Haenszel test.
+
+RESULTS Between February 1988 and December 1992, a total of 682 patients from 53 institutions entered study 088001 and were randomized to receive FAC plus DZR or FAC plus PLA.
+
+They include patients randomized to the 20:1 dose ratio (study drug to doxorubicin) before the dose change.
+
+These patients received one or more cycles at the 20:1 dose ratio.
+
+Also included are the patients who received the 10:1 dose ratio (study drug to doxorubicin) randomized before the amendment on January 14, 1991, and those randomized after that date.
+
+The reasons for no treatment in the other eight patients are patient refusal in four, physician decision in one, pain that required radiation in one, study drug not available at site in one, and patient not eligible for study in one (protocol violation for entry criteria).
+
+Investigators were requested to indicate on the case report forms whether mediastinal irradiation had been administered.
+
+However, review of these forms indicated that the information largely consisted of patients who received either right and left chest-wall irradiation only and who therefore may not have actually received mediastinal irradiation.
+
+Cardioprotection Table 4 displays the number of patients who experienced a cardiac event, while Fig 1A and B shows Kaplan-Meier curves comparing the DZR and PLA patients with regard to cumulative doxorubicin dose to cardiac event.
+
+The difference between the results analyzed by the log-rank test and those analyzed by the generalized Wilcoxon test was due to the emphasis of the generalized Wilcoxon test on events that occur early in the study.
+
+Although there was little difference between the two groups at cumulative doses up to 400 to 500 mg/m2, there was a substantial difference between these two groups at cumulative doses above this level.
+
+Because of the small number of cases of CHF, both studies are considered together.
+
+Response rates were not significantly different in study 088006.
+
+A second review of all response rates was performed by using only strict written response criteria with the reviewers again blinded to the treatment arms.
+
+Noncardiac Toxicity Patients who received DZR and patients who received PLA in both studies were compared with regard to their highest toxicity grade experienced during courses before crossover to open-label DZR.
+
+Thirty-five of 534 patients (6.6%) on both studies were withdrawn because of noncardiac adverse experiences.
+
+DISCUSSION The results reported here from these two placebo-controlled prospective randomized studies confirm the cardioprotective effect of DZR in patients with advanced breast cancer treated with doxorubicin in combination with fluorouracil and cyclophosphamide.
+
+Because early analysis of these studies uncovered evidence of significant cardioprotection, in January 1991, patients on the PLA arm received open-label DZR starting with their seventh course or a cumulative dose of 300 mg/m 2 doxorubicin.
+
+Results of the analysis of patients who received DZR after 300 mg/m2 of doxorubicin show significant cardioprotection without impairment of antitumor efficacy compared with patients who never received DZR and are presented in another report.25 A previous large nonblinded, randomized clinical trial that compared FAC and DZR with FAC alone showed that DZR permitted breast cancer patients to receive significantly more cycles and higher cumulative doses of on the DZR arm, as measured by serial MUGA scans doxorubicin.
+
+Cardiotoxicity was significantly lower and endomyocardial biopsies.
+
+Cumulative doxorubicin doses - 1,000 mg/m2 were given to 14% of patients randomized to receive DZR, without cardiotoxicity.
+
+There were no differences in objective response rates or noncardiac toxicity between treatment arms.
+
+Progression-free survival and overall survival were not different, although this study was not designed to test antitumor efficacy.
+
+The current reported studies were designed to test the hypothesis that DZR reduces doxorubicin-associated cardiotoxicity.
+
+Cardioprotection evaluated prospectively by frequent MUGA scans was significantly related to the use of DZR in both studies.
+
+The majority of cardiac events were changes in LVEF and not CHF, although 4.5% of patients who entered studies 088001 and 088006 developed CHF secondary to doxorubicin treatment.
+
+However, 1% of the patients on the DZR arms developed CHF compared with 8% on the PLA arms.
+
+Even though the use of DZR reduces doxorubicin-associated toxicity, it should also be noted that 14% of patients in this report who received DZR did experience a cardiac event and were taken off the study.
+
+Because measurements of LVEF were used to define a cardiac event, the issue of compliance with obtaining MUGA scans was addressed.
+
+There is some evidence of interference with antitumor efficacy in patients who receive DZR, as measured by response rates in the larger study.
+
+The lower response rate in trial 088001 could not be explained by the administration of decreased chemotherapy doses or imbalances in patient characteristics.
+
+Also, in specifically evaluating responses in patients who had received previous chemotherapy or patients who had received previous hormonal therapy, the difference in response rates was of borderline significance.
+
+However, the lower response rate in the patients who received DZR did not translate into a significant decrease in time to progression or survival.
+
+Preclinical data do not show a reduced antitumor effect.
+
+In addition, the randomized study previously discussed and a study that used DZR with epirubicin did not show any interference with antitumor efficacy.
+
+Because a definite survival benefit is seen with anthracycline-containing adjuvant therapy in subsets of patients, extreme caution must be used before an agent that may decrease tumor responsiveness is included.
+
+Phase I studies of liposomal doxorubicin have shown a different toxicity profile, with hand-foot syndrome and stomatitis found to be the dose-limiting toxicities.

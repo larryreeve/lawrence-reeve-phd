@@ -1,0 +1,87 @@
+
+
+Several  studies have been able to demonstrate a good correlation between the number of CD34+ cells
+in the harvest and the number of  CFU–GM. 
+
+
+The yield of CD34+ cells obtained by leukapheresis is significantly influenced by the extent and
+duration of prior  chemotherapy, therapy with stem cell-toxic drugs such as carmustine or melphalan,
+and extensive radiotherapy. 
+
+
+We therefore performed a prospective, randomized, sequential crossover trial in patients with breast
+cancer (BC) or  non-Hodgkin’s lymphoma (NHL) to evaluate the effect of LVL compared with
+normal-volume leukapheresis (NVL) on the absolute  number of harvested CD34+ cells and on the
+extraction efficacy, defined as the difference between the yield in the harvest  and the decrease in
+the total number of CD34+ cells in peripheral blood during leukapheresis.
+
+
+Exclusion criteria Exclusion criteria were refractoriness to platelet  transfusion, disorders of
+blood coagulation, heparin-induced thrombocytopenia, disease manifestation in the central nervous
+system, fever >38.5°C within 48 hours before leukapheresis, dilatative cardiomyopathy, symptomatic
+ischemic heart  disease, heart attack within 6 months before leukapheresis, chronic lung disease
+with hypoxemia, severe drug-resistant  hypertension, severe nonadjustable diabetes, epileptic
+seizures, impairment of renal function with serum creatinine >2.0 mg  per dL, elevation of liver
+enzymes >3 times the normal value and/or a bilirubin value >2.0 mg per dL, clinical symptoms of 
+impaired cerebral blood circulation, severe psychiatric disease, and previous bone marrow or PBPC
+transplantation.
+
+
+Of these patients, 58 met the  inclusion criteria regarding diagnosis and mobilization regimen. One
+patient had no mobilizable PBPCs, 1 patient did  not meet the inclusion criteria, and 2 did not
+undergo a leukapheresis of appropriate size, because of technical errors (Fig.  1). Three patients
+with diffuse large-cell lymphoma and persistent disease after standard chemotherapy  and two with a
+chemotherapy-sensitive relapse were included. 
+
+
+On the second day after the end of chemotherapy, subcutaneous administration of G–CSF at a dose of 5
+to 10 µg per kg of BW  per day was started and continued until the last day of leukapheresis. 
+
+
+Laboratory methods.
+
+
+Patients with low-grade NHL underwent conditioning with  total body irradiation (12 Gy) and highdose
+cyclophosphamide (60 mg/kg BW). 
+
+
+Calculations were performed with a software  program (Statistical Analysis System, version 6.12, SAS
+Institute, Cary, NC). Results were considered to be significantlydifferent when the p value was
+below 0.05.
+
+
+With Day 1 and Day 2 leukapheresis procedures taken together, one transplantation dose and a back-up
+dose were collected in  all patients with BC, but in only 11 of the 15 patients with NHL (p = 0.026,
+chi-square test with Yates’s correction). Of the 6 patients being given grafts from an NVL, only 3 
+with BC had sufficient numbers of PBPCs in one-half of the collection, the others, 2 with BC and 1
+with NHL, received a total  harvest. 
+
+
+When all procedures were  considered, the median number of CD34+ cells and the median extraction
+efficacy were significantly higher in LVL than in NVL.  Our observation that the  extraction
+efficacy of LVL differed in patients with BC and those with NHL may help to explain conflicting data
+in the  literature. 
+
+
+Preliminary data (Humpe A, manuscript in preparation) suggest that the decrease in CD34+ cell
+numbers in peripheral blood during leukapheresis and the increase in the numbers in the collection
+bag can be well described by a cell-kinetic model consisting of the three distributional
+compartments, bone marrow, peripheral blood, and extracorporeal volume. With the help of such a
+model, a better prediction of the yield of CD34+ cells on the basis of values such as number of
+CD34+ cells, total peripheral blood volume, flow rate, and duration of leukapheresis may be possible
+in the future. 
+
+
+The difference in extraction efficacy between the BC and NHL patient groups could be an explanation
+for the different correlation coefficients between preapheresis numbers of CD34+ cells per µL in
+peripheral blood and the  CD34+ cell yield in the harvest. Nevertheless, some data showed that
+sufficient amounts of PBPCs for transplantation can be harvested by a single LVL in most pediatric
+patients after mobilization with G–CSF alone39 and in adult patients with NHL, Hodgkin’s disease, or
+acute lymphoblastic leukemia after mobilization with chemotherapy and G–CSF. With both leukapheresis
+procedures taken together, none of the patients with BC failed to achieve 2 × 106 CD34+ cells per kg
+of BW, but, in the NHL group, 26.7 percent of the patients still did not achieve a transplantation
+dose and a back-up dose. Recently published data18 showed that prior exposure to chemotherapy,
+especially to DexaBEAM, or prior radiotherapy has a significant influence on the yield of PBPCs. 
+Recent data15 suggest that hematopoietic toxicity, platelettransfusion support, and quality of life
+may be positively influenced by the return of more than 15 × 106 CD34+ cells per kg of BW after
+HDCT. 
