@@ -1,0 +1,1300 @@
+
+
+Processing 00000000.tx.1: Adjuvant Chemotherapy for Adult Soft Tissue Sarcomas of the Extremities and Girdles:
+
+Phrase: "Adjuvant Chemotherapy"
+Meta Candidates (5)
+  1000 Chemotherapy, Adjuvant [Therapeutic or Preventive Procedure]
+   861 Chemotherapy (Pharmacotherapy) [Therapeutic or Preventive Procedure]
+   861 chemotherapy (pharmacotherapeutic) [Functional Concept]
+   861 Chemotherapy (Chemotherapy-Oncologic Procedure) [Therapeutic or Preventive Procedure]
+   694 Adjuvant (Adjuvants, Immunologic) [Immunologic Factor,Pharmacologic Substance]
+Meta Mapping (1000)
+  1000 Chemotherapy, Adjuvant [Therapeutic or Preventive Procedure]
+
+Phrase: "for Adult Soft Tissue Sarcomas"
+Meta Candidates (8)
+   988 adult soft tissue sarcoma [Neoplastic Process]
+   923 Sarcomas, Soft Tissue (Sarcoma, Soft Tissue) [Neoplastic Process]
+   812 Sarcomas (Sarcoma) [Neoplastic Process]
+   694 Soft tissue NOS (Soft tissues (body structure)) [Tissue]
+   645 Adult [Age Group]
+   645 tissue (Tissues) [Tissue]
+   645 Soft (Soft (qualifier value)) [Qualitative Concept]
+   574 softness [Natural Phenomenon or Process]
+Meta Mapping (988)
+   988 adult soft tissue sarcoma [Neoplastic Process]
+
+Phrase: "of the Extremities"
+Meta Candidates (4)
+  1000 Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+   928 Acral (Acral (qualifier value)) [Spatial Concept]
+   916 Extreme (Extreme (qualifier value)) [Qualitative Concept]
+   888 Apical (Apical (qualifier value)) [Spatial Concept]
+Meta Mapping (1000)
+  1000 Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "Girdles"
+Meta Candidates (1)
+   966 Girdle (Girdle (physical object)) [Manufactured Object]
+Meta Mapping (966)
+   966 Girdle (Girdle (physical object)) [Manufactured Object]
+
+Phrase: ":"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.2: Results of the Italian Randomized Cooperative Trial.
+
+Phrase: "Results"
+Meta Candidates (1)
+   966 Result (Result (navigational concept)) [Functional Concept]
+Meta Mapping (966)
+   966 Result (Result (navigational concept)) [Functional Concept]
+
+Phrase: "of the Italian Randomized Cooperative Trial."
+Meta Candidates (6)
+   645 ITALIAN (Italian language (qualifier value)) [Language]
+   645 cooperative [Organization]
+   612 Italians (Italians (ethnic group)) [Population Group]
+   574 cooperativeness (Cooperative Behavior) [Social Behavior]
+   562 Randomization (Random Allocation) [Research Activity]
+   562 cooperation [Social Behavior]
+Meta Mapping (597)
+   645 ITALIAN (Italian language (qualifier value)) [Language]
+   645 cooperative [Organization]
+
+
+Processing 00000000.tx.1: Adjuvant chemotherapy for soft tissue sarcoma is controversial because previous trials reported conflicting results.
+
+Phrase: "Adjuvant chemotherapy"
+Meta Candidates (5)
+  1000 Chemotherapy, Adjuvant [Therapeutic or Preventive Procedure]
+   861 Chemotherapy (Pharmacotherapy) [Therapeutic or Preventive Procedure]
+   861 chemotherapy (pharmacotherapeutic) [Functional Concept]
+   861 Chemotherapy (Chemotherapy-Oncologic Procedure) [Therapeutic or Preventive Procedure]
+   694 Adjuvant (Adjuvants, Immunologic) [Immunologic Factor,Pharmacologic Substance]
+Meta Mapping (1000)
+  1000 Chemotherapy, Adjuvant [Therapeutic or Preventive Procedure]
+
+Phrase: "for soft tissue sarcoma"
+Meta Candidates (6)
+  1000 Sarcoma, Soft Tissue [Neoplastic Process]
+   827 Sarcoma [Neoplastic Process]
+   734 Soft tissue NOS (Soft tissues (body structure)) [Tissue]
+   660 tissue (Tissues) [Tissue]
+   660 Soft (Soft (qualifier value)) [Qualitative Concept]
+   589 softness [Natural Phenomenon or Process]
+Meta Mapping (1000)
+  1000 Sarcoma, Soft Tissue [Neoplastic Process]
+
+Phrase: "is"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "controversial"
+Meta Candidates (1)
+   928 controversy [Social Behavior]
+Meta Mapping (928)
+   928 controversy [Social Behavior]
+
+Phrase: "because"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "previous trials"
+Meta Candidates (1)
+   694 Previous (Previous (qualifier value)) [Spatial Concept]
+Meta Mapping (694)
+   694 Previous (Previous (qualifier value)) [Spatial Concept]
+
+Phrase: "reported"
+Meta Candidates (3)
+  1000 REPORTED (Reporting) [Health Care Activity]
+   966 report (Report (document)) [Intellectual Product]
+   916 Reporter (Reporter (occupation)) [Professional or Occupational Group]
+Meta Mapping (1000)
+  1000 REPORTED (Reporting) [Health Care Activity]
+
+Phrase: "conflicting results."
+Meta Candidates (2)
+   827 Result (Result (navigational concept)) [Functional Concept]
+   661 Conflict (Conflict (Psychology)) [Individual Behavior]
+Meta Mapping (855)
+   661 Conflict (Conflict (Psychology)) [Individual Behavior]
+   827 Result (Result (navigational concept)) [Functional Concept]
+
+
+Processing 00000000.tx.2: The present study was designed with restricted selection criteria and high dose-intensities of the two most active chemotherapeutic agents.
+
+Phrase: "The present study"
+Meta Candidates (6)
+   861 Study (Room of building - Study) [Manufactured Object]
+   861 STUDY (Scientific Study) [Laboratory Procedure]
+   694 Present [Functional Concept]
+   623 Presence (Providing presence (regime/therapy)) [Therapeutic or Preventive Procedure]
+   623 Presentation (Presentation (attribute)) [Idea or Concept]
+   623 PRESENTLY [Idea or Concept]
+Meta Mapping (888)
+   694 Present [Functional Concept]
+   861 Study (Room of building - Study) [Manufactured Object]
+Meta Mapping (888)
+   694 Present [Functional Concept]
+   861 STUDY (Scientific Study) [Laboratory Procedure]
+
+Phrase: "was"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "designed"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "with restricted selection criteria"
+Meta Candidates (4)
+   901 Selection Criteria [Qualitative Concept]
+   827 criteria [Intellectual Product]
+   660 selection (Selection (Genetics)) [Genetic Function]
+   660 Restricted (Restricted (qualifier value)) [Functional Concept]
+Meta Mapping (901)
+   660 Restricted (Restricted (qualifier value)) [Functional Concept]
+   901 Selection Criteria [Qualitative Concept]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "high dose-intensities"
+Meta Candidates (4)
+   734 High dose (High dose (qualifier value)) [Quantitative Concept]
+   660 High [Qualitative Concept]
+   660 High (Euphoric mood) [Mental Process]
+   589 dosage (Dosages (qualifier value)) [Quantitative Concept]
+Meta Mapping (734)
+   734 High dose (High dose (qualifier value)) [Quantitative Concept]
+
+Phrase: "of the two most active chemotherapeutic agents."
+Meta Candidates (13)
+   823 Chemotherapeutic agent (Chemotherapeutic agent (product)) [Pharmacologic Substance]
+   771 Agent (Agent (attribute)) [Chemical Viewed Functionally]
+   721 Agencies (Agencies (qualifier value)) [Organization]
+   637 Active [Functional Concept]
+   637 Most (Most (qualifier value)) [Quantitative Concept]
+   637 Two (Two (qualifier value)) [Quantitative Concept]
+   566 Chemotherapies (Pharmacotherapy) [Therapeutic or Preventive Procedure]
+   566 chemotherapy (pharmacotherapeutic) [Functional Concept]
+   566 ACTIVITY (Physical activity) [Daily or Recreational Activity]
+   566 Chemotherapies (Chemotherapy-Oncologic Procedure) [Therapeutic or Preventive Procedure]
+   566 Activities [Activity]
+   566 Activity (Endurance of activity) [Finding]
+   566 activate [Functional Concept]
+Meta Mapping (833)
+   637 Two (Two (qualifier value)) [Quantitative Concept]
+   637 Most (Most (qualifier value)) [Quantitative Concept]
+   637 Active [Functional Concept]
+   823 Chemotherapeutic agent (Chemotherapeutic agent (product)) [Pharmacologic Substance]
+
+
+Processing 00000000.tx.1: Patients and Methods:
+
+Phrase: "Patients"
+Meta Candidates (1)
+  1000 Patients [Patient or Disabled Group]
+Meta Mapping (1000)
+  1000 Patients [Patient or Disabled Group]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "Methods"
+Meta Candidates (4)
+  1000 Methods [Intellectual Product]
+  1000 methods (Methodology) [Intellectual Product]
+   916 Methodism (Methodist Church) [Idea or Concept]
+   893 Methodist (Methodists) [Population Group]
+Meta Mapping (1000)
+  1000 methods (Methodology) [Intellectual Product]
+Meta Mapping (1000)
+  1000 Methods [Intellectual Product]
+
+Phrase: ":"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.2: Patients between 18 and 65 years of age with grade 3 to 4 spindle-cell sarcomas (primary diameter >= 5 cm or any size recurrent tumor) in extremities or girdles were eligible.
+
+Phrase: "Patients"
+Meta Candidates (1)
+  1000 Patients [Patient or Disabled Group]
+Meta Mapping (1000)
+  1000 Patients [Patient or Disabled Group]
+
+Phrase: "between 18"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "65 years"
+Meta Candidates (1)
+  1000 years (year (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 years (year (qualifier value)) [Temporal Concept]
+
+Phrase: "of age"
+Meta Candidates (3)
+  1000 Age (Age (qualifier value)) [Temporal Concept]
+   928 Aged (Elderly) [Age Group]
+   928 Ageism [Individual Behavior,Social Behavior]
+Meta Mapping (1000)
+  1000 Age (Age (qualifier value)) [Temporal Concept]
+
+Phrase: "with grade 3"
+Meta Candidates (1)
+  1000 Grade [Classification]
+Meta Mapping (1000)
+  1000 Grade [Classification]
+
+Phrase: "to 4 spindle-cell sarcomas"
+Meta Candidates (7)
+  1000 Sarcomas, Spindle Cell (Sarcoma, Spindle Cell) [Neoplastic Process]
+   827 Sarcomas (Sarcoma) [Neoplastic Process]
+   734 spindle cell [Cell]
+   660 Cell (Cells) [Cell]
+   660 Spindle [Cell Component]
+   660 Cell (Entire cell) [Cell]
+   589 Cellular [Functional Concept]
+Meta Mapping (1000)
+  1000 Sarcomas, Spindle Cell (Sarcoma, Spindle Cell) [Neoplastic Process]
+
+Phrase: "(primary diameter >= 5 cm"
+Meta Candidates (5)
+   827 cm (cm (qualifier value)) [Quantitative Concept]
+   771 Curium [Element, Ion, or Isotope]
+   660 Primary [Qualitative Concept]
+   660 Diameter (Diameter (qualifier value)) [Organism Attribute,Spatial Concept]
+   660 Primary (Primary operation (qualifier value)) [Therapeutic or Preventive Procedure]
+Meta Mapping (851)
+   660 Primary [Qualitative Concept]
+   660 Diameter (Diameter (qualifier value)) [Organism Attribute,Spatial Concept]
+   827 cm (cm (qualifier value)) [Quantitative Concept]
+Meta Mapping (851)
+   660 Primary (Primary operation (qualifier value)) [Therapeutic or Preventive Procedure]
+   660 Diameter (Diameter (qualifier value)) [Organism Attribute,Spatial Concept]
+   827 cm (cm (qualifier value)) [Quantitative Concept]
+
+Phrase: "or"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "any size recurrent tumor"
+Meta Candidates (7)
+   901 Recurrent tumor (Recurrent tumor (finding)) [Neoplastic Process]
+   827 Tumor (Neoplasms) [Neoplastic Process]
+   660 Recurrent (Recurrent (qualifier value)) [Temporal Concept]
+   660 Size (Size (attribute)) [Quantitative Concept]
+   589 Recurrence [Phenomenon or Process]
+   589 Sizers [Medical Device]
+   589 recur [Temporal Concept]
+Meta Mapping (901)
+   660 Size (Size (attribute)) [Quantitative Concept]
+   901 Recurrent tumor (Recurrent tumor (finding)) [Neoplastic Process]
+
+Phrase: ")"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "in extremities"
+Meta Candidates (4)
+  1000 Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+   928 Acral (Acral (qualifier value)) [Spatial Concept]
+   916 Extreme (Extreme (qualifier value)) [Qualitative Concept]
+   888 Apical (Apical (qualifier value)) [Spatial Concept]
+Meta Mapping (1000)
+  1000 Extremities (Limb structure) [Body Part, Organ, or Organ Component]
+
+Phrase: "or"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "girdles"
+Meta Candidates (1)
+   966 Girdle (Girdle (physical object)) [Manufactured Object]
+Meta Mapping (966)
+   966 Girdle (Girdle (physical object)) [Manufactured Object]
+
+Phrase: "were"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "eligible."
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.3: Stratification was by primary versus recurrent tumors and by tumor diameter greater than or equal to 10 cm versus less than 10 cm. One hundred four patients were randomized, 51 to the control group and 53 to the treatment group (five cycles of 4'-epidoxorubicin 60 mg/m2 days 1 and 2 and ifosfamide 1.8 g/m2 days 1 through 5, with hydration, mesna, and granulocyte colony-stimulating factor).
+
+Phrase: "Stratification"
+Meta Candidates (1)
+   928 Stratified (Stratified (qualifier value)) [Qualitative Concept]
+Meta Mapping (928)
+   928 Stratified (Stratified (qualifier value)) [Qualitative Concept]
+
+Phrase: "was"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "by primary"
+Meta Candidates (2)
+  1000 Primary [Qualitative Concept]
+  1000 Primary (Primary operation (qualifier value)) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000)
+  1000 Primary [Qualitative Concept]
+Meta Mapping (1000)
+  1000 Primary (Primary operation (qualifier value)) [Therapeutic or Preventive Procedure]
+
+Phrase: "versus"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "recurrent tumors"
+Meta Candidates (5)
+   983 Recurrent tumor (Recurrent tumor (finding)) [Neoplastic Process]
+   861 Tumors (Neoplasms) [Neoplastic Process]
+   694 Recurrent (Recurrent (qualifier value)) [Temporal Concept]
+   623 Recurrence [Phenomenon or Process]
+   623 recur [Temporal Concept]
+Meta Mapping (983)
+   983 Recurrent tumor (Recurrent tumor (finding)) [Neoplastic Process]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "by tumor diameter greater"
+Meta Candidates (4)
+   827 Greater (Greater (qualifier value)) [Quantitative Concept]
+   793 Great (Large) [Qualitative Concept,Quantitative Concept]
+   660 Tumor (Neoplasms) [Neoplastic Process]
+   660 Diameter (Diameter (qualifier value)) [Organism Attribute,Spatial Concept]
+Meta Mapping (851)
+   660 Tumor (Neoplasms) [Neoplastic Process]
+   660 Diameter (Diameter (qualifier value)) [Organism Attribute,Spatial Concept]
+   827 Greater (Greater (qualifier value)) [Quantitative Concept]
+
+Phrase: "than"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "or"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "equal"
+Meta Candidates (3)
+  1000 Equal (Equal (qualifier value)) [Qualitative Concept]
+   900 equivalent (Eq (qualifier value)) [Quantitative Concept]
+   900 EQUATION [Organism Attribute]
+Meta Mapping (1000)
+  1000 Equal (Equal (qualifier value)) [Qualitative Concept]
+
+Phrase: "to 10 cm"
+Meta Candidates (2)
+  1000 cm (cm (qualifier value)) [Quantitative Concept]
+   944 Curium [Element, Ion, or Isotope]
+Meta Mapping (1000)
+  1000 cm (cm (qualifier value)) [Quantitative Concept]
+
+Phrase: "versus"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "less"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "than 10 cm."
+Meta Candidates (2)
+  1000 cm (cm (qualifier value)) [Quantitative Concept]
+   944 Curium [Element, Ion, or Isotope]
+Meta Mapping (1000)
+  1000 cm (cm (qualifier value)) [Quantitative Concept]
+
+Phrase: "One hundred four patients"
+Meta Candidates (3)
+   812 Patients [Patient or Disabled Group]
+   645 One (One (qualifier value)) [Quantitative Concept]
+   645 Four (Four (qualifier value)) [Quantitative Concept]
+Meta Mapping (791)
+   645 One (One (qualifier value)) [Quantitative Concept]
+   812 Patients [Patient or Disabled Group]
+
+Phrase: "were"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "randomized"
+Meta Candidates (1)
+   916 Randomization (Random Allocation) [Research Activity]
+Meta Mapping (916)
+   916 Randomization (Random Allocation) [Research Activity]
+
+Phrase: ","
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "51"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "to the control group"
+Meta Candidates (6)
+  1000 Control Group (Control Groups) [Group]
+   861 control [Functional Concept]
+   861 Group (Groups (qualifier value)) [Intellectual Product]
+   861 Group (Group (social concept)) [Group]
+   827 Grouped (Grouped (qualifier value)) [Spatial Concept]
+   827 Controlled (Controlled (qualifier value)) [Functional Concept]
+Meta Mapping (1000)
+  1000 Control Group (Control Groups) [Group]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "53"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "to the treatment group"
+Meta Candidates (7)
+   972 T-Group (Sensitivity Training Groups) [Educational Activity]
+   861 Group (Groups (qualifier value)) [Intellectual Product]
+   861 Group (Group (social concept)) [Group]
+   827 Grouped (Grouped (qualifier value)) [Spatial Concept]
+   694 treatment (therapeutic aspects) [Functional Concept]
+   694 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   623 Treats (Treats (attribute)) [Classification]
+Meta Mapping (972)
+   972 T-Group (Sensitivity Training Groups) [Educational Activity]
+
+Phrase: "(five"
+Meta Candidates (1)
+  1000 Five (Five (qualifier value)) [Quantitative Concept]
+Meta Mapping (1000)
+  1000 Five (Five (qualifier value)) [Quantitative Concept]
+
+Phrase: "cycles"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "of 4'-epidoxorubicin 60 mg"
+Meta Candidates (2)
+   748 Magnesium [Biologically Active Substance,Element, Ion, or Isotope]
+   748 milligram [Quantitative Concept]
+Meta Mapping (748)
+   748 Magnesium [Biologically Active Substance,Element, Ion, or Isotope]
+Meta Mapping (748)
+   748 milligram [Quantitative Concept]
+
+Phrase: "/m2 days 1"
+Meta Candidates (2)
+   861 Days (day (qualifier value)) [Temporal Concept]
+   789 DAS (amsonic acid) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (861)
+   861 Days (day (qualifier value)) [Temporal Concept]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "2"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "ifosfamide 1.8 g"
+Meta Candidates (10)
+   771 GS (APC Gene) [Gene or Genome]
+   748 Glucose [Biologically Active Substance,Carbohydrate]
+   748 Glycine [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   748 Guanidines [Organic Chemical]
+   748 Guanosine [Biologically Active Substance,Nucleic Acid, Nucleoside, or Nucleotide]
+   748 Guanidine (guanidinium) [Biologically Active Substance,Organic Chemical]
+   748 Gravities (Gravity) [Natural Phenomenon or Process]
+   748 gram [Quantitative Concept]
+   748 Glycine (Glycine (Plant)) [Plant]
+   637 Ifosfamide [Organophosphorus Compound,Pharmacologic Substance]
+Meta Mapping (747)
+   637 Ifosfamide [Organophosphorus Compound,Pharmacologic Substance]
+   771 GS (APC Gene) [Gene or Genome]
+
+Phrase: "/m2 days 1"
+Meta Candidates (2)
+   861 Days (day (qualifier value)) [Temporal Concept]
+   789 DAS (amsonic acid) [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (861)
+   861 Days (day (qualifier value)) [Temporal Concept]
+
+Phrase: "through 5,"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "with hydration,"
+Meta Candidates (2)
+  1000 hydration [Finding]
+   928 Hydrate [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (1000)
+  1000 hydration [Finding]
+
+Phrase: "mesna,"
+Meta Candidates (2)
+  1000 Mesna [Organic Chemical,Pharmacologic Substance]
+   966 Mesnum [Organic Chemical,Pharmacologic Substance]
+Meta Mapping (1000)
+  1000 Mesna [Organic Chemical,Pharmacologic Substance]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "granulocyte colony-stimulating factor"
+Meta Candidates (9)
+   937 Granulocyte Colony-Stimulating Factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   884 Colony Stimulating Factor (Colony-Stimulating Factors) [Amino Acid, Peptide, or Protein,Biologically Active Substance]
+   882 GCSF (Granulocyte Colony-Stimulating Factor) [Amino Acid, Peptide, or Protein,Immunologic Factor]
+   804 Granulocyte (Granulocytes) [Cell]
+   771 colonies (colonies (qualifier value)) [Quantitative Concept]
+   721 Stimulator (Stimulator, device (physical object)) [Medical Device]
+   721 Stimulant (Stimulant (substance)) [Pharmacologic Substance]
+   721 Stimulation (Stimulation - action (qualifier value)) [Therapeutic or Preventive Procedure]
+   721 Stimulation (Stimulation procedure (procedure)) [Therapeutic or Preventive Procedure]
+Meta Mapping (937)
+   937 Granulocyte Colony-Stimulating Factor [Amino Acid, Peptide, or Protein,Immunologic Factor]
+
+Phrase: ")."
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.1: Results:
+
+Phrase: "Results"
+Meta Candidates (1)
+   966 Result (Result (navigational concept)) [Functional Concept]
+Meta Mapping (966)
+   966 Result (Result (navigational concept)) [Functional Concept]
+
+Phrase: ":"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.2: After a median follow-up of 59 months, 60 patients had relapsed and 48 died (28 and 20 in the treatment arm and 32 and 28 in the control arm, respectively).
+
+Phrase: "After a median follow-up"
+Meta Candidates (9)
+   861 Follow-up (Follow-up status (finding)) [Functional Concept]
+   812 Up (Up (qualifier value)) [Spatial Concept]
+   812 Up (Upward (qualifier value)) [Spatial Concept]
+   805 FU (Fluorouracil) [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+   805 FUS (Feline urological syndrome (disorder)) [Disease or Syndrome]
+   779 Following (Following (attribute)) [Temporal Concept]
+   645 Median (Median (qualifier value)) [Spatial Concept]
+   645 median (Median Statistical Measurement) [Quantitative Concept]
+   590 MD (Medial Dorsal Nucleus) [Body Part, Organ, or Organ Component]
+Meta Mapping (824)
+   645 Median (Median (qualifier value)) [Spatial Concept]
+   861 Follow-up (Follow-up status (finding)) [Functional Concept]
+Meta Mapping (824)
+   645 median (Median Statistical Measurement) [Quantitative Concept]
+   861 Follow-up (Follow-up status (finding)) [Functional Concept]
+
+Phrase: "of 59 months,"
+Meta Candidates (1)
+  1000 months (month (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 months (month (qualifier value)) [Temporal Concept]
+
+Phrase: "60 patients"
+Meta Candidates (1)
+  1000 Patients [Patient or Disabled Group]
+Meta Mapping (1000)
+  1000 Patients [Patient or Disabled Group]
+
+Phrase: "had"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "relapsed"
+Meta Candidates (3)
+   966 Relapse [Phenomenon or Process]
+   966 Relapse (Relapsing course) [Temporal Concept]
+   966 Relapse (Relapse phase) [Temporal Concept]
+Meta Mapping (966)
+   966 Relapse [Phenomenon or Process]
+Meta Mapping (966)
+   966 Relapse (Relapse phase) [Temporal Concept]
+Meta Mapping (966)
+   966 Relapse (Relapsing course) [Temporal Concept]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "48"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "died"
+Meta Candidates (3)
+  1000 Died (Cessation of life) [Organism Function]
+   966 Dying (Dying process (observable entity)) [Organism Function]
+   928 Expired (Expiration, function (observable entity)) [Organism Function]
+Meta Mapping (1000)
+  1000 Died (Cessation of life) [Organism Function]
+
+Phrase: "(28"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "20"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "in the treatment arm"
+Meta Candidates (6)
+   861 Arm [Body Location or Region]
+   861 Arm (Upper arm) [Body Location or Region]
+   805 Brachial (Brachial (qualifier value)) [Spatial Concept]
+   694 treatment (therapeutic aspects) [Functional Concept]
+   694 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   623 Treats (Treats (attribute)) [Classification]
+Meta Mapping (888)
+   694 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   861 Arm [Body Location or Region]
+Meta Mapping (888)
+   694 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   861 Arm (Upper arm) [Body Location or Region]
+Meta Mapping (888)
+   694 treatment (therapeutic aspects) [Functional Concept]
+   861 Arm [Body Location or Region]
+Meta Mapping (888)
+   694 treatment (therapeutic aspects) [Functional Concept]
+   861 Arm (Upper arm) [Body Location or Region]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "32"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "28"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "in the control arm,"
+Meta Candidates (5)
+   861 Arm [Body Location or Region]
+   861 Arm (Upper arm) [Body Location or Region]
+   805 Brachial (Brachial (qualifier value)) [Spatial Concept]
+   694 control [Functional Concept]
+   661 Controlled (Controlled (qualifier value)) [Functional Concept]
+Meta Mapping (888)
+   694 control [Functional Concept]
+   861 Arm [Body Location or Region]
+Meta Mapping (888)
+   694 control [Functional Concept]
+   861 Arm (Upper arm) [Body Location or Region]
+
+Phrase: "respectively"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: ")."
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.3: The median disease-free survival (DFS) was 48 months in the treatment group and 16 months in the control group (P = .04);
+
+Phrase: "The median disease-free survival"
+Meta Candidates (9)
+   884 Disease-Free Survival [Quantitative Concept]
+   804 Disease [Disease or Syndrome]
+   804 Survival (Continuance of life) [Activity]
+   804 survival (survival aspects) [Quantitative Concept]
+   748 DIS (Diagnostic interview schedule (assessment scale)) [Intellectual Product]
+   733 Freedom [Idea or Concept]
+   637 Median (Median (qualifier value)) [Spatial Concept]
+   637 median (Median Statistical Measurement) [Quantitative Concept]
+   582 MD (Medial Dorsal Nucleus) [Body Part, Organ, or Organ Component]
+Meta Mapping (854)
+   637 Median (Median (qualifier value)) [Spatial Concept]
+   884 Disease-Free Survival [Quantitative Concept]
+Meta Mapping (854)
+   637 median (Median Statistical Measurement) [Quantitative Concept]
+   884 Disease-Free Survival [Quantitative Concept]
+
+Phrase: "(DFS"
+Meta Candidates (1)
+   928 Deferoxamine [Biologically Active Substance,Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+Meta Mapping (928)
+   928 Deferoxamine [Biologically Active Substance,Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+
+Phrase: ")"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "was"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "48 months"
+Meta Candidates (1)
+  1000 months (month (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 months (month (qualifier value)) [Temporal Concept]
+
+Phrase: "in the treatment group"
+Meta Candidates (7)
+   972 T-Group (Sensitivity Training Groups) [Educational Activity]
+   861 Group (Groups (qualifier value)) [Intellectual Product]
+   861 Group (Group (social concept)) [Group]
+   827 Grouped (Grouped (qualifier value)) [Spatial Concept]
+   694 treatment (therapeutic aspects) [Functional Concept]
+   694 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   623 Treats (Treats (attribute)) [Classification]
+Meta Mapping (972)
+   972 T-Group (Sensitivity Training Groups) [Educational Activity]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "16 months"
+Meta Candidates (1)
+  1000 months (month (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 months (month (qualifier value)) [Temporal Concept]
+
+Phrase: "in the control group"
+Meta Candidates (6)
+  1000 Control Group (Control Groups) [Group]
+   861 control [Functional Concept]
+   861 Group (Groups (qualifier value)) [Intellectual Product]
+   861 Group (Group (social concept)) [Group]
+   827 Grouped (Grouped (qualifier value)) [Spatial Concept]
+   827 Controlled (Controlled (qualifier value)) [Functional Concept]
+Meta Mapping (1000)
+  1000 Control Group (Control Groups) [Group]
+
+Phrase: "(P = .04"
+Meta Candidates (7)
+   771 Phosphate (inorganic phosphate) [Inorganic Chemical]
+   771 Phosphorus [Element, Ion, or Isotope]
+   771 Poise [Finding]
+   771 PHOSPHORUS (Phosphorus preparation) [Pharmacologic Substance]
+   755 Prescription (Prescriptions) [Health Care Activity]
+   755 Pseudomonas [Bacterium]
+   755 Psoriases (Psoriasis) [Disease or Syndrome]
+Meta Mapping (771)
+   771 Phosphorus [Element, Ion, or Isotope]
+Meta Mapping (771)
+   771 PHOSPHORUS (Phosphorus preparation) [Pharmacologic Substance]
+Meta Mapping (771)
+   771 Poise [Finding]
+Meta Mapping (771)
+   771 Phosphate (inorganic phosphate) [Inorganic Chemical]
+
+Phrase: ")"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: ";"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.4: and the median overall survival (OS) was 75 months for treated and 46 months for untreated patients (P = .03).
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "the median overall survival"
+Meta Candidates (6)
+   827 Survival (Continuance of life) [Activity]
+   827 survival (survival aspects) [Quantitative Concept]
+   660 Overall (Overall [Publication Type]) [Intellectual Product]
+   660 Median (Median (qualifier value)) [Spatial Concept]
+   660 median (Median Statistical Measurement) [Quantitative Concept]
+   604 MD (Medial Dorsal Nucleus) [Body Part, Organ, or Organ Component]
+Meta Mapping (851)
+   660 Median (Median (qualifier value)) [Spatial Concept]
+   660 Overall (Overall [Publication Type]) [Intellectual Product]
+   827 Survival (Continuance of life) [Activity]
+Meta Mapping (851)
+   660 Median (Median (qualifier value)) [Spatial Concept]
+   660 Overall (Overall [Publication Type]) [Intellectual Product]
+   827 survival (survival aspects) [Quantitative Concept]
+Meta Mapping (851)
+   660 median (Median Statistical Measurement) [Quantitative Concept]
+   660 Overall (Overall [Publication Type]) [Intellectual Product]
+   827 Survival (Continuance of life) [Activity]
+Meta Mapping (851)
+   660 median (Median Statistical Measurement) [Quantitative Concept]
+   660 Overall (Overall [Publication Type]) [Intellectual Product]
+   827 survival (survival aspects) [Quantitative Concept]
+
+Phrase: "(OS"
+Meta Candidates (6)
+  1000 Os (Skeletal bone) [Fully Formed Anatomical Structure]
+   928 Oxygen [Element, Ion, or Isotope]
+   928 Opening (Open) [Spatial Concept]
+   928 Oxygen (Oxygen Therapy Care) [Therapeutic or Preventive Procedure]
+   928 pint [Quantitative Concept]
+   928 Oxygen (Oxygenium, Homeopathic preparation) [Inorganic Chemical]
+Meta Mapping (1000)
+  1000 Os (Skeletal bone) [Fully Formed Anatomical Structure]
+
+Phrase: ")"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "was"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "75 months"
+Meta Candidates (1)
+  1000 months (month (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 months (month (qualifier value)) [Temporal Concept]
+
+Phrase: "for treated"
+Meta Candidates (3)
+   966 Treats (Treats (attribute)) [Classification]
+   916 treatment (therapeutic aspects) [Functional Concept]
+   916 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (966)
+   966 Treats (Treats (attribute)) [Classification]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "46 months"
+Meta Candidates (1)
+  1000 months (month (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 months (month (qualifier value)) [Temporal Concept]
+
+Phrase: "for untreated patients"
+Meta Candidates (1)
+   861 Patients [Patient or Disabled Group]
+Meta Mapping (861)
+   861 Patients [Patient or Disabled Group]
+
+Phrase: "(P = .03"
+Meta Candidates (7)
+   771 Phosphate (inorganic phosphate) [Inorganic Chemical]
+   771 Phosphorus [Element, Ion, or Isotope]
+   771 Poise [Finding]
+   771 PHOSPHORUS (Phosphorus preparation) [Pharmacologic Substance]
+   755 Prescription (Prescriptions) [Health Care Activity]
+   755 Pseudomonas [Bacterium]
+   755 Psoriases (Psoriasis) [Disease or Syndrome]
+Meta Mapping (771)
+   771 Phosphorus [Element, Ion, or Isotope]
+Meta Mapping (771)
+   771 PHOSPHORUS (Phosphorus preparation) [Pharmacologic Substance]
+Meta Mapping (771)
+   771 Poise [Finding]
+Meta Mapping (771)
+   771 Phosphate (inorganic phosphate) [Inorganic Chemical]
+
+Phrase: ")."
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.5: For OS, the absolute benefit deriving from chemotherapy was 13% at 2 years and increased to 19% at 4 years (P = .04).
+
+Phrase: "For OS,"
+Meta Candidates (6)
+  1000 Os (Skeletal bone) [Fully Formed Anatomical Structure]
+   928 Oxygen [Element, Ion, or Isotope]
+   928 Opening (Open) [Spatial Concept]
+   928 Oxygen (Oxygen Therapy Care) [Therapeutic or Preventive Procedure]
+   928 pint [Quantitative Concept]
+   928 Oxygen (Oxygenium, Homeopathic preparation) [Inorganic Chemical]
+Meta Mapping (1000)
+  1000 Os (Skeletal bone) [Fully Formed Anatomical Structure]
+
+Phrase: "the absolute benefit"
+Meta Candidates (2)
+   827 benefits [Quantitative Concept]
+   694 Absolute (Absolute (qualifier value)) [Qualitative Concept]
+Meta Mapping (872)
+   694 Absolute (Absolute (qualifier value)) [Qualitative Concept]
+   827 benefits [Quantitative Concept]
+
+Phrase: "deriving"
+Meta Candidates (2)
+   916 derivatives [Chemical Viewed Structurally]
+   916 DERIVATION [Idea or Concept]
+Meta Mapping (916)
+   916 DERIVATION [Idea or Concept]
+Meta Mapping (916)
+   916 derivatives [Chemical Viewed Structurally]
+
+Phrase: "from chemotherapy"
+Meta Candidates (3)
+  1000 Chemotherapy (Pharmacotherapy) [Therapeutic or Preventive Procedure]
+  1000 chemotherapy (pharmacotherapeutic) [Functional Concept]
+  1000 Chemotherapy (Chemotherapy-Oncologic Procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000)
+  1000 Chemotherapy (Chemotherapy-Oncologic Procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000)
+  1000 Chemotherapy (Pharmacotherapy) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000)
+  1000 chemotherapy (pharmacotherapeutic) [Functional Concept]
+
+Phrase: "was"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "13%"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "at 2 years"
+Meta Candidates (1)
+  1000 years (year (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 years (year (qualifier value)) [Temporal Concept]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "increased"
+Meta Candidates (5)
+  1000 Increased (Increased (qualifier value)) [Functional Concept]
+   966 Increase (Increase (qualifier value)) [Functional Concept]
+   907 Acquired (Acquired (qualifier value)) [Temporal Concept]
+   907 Obtained (Obtained (attribute)) [Functional Concept]
+   893 Increasing (Increasing (qualifier value)) [Functional Concept]
+Meta Mapping (1000)
+  1000 Increased (Increased (qualifier value)) [Functional Concept]
+
+Phrase: "to 19%"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "at 4 years"
+Meta Candidates (1)
+  1000 years (year (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 years (year (qualifier value)) [Temporal Concept]
+
+Phrase: "(P = .04"
+Meta Candidates (7)
+   771 Phosphate (inorganic phosphate) [Inorganic Chemical]
+   771 Phosphorus [Element, Ion, or Isotope]
+   771 Poise [Finding]
+   771 PHOSPHORUS (Phosphorus preparation) [Pharmacologic Substance]
+   755 Prescription (Prescriptions) [Health Care Activity]
+   755 Pseudomonas [Bacterium]
+   755 Psoriases (Psoriasis) [Disease or Syndrome]
+Meta Mapping (771)
+   771 Phosphorus [Element, Ion, or Isotope]
+Meta Mapping (771)
+   771 PHOSPHORUS (Phosphorus preparation) [Pharmacologic Substance]
+Meta Mapping (771)
+   771 Poise [Finding]
+Meta Mapping (771)
+   771 Phosphate (inorganic phosphate) [Inorganic Chemical]
+
+Phrase: ")."
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.1: Conclusion:
+
+Phrase: "Conclusion"
+Meta Candidates (1)
+   928 Conclude [Biomedical or Dental Material,Organic Chemical]
+Meta Mapping (928)
+   928 Conclude [Biomedical or Dental Material,Organic Chemical]
+
+Phrase: ":"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+
+Processing 00000000.tx.2: Intensified adjuvant chemotherapy had a positive impact on the DFS and OS of patients with highrisk extremity soft tissue sarcomas at a median follow-up of 59 months.
+
+Phrase: "Intensified adjuvant chemotherapy"
+Meta Candidates (5)
+   901 Chemotherapy, Adjuvant [Therapeutic or Preventive Procedure]
+   827 Chemotherapy (Pharmacotherapy) [Therapeutic or Preventive Procedure]
+   827 chemotherapy (pharmacotherapeutic) [Functional Concept]
+   827 Chemotherapy (Chemotherapy-Oncologic Procedure) [Therapeutic or Preventive Procedure]
+   660 Adjuvant (Adjuvants, Immunologic) [Immunologic Factor,Pharmacologic Substance]
+Meta Mapping (901)
+   901 Chemotherapy, Adjuvant [Therapeutic or Preventive Procedure]
+
+Phrase: "had"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "a positive impact"
+Meta Candidates (4)
+   861 Impact [Food]
+   789 Impacted (Impacted (qualifier value)) [Functional Concept]
+   789 IMPACTOR [Medical Device]
+   694 Positive (Positive (qualifier value)) [Qualitative Concept]
+Meta Mapping (888)
+   694 Positive (Positive (qualifier value)) [Qualitative Concept]
+   861 Impact [Food]
+
+Phrase: "on the DFS"
+Meta Candidates (1)
+   928 Deferoxamine [Biologically Active Substance,Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+Meta Mapping (928)
+   928 Deferoxamine [Biologically Active Substance,Indicator, Reagent, or Diagnostic Aid,Organic Chemical]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "OS"
+Meta Candidates (6)
+  1000 Os (Skeletal bone) [Fully Formed Anatomical Structure]
+   928 Oxygen [Element, Ion, or Isotope]
+   928 Opening (Open) [Spatial Concept]
+   928 Oxygen (Oxygen Therapy Care) [Therapeutic or Preventive Procedure]
+   928 pint [Quantitative Concept]
+   928 Oxygen (Oxygenium, Homeopathic preparation) [Inorganic Chemical]
+Meta Mapping (1000)
+  1000 Os (Skeletal bone) [Fully Formed Anatomical Structure]
+
+Phrase: "of patients"
+Meta Candidates (1)
+  1000 Patients [Patient or Disabled Group]
+Meta Mapping (1000)
+  1000 Patients [Patient or Disabled Group]
+
+Phrase: "with highrisk extremity soft tissue sarcomas"
+Meta Candidates (10)
+   884 Sarcomas, Soft Tissue (Sarcoma, Soft Tissue) [Neoplastic Process]
+   804 Sarcomas (Sarcoma) [Neoplastic Process]
+   673 Soft tissue NOS (Soft tissues (body structure)) [Tissue]
+   637 Extremity (Limb structure) [Body Part, Organ, or Organ Component]
+   637 tissue (Tissues) [Tissue]
+   637 Soft (Soft (qualifier value)) [Qualitative Concept]
+   582 Acral (Acral (qualifier value)) [Spatial Concept]
+   566 Extreme (Extreme (qualifier value)) [Qualitative Concept]
+   566 softness [Natural Phenomenon or Process]
+   531 Apical (Apical (qualifier value)) [Spatial Concept]
+Meta Mapping (854)
+   637 Extremity (Limb structure) [Body Part, Organ, or Organ Component]
+   884 Sarcomas, Soft Tissue (Sarcoma, Soft Tissue) [Neoplastic Process]
+
+Phrase: "at a median follow-up"
+Meta Candidates (9)
+   861 Follow-up (Follow-up status (finding)) [Functional Concept]
+   812 Up (Up (qualifier value)) [Spatial Concept]
+   812 Up (Upward (qualifier value)) [Spatial Concept]
+   805 FU (Fluorouracil) [Nucleic Acid, Nucleoside, or Nucleotide,Pharmacologic Substance]
+   805 FUS (Feline urological syndrome (disorder)) [Disease or Syndrome]
+   779 Following (Following (attribute)) [Temporal Concept]
+   645 Median (Median (qualifier value)) [Spatial Concept]
+   645 median (Median Statistical Measurement) [Quantitative Concept]
+   590 MD (Medial Dorsal Nucleus) [Body Part, Organ, or Organ Component]
+Meta Mapping (824)
+   645 Median (Median (qualifier value)) [Spatial Concept]
+   861 Follow-up (Follow-up status (finding)) [Functional Concept]
+Meta Mapping (824)
+   645 median (Median Statistical Measurement) [Quantitative Concept]
+   861 Follow-up (Follow-up status (finding)) [Functional Concept]
+
+Phrase: "of 59 months."
+Meta Candidates (1)
+  1000 months (month (qualifier value)) [Temporal Concept]
+Meta Mapping (1000)
+  1000 months (month (qualifier value)) [Temporal Concept]
+
+
+Processing 00000000.tx.3: Therefore, our data favor an intensified treatment in similar cases.
+
+Phrase: "Therefore,"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "our data"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "favor"
+Meta Candidates (1)
+  1000 FAVOR (FAVOR (product)) [Pharmacologic Substance,Vitamin]
+Meta Mapping (1000)
+  1000 FAVOR (FAVOR (product)) [Pharmacologic Substance,Vitamin]
+
+Phrase: "an intensified treatment"
+Meta Candidates (3)
+   861 treatment (therapeutic aspects) [Functional Concept]
+   861 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   789 Treats (Treats (attribute)) [Classification]
+Meta Mapping (861)
+   861 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (861)
+   861 treatment (therapeutic aspects) [Functional Concept]
+
+Phrase: "in similar cases."
+Meta Candidates (2)
+   861 Cases (Case (qualifier value)) [Functional Concept]
+   623 Simile [Intellectual Product]
+Meta Mapping (853)
+   623 Simile [Intellectual Product]
+   861 Cases (Case (qualifier value)) [Functional Concept]
+
+
+Processing 00000000.tx.4: Although cure is still difficult to achieve, a significant delay in death is worthwhile, also considering the short duration of treatment and the absence of toxic deaths.
+
+Phrase: "Although"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "cure"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "is"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "still difficult to"
+Meta Candidates (2)
+   827 Difficult (Difficult (qualifier value)) [Qualitative Concept]
+   589 Stillness (Stillness (finding)) [Finding]
+Meta Mapping (754)
+   589 Stillness (Stillness (finding)) [Finding]
+   827 Difficult (Difficult (qualifier value)) [Qualitative Concept]
+
+Phrase: "achieve"
+Meta Candidates (1)
+   928 Achievement [Individual Behavior]
+Meta Mapping (928)
+   928 Achievement [Individual Behavior]
+
+Phrase: ","
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "a significant delay"
+Meta Candidates (2)
+   827 Delayed (Deferred (qualifier value)) [Temporal Concept]
+   694 Significant (Significant (qualifier value)) [Idea or Concept]
+Meta Mapping (872)
+   694 Significant (Significant (qualifier value)) [Idea or Concept]
+   827 Delayed (Deferred (qualifier value)) [Temporal Concept]
+
+Phrase: "in death"
+Meta Candidates (3)
+  1000 Death (Cessation of life) [Organism Function]
+   928 Dying (Dying process (observable entity)) [Organism Function]
+   907 Expired (Expiration, function (observable entity)) [Organism Function]
+Meta Mapping (1000)
+  1000 Death (Cessation of life) [Organism Function]
+
+Phrase: "is"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "worthwhile,"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "also"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "considering"
+Meta Candidates (2)
+   966 CONSIDER [Idea or Concept]
+   916 CONSIDERATION [Finding]
+Meta Mapping (966)
+   966 CONSIDER [Idea or Concept]
+
+Phrase: "the short duration"
+Meta Candidates (4)
+  1000 Short duration (Short duration (qualifier value)) [Qualitative Concept]
+   861 Duration [Temporal Concept]
+   694 Short (Short (qualifier value)) [Temporal Concept]
+   661 Shorts (Shorts (physical object)) [Manufactured Object]
+Meta Mapping (1000)
+  1000 Short duration (Short duration (qualifier value)) [Qualitative Concept]
+
+Phrase: "of treatment"
+Meta Candidates (3)
+  1000 treatment (therapeutic aspects) [Functional Concept]
+  1000 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+   928 Treats (Treats (attribute)) [Classification]
+Meta Mapping (1000)
+  1000 Treatment (Therapeutic procedure) [Therapeutic or Preventive Procedure]
+Meta Mapping (1000)
+  1000 treatment (therapeutic aspects) [Functional Concept]
+
+Phrase: "and"
+Meta Candidates (0): <none>
+Meta Mappings: <none>
+
+Phrase: "the absence"
+Meta Candidates (2)
+   966 Absences (Absences (finding)) [Finding]
+   928 Absent (Absent (qualifier value)) [Quantitative Concept]
+Meta Mapping (966)
+   966 Absences (Absences (finding)) [Finding]
+
+Phrase: "of toxic deaths."
+Meta Candidates (10)
+   861 DEATHS (Cessation of life) [Organism Function]
+   777 Dying (Dying process (observable entity)) [Organism Function]
+   761 Expired (Expiration, function (observable entity)) [Organism Function]
+   694 toxic (Toxic effect) [Injury or Poisoning]
+   638 Poisoning [Injury or Poisoning]
+   638 poisoning (Poisoning aspects) [Functional Concept]
+   638 Poison (Poisons) [Hazardous or Poisonous Substance]
+   623 toxicity (Toxicity aspects) [Quantitative Concept]
+   623 Toxin [Biologically Active Substance,Hazardous or Poisonous Substance]
+   623 toxicant [Hazardous or Poisonous Substance]
+Meta Mapping (888)
+   694 toxic (Toxic effect) [Injury or Poisoning]
+   861 DEATHS (Cessation of life) [Organism Function]
