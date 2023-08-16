@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileBar", "TileBar.csproj", "{ACFAB47F-C59C-4F9C-93CA-DE63996768C3}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{ACFAB47F-C59C-4F9C-93CA-DE63996768C3}.Debug.ActiveCfg = Debug|.NET
+		{ACFAB47F-C59C-4F9C-93CA-DE63996768C3}.Debug.Build.0 = Debug|.NET
+		{ACFAB47F-C59C-4F9C-93CA-DE63996768C3}.Release.ActiveCfg = Release|.NET
+		{ACFAB47F-C59C-4F9C-93CA-DE63996768C3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
